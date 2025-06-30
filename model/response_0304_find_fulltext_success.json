@@ -1,0 +1,46 @@
+{
+  "response_id": 304,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:57:08.173482",
+  "metadata": {
+    "url": "https://openscholar.dut.ac.za/handle/10321/5918",
+    "final_url": "https://openscholar.dut.ac.za/items/e803fe1d-82a6-488a-9c71-1fc5fedb28c2",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Educating for peace : an alternative to violence at a Cape Flats school, South Africa\",\n    \"authors\": [\n      \"Matthee, Tahirih\"\n    ],\n    \"doi\": null,\n    \"journal\": null,\n    \"year\": \"2024\",\n    \"abstract\": \"Peace education is considered an important peacebuilding strategy in addressing school \\nviolence to create a culture of peace, but it has often been ignored. Violence at many South \\nAfrican schools is associated with an array of social ills as a direct consequence of the \\nApartheid era which created one of the most unequal societies in the world, manifesting \\nchronic poverty, the disintegration of family- and gender-based violence, authoritarian \\nattitudes and gangsterism. The main purpose of the study was to investigate school violence \\nreduction strategies and to design and implement a peacebuilding strategy towards creating \\na peaceable school. The general approach of the Department of Basic Education to reduce \\nschool violence has been to focus on policies as contained in the National School Safety \\nFramework. Despite the efforts of the DoBE and other strategies, school violence is a growing \\nconcern. \\nThis study was underpinned by Galtung’s theory of conflict, violence, and peace with its \\nemphasis on positive peace in addressing structural violence necessary for a culture of peace \\nto emerge; Lederach’s theory of conflict transformation which emphasises relational issues \\nand the transformation of social conflicts; Bronfenbrenner’s ecological theory as it provided a \\nsuitable framework for consideration of the risk factors which contribute to school violence; \\nand the Integrative Theory of Peace, which asserts that effective peace education is aligned \\nto a unity-base worldview, a culture of healing, a culture of peace and a peace-oriented \\ncurriculum. \\nThis mixed methods study employed a case study research design. Two secondary schools \\nwere involved in the study in the Blue Downs/ Kleinvlei area of the Cape Flats. The data \\ncollection in the study emanated from 200 grade 11 learners completing semi-structured \\nquestionnaires; and educators, parents and learners at each school participating in semi\\nstructured focus groups and interviews. The application of triangulation strengthened the \\nreliability and validity of the research. The pre-intervention findings in this study confirmed a \\nhigh prevalence of violence. Participants in the study indicated the following risk factors and \\ncontributors to school violence, namely: emotional and mental health; language, \\ncommunication and social media; bullying, power and domination; domestic abuse; physical \\nviolence; school-related aspects; socio-economic conditions; substance abuse; romantic and \\nintimate relationships; and the lack of role models and training. Through a participatory action \\nresearch approach and unity-based worldview, the intervention that emanated from one \\nschool’s response was aligned to the (2020-2025) Transform to Perform strategy of the \\nWestern Cape Education Department with special attention to Values in Education and supported by Peace Jam, an international non-governmental organisation focused on \\npeacebuilding in schools. The short-term evaluation of the intervention indicated that a unity\\nbased peace education approach holds promise for future positive outcomes in contributing \\ntowards the creation of a peaceable school.\"\n  },\n  \"fulltext_links\": [],\n  \"repository_indicators\": [\n    \"institutional\"\n  ],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -6.0762762080265e-06
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2736,
+      "candidatesTokenCount": 790,
+      "totalTokenCount": 3526,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2736
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 790
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "f5tSaKW_N_6ShMIPm7P8iAY"
+  }
+}

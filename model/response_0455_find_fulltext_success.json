@@ -1,0 +1,46 @@
+{
+  "response_id": 455,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:10:25.692115",
+  "metadata": {
+    "url": "https://uwispace.sta.uwi.edu/bitstreams/a24b4289-55b4-4fa6-af22-469abe3d4ae7/download",
+    "final_url": "https://uwispace.sta.uwi.edu/server/api/core/bitstreams/a24b4289-55b4-4fa6-af22-469abe3d4ae7/content",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"pdf\",\n  \"paper_metadata\": {\n    \"title\": null,\n    \"authors\": [],\n    \"doi\": null,\n    \"journal\": null,\n    \"year\": null,\n    \"abstract\": null\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://uwispace.sta.uwi.edu/server/api/core/bitstreams/a24b4289-55b4-4fa6-af22-469abe3d4ae7/content\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [\n    \"institutional\"\n  ],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -3.577517431781248e-05
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 6667,
+      "candidatesTokenCount": 216,
+      "totalTokenCount": 6883,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 6667
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 216
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "oJ5SaImPA7PQhMIP372DoQ0"
+  }
+}

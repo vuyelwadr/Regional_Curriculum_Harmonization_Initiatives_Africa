@@ -1,0 +1,46 @@
+{
+  "response_id": 348,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:01:10.972645",
+  "metadata": {
+    "url": "https://oecs.int/en/our-work/knowledge/library/primary-school-la",
+    "final_url": "https://oecs.int/en/our-work/knowledge/library/primary-school-la",
+    "attempt": 2,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Curriculum Harmonization Primary School Language Arts (Grades 3-4)\",\n    \"authors\": [],\n    \"doi\": null,\n    \"journal\": null,\n    \"year\": null,\n    \"abstract\": null\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://oecs.int/en/our-work/knowledge/library/primary-school-la\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.003834420442581177
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3981,
+      "candidatesTokenCount": 190,
+      "totalTokenCount": 4171,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3981
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 190
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "dZxSaJCQKeiChMIP-ufFUQ"
+  }
+}

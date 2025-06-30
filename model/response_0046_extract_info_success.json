@@ -1,0 +1,45 @@
+{
+  "response_id": 46,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:31:09.961058",
+  "metadata": {
+    "apa_number": 53,
+    "url": "https://africanpact.org/2025/01/30/building-futures-education-in-a-rapidly-growing-africa/",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://africanpact.org/2025/01/30/building-futures-education-in-a-rapidly-growing-africa/\",\n  \"MATCHES_CRITERIA\": false,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The provided text is a blog post discussing the challenges and opportunities in African education due to rapid population growth. While it mentions the need for improved education systems and skills development, it does not specifically focus on regional curriculum harmonization initiatives involving multiple African countries or regions. There is no mention of regional frameworks, cross-border education, mutual recognition, credit transfer systems, or regional qualifications frameworks.\",\n  \"Title\": \"Building Futures: Education in a Rapidly Growing Africa\",\n  \"Authors\": [\n    \"African PACT\"\n  ],\n  \"Year\": \"2025\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 632,
+      "candidatesTokenCount": 190,
+      "totalTokenCount": 822,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 632
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 190
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "bJVSaIiEFKvzgLUPuZ6smAo"
+  }
+}

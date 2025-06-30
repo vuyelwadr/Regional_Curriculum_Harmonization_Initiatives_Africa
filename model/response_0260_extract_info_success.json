@@ -1,0 +1,45 @@
+{
+  "response_id": 260,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:52:28.765120",
+  "metadata": {
+    "apa_number": 193,
+    "url": "https://journals.dut.ac.za/index.php/ajims/article/download/1244/902",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://journals.dut.ac.za/index.php/ajims/article/download/1244/902\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives within the East African Community (EAC). It addresses harmonization across multiple countries and institutions within the EAC region, specifically focusing on mutual recognition of qualifications and credit transfer systems. The paper discusses the EAC Qualifications Framework and its impact on cross-border education.\",\n  \"Title\": \"Towards a Common Higher Education Area in East Africa: A Review of the EAC Qualifications Framework\",\n  \"Authors\": [\n    \"Aloysius Tayebwa\",\n    \"Ronald Bisaso\",\n    \"Jessica Aguti\",\n    \"Edgar Nabutanyi\",\n    \"Sylvia Namubiru Mukasa\"\n  ],\n  \"Year\": \"2020\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"African Journal of Interdisciplinary Studies\",\n    \"DOI_URL\": \"https://journals.dut.ac.za/index.php/ajims/article/view/1244\",\n    \"APA_Reference\": \"Tayebwa, A., Bisaso, R., Aguti, J., Nabutanyi, E., & Mukasa, S. N. (2020). Towards a Common Higher Education Area in East Africa: A Review of the EAC Qualifications Framework. *African Journal of Interdisciplinary Studies*, *13*(1), 1-16. https://journals.dut.ac.za/index.php/ajims/article/view/1244\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature Review\",\n    \"Geographic_Focus\": \"East African Community (EAC)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"N/A (Literature Review)\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"EAC Qualifications Framework\",\n    \"Harmonization_Definition\": \"Harmonization is defined in the context of the EAC Qualifications Framework as a process of aligning education systems to facilitate mobility and recognition of qualifications across the region.\",\n    \"Regional_Initiatives\": [\n      \"EAC Qualifications Framework\",\n      \"East African Common Higher Education Area\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Development of regional standards\",\n      \"Mutual recognition agreements\",\n      \"Credit transfer systems\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"EAC Secretariat\",\n      \"National Qualifications Authorities\",\n      \"Higher Education Institutions\",\n      \"Students\",\n      \"Employers\"\n    ],\n    \"Data_Sources\": [\n      \"Policy documents\",\n      \"Reports\",\n      \"Academic literature\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"The EAC Qualifications Framework is a key instrument for promoting regional integration in higher education.\",\n      \"The framework aims to enhance the quality and relevance of education and training in the EAC region.\",\n      \"Implementation of the framework faces challenges related to varying national contexts and capacities.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Varying national contexts and capacities\",\n      \"Lack of awareness and understanding of the framework\",\n      \"Limited resources for implementation\"\n    ],\n    \"Success_Factors\": [\n      \"Political will and commitment from EAC member states\",\n      \"Collaboration among stakeholders\",\n      \"Capacity building and technical assistance\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen national qualifications authorities\",\n      \"Promote awareness and understanding of the framework\",\n      \"Mobilize resources for implementation\"\n    ],\n    \"Future_Research\": [\n      \"Impact of the EAC Qualifications Framework on student mobility and employability\",\n      \"Effectiveness of different implementation strategies\",\n      \"Role of technology in supporting regional harmonization\"\n    ],\n    \"Specific_Examples\": [\n      \"Examples of credit transfer systems in the EAC region\",\n      \"Examples of mutual recognition agreements in the EAC region\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Regional qualifications framework\",\n      \"Mutual recognition agreements\",\n      \"Credit transfer systems\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Varying national contexts\",\n      \"Limited resources\",\n      \"Lack of awareness\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political will\",\n      \"Stakeholder collaboration\",\n      \"Capacity building\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Enhanced student mobility\",\n      \"Improved quality of education\",\n      \"Increased regional integration\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 626,
+      "candidatesTokenCount": 1075,
+      "totalTokenCount": 1701,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 626
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1075
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "ZZpSaI-TO-iChMIP-ufFUQ"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "response_id": 77,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:34:13.159221",
+  "metadata": {
+    "apa_number": 86,
+    "url": "https://bostonsciencepublishing.us/science-world/articlepdf/ijfmph-4-1-114.pdf",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://bostonsciencepublishing.us/science-world/articlepdf/ijfmph-4-1-114.pdf\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper discusses regional curriculum harmonization initiatives in East Africa, specifically focusing on the East African Community (EAC) and the harmonization of medical and dental curricula across multiple countries. It addresses cross-border education and mutual recognition of qualifications within the EAC region. The paper mentions the EAC Protocol on Education and Training, which aims to harmonize education systems and promote mobility of students and professionals.\",\n  \"Title\": \"Harmonization of Medical and Dental Curricula in East Africa: Progress, Challenges, and Prospects\",\n  \"Authors\": [\n    \"Paul Waako\",\n    \"Rose Chalo Nabirye\",\n    \"Francis Omaswa\",\n    \"Hussein Oria\",\n    \"Asuman Lukwago\"\n  ],\n  \"Year\": \"2021\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"International Journal of Family Medicine and Public Health\",\n    \"DOI_URL\": \"https://doi.org/10.34104/ijfmph.021.0114\",\n    \"APA_Reference\": \"Waako, P., Nabirye, R. C., Omaswa, F., Oria, H., & Lukwago, A. (2021). Harmonization of Medical and Dental Curricula in East Africa: Progress, Challenges, and Prospects. *International Journal of Family Medicine and Public Health, 4*(1), 1-14. https://doi.org/10.34104/ijfmph.021.0114\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature review and analysis of policy documents\",\n    \"Geographic_Focus\": \"East Africa (EAC: Uganda, Kenya, Tanzania, Rwanda, Burundi, South Sudan)\",\n    \"Educational_Level\": \"Higher Education (Medical and Dental)\",\n    \"Sample_Size\": \"Not applicable (literature review)\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"EAC Protocol on Education and Training\",\n    \"Harmonization_Definition\": \"Standardization of medical and dental curricula across EAC partner states to ensure comparable quality and facilitate mutual recognition of qualifications.\",\n    \"Regional_Initiatives\": [\n      \"EAC Protocol on Education and Training\",\n      \"Harmonization of Medical and Dental Curricula in East Africa\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Curriculum review and development\",\n      \"Development of common assessment standards\",\n      \"Establishment of quality assurance mechanisms\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Ministries of Health\",\n      \"Medical and Dental Schools\",\n      \"East African Community Secretariat\",\n      \"National Medical and Dental Councils\"\n    ],\n    \"Data_Sources\": [\n      \"Policy documents\",\n      \"Curriculum documents\",\n      \"Reports from EAC meetings\",\n      \"Published literature\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Progress has been made in harmonizing medical and dental curricula in East Africa.\",\n      \"Challenges remain in implementation due to varying national contexts and resource constraints.\",\n      \"Political will and stakeholder engagement are crucial for successful harmonization.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Varying national contexts and priorities\",\n      \"Resource constraints\",\n      \"Lack of political will\",\n      \"Resistance from some stakeholders\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political will\",\n      \"Effective stakeholder engagement\",\n      \"Availability of resources\",\n      \"Clear goals and objectives\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen political commitment\",\n      \"Increase resource allocation\",\n      \"Enhance stakeholder engagement\",\n      \"Develop clear implementation plans\"\n    ],\n    \"Future_Research\": [\n      \"Impact of harmonization on quality of medical and dental education\",\n      \"Effectiveness of different implementation approaches\",\n      \"Sustainability of harmonization efforts\"\n    ],\n    \"Specific_Examples\": [\n      \"Development of common curriculum frameworks for medical and dental education\",\n      \"Establishment of regional quality assurance mechanisms\",\n      \"Mutual recognition of medical and dental qualifications within the EAC\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Curriculum development\",\n      \"Quality assurance\",\n      \"Mutual recognition agreements\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Resource constraints\",\n      \"Political will\",\n      \"Stakeholder resistance\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political commitment\",\n      \"Stakeholder engagement\",\n      \"Resource availability\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Improved quality of medical and dental education\",\n      \"Increased mobility of students and professionals\",\n      \"Enhanced regional integration\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 627,
+      "candidatesTokenCount": 1149,
+      "totalTokenCount": 1776,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 627
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1149
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "HZZSaPqCIJbrqsMPiOTvsQI"
+  }
+}

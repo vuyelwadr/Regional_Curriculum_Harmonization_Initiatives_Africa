@@ -1,0 +1,115 @@
+{
+  "response_id": 326,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:59:10.179413",
+  "metadata": {
+    "url": "https://link.springer.com/article/10.1007/s41297-023-00206-x",
+    "final_url": "https://link.springer.com/article/10.1007/s41297-023-00206-x",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Curriculum reform in African higher education: solving society’s problems and meeting its needs\",\n    \"authors\": [\n      \"Olaide Agbaje\"\n    ],\n    \"doi\": \"10.1007/s41297-023-00206-x\",\n    \"journal\": \"Curriculum Perspectives\",\n    \"year\": \"2023\",\n    \"abstract\": \"Higher education is often regarded as a crucial driver of development in Africa. Notably, the curricula in African higher education institutions are central to the discourse of development and the production of graduates who are sufficiently critical to challenge the historical, political, economic and social status quo in Africa. Curriculum experts in Africa have called for revisiting the purpose and the content of higher education curricula in Africa, and embracing an indigenous knowledge system that not only brings about development in nations themselves or the continent as a whole, but which also enhances human capacity. This paper argues that it is important for higher education institutions to embrace a curriculum that is synchronised to the particularities of African societies. One way to achieve this is by reforming the curriculum to reflect the realities and needs of the African continent, rather than providing a mere replica of the Western model. This paper also argues that curriculum reform is inevitable if the university is to fulfil this important role. This paper aims to answer the pertinent question; In what ways are Africa’s higher education curricula solving societal problems and meeting societal needs? This paper is guided by the theory of critical pedagogy developed by Paulo Freire and is developed through a review of the literature. The findings show that curriculum reform that promotes indigenous knowledge systems in Africa is imperative for meeting some of the needs of the African continent.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://link.springer.com/content/pdf/10.1007/s41297-023-00206-x.pdf\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://link.springer.com/article/10.1007/s41297-023-00206-x\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 380,
+              "endIndex": 508,
+              "uri": "https://www.researchgate.net/publication/372204782_Curriculum_reform_in_African_higher_education_solving_society's_problems_and_meeting_its_needs"
+            },
+            {
+              "startIndex": 415,
+              "endIndex": 552,
+              "uri": "https://www.researchgate.net/publication/372204782_Curriculum_reform_in_African_higher_education_solving_society's_problems_and_meeting_its_needs"
+            },
+            {
+              "startIndex": 534,
+              "endIndex": 659,
+              "uri": "https://www.researchgate.net/publication/372204782_Curriculum_reform_in_African_higher_education_solving_society's_problems_and_meeting_its_needs"
+            },
+            {
+              "startIndex": 671,
+              "endIndex": 799,
+              "uri": "https://www.researchgate.net/publication/372204782_Curriculum_reform_in_African_higher_education_solving_society's_problems_and_meeting_its_needs"
+            },
+            {
+              "startIndex": 797,
+              "endIndex": 928,
+              "uri": "https://www.researchgate.net/publication/372204782_Curriculum_reform_in_African_higher_education_solving_society's_problems_and_meeting_its_needs"
+            },
+            {
+              "startIndex": 924,
+              "endIndex": 1063,
+              "uri": "https://www.researchgate.net/publication/372204782_Curriculum_reform_in_African_higher_education_solving_society's_problems_and_meeting_its_needs"
+            },
+            {
+              "startIndex": 983,
+              "endIndex": 1113,
+              "uri": "https://www.researchgate.net/publication/372204782_Curriculum_reform_in_African_higher_education_solving_society's_problems_and_meeting_its_needs"
+            },
+            {
+              "startIndex": 1134,
+              "endIndex": 1258,
+              "uri": "https://www.researchgate.net/publication/372204782_Curriculum_reform_in_African_higher_education_solving_society's_problems_and_meeting_its_needs"
+            },
+            {
+              "startIndex": 1214,
+              "endIndex": 1371,
+              "uri": "https://www.researchgate.net/publication/372204782_Curriculum_reform_in_African_higher_education_solving_society's_problems_and_meeting_its_needs"
+            },
+            {
+              "startIndex": 1354,
+              "endIndex": 1499,
+              "uri": "https://www.researchgate.net/publication/372204782_Curriculum_reform_in_African_higher_education_solving_society's_problems_and_meeting_its_needs"
+            },
+            {
+              "startIndex": 1473,
+              "endIndex": 1627,
+              "uri": "https://www.researchgate.net/publication/372204782_Curriculum_reform_in_African_higher_education_solving_society's_problems_and_meeting_its_needs"
+            },
+            {
+              "startIndex": 1593,
+              "endIndex": 1720,
+              "uri": "https://www.researchgate.net/publication/372204782_Curriculum_reform_in_African_higher_education_solving_society's_problems_and_meeting_its_needs"
+            },
+            {
+              "startIndex": 1739,
+              "endIndex": 1873,
+              "uri": "https://www.researchgate.net/publication/372204782_Curriculum_reform_in_African_higher_education_solving_society's_problems_and_meeting_its_needs"
+            }
+          ]
+        },
+        "avgLogprobs": -0.0010530712063779536
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2792,
+      "candidatesTokenCount": 582,
+      "totalTokenCount": 3374,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2792
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 582
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "-5tSaLSjCeiChMIP-ufFUQ"
+  }
+}

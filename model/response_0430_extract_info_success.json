@@ -1,0 +1,45 @@
+{
+  "response_id": 430,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:08:19.863948",
+  "metadata": {
+    "apa_number": 303,
+    "url": "https://teachertaskforce.org/sites/default/files/2020-09/Continental%20Teacher%20Qualification%20Framework_EN.pdf",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://teachertaskforce.org/sites/default/files/2020-09/Continental%20Teacher%20Qualification%20Framework_EN.pdf\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"This document focuses on a continental teacher qualification framework for Africa, which inherently involves multiple African countries and regions. It addresses harmonization across countries by proposing a framework for mutual recognition of teacher qualifications and promoting cross-border education for teachers. The document explicitly discusses regional frameworks and qualifications frameworks.\",\n  \"Title\": \"Continental Teacher Qualification Framework\",\n  \"Authors\": [],\n  \"Year\": \"2020\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Teacher Task Force\",\n    \"DOI_URL\": \"https://teachertaskforce.org/sites/default/files/2020-09/Continental%20Teacher%20Qualification%20Framework_EN.pdf\",\n    \"APA_Reference\": \"Teacher Task Force. (2020). Continental Teacher Qualification Framework. Retrieved from https://teachertaskforce.org/sites/default/files/2020-09/Continental%20Teacher%20Qualification%20Framework_EN.pdf\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Framework Development\",\n    \"Geographic_Focus\": \"Africa\",\n    \"Educational_Level\": \"Teacher Education\",\n    \"Sample_Size\": \"N/A\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Competency-based framework\",\n    \"Harmonization_Definition\": \"Mutual recognition of teacher qualifications across African countries to facilitate mobility and improve quality.\",\n    \"Regional_Initiatives\": [\n      \"Continental Teacher Qualification Framework (CTQF)\",\n      \"African Union Agenda 2063\",\n      \"Sustainable Development Goal 4 (SDG 4)\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Development of common standards\",\n      \"Mutual recognition agreements\",\n      \"Capacity building\",\n      \"Policy dialogue\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Teachers\",\n      \"Teacher educators\",\n      \"Ministries of Education\",\n      \"Regional economic communities\",\n      \"African Union\",\n      \"Teacher organizations\"\n    ],\n    \"Data_Sources\": [\n      \"Literature review\",\n      \"Expert consultations\",\n      \"Existing regional frameworks\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"The CTQF provides a common framework for teacher qualifications across Africa.\",\n      \"It aims to improve teacher quality and mobility.\",\n      \"It supports the implementation of SDG 4 and AU Agenda 2063.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of political will\",\n      \"Insufficient resources\",\n      \"Variations in national education systems\",\n      \"Resistance to change\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political commitment\",\n      \"Adequate resources\",\n      \"Effective stakeholder engagement\",\n      \"Clear communication\"\n    ],\n    \"Recommendations\": [\n      \"Develop national implementation plans\",\n      \"Establish regional coordination mechanisms\",\n      \"Invest in teacher education and professional development\",\n      \"Monitor and evaluate progress\"\n    ],\n    \"Future_Research\": [\n      \"Impact of the CTQF on teacher quality and student learning\",\n      \"Effectiveness of different implementation approaches\",\n      \"Sustainability of the CTQF\"\n    ],\n    \"Specific_Examples\": [\n      \"Examples of regional frameworks in EAC, ECOWAS, and SADC are referenced in the document.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"National implementation plans\",\n      \"Regional coordination mechanisms\",\n      \"Capacity building programs\",\n      \"Mutual recognition agreements\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Political will\",\n      \"Resource constraints\",\n      \"Systemic differences\",\n      \"Resistance to change\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political commitment\",\n      \"Resource availability\",\n      \"Stakeholder engagement\",\n      \"Clear communication\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Improved teacher quality\",\n      \"Increased teacher mobility\",\n      \"Enhanced student learning\",\n      \"Progress towards SDG 4 and AU Agenda 2063\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 637,
+      "candidatesTokenCount": 1032,
+      "totalTokenCount": 1669,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 637
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1032
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "HZ5SaIywIqiUsbQPmK3KkQI"
+  }
+}

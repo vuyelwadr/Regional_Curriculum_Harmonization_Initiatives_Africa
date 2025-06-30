@@ -1,0 +1,60 @@
+{
+  "response_id": 346,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:01:06.368902",
+  "metadata": {
+    "url": "https://link.springer.com/chapter/10.1007/978-3-319-27258-0_2",
+    "final_url": "https://link.springer.com/chapter/10.1007/978-3-319-27258-0_2",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Towards a Harmonized Curriculum in East Africa: A Comparative Perspective of the Intended Secondary School Mathematics Curriculum in Kenya, Rwanda, Tanzania and Uganda\",\n    \"authors\": [\n      \"Karuku, Simon\",\n      \"Tennant, Geoff\"\n    ],\n    \"doi\": \"10.1007/978-3-319-27258-0_2\",\n    \"journal\": \"Mathematics Education in East Africa\",\n    \"year\": \"2016\",\n    \"abstract\": \"This chapter presents the results and insights gained from a comparative analysis of the national secondary school mathematics syllabuses of Kenya, Rwanda, Tanzania and Uganda. Whilst considerable commonalities were found, it was particularly Rwanda, with a different...\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://link.springer.com/content/pdf/10.1007/978-3-319-27258-0_2.pdf\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://link.springer.com/chapter/10.1007/978-3-319-27258-0_2\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": true,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 96,
+              "endIndex": 259,
+              "uri": "http://ecommons.aku.edu/book_chapters/"
+            },
+            {
+              "startIndex": 470,
+              "endIndex": 736,
+              "uri": "https://www.researchgate.net/publication/315049617_Towards_a_Harmonized_Curriculum_in_East_Africa_A_Comparative_Perspective_of_the_Intended_Secondary_School_Mathematics_Curriculum_in_Kenya_Rwanda_Tanzania_and_Uganda"
+            }
+          ]
+        },
+        "avgLogprobs": -3.137930875162944e-05
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3111,
+      "candidatesTokenCount": 391,
+      "totalTokenCount": 3502,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3111
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 391
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "cJxSaMe7FP6ShMIPm7P8iAY"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "response_id": 25,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:29:08.316705",
+  "metadata": {
+    "apa_number": 49,
+    "url": "https://acqf.africa/resources/mapping-study/school-curriculum-mapping-report-mapping-curriculum-frameworks-and-practices-in-africa-creating-baseline-evidence-2022/@@display-file/file/School%20Curriculum%20Mapping%20report%202022_EN_WEB.pdf",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://acqf.africa/resources/mapping-study/school-curriculum-mapping-report-mapping-curriculum-frameworks-and-practices-in-africa-creating-baseline-evidence-2022/@@display-file/file/School%20Curriculum%20Mapping%20report%202022_EN_WEB.pdf\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"This paper focuses on regional curriculum mapping across multiple African countries, specifically looking at curriculum frameworks and practices. It addresses harmonization by examining regional frameworks and cross-border education, aligning with the research criteria. The report explicitly mentions regional qualifications frameworks and the need for mutual recognition of qualifications.\",\n  \"Title\": \"School Curriculum Mapping report: Mapping Curriculum Frameworks and Practices in Africa Creating Baseline Evidence\",\n  \"Authors\": [],\n  \"Year\": \"2022\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"African Continental Qualifications Framework (ACQF)\",\n    \"DOI_URL\": \"https://acqf.africa/resources/mapping-study/school-curriculum-mapping-report-mapping-curriculum-frameworks-and-practices-in-africa-creating-baseline-evidence-2022/@@display-file/file/School%20Curriculum%20Mapping%20report%202022_EN_WEB.pdf\",\n    \"APA_Reference\": \"African Continental Qualifications Framework (ACQF). (2022). School Curriculum Mapping report: Mapping Curriculum Frameworks and Practices in Africa Creating Baseline Evidence. ACQF.\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Document Analysis, Comparative Analysis\",\n    \"Geographic_Focus\": \"Multiple African countries (continental scope)\",\n    \"Educational_Level\": \"School Education (Primary and Secondary)\",\n    \"Sample_Size\": \"Not applicable (document analysis)\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Qualifications Frameworks, Curriculum Theory\",\n    \"Harmonization_Definition\": \"Alignment of curriculum frameworks and learning outcomes across countries to facilitate mobility and recognition of qualifications.\",\n    \"Regional_Initiatives\": [\n      \"African Continental Qualifications Framework (ACQF)\",\n      \"Regional Economic Communities (RECs) initiatives (e.g., EAC, ECOWAS, SADC)\",\n      \"Continental Education Strategy for Africa (CESA 16-25)\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Curriculum mapping\",\n      \"Gap analysis\",\n      \"Stakeholder consultations\",\n      \"Policy review\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Ministries of Education\",\n      \"Curriculum development agencies\",\n      \"Teachers\",\n      \"Regional economic communities\",\n      \"African Union\",\n      \"ACQF Secretariat\"\n    ],\n    \"Data_Sources\": [\n      \"National curriculum documents\",\n      \"Policy documents\",\n      \"Regional qualifications frameworks\",\n      \"Literature review\",\n      \"Consultation workshops\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Significant variations exist in curriculum frameworks and practices across African countries.\",\n      \"The ACQF provides a common reference point for aligning qualifications and promoting mobility.\",\n      \"Regional economic communities (RECs) play a crucial role in driving curriculum harmonization.\",\n      \"Capacity building and resource mobilization are essential for effective implementation.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of resources and capacity\",\n      \"Political and institutional barriers\",\n      \"Resistance to change\",\n      \"Language barriers\",\n      \"Inadequate data and information\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political will and commitment\",\n      \"Effective stakeholder engagement\",\n      \"Clear articulation of learning outcomes\",\n      \"Robust quality assurance mechanisms\",\n      \"Adequate funding and resources\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen regional collaboration and coordination.\",\n      \"Invest in capacity building and resource mobilization.\",\n      \"Develop common curriculum standards and learning outcomes.\",\n      \"Promote the use of technology to enhance curriculum delivery.\",\n      \"Establish robust quality assurance mechanisms.\"\n    ],\n    \"Future_Research\": [\n      \"Impact of curriculum harmonization on student learning outcomes.\",\n      \"Effectiveness of different implementation approaches.\",\n      \"Role of technology in promoting curriculum harmonization.\",\n      \"Sustainability of curriculum harmonization initiatives.\"\n    ],\n    \"Specific_Examples\": [\n      \"Examples of curriculum mapping initiatives in specific countries.\",\n      \"Examples of regional qualifications frameworks.\",\n      \"Examples of cross-border education programs.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Curriculum mapping\",\n      \"Gap analysis\",\n      \"Policy alignment\",\n      \"Capacity building\",\n      \"Resource mobilization\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Resource constraints\",\n      \"Political barriers\",\n      \"Institutional weaknesses\",\n      \"Resistance to change\",\n      \"Language barriers\",\n      \"Data gaps\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political commitment\",\n      \"Stakeholder engagement\",\n      \"Clear learning outcomes\",\n      \"Quality assurance\",\n      \"Adequate funding\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Enhanced mobility\",\n      \"Improved quality of education\",\n      \"Increased competitiveness\",\n      \"Greater regional integration\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 677,
+      "candidatesTokenCount": 1240,
+      "totalTokenCount": 1917,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 677
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1240
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "7JRSaKzXLIuZhMIPlvTuyQY"
+  }
+}

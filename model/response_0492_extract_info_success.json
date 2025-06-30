@@ -1,0 +1,45 @@
+{
+  "response_id": 492,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:14:12.074772",
+  "metadata": {
+    "apa_number": 349,
+    "url": "https://www.cgdev.org/sites/default/files/education-africa-what-are-we-learning.pdf",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://www.cgdev.org/sites/default/files/education-africa-what-are-we-learning.pdf\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper discusses regional initiatives in Africa, including the African Union's efforts to harmonize education systems and promote cross-border education. It mentions the need for mutual recognition of qualifications and the development of regional qualifications frameworks. Specifically, it references the Arusha Convention and the Addis Convention, which aim to facilitate the recognition of studies and qualifications in higher education within Africa. The paper also touches upon the challenges and opportunities associated with harmonizing curricula and quality assurance mechanisms across different countries and institutions in Africa.\",\n  \"Title\": \"Education in Africa: What Are We Learning?\",\n  \"Authors\": [\n    \"Justin Sandefur\",\n    \"Susanna Loeb\"\n  ],\n  \"Year\": \"2023\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Center for Global Development\",\n    \"DOI_URL\": \"https://www.cgdev.org/publication/education-africa-what-are-we-learning\",\n    \"APA_Reference\": \"Sandefur, J., & Loeb, S. (2023). Education in Africa: What Are We Learning? Center for Global Development.\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature Review/Synthesis\",\n    \"Geographic_Focus\": \"Africa (multiple countries)\",\n    \"Educational_Level\": \"Various (primary, secondary, higher education)\",\n    \"Sample_Size\": \"N/A (Literature Review)\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated, but implicitly draws on human capital theory and development economics.\",\n    \"Harmonization_Definition\": \"Implicitly defined as aligning curricula, standards, and qualifications across different countries or institutions to facilitate mobility and improve quality.\",\n    \"Regional_Initiatives\": [\n      \"African Union initiatives\",\n      \"Arusha Convention\",\n      \"Addis Convention\",\n      \"Continental Education Strategy for Africa 2016-2025 (CESA 16-25)\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Policy frameworks\",\n      \"Quality assurance mechanisms\",\n      \"Curriculum development\",\n      \"Mutual recognition agreements\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments\",\n      \"Educational institutions\",\n      \"Regional organizations\",\n      \"Students\"\n    ],\n    \"Data_Sources\": [\n      \"Academic literature\",\n      \"Policy documents\",\n      \"Reports from international organizations\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Significant progress has been made in expanding access to education in Africa, but quality remains a major challenge.\",\n      \"Regional harmonization efforts are underway but face significant obstacles.\",\n      \"The Arusha and Addis Conventions aim to facilitate the recognition of studies and qualifications in higher education within Africa.\",\n      \"The Continental Education Strategy for Africa 2016-2025 (CESA 16-25) provides a framework for improving education across the continent.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of resources\",\n      \"Weak governance\",\n      \"Political instability\",\n      \"Varying quality standards\",\n      \"Implementation gaps\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political will\",\n      \"Effective partnerships\",\n      \"Adequate funding\",\n      \"Capacity building\",\n      \"Context-specific solutions\"\n    ],\n    \"Recommendations\": [\n      \"Invest in teacher training and development.\",\n      \"Strengthen quality assurance mechanisms.\",\n      \"Promote regional cooperation and harmonization.\",\n      \"Address the root causes of inequality in education.\",\n      \"Improve data collection and analysis.\"\n    ],\n    \"Future_Research\": [\n      \"Impact of regional harmonization initiatives on student mobility and learning outcomes.\",\n      \"Effectiveness of different quality assurance mechanisms in improving education quality.\",\n      \"Role of technology in expanding access to and improving the quality of education.\"\n    ],\n    \"Specific_Examples\": [\n      \"Examples of successful regional harmonization initiatives in other parts of the world.\",\n      \"Case studies of countries that have made significant progress in improving education quality.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Policy frameworks\",\n      \"Quality assurance agencies\",\n      \"Curriculum development committees\",\n      \"Mutual recognition agreements\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Lack of political will\",\n      \"Insufficient funding\",\n      \"Capacity constraints\",\n      \"Varying quality standards\",\n      \"Bureaucratic hurdles\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Strong leadership\",\n      \"Effective partnerships\",\n      \"Adequate resources\",\n      \"Context-specific solutions\",\n      \"Stakeholder engagement\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased student mobility\",\n      \"Improved quality of education\",\n      \"Enhanced regional integration\",\n      \"Greater economic competitiveness\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 625,
+      "candidatesTokenCount": 1178,
+      "totalTokenCount": 1803,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 625
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1178
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "fJ9SaKLKD-iChMIP-ufFUQ"
+  }
+}

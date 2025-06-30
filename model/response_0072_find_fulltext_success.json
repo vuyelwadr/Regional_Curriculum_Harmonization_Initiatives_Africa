@@ -1,0 +1,46 @@
+{
+  "response_id": 72,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:34:03.390518",
+  "metadata": {
+    "url": "https://au.int/en/education-science-technology",
+    "final_url": "https://au.int/en/education-science-technology",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Education, Science & Technology | African Union\",\n    \"authors\": [],\n    \"doi\": null,\n    \"journal\": null,\n    \"year\": null,\n    \"abstract\": null\n  },\n  \"fulltext_links\": [],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.000336184317982474
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 4448,
+      "candidatesTokenCount": 129,
+      "totalTokenCount": 4577,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 4448
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 129
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "GpZSaOalB5rnqsMPzonmkA0"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "response_id": 198,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:46:17.272554",
+  "metadata": {
+    "url": "https://essa-africa.org/node/1939",
+    "final_url": "https://essa-africa.org/node/1939",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"A Guide to the African Education Research Database\",\n    \"authors\": [],\n    \"doi\": null,\n    \"journal\": null,\n    \"year\": null,\n    \"abstract\": \"A Guide to the African Education Research Database\"\n  },\n  \"fulltext_links\": [],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"low\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.0031440700741781707
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2879,
+      "candidatesTokenCount": 138,
+      "totalTokenCount": 3017,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2879
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 138
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "95hSaIrxN4qThMIPyoil0Qo"
+  }
+}

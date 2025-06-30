@@ -1,0 +1,46 @@
+{
+  "response_id": 310,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:57:19.799796",
+  "metadata": {
+    "url": "https://malque.pub/ojs/index.php/msj/article/view/6102",
+    "final_url": "https://malque.pub/ojs/index.php/msj/article/view/6102",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Bibliometric analysis of policy on compulsory education: key findings from studies between 1965 and 2024\",\n    \"authors\": [\n      \"Minh Thu Do\",\n      \"Hoa Anh Trinh\",\n      \"Hong Thi Thuy Pham\",\n      \"Thang Ngoc Hoang\",\n      \"Thang The Nguyen\"\n    ],\n    \"doi\": \"10.31893/multiscience.2025263\",\n    \"journal\": \"Multidisciplinary Science Journal\",\n    \"year\": \"2025\",\n    \"abstract\": \"This bibliometric analysis investigates the evolution and impact of policies on compulsory education from 1965 to 2024. Utilizing a comprehensive dataset of academic publications, we analyze trends, key contributors, and the geographical distribution of research on this topic. The study reveals significant milestones in compulsory education policies that reaching the highest publications is in the period of 2020 and 2025, driven by socioeconomic changes and global educational initiatives. Notable peaks in research activity correspond to major policy reforms and international educational goals, reflecting the dynamic nature of educational policy research. Leading contributors include institutions and funding bodies from diverse regions that come from both developing and advanced countries, highlighting the global interest and collaborative efforts in this field. Key themes identified in the literature encompass educational access, quality, equity, and the long-term socioeconomic impacts of compulsory education, apart from documents relevant to economics and econometrics represented the particular characteristics of compulsory education that should be always considered in terms of interdisciplinary and multidisciplinary. The findings underscore the critical role of policy in shaping educational outcomes and inform future research directions and policy-making processes while compulsory education has been more interested, but varied opportunies and quality of education has been more demanded also. Another important finding was lessons learned can be realized from comparisons of the similaties and differences. Research questions that could be asked include how to make compulsory education policy come into effect of the same regulations but different contexts. This analysis provides a valuable resource for educators, policymakers, and researchers aiming to understand the historical and contemporary landscape of compulsory education policies.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://malque.pub/ojs/index.php/msj/article/download/6102/3687\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.0005328357219696045
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2763,
+      "candidatesTokenCount": 594,
+      "totalTokenCount": 3357,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2763
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 594
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "jJtSaJnJHOiChMIP-ufFUQ"
+  }
+}

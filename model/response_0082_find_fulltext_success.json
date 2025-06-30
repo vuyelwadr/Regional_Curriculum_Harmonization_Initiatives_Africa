@@ -1,0 +1,46 @@
+{
+  "response_id": 82,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:35:04.392459",
+  "metadata": {
+    "url": "https://jovacet.ac.za/index.php/JOVACET/article/view/411",
+    "final_url": "https://jovacet.ac.za/index.php/JOVACET/article/view/411",
+    "attempt": 3,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Table of Contents\",\n    \"authors\": [\n      \"Catherine Robertson\"\n    ],\n    \"doi\": null,\n    \"journal\": \"Journal of Vocational, Adult and Continuing Education and Training\",\n    \"year\": \"2024\",\n    \"abstract\": \"page iv. Editorial Team \\npage vi. Editorial. Joy Papier\\npage 1. Thought piece: Promoting employment-oriented skills development in Africa:Reality, relevance and research as enablers. George Afeti \\npage 14. A reflective overview: European vocational education and training reform:The Copenhagen process 2002 to 2024. Steven Bainbridge \\npage 35. Gendered labour market outcomes among South African technical andvocational education and training (TVET) completers. Tamaryn Jean Friderichs, Michael Rogan and Seamus Needham \\npage 53. Technical and vocational education and training (TVET) colleges and industry: Strengthening partnership-building practices. Tuletu Njengele, Penelope Engel-Hills and Christine Winberg \\npage 76. What does ‘quality teaching and learning’ mean in TVET contexts? Joy Papier and Monica Mawoyo \\npage 98. Systems analysis of the national performance management system for TVET lecturers. Andrew Paterson, James Keevy and Zaahedah Vally \\npage 120. What is a ‘quality TVET lecturer’? Problematising the concept of quality invocational education. Volker Wedekind, Jo-Anna Russon, Zihao Liu, Zolile Zungu and Mixue Li \\npage 142. Contributor biographies\\npage 146. Editorial policy and procedure\\npage 148. Call for papers 2025: JOVACET, Volume 8, Issue 1 and 2 \\npage 149. Call for papers 2025: Special Issue \"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://jovacet.ac.za/index.php/JOVACET/article/download/411/177\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -5.5683521712053586e-05
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3072,
+      "candidatesTokenCount": 577,
+      "totalTokenCount": 3649,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3072
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 577
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "VJZSaPGkOLqFsbQPqNrRqAQ"
+  }
+}

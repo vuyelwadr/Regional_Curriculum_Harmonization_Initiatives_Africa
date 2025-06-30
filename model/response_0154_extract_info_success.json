@@ -1,0 +1,45 @@
+{
+  "response_id": 154,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:42:09.178486",
+  "metadata": {
+    "apa_number": 119,
+    "url": "https://ej-med.org/index.php/ejmed/article/download/284/167",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://ej-med.org/index.php/ejmed/article/download/284/167\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper discusses regional harmonization of medical education in East Africa, specifically focusing on the EAC region. It addresses cross-border education and mutual recognition of qualifications within the medical field. The paper mentions the East African Community (EAC) as a regional framework.\",\n  \"Title\": \"Harmonization of Medical Education in East Africa: Opportunities and Challenges\",\n  \"Authors\": [\n    \"Hussein Idi\",\n    \"Rosemary Magesa\",\n    \"Jafary Liana\",\n    \"Julieth Kabalimu\",\n    \"Jonas Swai\",\n    \"Japhet Killewo\",\n    \"Muhammad Bakari\"\n  ],\n  \"Year\": \"2020\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"East and Central African Journal of Surgery\",\n    \"DOI_URL\": \"https://doi.org/10.4314/ecajs.v25i2.9\",\n    \"APA_Reference\": \"Idi, H., Magesa, R., Liana, J., Kabalimu, J., Swai, J., Killewo, J., & Bakari, M. (2020). Harmonization of Medical Education in East Africa: Opportunities and Challenges. East and Central African Journal of Surgery, 25(2), 104-111. https://doi.org/10.4314/ecajs.v25i2.9\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature Review\",\n    \"Geographic_Focus\": \"East Africa (EAC)\",\n    \"Educational_Level\": \"Medical Education\",\n    \"Sample_Size\": \"N/A\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated\",\n    \"Harmonization_Definition\": \"Harmonization is defined as a process of standardization and alignment of medical education curricula, assessment methods, and quality assurance mechanisms across the EAC region.\",\n    \"Regional_Initiatives\": [\n      \"East African Community (EAC) initiatives for medical education harmonization\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Curriculum standardization\",\n      \"Development of common assessment tools\",\n      \"Establishment of regional quality assurance frameworks\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Medical schools\",\n      \"Regulatory bodies\",\n      \"EAC Secretariat\",\n      \"Medical practitioners\"\n    ],\n    \"Data_Sources\": [\n      \"Published literature\",\n      \"Policy documents\",\n      \"Reports from EAC meetings\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Harmonization of medical education in East Africa has the potential to improve the quality and relevance of medical training.\",\n      \"Harmonization can facilitate the mobility of medical professionals within the region.\",\n      \"Harmonization can promote the development of a common East African identity among medical professionals.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of political will\",\n      \"Inadequate funding\",\n      \"Differences in national regulations\",\n      \"Resistance from some medical schools\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political commitment\",\n      \"Adequate funding\",\n      \"Effective communication and collaboration among stakeholders\",\n      \"Development of clear and transparent guidelines\"\n    ],\n    \"Recommendations\": [\n      \"Strengthening political commitment to harmonization\",\n      \"Increasing funding for harmonization initiatives\",\n      \"Developing clear and transparent guidelines for harmonization\",\n      \"Promoting effective communication and collaboration among stakeholders\"\n    ],\n    \"Future_Research\": [\n      \"Further research is needed to evaluate the impact of harmonization on the quality of medical care in East Africa.\",\n      \"Further research is needed to identify the most effective strategies for overcoming the challenges to harmonization.\"\n    ],\n    \"Specific_Examples\": [\n      \"Development of a common curriculum for medical schools in the EAC region\",\n      \"Establishment of a regional quality assurance framework for medical education\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Curriculum development\",\n      \"Assessment standardization\",\n      \"Quality assurance frameworks\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Political will\",\n      \"Funding\",\n      \"Regulatory differences\",\n      \"Institutional resistance\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political commitment\",\n      \"Adequate funding\",\n      \"Stakeholder collaboration\",\n      \"Clear guidelines\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Improved quality of medical education\",\n      \"Increased mobility of medical professionals\",\n      \"Development of a common East African identity\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 623,
+      "candidatesTokenCount": 1124,
+      "totalTokenCount": 1747,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 623
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1124
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "-ZdSaN-QNIqThMIPyoil0Qo"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "response_id": 234,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:50:07.309568",
+  "metadata": {
+    "url": "https://international-partnerships.ec.europa.eu/policies/global-gateway/regional-teachers-initiative-africa_en",
+    "final_url": "https://international-partnerships.ec.europa.eu/policies/global-gateway/regional-teachers-initiative-africa_en",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Regional Teachers Initiative for Africa\",\n    \"authors\": [],\n    \"doi\": null,\n    \"journal\": null,\n    \"year\": null,\n    \"abstract\": \"The Regional Teachers Initiative for Africa (RTIA) supports African countries to raise both the quality of teacher education and training, and contribute to increasing the availability of teachers with minimum required qualifications.\"\n  },\n  \"fulltext_links\": [],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 290,
+              "endIndex": 458,
+              "uri": "https://open.enabel.be/nl/56/2686/p/regional-teacher-facility-for-africa.html"
+            }
+          ]
+        },
+        "avgLogprobs": -2.3705810894104054e-06
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3099,
+      "candidatesTokenCount": 163,
+      "totalTokenCount": 3262,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3099
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 163
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "3ZlSaJ7VOIqThMIPyoil0Qo"
+  }
+}

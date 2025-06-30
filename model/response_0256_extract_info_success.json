@@ -1,0 +1,45 @@
+{
+  "response_id": 256,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:52:13.491857",
+  "metadata": {
+    "apa_number": 179,
+    "url": "https://journal.arimbi.or.id/index.php/Maeswara/article/download/1615/1837",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://journal.arimbi.or.id/index.php/Maeswara/article/download/1615/1837\",\n  \"MATCHES_CRITERIA\": false,\n  \"CRITERIA_MATCH_EXPLANATION\": \"This paper focuses on the development of a local content-based curriculum at a single university (Universitas Pendidikan Ganesha) in Indonesia. It does not address regional curriculum harmonization initiatives involving multiple African countries or regions. The focus is on integrating local wisdom into the curriculum, not cross-border educational frameworks or mutual recognition of qualifications.\",\n  \"Title\": \"Development of Local Content-Based Curriculum to Improve Students’ Understanding of Balinese Culture\",\n  \"Authors\": [\n    \"I. Gusti Ngurah Agung Suryadarma\",\n    \"I. Made Sujana\",\n    \"I. Putu Mas Dewantara\"\n  ],\n  \"Year\": \"2023\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 629,
+      "candidatesTokenCount": 210,
+      "totalTokenCount": 839,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 629
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 210
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "W5pSaPqxH6iUsbQPmK3KkQI"
+  }
+}

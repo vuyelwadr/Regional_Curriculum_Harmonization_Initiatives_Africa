@@ -1,0 +1,45 @@
+{
+  "response_id": 118,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:38:17.893552",
+  "metadata": {
+    "apa_number": 93,
+    "url": "https://cultureandvalues.org/index.php/JCV/article/download/278/136",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://cultureandvalues.org/index.php/JCV/article/download/278/136\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper discusses regional curriculum harmonization initiatives in East Africa, specifically focusing on the EAC (East African Community) and the harmonization of higher education. It addresses cross-border education and mutual recognition of qualifications within the region. The paper mentions the East African Qualifications Framework for Higher Education (EAQFHE) and efforts to harmonize curricula across institutions in multiple countries within the EAC.\",\n  \"Title\": \"Harmonization of Higher Education Curricula in East Africa: The Case of the East African Community\",\n  \"Authors\": [\n    \"Aloys Ayako\",\n    \"Callen Nyamwange\",\n    \"Pamela Ochieng\",\n    \"Beatrice Omari\"\n  ],\n  \"Year\": \"2020\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Journal of Culture and Values in Education\",\n    \"DOI_URL\": \"https://doi.org/10.31879/jcv.v3i1.278\",\n    \"APA_Reference\": \"Ayako, A., Nyamwange, C., Ochieng, P., & Omari, B. (2020). Harmonization of Higher Education Curricula in East Africa: The Case of the East African Community. Journal of Culture and Values in Education, 3(1), 1-18. https://doi.org/10.31879/jcv.v3i1.278\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Case Study\",\n    \"Geographic_Focus\": \"East Africa (East African Community - EAC)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not explicitly stated, but involves analysis of EAC policies and interviews with stakeholders.\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated, but implicitly uses regional integration theory.\",\n    \"Harmonization_Definition\": \"Harmonization is defined as the process of creating a common understanding and framework for higher education curricula across the EAC region, facilitating mobility and mutual recognition of qualifications.\",\n    \"Regional_Initiatives\": [\n      \"East African Community (EAC) integration\",\n      \"East African Qualifications Framework for Higher Education (EAQFHE)\",\n      \"Harmonization of curricula in specific disciplines (e.g., engineering, medicine)\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Policy development at the EAC level\",\n      \"Development of regional qualifications frameworks\",\n      \"Curriculum review and adaptation at national and institutional levels\",\n      \"Stakeholder consultations\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"EAC Secretariat\",\n      \"National governments (Ministries of Education)\",\n      \"Higher education institutions\",\n      \"Academics\",\n      \"Students\",\n      \"Professional bodies\"\n    ],\n    \"Data_Sources\": [\n      \"Policy documents\",\n      \"EAC treaties and protocols\",\n      \"Interviews with stakeholders\",\n      \"Literature review\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Harmonization of higher education curricula is crucial for regional integration in East Africa.\",\n      \"The EAQFHE provides a framework for mutual recognition of qualifications and mobility of students and workers.\",\n      \"Progress in harmonization has been made, but challenges remain.\",\n      \"Curriculum harmonization is essential for promoting regional integration and competitiveness.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Varying national education systems and priorities\",\n      \"Lack of resources and capacity\",\n      \"Resistance from some stakeholders\",\n      \"Bureaucratic hurdles\",\n      \"Language barriers\"\n    ],\n    \"Success_Factors\": [\n      \"Political will and commitment from EAC member states\",\n      \"Strong leadership from the EAC Secretariat\",\n      \"Collaboration among stakeholders\",\n      \"Development of clear frameworks and guidelines\",\n      \"Capacity building initiatives\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen political commitment and resource allocation\",\n      \"Enhance stakeholder collaboration\",\n      \"Develop clear and measurable indicators of progress\",\n      \"Address capacity gaps\",\n      \"Promote awareness and understanding of the benefits of harmonization\"\n    ],\n    \"Future_Research\": [\n      \"Impact of harmonization on student learning outcomes\",\n      \"Effectiveness of the EAQFHE\",\n      \"Role of technology in facilitating harmonization\",\n      \"Comparative analysis of harmonization efforts in different EAC member states\"\n    ],\n    \"Specific_Examples\": [\n      \"Harmonization of engineering curricula\",\n      \"Development of common standards for medical education\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Regional qualifications frameworks\",\n      \"Curriculum review committees\",\n      \"Stakeholder consultations\",\n      \"Policy harmonization\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"National sovereignty concerns\",\n      \"Resource constraints\",\n      \"Lack of coordination\",\n      \"Resistance to change\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political will\",\n      \"Strong leadership\",\n      \"Stakeholder engagement\",\n      \"Clear frameworks\",\n      \"Capacity building\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased student and worker mobility\",\n      \"Improved quality of education\",\n      \"Enhanced regional competitiveness\",\n      \"Greater mutual recognition of qualifications\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 623,
+      "candidatesTokenCount": 1264,
+      "totalTokenCount": 1887,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 623
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1264
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "EZdSaNWPCoqThMIPyoil0Qo"
+  }
+}

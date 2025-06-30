@@ -1,0 +1,65 @@
+{
+  "response_id": 379,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:04:06.886677",
+  "metadata": {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9884881/",
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9884881/",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Capacity building at points of entry during COVID-19 pandemic: harmonising training curriculum for Economic Community of West African States\",\n    \"authors\": [\n      \"Aishat Bukola Usman\",\n      \"Virgil Kuassi Lokossou\",\n      \"Kiswendsida Sawadogo\",\n      \"Sarah Ward\",\n      \"Chukwuma David Umeokonkwo\",\n      \"Bernard Sawadogo\",\n      \"Chelsea Hanlon\",\n      \"Godfrey Kayita\",\n      \"Muhammad Shakir Balogun\",\n      \"Simon Antara\",\n      \"Rebecca Merrill\",\n      \"Patrick M Nguku\",\n      \"Sombie Issiaka\",\n      \"Melchior Athanase JC Aïssi\"\n    ],\n    \"doi\": \"10.1136/bmjgh-2022-010892\",\n    \"journal\": \"BMJ Global Health\",\n    \"year\": \"2023\",\n    \"abstract\": \"This paper describes the process for developing, validating and disseminating through a train-the-trainer (TOT) event a standardised curriculum for public health capacity building for points of entry (POE) staff across the 15-member state Economic ...\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://pmc.ncbi.nlm.nih.gov/articles/PMC9884881/pdf/bmjgh-2022-010892.pdf\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://pmc.ncbi.nlm.nih.gov/articles/PMC9884881/\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 96,
+              "endIndex": 235,
+              "uri": "https://africaresearchconnects.com/author/1002350860/"
+            },
+            {
+              "startIndex": 263,
+              "endIndex": 652,
+              "uri": "https://reliefweb.int/report/benin/capacity-building-points-entry-during-covid-19-pandemic-harmonising-training-curriculum-economic-community-west-african-states"
+            },
+            {
+              "startIndex": 760,
+              "endIndex": 1002,
+              "uri": "https://www.cdc.gov/library/sciclips/issues/v15issue7.html"
+            }
+          ]
+        },
+        "avgLogprobs": -9.330033901191892e-06
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2890,
+      "candidatesTokenCount": 483,
+      "totalTokenCount": 3373,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2890
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 483
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "JJ1SaLj6BoqThMIPyoil0Qo"
+  }
+}

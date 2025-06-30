@@ -1,0 +1,59 @@
+{
+  "response_id": 193,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:46:09.505219",
+  "metadata": {
+    "url": "https://jle.hse.ru/article/view/11644",
+    "final_url": "https://jle.hse.ru/article/view/11644",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Content Subject Teachers’ Views of Implementing the English Across the Curriculum (EAC) Approach: A Study of Some South African High Schools\",\n    \"authors\": [\n      \"Nhlanhla Mpofu\",\n      \"Mncedisi C Maphalala\"\n    ],\n    \"doi\": \"10.17323/jle.2021.11644\",\n    \"journal\": \"Journal of Language and Education\",\n    \"year\": \"2021\",\n    \"abstract\": \"This article explores the views held by content subject teachers on the implementation of the English Across the Curriculum (EAC) approach in their high school classrooms. In South Africa, the EAC approach has been part of the school curriculum since 2014; however, to date, there is a paucity of studies that have focused on understanding how high school teachers implement this approach. In 2017, the South African Department of Basic Education reported that high school teachers were not using this approach without indicating why this was the case. To provide the views of the teachers, the present study drew theoretical insights from reflective teaching to explore the phenomenon. We conducted a qualitative intrinsic case study inquiry, during which we examined the views that 15 high school teachers held on implementing English language skills in content subjects. We collected data using a focus group interview form prepared based on Gibb's model. The findings indicate that content subject teachers have views on (i) the merits of EAC in general language development, (ii) EAC as a challenge to pedagogical-content knowledge, and (iii) strategies for improving the implementation of the EAC approach. This exploratory study has certain implications for the practice of implementing the EAC approach in content teaching, finding that there may be merit in the use of targeted continuing professional development for content teachers when implementing EAC. Secondly, there is a need for partnerships between teachers of English as a second language and content subject teachers, as this cross-curricular collaboration has the potential to enhance the implementation of the EAC approach in high school classrooms.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://jle.hse.ru/article/download/11644/12878\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 95,
+              "endIndex": 235,
+              "uri": "https://nhlanhlampofu.com/research-focus/"
+            },
+            {
+              "startIndex": 442,
+              "endIndex": 2159
+            }
+          ]
+        },
+        "avgLogprobs": -0.0006210109123687475
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2649,
+      "candidatesTokenCount": 567,
+      "totalTokenCount": 3216,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2649
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 567
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "7phSaKL9EZrnqsMPzonmkA0"
+  }
+}

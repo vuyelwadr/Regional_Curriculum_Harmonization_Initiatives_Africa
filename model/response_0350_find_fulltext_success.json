@@ -1,0 +1,46 @@
+{
+  "response_id": 350,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:01:12.237127",
+  "metadata": {
+    "url": "https://phsreda.com/article/114909/discussion_platform",
+    "final_url": "https://phsreda.com/en/article/114909/discussion_platform",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Content Validity Analysis of SSCE Financial Accounting Multiple-Choice Tests: A Comparative Study of WAEC, NECO, and NABTEB in 2020\",\n    \"authors\": [\n      \"Bello Samuel\",\n      \"Daramola Dorcas\",\n      \"Oladele Jumoke\",\n      \"Obimuyiwa Gabriel\"\n    ],\n    \"doi\": \"10.31483/r-114909\",\n    \"journal\": \"Pedagogical readings dedicated to the memory of Professor V.P. Manukhin in honor of the 30th anniversary of the Moscow University of Humanities and Economics\",\n    \"year\": \"2024\",\n    \"abstract\": \"the purpose of this study was to assess the content validity of the multiple-choice Financial Accounting Senior School Certificate Examination (SSCE) tests given by the National Business and Technical Examination Board (NABTEB), West African Examinations Council (WAEC), and National Examinations Council (NECO). It primarily assessed how well the test items represented the taxonomy and subject matter of the foundational Financial Accounting program. The 2020 exam items were used as the sample, and the population consisted of all SSCE multiple-choice Financial Accounting question papers from WAEC, NECO, and NABTEB. The study was led by a single hypothesis and thee research questions. The main tools for gathering data were the SSCE exam papers and the Financial Accounting curriculum. To ascertain content validity, 160 multiple-choice questions were examined using the coefficient of validity and percentage difference. The findings showed that WAEC (0.80), NECO (0.78), and NABTEB (0.79) had good validity indices, with WAEC having the highest coefficient. Findings, however, showed that several subjects, such \\\"Introduction to Accounting\\\" and \\\"Branch Account\\\", were either under-represented or completely left out, indicating disparities in topic representation.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://phsreda.com/e-articles/10660/Action10660-114909.pdf\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.0013991671462431023
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2672,
+      "candidatesTokenCount": 564,
+      "totalTokenCount": 3236,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2672
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 564
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "dZxSaMvSHrPQhMIP372DoQ0"
+  }
+}

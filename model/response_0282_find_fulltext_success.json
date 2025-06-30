@@ -1,0 +1,54 @@
+{
+  "response_id": 282,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:55:10.886967",
+  "metadata": {
+    "url": "https://link.springer.com/10.1007/s10639-024-12522-4",
+    "final_url": "https://link.springer.com/article/10.1007/s10639-024-12522-4",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Computational thinking integrated into the English language curriculum in primary education: A systematic review\",\n    \"authors\": [\n      \"Li, Xinlei\",\n      \"Sang, Guoyuan\",\n      \"Valcke, Martin\",\n      \"van Braak, Johan\"\n    ],\n    \"doi\": \"10.1007/s10639-024-12522-4\",\n    \"journal\": \"Education and Information Technologies\",\n    \"year\": \"2024\",\n    \"abstract\": \"Computational thinking (CT) is valued as a thinking process that is required to adapt to the development of curriculum in primary education. In the context of modern information technology, English as a language subject emphasizes the necessity for changes in both learning and teaching modes. However, there is a lack of up-to-date synthesis research and a comprehensive overview surrounding CT integrated into English language curriculum learning and teaching in primary education. To address this research gap, this study conducted a systematic literature review on CT in the primary English curriculum, based on papers published from 2011 to 2021. The purpose of this review is to systematically examine and present empirical evidence on how CT can be integrated into the teaching and learning of the primary English language curriculum in educational contexts. The review was conducted based on the PRISMA 2020 statement and presents a synthesis of 32 articles. The CT-TPACK model was adopted as a lens and framework to analyze these articles. The results indicate that the relationship among CT, content knowledge of English language curriculum, pedagogy and learning knowledge, technology and resources is highlighted. Research on the integration of CT into English courses using unplugged activities is still insufficient. The research about how teachers and students use CT to support content knowledge of the English language curriculum in various educational contexts is still in its infancy.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://link.springer.com/content/pdf/10.1007/s10639-024-12522-4.pdf\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://link.springer.com/article/10.1007/s10639-024-12522-4\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": true,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 462,
+              "endIndex": 1962
+            }
+          ]
+        },
+        "avgLogprobs": -0.00023578965741068028
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2763,
+      "candidatesTokenCount": 618,
+      "totalTokenCount": 3381,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2763
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 618
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "C5tSaMjZE_6ShMIPm7P8iAY"
+  }
+}

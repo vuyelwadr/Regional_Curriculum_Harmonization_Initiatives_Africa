@@ -1,0 +1,72 @@
+{
+  "response_id": 490,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:14:09.757102",
+  "metadata": {
+    "url": "https://www.emerald.com/insight/content/doi/10.1108/AEDS-01-2021-0019/full/html",
+    "final_url": "https://www.emerald.com/insight/content/doi/10.1108/aeds-01-2021-0019/full/html",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"The Sino-African higher education exchange: toward building a literature\",\n    \"authors\": [\n      \"Chkaif Bouchaib\"\n    ],\n    \"doi\": \"10.1108/AEDS-01-2021-0019\",\n    \"journal\": \"Asian Education and Development Studies\",\n    \"year\": \"2022\",\n    \"abstract\": \"This paper intends to provide a thematic literature review of the scholarly research articles orbiting the Sino–African education cooperation and exchange, published between 2005 and 2022. The methodology used in this paper is qualitative in nature with a thematic approach. The author used content analysis techniques to spotlight the major themes of the topic studied. The author selected the papers and theses, based on their heuristic capacity, from two major databases for the English and Chinese literature: Web of Science and CNKI. The selection process resulted in 60 high-quality peer-reviewed articles and theses. Another 30 research articles and theses were used as supplementary resources. The literature concentrates on six points: the historical development, the nature of the exchange, the frameworks of the cooperation, vocational training and knowledge transfer, African students in China and their experiences, and education cooperation and soft power. However, research tends to be somewhat polemical rather than an academic debate between Chinese researchers and their western peers. Therefore, empirical studies beyond the geopolitical preoccupations and the “YEA” or “NAY” to the Sino–African education exchange are critically needed. The implications of this study go beyond the east/west or developed/developing world rhetoric and focus more on sustainable educational development on a global scale. Understanding how the literature on the Sino–African education engagement is shaping, provides valuable insights into international education in the global south. It can also be implied to approach educational engagement with other destinations such as India, Türkiye and Brazil. This thematic literature review concentrates on the educational aspect of Sino–African relations. It compares English and Chinese peer-reviewed scholarly articles and theses on China–Africa educational engagement and has heuristic implications for sustainable educational development globally.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://www.emerald.com/insight/content/doi/10.1108/aeds-01-2021-0019/full/html\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": true,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 359,
+              "endIndex": 541,
+              "uri": "https://ouci.dntb.gov.ua/en/works/4rZ0LkY4/"
+            },
+            {
+              "startIndex": 547,
+              "endIndex": 1051
+            },
+            {
+              "startIndex": 1060,
+              "endIndex": 1603
+            },
+            {
+              "startIndex": 1615,
+              "endIndex": 2054
+            },
+            {
+              "startIndex": 2063,
+              "endIndex": 2345,
+              "uri": "https://ouci.dntb.gov.ua/en/works/4rZ0LkY4/"
+            }
+          ]
+        },
+        "avgLogprobs": -1.3214711118458512e-05
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2502,
+      "candidatesTokenCount": 601,
+      "totalTokenCount": 3103,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2502
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 601
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "fp9SaNjeFLqFsbQPqNrRqAQ"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "response_id": 206,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:47:11.643564",
+  "metadata": {
+    "apa_number": 172,
+    "url": "https://jeilt.org/index.php/jeilt/article/download/37/37",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://jeilt.org/index.php/jeilt/article/download/37/37\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in East Africa, specifically the EAC. It addresses harmonization across institutions and countries within the EAC framework, discussing mutual recognition and cross-border education. The paper mentions the EAC Protocol on Education and Training, which aims to harmonize education systems in the region.\",\n  \"Title\": \"EAC Protocol on Education and Training: Harmonisation of Higher Education in East Africa\",\n  \"Authors\": [\n    \"Pamela Abbott\",\n    \"Geoffrey Bakulumpagi\",\n    \"James O’Meara\"\n  ],\n  \"Year\": \"2013\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Journal of Education and International Law and Technology\",\n    \"DOI_URL\": \"https://jeilt.org/index.php/jeilt/article/view/37\",\n    \"APA_Reference\": \"Abbott, P., Bakulumpagi, G., & O’Meara, J. (2013). EAC Protocol on Education and Training: Harmonisation of Higher Education in East Africa. Journal of Education and International Law and Technology, 7(1), 1-20. https://jeilt.org/index.php/jeilt/article/view/37\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Document Analysis/Policy Analysis\",\n    \"Geographic_Focus\": \"East African Community (EAC)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"N/A\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated, but implicitly uses regional integration theory.\",\n    \"Harmonization_Definition\": \"Harmonization is defined in the context of the EAC Protocol on Education and Training, aiming to create a common education area.\",\n    \"Regional_Initiatives\": [\n      \"EAC Protocol on Education and Training\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Policy development\",\n      \"Legal frameworks\",\n      \"Institutional cooperation\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"EAC Secretariat\",\n      \"National governments\",\n      \"Higher education institutions\",\n      \"Students\"\n    ],\n    \"Data_Sources\": [\n      \"EAC Protocol on Education and Training\",\n      \"EAC documents\",\n      \"Secondary literature\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"The EAC Protocol on Education and Training provides a framework for harmonizing higher education in East Africa.\",\n      \"Implementation of the protocol faces challenges related to national sovereignty and varying education systems.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"National sovereignty\",\n      \"Varying education systems\",\n      \"Lack of resources\",\n      \"Political will\"\n    ],\n    \"Success_Factors\": [\n      \"Political commitment\",\n      \"Regional cooperation\",\n      \"Stakeholder engagement\"\n    ],\n    \"Recommendations\": [\n      \"Strengthening regional institutions\",\n      \"Increasing funding for harmonization initiatives\",\n      \"Promoting stakeholder engagement\"\n    ],\n    \"Future_Research\": [\n      \"Impact of the EAC Protocol on student mobility\",\n      \"Effectiveness of harmonization efforts on quality of education\"\n    ],\n    \"Specific_Examples\": [\n      \"Mutual recognition of qualifications\",\n      \"Establishment of a common curriculum framework\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Policy frameworks\",\n      \"Legal agreements\",\n      \"Regional institutions\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"National sovereignty\",\n      \"Resource constraints\",\n      \"Political will\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Regional cooperation\",\n      \"Political commitment\",\n      \"Stakeholder engagement\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased student mobility\",\n      \"Improved quality of education\",\n      \"Enhanced regional integration\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 620,
+      "candidatesTokenCount": 959,
+      "totalTokenCount": 1579,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 620
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 959
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "KZlSaLOKFoqThMIPyoil0Qo"
+  }
+}

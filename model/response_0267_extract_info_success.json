@@ -1,0 +1,45 @@
+{
+  "response_id": 267,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:53:14.667976",
+  "metadata": {
+    "apa_number": 212,
+    "url": "https://juku.um.edu.my/index.php/JUKU/article/download/51889/16906",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://juku.um.edu.my/index.php/JUKU/article/download/51889/16906\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in East Africa, specifically the EAC. It addresses harmonization across institutions and countries within the EAC framework, discussing cross-border education, mutual recognition, and regional qualifications frameworks. The paper explicitly mentions the EAC Protocol on Education and Training and its implications for harmonizing higher education curricula.\",\n  \"Title\": \"Harmonisation of Higher Education Curricula in East Africa: Progress, Challenges and Prospects\",\n  \"Authors\": [\n    \"Aloys Ayako\",\n    \"Peter Baguma\",\n    \"Ronald Bisaso\"\n  ],\n  \"Year\": \"2023\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Jurnal Kurikulum & Pengajaran Asia Tenggara\",\n    \"DOI_URL\": \"https://doi.org/10.22437/jkpt.v11i2.51889\",\n    \"APA_Reference\": \"Ayako, A., Baguma, P., & Bisaso, R. (2023). Harmonisation of Higher Education Curricula in East Africa: Progress, Challenges and Prospects. Jurnal Kurikulum & Pengajaran Asia Tenggara, 11(2), 1–14. https://doi.org/10.22437/jkpt.v11i2.51889\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature Review and Document Analysis\",\n    \"Geographic_Focus\": \"East Africa (EAC)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable (literature review)\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated, but implicitly uses regional integration theory.\",\n    \"Harmonization_Definition\": \"Harmonisation is defined as the process of creating a common understanding and framework for higher education curricula across the EAC region, facilitating comparability and mutual recognition of qualifications.\",\n    \"Regional_Initiatives\": [\n      \"EAC Protocol on Education and Training\",\n      \"EAC Common Higher Education Area\",\n      \"Regional Qualifications Framework\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Development of common curricula\",\n      \"Establishment of quality assurance mechanisms\",\n      \"Mutual recognition of qualifications\",\n      \"Credit transfer systems\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"EAC Secretariat\",\n      \"National Higher Education Institutions\",\n      \"National Qualifications Authorities\",\n      \"Students\",\n      \"Employers\"\n    ],\n    \"Data_Sources\": [\n      \"EAC documents\",\n      \"Policy documents\",\n      \"Academic literature\",\n      \"Reports from higher education institutions\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Progress has been made in harmonizing higher education curricula in East Africa, particularly in fields like engineering and medicine.\",\n      \"Challenges remain in terms of funding, political will, and differing national priorities.\",\n      \"The EAC Protocol on Education and Training provides a strong framework for harmonization.\",\n      \"Mutual recognition of qualifications is crucial for facilitating student and labor mobility.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Inadequate funding\",\n      \"Lack of political will\",\n      \"Differing national priorities\",\n      \"Resistance from some institutions\",\n      \"Varying quality assurance standards\"\n    ],\n    \"Success_Factors\": [\n      \"Strong regional framework (EAC Protocol)\",\n      \"Commitment from key stakeholders\",\n      \"Development of common curricula\",\n      \"Establishment of quality assurance mechanisms\"\n    ],\n    \"Recommendations\": [\n      \"Increased funding for harmonization initiatives\",\n      \"Strengthening of regional quality assurance mechanisms\",\n      \"Enhanced collaboration among stakeholders\",\n      \"Development of a regional qualifications framework\"\n    ],\n    \"Future_Research\": [\n      \"Impact of curriculum harmonization on student learning outcomes\",\n      \"Effectiveness of different harmonization approaches\",\n      \"Role of technology in facilitating harmonization\"\n    ],\n    \"Specific_Examples\": [\n      \"Harmonization of engineering curricula in EAC universities\",\n      \"Development of a regional qualifications framework for higher education\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Common curricula development\",\n      \"Quality assurance frameworks\",\n      \"Mutual recognition agreements\",\n      \"Credit transfer systems\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Funding constraints\",\n      \"Political interference\",\n      \"National sovereignty concerns\",\n      \"Institutional resistance\",\n      \"Quality disparities\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Regional policy frameworks\",\n      \"Stakeholder collaboration\",\n      \"Political commitment\",\n      \"Harmonized quality standards\",\n      \"Resource mobilization\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased student mobility\",\n      \"Enhanced labor market integration\",\n      \"Improved quality of education\",\n      \"Regional economic development\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 630,
+      "candidatesTokenCount": 1185,
+      "totalTokenCount": 1815,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 630
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1185
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "k5pSaKntE4uZhMIPlvTuyQY"
+  }
+}

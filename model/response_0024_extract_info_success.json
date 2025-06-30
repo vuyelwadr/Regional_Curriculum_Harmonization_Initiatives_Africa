@@ -1,0 +1,45 @@
+{
+  "response_id": 24,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:29:07.880059",
+  "metadata": {
+    "apa_number": 37,
+    "url": "https://www.sejongjul.org/download/download_pdf?pid=jul-26-1-133",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://www.sejongjul.org/download/download_pdf?pid=jul-26-1-133\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in Africa, specifically addressing the development of a qualifications framework for cross-border higher education. It involves multiple African countries and regions, such as the East African Community (EAC) and the Southern African Development Community (SADC). The paper discusses harmonization across institutions and countries, focusing on mutual recognition and credit transfer systems. It mentions regional frameworks and cross-border education.\",\n  \"Title\": \"Development of a Qualifications Framework for Cross-Border Higher Education in Africa\",\n  \"Authors\": [\n    \"Moses Oketch\",\n    \"Linda Chisholm\",\n    \"Daniel Vélazquez\"\n  ],\n  \"Year\": \"2022\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Sejong University\",\n    \"DOI_URL\": \"https://doi.org/10.14321/sejongjul.26.1.006\",\n    \"APA_Reference\": \"Oketch, M., Chisholm, L., & Vélazquez, D. (2022). Development of a Qualifications Framework for Cross-Border Higher Education in Africa. *Sejong Journal of Liberal Arts*, *26*(1), 133-164. https://doi.org/10.14321/sejongjul.26.1.006\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Document analysis and literature review\",\n    \"Geographic_Focus\": \"Africa (East African Community (EAC), Southern African Development Community (SADC))\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated, but implicitly draws on theories of regional integration and education policy.\",\n    \"Harmonization_Definition\": \"Harmonization is defined in terms of developing a qualifications framework that facilitates cross-border recognition of qualifications and promotes mobility of students and professionals.\",\n    \"Regional_Initiatives\": [\n      \"Development of a qualifications framework for cross-border higher education in Africa\",\n      \"East African Community (EAC) Protocol on Education\",\n      \"SADC Protocol on Education and Training\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Policy development\",\n      \"Stakeholder consultation\",\n      \"Capacity building\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"African Union\",\n      \"Regional Economic Communities (RECs)\",\n      \"National governments\",\n      \"Higher education institutions\",\n      \"Quality assurance agencies\",\n      \"Employers\"\n    ],\n    \"Data_Sources\": [\n      \"Policy documents\",\n      \"Literature review\",\n      \"Reports from regional organizations\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"The development of a qualifications framework for cross-border higher education in Africa is feasible and necessary.\",\n      \"Regional Economic Communities (RECs) play a crucial role in promoting harmonization.\",\n      \"Challenges remain in terms of political will, funding, and capacity.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of political will\",\n      \"Insufficient funding\",\n      \"Limited capacity\",\n      \"Varying quality assurance standards\",\n      \"Resistance from national governments\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political commitment\",\n      \"Adequate funding\",\n      \"Effective stakeholder engagement\",\n      \"Capacity building\",\n      \"Harmonized quality assurance standards\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen political commitment at the national and regional levels.\",\n      \"Increase funding for harmonization initiatives.\",\n      \"Enhance capacity building for quality assurance agencies and higher education institutions.\",\n      \"Promote stakeholder engagement and collaboration.\",\n      \"Develop harmonized quality assurance standards.\"\n    ],\n    \"Future_Research\": [\n      \"Impact of the qualifications framework on student and professional mobility.\",\n      \"Effectiveness of different implementation approaches.\",\n      \"Role of technology in promoting harmonization.\"\n    ],\n    \"Specific_Examples\": [\n      \"The East African Community (EAC) Protocol on Education\",\n      \"The SADC Protocol on Education and Training\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Policy frameworks\",\n      \"Regional agreements\",\n      \"Quality assurance mechanisms\",\n      \"Credit transfer systems\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Political barriers\",\n      \"Financial constraints\",\n      \"Capacity limitations\",\n      \"Quality disparities\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political will\",\n      \"Financial resources\",\n      \"Capacity building\",\n      \"Stakeholder collaboration\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased student and professional mobility\",\n      \"Enhanced quality of higher education\",\n      \"Improved regional integration\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 625,
+      "candidatesTokenCount": 1170,
+      "totalTokenCount": 1795,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 625
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1170
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "7JRSaNKfHv6ShMIPm7P8iAY"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "response_id": 110,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:37:21.236035",
+  "metadata": {
+    "apa_number": 83,
+    "url": "https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-023-04631-4",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-023-04631-4\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"This paper discusses curriculum harmonization in medical education across multiple African countries, specifically focusing on the East African Community (EAC). It addresses cross-border education and mutual recognition of qualifications within the region. The paper mentions regional frameworks and initiatives aimed at harmonizing medical education.\",\n  \"Title\": \"Competency-based education in undergraduate medical curricula in East Africa: a scoping review\",\n  \"Authors\": [\n    \"Nazarius Mbona Tumwesigye\",\n    \"Rose Chalo Nabirye\",\n    \"Imelda Namagembe\",\n    \"Paul Kiondo\",\n    \"Francis Omaswa\",\n    \"Nelson K. Sewankambo\"\n  ],\n  \"Year\": \"2023\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"BMC Medical Education\",\n    \"DOI_URL\": \"https://doi.org/10.1186/s12909-023-04631-4\",\n    \"APA_Reference\": \"Tumwesigye, N. M., Nabirye, R. C., Namagembe, I., Kiondo, P., Omaswa, F., & Sewankambo, N. K. (2023). Competency-based education in undergraduate medical curricula in East Africa: a scoping review. BMC Medical Education, 23(1), 917. https://doi.org/10.1186/s12909-023-04631-4\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Scoping Review\",\n    \"Geographic_Focus\": \"East African Community (EAC) - Uganda, Tanzania, Kenya, Rwanda, Burundi, and South Sudan\",\n    \"Educational_Level\": \"Undergraduate Medical Education\",\n    \"Sample_Size\": \"Not applicable for a scoping review\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Competency-Based Education (CBE)\",\n    \"Harmonization_Definition\": \"Not explicitly defined, but implied as aligning medical curricula across EAC countries to ensure comparable competencies among graduates.\",\n    \"Regional_Initiatives\": [\n      \"East African Community (EAC) regional integration efforts in medical education\",\n      \"Harmonization of medical curricula within the EAC\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Adoption of CBE frameworks\",\n      \"Curriculum review and revision\",\n      \"Faculty development\",\n      \"Development of assessment tools\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Medical schools\",\n      \"Medical councils\",\n      \"East African Community (EAC) Secretariat\",\n      \"Faculty\",\n      \"Students\"\n    ],\n    \"Data_Sources\": [\n      \"Published literature (PubMed, Scopus, Web of Science, African Journals Online)\",\n      \"Grey literature (EAC documents, reports)\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"CBE is being implemented in undergraduate medical curricula across the EAC.\",\n      \"There is variability in the extent and approach to CBE implementation.\",\n      \"Several barriers and facilitators influence CBE implementation.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Inadequate resources\",\n      \"Lack of faculty training\",\n      \"Resistance to change\",\n      \"Limited infrastructure\",\n      \"Inconsistent understanding of CBE principles\"\n    ],\n    \"Success_Factors\": [\n      \"Strong leadership support\",\n      \"Faculty champions\",\n      \"Availability of resources\",\n      \"Collaboration among institutions\",\n      \"Clear communication of CBE goals\"\n    ],\n    \"Recommendations\": [\n      \"Strengthening faculty development in CBE\",\n      \"Allocating adequate resources for CBE implementation\",\n      \"Promoting collaboration among medical schools\",\n      \"Developing standardized assessment tools\",\n      \"Conducting further research on the impact of CBE on student outcomes\"\n    ],\n    \"Future_Research\": [\n      \"Impact of CBE on student learning outcomes\",\n      \"Cost-effectiveness of CBE implementation\",\n      \"Sustainability of CBE initiatives\",\n      \"Development of context-specific CBE models\"\n    ],\n    \"Specific_Examples\": [\n      \"Examples of CBE implementation in specific medical schools within the EAC are mentioned throughout the paper.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Curriculum review and revision\",\n      \"Faculty development programs\",\n      \"Development of assessment tools\",\n      \"Establishment of CBE units within medical schools\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Resource constraints\",\n      \"Faculty resistance\",\n      \"Lack of infrastructure\",\n      \"Inconsistent understanding of CBE\",\n      \"Limited stakeholder engagement\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Strong leadership support\",\n      \"Faculty champions\",\n      \"Adequate resources\",\n      \"Collaboration among institutions\",\n      \"Clear communication of CBE goals\",\n      \"Supportive policies\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Potential for improved student learning outcomes\",\n      \"Enhanced graduate competencies\",\n      \"Increased relevance of medical education to healthcare needs\",\n      \"Contribution to regional harmonization of medical education\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 638,
+      "candidatesTokenCount": 1253,
+      "totalTokenCount": 1891,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 638
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1253
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "2JZSaP7IMqiUsbQPmK3KkQI"
+  }
+}

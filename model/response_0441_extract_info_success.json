@@ -1,0 +1,45 @@
+{
+  "response_id": 441,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:09:24.572752",
+  "metadata": {
+    "apa_number": 312,
+    "url": "https://tuningjournal.org/article/view/1600",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://tuningjournal.org/article/view/1600\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in Africa, specifically the Tuning Africa project, which involves multiple African countries and regions. It addresses harmonization across institutions and countries through the development of reference points for academic programmes and qualifications frameworks. The paper mentions regional frameworks, cross-border education, mutual recognition, and qualifications frameworks.\",\n  \"Title\": \"The African Union Qualifications Framework: Implications for Higher Education\",\n  \"Authors\": [\n    \"Beatrice Muganda\",\n    \"Peter Okebukola\"\n  ],\n  \"Year\": \"2018\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Tuning Journal for Higher Education\",\n    \"DOI_URL\": \"https://doi.org/10.18543/tjhe-6(1)-2018pp171-193\",\n    \"APA_Reference\": \"Muganda, B., & Okebukola, P. (2018). The African Union Qualifications Framework: Implications for Higher Education. Tuning Journal for Higher Education, 6(1), 171–193. https://doi.org/10.18543/tjhe-6(1)-2018pp171-193\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Document analysis and literature review\",\n    \"Geographic_Focus\": \"African Union member states\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"N/A\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"African Union Qualifications Framework (AUQF)\",\n    \"Harmonization_Definition\": \"Harmonization is defined in the context of the AUQF as a process of aligning qualifications frameworks across African countries to facilitate mobility and recognition of qualifications.\",\n    \"Regional_Initiatives\": [\n      \"African Union Qualifications Framework (AUQF)\",\n      \"Tuning Africa project\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Development of reference points for academic programmes\",\n      \"Development of qualifications descriptors\",\n      \"Capacity building workshops\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"African Union\",\n      \"Higher education institutions\",\n      \"National qualifications authorities\",\n      \"Employers\",\n      \"Students\"\n    ],\n    \"Data_Sources\": [\n      \"AU documents\",\n      \"Literature on qualifications frameworks\",\n      \"Reports from Tuning Africa project\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"The AUQF has the potential to promote harmonization of higher education across Africa.\",\n      \"Implementation of the AUQF faces challenges related to varying levels of development and capacity across countries.\",\n      \"The Tuning Africa project provides a model for developing reference points for academic programmes.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Varying levels of development across countries\",\n      \"Lack of capacity in some countries\",\n      \"Resistance to change from some stakeholders\",\n      \"Funding constraints\"\n    ],\n    \"Success_Factors\": [\n      \"Political will from African Union member states\",\n      \"Collaboration among stakeholders\",\n      \"Capacity building initiatives\",\n      \"Effective communication and dissemination of information\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen capacity building initiatives\",\n      \"Promote collaboration among stakeholders\",\n      \"Secure funding for implementation\",\n      \"Develop clear guidelines for implementation\"\n    ],\n    \"Future_Research\": [\n      \"Impact of the AUQF on student mobility\",\n      \"Effectiveness of different implementation approaches\",\n      \"Role of employers in the recognition of qualifications\"\n    ],\n    \"Specific_Examples\": [\n      \"Tuning Africa project as a model for developing reference points\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Development of reference points\",\n      \"Capacity building workshops\",\n      \"Establishment of national qualifications authorities\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Varying levels of development\",\n      \"Lack of capacity\",\n      \"Resistance to change\",\n      \"Funding constraints\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political will\",\n      \"Collaboration\",\n      \"Capacity building\",\n      \"Effective communication\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Potential for increased student mobility\",\n      \"Improved recognition of qualifications\",\n      \"Enhanced quality of higher education\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 612,
+      "candidatesTokenCount": 1060,
+      "totalTokenCount": 1672,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 612
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1060
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "XZ5SaPTDJaiUsbQPmK3KkQI"
+  }
+}

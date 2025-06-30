@@ -1,0 +1,45 @@
+{
+  "response_id": 139,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:40:20.500431",
+  "metadata": {
+    "apa_number": 85,
+    "url": "https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-024-05618-5",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-024-05618-5\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper discusses regional harmonization of medical education in East Africa, specifically focusing on the East African Community (EAC) and efforts to standardize medical curricula across multiple countries. It addresses cross-border education and mutual recognition of qualifications within the EAC region.\",\n  \"Title\": \"Competency-based education in undergraduate medical curricula in East Africa: a scoping review\",\n  \"Authors\": [\n    \"Nazarius Mbona Tumwesigye\",\n    \"Rose Chalo Nabirye\",\n    \"Imelda Namagembe\",\n    \"Paul Kiondo\",\n    \"Anthony Batte\",\n    \"Francis Omaswa\",\n    \"Nelson K. Sewankambo\"\n  ],\n  \"Year\": \"2024\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"BMC Medical Education\",\n    \"DOI_URL\": \"https://doi.org/10.1186/s12909-024-05618-5\",\n    \"APA_Reference\": \"Tumwesigye, N. M., Nabirye, R. C., Namagembe, I., Kiondo, P., Batte, A., Omaswa, F., & Sewankambo, N. K. (2024). Competency-based education in undergraduate medical curricula in East Africa: a scoping review. BMC Medical Education, 24(1). https://doi.org/10.1186/s12909-024-05618-5\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Scoping Review\",\n    \"Geographic_Focus\": \"East Africa (Burundi, Kenya, Rwanda, Tanzania, Uganda)\",\n    \"Educational_Level\": \"Undergraduate Medical Education\",\n    \"Sample_Size\": \"Not applicable for scoping review\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Competency-Based Education (CBE)\",\n    \"Harmonization_Definition\": \"Standardization of medical curricula based on competencies across East African countries.\",\n    \"Regional_Initiatives\": [\n      \"East African Community (EAC) efforts to harmonize medical education\",\n      \"Development of regional competency frameworks\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Curriculum review and revision\",\n      \"Faculty development\",\n      \"Assessment strategies\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Medical schools\",\n      \"Regulatory bodies\",\n      \"East African Community (EAC)\",\n      \"Faculty\",\n      \"Students\"\n    ],\n    \"Data_Sources\": [\n      \"Published literature\",\n      \"Grey literature\",\n      \"Databases (PubMed, Scopus, Web of Science)\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"CBE is being implemented in undergraduate medical curricula in East Africa.\",\n      \"There is variability in the extent and approach to CBE implementation.\",\n      \"Regional harmonization efforts are underway but face challenges.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of resources\",\n      \"Inadequate faculty training\",\n      \"Resistance to change\",\n      \"Limited infrastructure\",\n      \"Varying levels of commitment across institutions\"\n    ],\n    \"Success_Factors\": [\n      \"Strong leadership\",\n      \"Collaboration among institutions\",\n      \"Support from regulatory bodies\",\n      \"Faculty champions\",\n      \"Availability of resources\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen regional collaboration\",\n      \"Invest in faculty development\",\n      \"Develop standardized assessment tools\",\n      \"Allocate adequate resources\",\n      \"Promote evidence-based practices\"\n    ],\n    \"Future_Research\": [\n      \"Impact of CBE on student outcomes\",\n      \"Cost-effectiveness of CBE implementation\",\n      \"Sustainability of CBE initiatives\",\n      \"Evaluation of regional harmonization efforts\"\n    ],\n    \"Specific_Examples\": [\n      \"Development of EAC regional competency framework for medical education\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Curriculum development workshops\",\n      \"Faculty training programs\",\n      \"Regional meetings and conferences\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Resource constraints\",\n      \"Faculty resistance\",\n      \"Lack of standardization\",\n      \"Political and bureaucratic hurdles\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political will\",\n      \"Institutional commitment\",\n      \"Regional partnerships\",\n      \"Availability of funding\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Improved student learning outcomes\",\n      \"Enhanced quality of medical education\",\n      \"Increased mobility of graduates\",\n      \"Strengthened healthcare systems\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 638,
+      "candidatesTokenCount": 1153,
+      "totalTokenCount": 1791,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 638
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1153
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "jZdSaJeQBbqFsbQPqNrRqAQ"
+  }
+}

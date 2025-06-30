@@ -1,0 +1,46 @@
+{
+  "response_id": 466,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:11:25.281253",
+  "metadata": {
+    "url": "https://www.biometricupdate.com/202505/east-african-states-explore-ways-to-foster-cross-border-dpi-development",
+    "final_url": "https://www.biometricupdate.com/202505/east-african-states-explore-ways-to-foster-cross-border-dpi-development",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"East African states explore ways to foster cross-border DPI development\",\n    \"authors\": [\n      \"Ayang Macdonald\"\n    ],\n    \"doi\": null,\n    \"journal\": \"Biometric Update\",\n    \"year\": \"2025\",\n    \"abstract\": \"Participants are also discussing challenges that stand in the way of DPI development not only in the EAC region but in Africa as whole.\"\n  },\n  \"fulltext_links\": [],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.00036066519362585887
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3404,
+      "candidatesTokenCount": 175,
+      "totalTokenCount": 3579,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3404
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 175
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "3J5SaPveAouZhMIPlvTuyQY"
+  }
+}

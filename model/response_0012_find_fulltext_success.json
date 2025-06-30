@@ -1,0 +1,59 @@
+{
+  "response_id": 12,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:28:06.467691",
+  "metadata": {
+    "url": "http://dergipark.org.tr/en/doi/10.59886/tsbder.1528084",
+    "final_url": "https://dergipark.org.tr/tr/pub/tsbder/issue/87455/1528084",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Morocco, at the Heart of the Harmonization of the African Union's Migration Policies: Context, Complexity, Diversity, Effects and Challenges\",\n    \"authors\": [\n      \"Mohamed Charef\",\n      \"Yasmine Bouchfar\"\n    ],\n    \"doi\": \"10.59886/tsbder.1528084\",\n    \"journal\": \"Türkiye Siyaset Bilimi Dergisi\",\n    \"year\": \"2024\",\n    \"abstract\": \"Since the mid-1980s, the European Union has adopted a cautious attitude to migratory flows. It has constantly stepped up initiatives to combat immigration, by tightening border controls and reducing the granting of visas, thereby forcing would-be emigrants to look for alternatives. At the same time, Africa is facing unique migration challenges. The consequences of colonization, the imposition of capitalist relations and the development of an extroverted economy, among others, continue to influence current migration dynamics. Persistent economic crises, exacerbated by inequitable global economic policies, are driving many people to seek better opportunities elsewhere. In addition, the effects of climate change, such as desertification, droughts and floods, are intensifying migratory pressures. African countries therefore need to develop effective migration policies to govern migratory flows and respond to geopolitical challenges. It is crucial to put in place regional and international cooperation mechanisms to manage migration in a coordinated and humane manner. This means thinking carefully about migration issues, considering the historical, economic and political realities that shape them. This issue must be at the heart of the concerns of States and the African Union. It is true that attempts are being made at continental level, such as the Kampala Convention and the establishment of the African Continental Free Trade Area (ACFTA), but these measures can only be truly appreciated if they are applied on the ground.\"\n  },\n  \"fulltext_links\": [],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 96,
+              "endIndex": 236,
+              "uri": "https://scholar-chat.com/paper/web/30742a83447c9f904f805403e612b5f7"
+            },
+            {
+              "startIndex": 436,
+              "endIndex": 1973
+            }
+          ]
+        },
+        "avgLogprobs": -0.0015378207739057213
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2812,
+      "candidatesTokenCount": 464,
+      "totalTokenCount": 3276,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2812
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 464
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "s5RSaPbmJIqThMIPyoil0Qo"
+  }
+}

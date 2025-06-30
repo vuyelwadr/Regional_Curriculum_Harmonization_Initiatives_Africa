@@ -1,0 +1,45 @@
+{
+  "response_id": 48,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:31:13.260683",
+  "metadata": {
+    "apa_number": 56,
+    "url": "https://ajates-scholarly.com/index.php/ajates/article/download/30/28",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://ajates-scholarly.com/index.php/ajates/article/download/30/28\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper discusses regional curriculum harmonization initiatives in East Africa, specifically focusing on the EAC (East African Community) and the harmonization of engineering programs across multiple countries. It addresses cross-border education and mutual recognition of qualifications within the region. The paper mentions the EAC Qualifications Framework and efforts to harmonize curricula to facilitate student mobility and workforce development.\",\n  \"Title\": \"Harmonization of Engineering Curriculum in East Africa: Opportunities and Challenges\",\n  \"Authors\": [\n    \"Twaha Tindimubona\",\n    \"Moses Musinguzi\",\n    \"John Baptist Kirabira\",\n    \"Anthony Gidudu\"\n  ],\n  \"Year\": \"2019\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"African Journal of Applied Technical and Engineering Sciences\",\n    \"DOI_URL\": \"https://doi.org/10.33472/ajates.1.1.30-40\",\n    \"APA_Reference\": \"Tindimubona, T., Musinguzi, M., Kirabira, J. B., & Gidudu, A. (2019). Harmonization of Engineering Curriculum in East Africa: Opportunities and Challenges. *African Journal of Applied Technical and Engineering Sciences*, *1*(1), 30-40. https://doi.org/10.33472/ajates.1.1.30-40\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature Review and Case Study\",\n    \"Geographic_Focus\": \"East Africa (EAC)\",\n    \"Educational_Level\": \"Higher Education (Engineering)\",\n    \"Sample_Size\": \"Not applicable (literature review and case study)\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"EAC Common Market Protocol, Bologna Process (benchmarking)\",\n    \"Harmonization_Definition\": \"Alignment of engineering curricula across EAC partner states to facilitate mutual recognition of qualifications and promote student/labor mobility.\",\n    \"Regional_Initiatives\": [\n      \"EAC Qualifications Framework\",\n      \"Harmonization of Engineering Curricula in EAC Universities\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Curriculum Benchmarking\",\n      \"Stakeholder Consultations\",\n      \"Development of Common Standards\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Universities\",\n      \"Engineering Councils\",\n      \"EAC Secretariat\",\n      \"Industry Representatives\"\n    ],\n    \"Data_Sources\": [\n      \"EAC Documents\",\n      \"University Curricula\",\n      \"Engineering Council Reports\",\n      \"Literature Review\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Harmonization offers opportunities for enhanced quality, relevance, and mobility.\",\n      \"Challenges include varying resource levels, differing academic calendars, and resistance to change.\",\n      \"The EAC Qualifications Framework provides a basis for mutual recognition.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of resources\",\n      \"Differing academic calendars\",\n      \"Resistance to change\",\n      \"Language barriers\",\n      \"Inadequate funding\"\n    ],\n    \"Success_Factors\": [\n      \"Political will\",\n      \"Stakeholder engagement\",\n      \"Clear standards\",\n      \"Adequate funding\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen stakeholder engagement\",\n      \"Provide adequate resources\",\n      \"Develop clear standards\",\n      \"Address language barriers\"\n    ],\n    \"Future_Research\": [\n      \"Impact assessment of curriculum harmonization\",\n      \"Comparative analysis of harmonization models\",\n      \"Role of ICT in facilitating harmonization\"\n    ],\n    \"Specific_Examples\": [\n      \"Harmonization of civil engineering curricula in EAC universities\",\n      \"Development of common standards for engineering education\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Curriculum benchmarking\",\n      \"Stakeholder consultations\",\n      \"Development of common standards\",\n      \"EAC Qualifications Framework\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Lack of resources\",\n      \"Differing academic calendars\",\n      \"Resistance to change\",\n      \"Language barriers\",\n      \"Inadequate funding\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political will\",\n      \"Stakeholder engagement\",\n      \"Clear standards\",\n      \"Adequate funding\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Enhanced quality of engineering education\",\n      \"Increased student and labor mobility\",\n      \"Improved regional integration\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 623,
+      "candidatesTokenCount": 1098,
+      "totalTokenCount": 1721,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 623
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1098
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "apVSaLkPmueqww_OieaQDQ"
+  }
+}

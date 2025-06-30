@@ -1,0 +1,55 @@
+{
+  "response_id": 49,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:31:13.738270",
+  "metadata": {
+    "url": "http://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S2520-98682023000200003&lng=en&nrm=iso&tlng=en",
+    "final_url": "https://scielo.org.za/scielo.php?script=sci_arttext&pid=S2520-98682023000200003&lng=en&nrm=iso&tlng=en",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Analysing the curriculum philosophy of equipping learners with values, and its conceptualisation for integration into life sciences teaching in South African schools\",\n    \"authors\": [\n      \"Ajayi, Eyitayo Julius\"\n    ],\n    \"doi\": \"10.17159/2520-9868/i91a02\",\n    \"journal\": \"Journal of Education (University of KwaZulu-Natal)\",\n    \"year\": \"2023\",\n    \"abstract\": null\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"http://www.scielo.org.za/pdf/jed/n91/03.pdf\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"http://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S2520-98682023000200003&lng=en&nrm=iso&tlng=en\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 96,
+              "endIndex": 256,
+              "uri": "https://www.peeref.com/zh/journals/17580/journal-of-education"
+            }
+          ]
+        },
+        "avgLogprobs": -3.195109378014292e-05
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3555,
+      "candidatesTokenCount": 350,
+      "totalTokenCount": 3905,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3555
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 350
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "b5VSaJGDFsWUsbQP-d_MIQ"
+  }
+}

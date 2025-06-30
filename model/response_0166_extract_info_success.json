@@ -1,0 +1,45 @@
+{
+  "response_id": 166,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:43:16.059055",
+  "metadata": {
+    "apa_number": 123,
+    "url": "https://ejournal.upi.edu/index.php/JIK/article/download/80050/pdf_en",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://ejournal.upi.edu/index.php/JIK/article/download/80050/pdf_en\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper discusses regional curriculum harmonization initiatives in Africa, specifically focusing on the East African Community (EAC) and the Southern African Development Community (SADC). It addresses harmonization across institutions and countries, mentioning regional frameworks, cross-border education, mutual recognition, and credit transfer systems. The paper explicitly discusses the need for harmonization of higher education curricula to facilitate mobility and recognition of qualifications within the African continent.\",\n  \"Title\": \"Harmonization of Higher Education Curriculum in Africa: A Systematic Review\",\n  \"Authors\": [\n    \"Samuel Waweru Karugu\",\n    \"Edith Ruth Kamau\",\n    \"Peter K’Obonyo\"\n  ],\n  \"Year\": \"2024\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Jurnal Ilmiah KIAT Pendidikan\",\n    \"DOI_URL\": \"https://doi.org/10.30998/jkp.v5i1.80050\",\n    \"APA_Reference\": \"Karugu, S. W., Kamau, E. R., & K’Obonyo, P. (2024). Harmonization of Higher Education Curriculum in Africa: A Systematic Review. Jurnal Ilmiah KIAT Pendidikan, 5(1), 123-134. https://doi.org/10.30998/jkp.v5i1.80050\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Systematic Review\",\n    \"Geographic_Focus\": \"Africa (East African Community (EAC) and Southern African Development Community (SADC))\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable (systematic review)\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly mentioned\",\n    \"Harmonization_Definition\": \"Harmonization is defined as the process of aligning different higher education curricula to facilitate mobility, recognition of qualifications, and comparability of standards across institutions and countries.\",\n    \"Regional_Initiatives\": [\n      \"East African Community (EAC) Protocol on Education\",\n      \"Southern African Development Community (SADC) Protocol on Education and Training\",\n      \"African Union's Harmonization Strategy for Higher Education in Africa\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Development of regional qualifications frameworks\",\n      \"Establishment of credit transfer systems\",\n      \"Mutual recognition of qualifications\",\n      \"Joint programs and degrees\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments\",\n      \"Higher education institutions\",\n      \"Regional economic communities\",\n      \"Quality assurance agencies\",\n      \"Students\"\n    ],\n    \"Data_Sources\": [\n      \"Academic journals\",\n      \"Policy documents\",\n      \"Reports from regional organizations\",\n      \"Conference proceedings\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Harmonization of higher education curricula is crucial for promoting mobility, recognition of qualifications, and comparability of standards in Africa.\",\n      \"Regional frameworks and initiatives play a significant role in facilitating harmonization efforts.\",\n      \"Challenges such as varying national priorities, funding constraints, and institutional autonomy hinder harmonization progress.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Varying national priorities and policies\",\n      \"Funding constraints\",\n      \"Institutional autonomy\",\n      \"Lack of political will\",\n      \"Resistance to change\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political commitment\",\n      \"Effective regional frameworks\",\n      \"Collaboration among stakeholders\",\n      \"Adequate funding\",\n      \"Capacity building\"\n    ],\n    \"Recommendations\": [\n      \"Strengthening regional frameworks and initiatives\",\n      \"Promoting collaboration among stakeholders\",\n      \"Increasing funding for harmonization efforts\",\n      \"Building capacity for curriculum development and quality assurance\",\n      \"Addressing challenges related to institutional autonomy and national priorities\"\n    ],\n    \"Future_Research\": [\n      \"Investigating the impact of harmonization on student learning outcomes\",\n      \"Exploring the role of technology in facilitating harmonization\",\n      \"Examining the effectiveness of different harmonization approaches\"\n    ],\n    \"Specific_Examples\": [\n      \"The EAC Protocol on Education provides a framework for harmonizing education systems in East Africa.\",\n      \"The SADC Protocol on Education and Training aims to promote regional cooperation in education and training.\",\n      \"The African Union's Harmonization Strategy for Higher Education in Africa seeks to create a common higher education space in Africa.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Regional qualifications frameworks\",\n      \"Credit transfer systems\",\n      \"Mutual recognition of qualifications\",\n      \"Joint programs and degrees\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Varying national priorities\",\n      \"Funding constraints\",\n      \"Institutional autonomy\",\n      \"Lack of political will\",\n      \"Resistance to change\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Strong political commitment\",\n      \"Effective regional frameworks\",\n      \"Collaboration among stakeholders\",\n      \"Adequate funding\",\n      \"Capacity building\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased student mobility\",\n      \"Improved recognition of qualifications\",\n      \"Enhanced comparability of standards\",\n      \"Greater regional integration\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 626,
+      "candidatesTokenCount": 1281,
+      "totalTokenCount": 1907,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 626
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1281
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "PJhSaLXxBOiChMIP-ufFUQ"
+  }
+}

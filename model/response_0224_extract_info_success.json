@@ -1,0 +1,45 @@
+{
+  "response_id": 224,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:49:10.746805",
+  "metadata": {
+    "apa_number": 182,
+    "url": "https://journal.stitmadani.ac.id/index.php/JPI/article/view/487",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://journal.stitmadani.ac.id/index.php/JPI/article/view/487\",\n  \"MATCHES_CRITERIA\": false,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on the implementation of the Merdeka Belajar Kampus Merdeka (MBKM) program at a single institution (IAIN Madura) and does not address regional curriculum harmonization initiatives involving multiple African countries or regions. The paper does not mention regional frameworks, cross-border education, mutual recognition, credit transfer systems, or regional qualifications frameworks.\",\n  \"Title\": \"IMPLEMENTASI PROGRAM MERDEKA BELAJAR KAMPUS MERDEKA (MBKM) DI IAIN MADURA\",\n  \"Authors\": [\n    \"Ach. Muzakki\",\n    \"Siti Nur Azizah\"\n  ],\n  \"Year\": \"2023\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 623,
+      "candidatesTokenCount": 197,
+      "totalTokenCount": 820,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 623
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 197
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "pJlSaKCfLf6ShMIPm7P8iAY"
+  }
+}

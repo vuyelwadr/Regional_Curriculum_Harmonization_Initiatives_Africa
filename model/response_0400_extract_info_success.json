@@ -1,0 +1,45 @@
+{
+  "response_id": 400,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:05:31.208728",
+  "metadata": {
+    "apa_number": 264,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10132525/",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://pmc.ncbi.nlm.nih.gov/articles/PMC10132525/\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in East Africa, specifically examining the East African Community (EAC) medical education system. It addresses harmonization across multiple institutions and countries within the EAC, focusing on mutual recognition and standardization of medical education. The paper discusses regional frameworks and cross-border education within the EAC.\",\n  \"Title\": \"Harmonization of medical education in East Africa: progress, challenges and prospects\",\n  \"Authors\": [\n    \"Hussein Adam Hussein\",\n    \"George Nasinyama\",\n    \"Paul Katamba\",\n    \"Alfred Gitau\",\n    \"Jeremiah Chakaya\",\n    \"Nazarius Mbona Tumwesigye\"\n  ],\n  \"Year\": \"2023\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"BMC Medical Education\",\n    \"DOI_URL\": \"https://doi.org/10.1186/s12909-023-04269-4\",\n    \"APA_Reference\": \"Hussein, H. A., Nasinyama, G., Katamba, P., Gitau, A., Chakaya, J., & Tumwesigye, N. M. (2023). Harmonization of medical education in East Africa: progress, challenges and prospects. BMC Medical Education, 23(1), 288. https://doi.org/10.1186/s12909-023-04269-4\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature review and analysis of existing policies and frameworks\",\n    \"Geographic_Focus\": \"East African Community (EAC)\",\n    \"Educational_Level\": \"Medical Education (Higher Education)\",\n    \"Sample_Size\": \"Not applicable (literature review)\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated, but implicitly uses a framework of regional integration and standardization.\",\n    \"Harmonization_Definition\": \"Standardization of medical education curricula, assessment, and accreditation across EAC partner states to ensure quality and facilitate mutual recognition of qualifications.\",\n    \"Regional_Initiatives\": [\n      \"East African Community (EAC) medical education harmonization\",\n      \"EAC Protocol on Education\",\n      \"East African Health Research Commission (EAHRC)\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Development of common curricula\",\n      \"Establishment of regional accreditation standards\",\n      \"Mutual recognition agreements\",\n      \"Capacity building workshops\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"EAC Secretariat\",\n      \"National Medical Councils\",\n      \"Medical Schools/Universities\",\n      \"East African Health Research Commission (EAHRC)\",\n      \"Medical Practitioners and Dentists Board\"\n    ],\n    \"Data_Sources\": [\n      \"Policy documents\",\n      \"EAC protocols\",\n      \"Published literature\",\n      \"Reports from EAC institutions\",\n      \"Meeting reports\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Significant progress has been made in harmonizing medical education in the EAC.\",\n      \"Challenges remain in implementation due to varying national contexts and resource constraints.\",\n      \"Harmonization efforts have improved the quality and relevance of medical education in the region.\",\n      \"Mutual recognition of medical qualifications is still a work in progress.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Varying national regulations and standards\",\n      \"Limited resources and infrastructure\",\n      \"Lack of political will\",\n      \"Resistance from some stakeholders\",\n      \"Inadequate funding\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political commitment from EAC member states\",\n      \"Collaboration among stakeholders\",\n      \"Development of common standards and guidelines\",\n      \"Capacity building initiatives\",\n      \"Regional coordination mechanisms\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen regional coordination mechanisms\",\n      \"Increase investment in medical education\",\n      \"Address national regulatory barriers\",\n      \"Promote stakeholder engagement\",\n      \"Develop a sustainable funding model\"\n    ],\n    \"Future_Research\": [\n      \"Impact of harmonization on health outcomes\",\n      \"Cost-effectiveness of harmonization efforts\",\n      \"Sustainability of harmonization initiatives\",\n      \"Comparative analysis of harmonization models in other regions\"\n    ],\n    \"Specific_Examples\": [\n      \"Development of a common medical curriculum for EAC partner states\",\n      \"Establishment of the East African Health Research Commission (EAHRC) to promote research collaboration\",\n      \"Efforts to harmonize accreditation standards for medical schools\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Regional policies and protocols\",\n      \"Common curricula\",\n      \"Accreditation standards\",\n      \"Mutual recognition agreements\",\n      \"Capacity building programs\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"National regulatory differences\",\n      \"Resource constraints\",\n      \"Political will\",\n      \"Stakeholder resistance\",\n      \"Funding gaps\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political commitment\",\n      \"Stakeholder collaboration\",\n      \"Common standards\",\n      \"Capacity building\",\n      \"Regional coordination\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Improved quality of medical education\",\n      \"Enhanced regional integration\",\n      \"Increased mobility of medical professionals\",\n      \"Potential for better health outcomes\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 621,
+      "candidatesTokenCount": 1285,
+      "totalTokenCount": 1906,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 621
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1285
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "cp1SaLrNHcWUsbQP-d_MIQ"
+  }
+}

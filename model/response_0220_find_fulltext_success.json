@@ -1,0 +1,46 @@
+{
+  "response_id": 220,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:48:23.830387",
+  "metadata": {
+    "url": "https://journal.unnes.ac.id/journals/jktp/article/view/13289",
+    "final_url": "https://journal.unnes.ac.id/journals/jktp/article/view/13289",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Bibliometric Analysis of Research Trends in\\u00a0Curriculum Development Based on the COVID-19\\u00a0Pandemic\",\n    \"authors\": [\n      \"Erika Tara Marcella Marcella\",\n      \"Teguh Arie Sandy Sandy\"\n    ],\n    \"doi\": \"10.15294/ijcets.v12i1.13289\",\n    \"journal\": \"Indonesian Journal of Curriculum and Educational Technology Studies\",\n    \"year\": \"2024\",\n    \"abstract\": \"The COVID-19 pandemic has driven significant changes in curriculum development, mainly through the accelerated integration of digital technologies, the contextualisation of core content with pandemic-related themes, and the adoption of flexible teaching methodologies. This study aims to analyse research trends in curriculum development influenced by the pandemic using a bibliometric approach based on Scopus data (2020–2024). The findings reveal increased research interest in immediate responses, such as online learning platforms and digital literacy training during 2020–2021, followed by long-term adaptations, including sustainable curriculum frameworks and inclusive stakeholder involvement. The study also identifies gaps in long-term digital integration strategies and variability in stakeholder engagement. These findings highlight the importance of flexibility, collaboration, and innovative technologies in building resilient and adaptive education systems. This research contributes to the theoretical discourse on adaptive curriculum design and offers practical insights for more inclusive and responsive educational policies and practices in addressing future crises.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://journal.unnes.ac.id/journals/jktp/article/download/13289/3096\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -3.469860892694907e-05
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2714,
+      "candidatesTokenCount": 466,
+      "totalTokenCount": 3180,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2714
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 466
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "dJlSaPbPNpbrqsMPiOTvsQI"
+  }
+}

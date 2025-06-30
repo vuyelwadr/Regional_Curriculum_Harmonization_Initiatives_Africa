@@ -1,0 +1,55 @@
+{
+  "response_id": 335,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:00:05.581093",
+  "metadata": {
+    "url": "https://link.springer.com/10.1007/978-3-319-27258-0_5",
+    "final_url": "https://link.springer.com/chapter/10.1007/978-3-319-27258-0_5",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Mathematics Teacher Training in East Africa\",\n    \"authors\": [\n      \"Kajoro, Peter\"\n    ],\n    \"doi\": \"10.1007/978-3-319-27258-0_5\",\n    \"journal\": \"Mathematics Education in East Africa\",\n    \"year\": \"2016\",\n    \"abstract\": \"This chapter firstly briefly considers the history of teacher training worldwide. It then goes on to specifically look into the status of mathematics teacher training in East Africa by reviewing the pathways to becoming a mathematics teacher; the entry criteria and...\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://link.springer.com/content/pdf/10.1007/978-3-319-27258-0_5.pdf\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://link.springer.com/chapter/10.1007/978-3-319-27258-0_5\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": true,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 322,
+              "endIndex": 581,
+              "uri": "https://www.researchgate.net/publication/314439889_Mathematics_Teacher_Training_in_East_Africa"
+            }
+          ]
+        },
+        "avgLogprobs": -1.545055250835881e-05
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3201,
+      "candidatesTokenCount": 361,
+      "totalTokenCount": 3562,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3201
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 361
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "M5xSaNuuGeiChMIP-ufFUQ"
+  }
+}

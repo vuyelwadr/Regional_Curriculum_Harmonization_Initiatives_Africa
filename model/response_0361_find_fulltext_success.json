@@ -1,0 +1,55 @@
+{
+  "response_id": 361,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:02:10.893939",
+  "metadata": {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9869809/",
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9869809/",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Challenges and strategies for the internationalization of higher education in low-income East African countries\",\n    \"authors\": [\n      \"Mohammad Moshtari\",\n      \"Alireza Safarpour\"\n    ],\n    \"doi\": \"10.1007/s10734-023-00994-1\",\n    \"journal\": \"Higher Education\",\n    \"year\": \"2023\",\n    \"abstract\": \"As it becomes more crucial to push the boundaries of science to develop new technologies and important global initiatives, internationalization can be instrumental in helping underdeveloped countries overcome challenges such as poverty, climate ...\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://pmc.ncbi.nlm.nih.gov/articles/PMC9869809/pdf/10734_2023_Article_994.pdf\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://pmc.ncbi.nlm.nih.gov/articles/PMC9869809/\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 400,
+              "endIndex": 644,
+              "uri": "https://www.x-mol.com/paper/1617703785405169664"
+            }
+          ]
+        },
+        "avgLogprobs": -0.00022006165964643382
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2911,
+      "candidatesTokenCount": 358,
+      "totalTokenCount": 3269,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2911
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 358
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "sJxSaKy-L-iChMIP-ufFUQ"
+  }
+}

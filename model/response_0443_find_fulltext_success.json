@@ -1,0 +1,46 @@
+{
+  "response_id": 443,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:09:26.829514",
+  "metadata": {
+    "url": "https://unisapressjournals.co.za/index.php/CILSA/article/view/15912",
+    "final_url": "https://unisapressjournals.co.za/index.php/CILSA/article/view/15912",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Harmonisation of Corporate Income Tax Incentives in SADC: Addressing the Challenges Posed by the Sovereign Right of SADC Member States to Set Their Own Economic and Tax Policies\",\n    \"authors\": [\n      \"Ame Masuku\",\n      \"Annet Oguttu\"\n    ],\n    \"doi\": \"10.25159/2522-3062/15912\",\n    \"journal\": \"Comparative and International Law Journal of Southern Africa\",\n    \"year\": \"2024\",\n    \"abstract\": \"This article examines the challenges to harmonising corporate income tax (CIT) incentives in the Southern African Development Community (SADC). It is a state’s sovereign right to grant CIT incentives, which are often indispensable to encourage foreign direct investment. If the granting of CIT incentives in a regional body is unregulated and unharmonised, it can lead to harmful tax competition. To limit this and to ensure the coordination of CIT incentives in SADC, this article presents the notion of tax harmonisation. However, tax harmonisation could be hindered by SADC member states exercising their sovereign right to set their own economic and tax policies. It is not disputed that SADC member states have the prerogative to do this, but some economic policy-setting decisions can have a direct impact on the harmonisation of CIT incentives. In the quest to find solutions to these challenges, this article carries out a comparative analysis of best practices for enhancing tax harmonisation from two other regional bodies, the East African Community and the European Union. Ultimately, this article provides recommendations to address the challenges to harmonising CIT incentives in the SADC region.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://unisapressjournals.co.za/index.php/CILSA/article/download/15912/8174\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://unisapressjournals.co.za/index.php/CILSA/article/view/15912\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.0003106852300760978
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2888,
+      "candidatesTokenCount": 554,
+      "totalTokenCount": 3442,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2888
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 554
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "Y55SaPDRG4qThMIPyoil0Qo"
+  }
+}

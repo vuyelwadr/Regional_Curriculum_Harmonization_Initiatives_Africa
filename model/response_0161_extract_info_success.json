@@ -1,0 +1,45 @@
+{
+  "response_id": 161,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:43:03.819409",
+  "metadata": {
+    "apa_number": 120,
+    "url": "https://ejournal.iainu-kebumen.ac.id/index.php/cka/article/download/2122/988",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://ejournal.iainu-kebumen.ac.id/index.php/cka/article/download/2122/988\",\n  \"MATCHES_CRITERIA\": false,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on curriculum development within a single Islamic university (IAINU Kebumen) in Indonesia. It does not address regional curriculum harmonization initiatives involving multiple African countries or regions. The paper discusses curriculum integration and development within the university's Islamic Education Study Program, not cross-border or regional harmonization efforts.\",\n  \"Title\": \"Pengembangan Kurikulum Integratif Berbasis KKNI-SN-PT di Program Studi Pendidikan Agama Islam IAINU Kebumen\",\n  \"Authors\": [\n    \"Muhammad Hanif\",\n    \"Ahmad Tantowi\",\n    \"Muhammad Musiyam\"\n  ],\n  \"Year\": \"2021\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 631,
+      "candidatesTokenCount": 207,
+      "totalTokenCount": 838,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 631
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 207
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "NZhSaIOlOf6ShMIPm7P8iAY"
+  }
+}

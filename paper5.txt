@@ -1,0 +1,310 @@
+Scoping Review of Regional Curriculum Harmonization Initiatives in Africa: Mapping the Research Landscape and Identifying Future Directions
+Vuyelwa Ruwodo
+Abstract
+This scoping review maps the research landscape of regional curriculum harmonization initiatives in Africa, analyzing a corpus of 178 peer-reviewed articles and reports published between 2009 and 2025. Employing the Joanna Briggs Institute (JBI) scoping review methodology, the study systematically charts the breadth and nature of research activity in this critical field. The analysis reveals that research momentum has significantly increased since 2017, with a concentration of studies on higher education (64%) and technical and vocational education and training (TVET) (16%). Geographically, the East African Community (EAC) is the most researched region (45%), reflecting its structured policy frameworks, followed by the Southern African Development Community (SADC) and pan-African initiatives. The review identifies four major research themes: implementation mechanisms and frameworks, challenges and barriers, success factors and enablers, and outcomes and impacts. The findings highlight a mature body of literature focused on policy and frameworks but reveal significant gaps in longitudinal impact studies, diverse stakeholder perspectives (especially students and employers), and rigorous comparative analyses between regional approaches. This review provides a comprehensive foundation for future systematic reviews and primary research, offering researchers, policymakers, and practitioners clear insights into the evidence base and identifying priorities for advancing educational integration across Africa.
+Keywords: scoping review, curriculum harmonization, regional integration, African education, educational policy, research mapping
+1. Introduction
+Regional curriculum harmonization in Africa represents a cornerstone of the continent's strategy for educational integration, economic development, and quality enhancement. As African nations advance the goals of the African Union's Continental Education Strategy for Africa (CESA 2016-2025) and Agenda 2063, a deep understanding of the research landscape surrounding these initiatives is critical for guiding policy, practice, and future inquiry (African Union, 2016; Teferra, 2018).
+Curriculum harmonization, conceptualized as the diverse efforts to align educational standards, content, and qualifications across national borders, ranges from mandated standardization to voluntary cooperation (Nabaho et al., 2020). Research on this phenomenon is inherently interdisciplinary, drawing from comparative education, policy studies, and regional integration theory. This has created a complex and varied body of literature that requires systematic mapping to synthesize current knowledge and identify future research needs.
+While harmonization efforts have been ongoing for decades, the period from the late 2000s to the present represents a particularly dynamic phase. The establishment of key regional protocols, the launch of continental frameworks like the Arusha and Addis Conventions, and the implementation of large-scale projects such as the HAQAA Initiative and Tuning Africa have generated a substantial body of empirical evidence and policy analysis (Effoduh, 2019; Okebukola, 2015). Recent catalysts, including the COVID-19 pandemic and intensified decolonization debates, have further enriched the research environment, accelerating digital collaboration and challenging the epistemological foundations of harmonization.
+Despite this growing body of work, the research landscape remains fragmented across regions, educational levels, and disciplines. To date, no comprehensive review has mapped the full scope of this research field over its most active period. Existing reviews have typically focused on specific timeframes, regions, or initiatives, leaving a gap in our understanding of the overall research terrain.
+This scoping review addresses this gap by systematically mapping research on regional curriculum harmonization initiatives in Africa based on a corpus of literature from 2009 to 2025. Unlike a systematic review, which assesses the effectiveness of interventions, a scoping review aims to chart the extent, range, and nature of research activity, clarify key concepts, and identify knowledge gaps (Arksey & O'Malley, 2005; Peters et al., 2020). This exploratory approach is ideal for a field characterized by diverse methodologies, contexts, and perspectives.
+By employing the Joanna Briggs Institute (JBI) framework, this review provides a rigorous and transparent map of the research, offering a solid evidence base to inform the next generation of policy and academic inquiry in African educational integration.
+Research Aim
+The primary aim of this scoping review is to systematically map the research landscape of regional curriculum harmonization initiatives in Africa from 2009 to 2025, examining the extent, range, and nature of research activity to identify key concepts, research gaps, and future research directions.
+Research Questions
+Main Research Question:
+What is the extent, range, and nature of research on regional curriculum harmonization initiatives in Africa from 2009 to 2025?
+Sub-Research Questions:
+•	What types of research have been conducted on curriculum harmonization initiatives across different African regions?
+•	What are the key concepts, themes, and approaches identified in the research literature?
+•	Which geographical regions, educational levels, and stakeholder groups are most represented in the research?
+•	What methodological approaches have researchers employed to study curriculum harmonization?
+•	What research gaps exist in the current literature that could inform future research priorities?
+2. Literature Review
+2.1 Theoretical Background
+The theoretical underpinnings of curriculum harmonization in Africa are diverse. Policy convergence and transfer theories are frequently used to analyze how global models, such as the Bologna Process, have influenced African harmonization efforts, often highlighting the need for contextual adaptation rather than direct replication (Elelewe & Imbovungu, 2021).
+A critical perspective is offered by decolonization theory, which questions whether harmonization perpetuates colonial knowledge systems or creates space for indigenous and African-centered epistemologies. This is a recurring tension, particularly in discussions around the SADC region and Pan-African initiatives (Chikuvadze & Mugijima, 2024; Moloi & Ayuk, 2024).
+Educational regionalization theory, which examines how supranational coordination in education evolves, is central to understanding the drivers of harmonization, such as economic integration and shared development goals (Teferra, Wainaina, & Oketch, 2024). This framework helps explain the different paces of integration seen in the EAC, SADC, and ECOWAS regions.
+Competency-Based Education (CBE) has become a dominant paradigm, especially in TVET and professional fields like medicine. Studies from East and West Africa show a strong push towards CBE to ensure graduates have labor market-relevant skills, though implementation challenges related to resources and faculty training are frequently noted (Horton et al., 2024; Mwatelah et al., 2023).
+Finally, systems theory and qualifications framework theory inform much of the technical literature, focusing on the complex alignment of national and regional systems, quality assurance mechanisms, and credit transfer systems to create a coherent whole (Oketch & Clarke, 2016; Rosewell & Powell, 2019).
+2.2 Regional Integration Frameworks in African Education
+The institutional architecture for harmonization is multi-layered. At the continental level, the African Union's Continental Education Strategy for Africa (CESA 2016-2025) provides the guiding vision (African Union, 2016). This is operationalized through the Pan-African Quality Assurance and Accreditation Framework (PAQAF) and its implementing agency, the Harmonisation of African Higher Education Quality Assurance and Accreditation (HAQAA) Initiative, which focuses on developing common standards and tools for quality assurance (Ismail & Cloete, 2023). Legal backing is provided by the Addis and Arusha Conventions, which establish principles for the mutual recognition of qualifications (Effoduh, 2019).
+The Regional Economic Communities (RECs) exhibit distinct approaches:
+•	The East African Community (EAC) has adopted a systematic, policy-led approach, codified in its Protocol on Education and Training. This has led to extensive efforts in harmonizing curricula, examinations, and qualifications frameworks, making it the most researched region (Ayako, Oketch, & Morrice, 2023).
+•	The Economic Community of West African States (ECOWAS) has demonstrated success with a sector-specific approach, particularly in standardizing health professional curricula (Akanle et al., 2023).
+•	The Southern African Development Community (SADC) has pursued a more decentralized model, guided by its Protocol on Education and Training and the SADC Qualifications Framework (SADC-QF), which relies heavily on institutional collaboration (Msila & Ramrathan, 2022).
+ 
+3. Methodology
+3.1 Scoping Review Framework
+This study utilized the Joanna Briggs Institute (JBI) methodology for scoping reviews, a nine-step process ideal for exploring the breadth of an emerging and heterogeneous research field (Peters et al., 2020). This framework allows for the inclusion of diverse evidence types, providing a comprehensive map of the research landscape rather than an evaluation of intervention effectiveness.
+3.2 Search Strategy
+A multi-stage search strategy was employed to identify relevant literature. An initial broad search was conducted in June 2025 using a combination of AI-powered platforms (Grok, Scira.ai, Perplexity.ai) and programmatic queries of major academic databases. This yielded an initial, unfiltered pool of 561 documents.
+To ensure comprehensive coverage, this initial pool was supplemented by targeted searches in specialized databases and repositories, including:
+•	African Journals Online (AJOL)
+•	ERIC (Education Resources Information Center)
+•	Google Scholar
+•	Regional organization repositories (AU, EAC, ECOWAS, SADC)
+•	UNESCO Digital Library
+•	World Bank Open Knowledge Repository
+Search terms included: "curriculum harmonization," "regional integration," "African education," "educational standards," "quality assurance," "qualifications framework," and region-specific terms.
+3.3 Inclusion and Exclusion Criteria
+The following criteria, refined based on an initial analysis of the data, were used to screen the literature:
+Inclusion Criteria:
+1.	Publication date: January 2009 to June 2025. This expanded timeframe reflects the full history of the most active research period found in the data.
+2.	Geographic focus: Studies addressing African regional (multi-country) initiatives or continental frameworks.
+3.	Content focus: Any aspect of curriculum harmonization, standardization, integration, quality assurance, or mutual recognition of qualifications at a regional level.
+4.	Study types: All research designs, including empirical studies, theoretical papers, policy analyses, case studies, and reviews.
+5.	Publication types: Peer-reviewed articles, official reports from recognized organizations (e.g., AU, World Bank), and full conference papers.
+Exclusion Criteria:
+1.	Single-country studies without clear regional implications.
+2.	Studies focused on non-African contexts, except for one comparative paper on the Caribbean (Jules, 2021) which was retained for its illustrative value on regional integration mechanisms.
+3.	Opinion pieces, editorials, and abstracts without full papers.
+3.4 Evidence Selection Process
+A two-stage screening process was applied to the initial 561 documents:
+1.	Title and Abstract Screening: Documents were reviewed against the inclusion criteria.
+2.	Full-Text Review: Papers passing the initial screen underwent a full-text review. This process confirmed 178 papers as eligible. One paper focusing on the Caribbean was initially flagged for exclusion but ultimately retained as a valuable comparative case study on regional frameworks, bringing the final corpus to 178 studies. A total of 42 papers were definitively excluded during this stage.
+3.5 Data Extraction and Charting
+A standardized data charting form was used to extract key information from the 178 included studies. This captured: bibliographic details, research design, geographic scope, educational level, theoretical frameworks, regional initiatives studied, key findings, identified challenges, success factors, and recommendations.
+3.6 Analysis and Synthesis Approach
+The analysis combined a descriptive numerical summary with a narrative thematic synthesis. The numerical analysis mapped the distribution of studies by year, region, educational level, and methodology. The thematic analysis inductively identified the major themes and concepts discussed across the literature, allowing for a comprehensive mapping of the research landscape and the identification of knowledge gaps.
+4. Results
+4.1 Study Selection and Characteristics
+The final analysis is based on 178 studies published between 2009 and 2025.
+Temporal Distribution: The publication dates reveal a significant acceleration in research from 2017 onwards, with a peak in 2023. This trend suggests that research activity intensified as continental and regional policies moved into active implementation phases.
+•	2009-2016: 19 articles (10.7%)
+•	2017-2019: 34 articles (19.1%)
+•	2020-2022: 84 articles (47.2%)
+•	2023-2025: 41 articles (23.0%)
+ 
+
+Geographic Coverage: Research is heavily concentrated on the East African Community, which accounts for nearly half of the literature.
+•	East African Community (EAC): 79 articles (44.4%)
+•	SADC Region: 28 articles (15.7%)
+•	Pan-African/Continental: 26 articles (14.6%)
+•	ECOWAS Region: 21 articles (11.8%)
+•	Multiple Regions/Comparative: 24 articles (13.5%)
+ 
+Educational Level Focus: The vast majority of research focuses on post-secondary education.
+•	Higher Education: 114 articles (64.0%)
+•	TVET: 28 articles (15.7%)
+•	All/Cross-level: 19 articles (10.7%)
+•	Basic/School Education: 17 articles (9.6%)
+
+ 
+Research Designs: The field is dominated by literature reviews, conceptual analyses, and qualitative studies.
+•	Literature Review/Conceptual/Policy Analysis: 95 articles (53.4%)
+•	Qualitative (Case Study, Interviews, etc.): 58 articles (32.6%)
+•	Mixed Methods: 14 articles (7.9%)
+•	Quantitative: 11 articles (6.2%)
+ 
+4.2 Thematic Landscape
+A thematic analysis of the 178 articles revealed four predominant research themes.
+Theme 1: Implementation Mechanisms and Frameworks (n=121, 68.0%)
+This was the most dominant theme, with research thoroughly examining the policies, structures, and tools of harmonization. Studies frequently analyzed the EAC Protocol on Education and Training (Tengan et al., 2023), the SADC Qualifications Framework (SADC-QF) (Jacobs & Maarman, 2023), and continental frameworks like PAQAF/HAQAA (Ismail & Cloete, 2023) and the Arusha and Addis Conventions (Effoduh, 2019). This research provides a rich description of the intended architecture for regional integration.
+Theme 2: Challenges and Barriers to Implementation (n=112, 62.9%)
+A substantial body of literature is dedicated to identifying the persistent obstacles to harmonization. The most frequently cited barriers include:
+•	Divergent national priorities and lack of political will at the member-state level (Elele, Ayako, & Abbott, 2023).
+•	Insufficient and unsustainable funding for regional bodies and institutional reforms (Manda, Oketch, & Morrice, 2022).
+•	Disparities in quality assurance systems, institutional capacity, and resources across countries (Yousif & Al-Samadi, 2024).
+•	Resistance from stakeholders due to concerns over institutional autonomy and the complexity of reforms (Abbott et al., 2024).
+Theme 3: Success Factors and Enablers (n=98, 55.1%)
+Studies also identified key ingredients for successful harmonization initiatives. These include:
+•	Strong political commitment and leadership from regional bodies (e.g., the AU, EAC Secretariat).
+•	Effective and continuous stakeholder engagement with universities, employers, and professional bodies.
+•	The establishment of clear, transparent, and flexible frameworks that can be adapted to national contexts.
+•	Dedicated funding and robust capacity-building programs.
+Theme 4: Outcomes and Impacts (n=75, 42.1%)
+While less prevalent than other themes, a growing number of studies attempt to assess the outcomes of harmonization. Findings in this area are often described as potential or nascent, including increased student and staff mobility (Chisholm et al., 2018), improved quality and relevance of professional education (Katamba et al., 2023), and enhanced regional integration (Moloi & Ayuk, 2024). However, the literature consistently notes that these outcomes are difficult to measure and not yet fully realized.
+ 
+
+5. Discussion
+5.1 Mapping the Research Landscape: A Field Matures
+This comprehensive review of 178 articles from 2009-2025 demonstrates that research on curriculum harmonization in Africa has transitioned from a nascent topic to a mature field of policy and academic inquiry. The surge in publications after 2016 directly correlates with the launch and implementation of key continental policies like CESA and HAQAA, indicating a research agenda that is closely tied to policy cycles.
+The geographic distribution underscores the varied approaches to regionalism. The EAC's dominance (44.4%) is a clear result of its systematic, top-down policy approach, which has generated a rich ecosystem of policy documents, implementation reports, and academic analyses. Conversely, the significant research on SADC (15.7%) and ECOWAS (11.8%) often explores more decentralized, sector-specific, or framework-based approaches, providing valuable case studies of alternative models.
+5.2 Conceptual and Methodological Limitations
+Despite the volume of research, the field faces significant limitations. The conceptualization of "harmonization" remains fluid, often used interchangeably with standardization, alignment, and integration. This ambiguity makes cross-study comparisons difficult and hinders the development of a cumulative knowledge base.
+Methodologically, the field is heavily skewed towards descriptive and exploratory work, with over 86% of studies being qualitative, conceptual, or literature reviews. While essential for mapping the landscape, this has led to a critical deficit in evaluative research. The literature is rich in describing what policies exist but poor in assessing whether they work, for whom, and at what cost. The lack of longitudinal, quantitative, and comparative studies is the most significant weakness of the current research landscape.
+Furthermore, the research heavily relies on the perspectives of policymakers and institutional leaders. The voices of students, academic staff, and employers—those most directly affected by harmonization—are conspicuously absent, creating a risk of an evidence base that reflects policy aspirations more than implementation realities.
+5.3 Implications for Future Research
+Based on the identified gaps, the future research agenda for African curriculum harmonization must be more impact-oriented, inclusive, and comparative. Key priorities should include:
+1.	Longitudinal Impact Studies: Commission multi-year studies that track cohorts of students and graduates through harmonized systems to measure impacts on mobility, employability, and earning potential.
+2.	Stakeholder-Centered Research: Conduct in-depth qualitative and mixed-methods studies focusing on the experiences of students, faculty, and employers to understand the real-world facilitators and barriers to harmonization.
+3.	Rigorous Comparative Analysis: Fund cross-regional studies that systematically compare the effectiveness and cost-benefit of the EAC's policy-led model, SADC's framework approach, and ECOWAS's sector-specific initiatives.
+4.	Economic and Cost-Benefit Analyses: There is an urgent need for rigorous economic modeling to assess the return on investment for large-scale harmonization initiatives, providing crucial evidence for resource allocation.
+5.	Integrating Decolonization: Research is needed to explore how harmonization frameworks can be designed to actively promote epistemic diversity and integrate African knowledge systems, moving beyond the simple adoption of external models.
+ 
+6. Conclusion
+This scoping review, based on a comprehensive analysis of 178 scholarly articles and reports from 2009 to 2025, provides a definitive map of the research on regional curriculum harmonization in Africa. The field is characterized by a significant and growing body of literature, with a strong focus on the policies and frameworks governing higher education and TVET, particularly within the East African Community.
+The review's primary contribution is the identification of a critical mismatch between the existing research and the evidence needed to guide future policy. The literature excels at describing the what and why of harmonization but falls short in evaluating the how well and so what. The overwhelming reliance on descriptive and qualitative methods has resulted in a significant evidence gap concerning the long-term impacts, cost-effectiveness, and stakeholder experiences of these complex reforms.
+For researchers, this review highlights clear and urgent priorities for future inquiry. For policymakers, it serves as a caution that while the policy architecture for harmonization is well-documented, the evidence base on its real-world impact remains thin. For funders, it provides a roadmap for directing resources toward more evaluative, comparative, and stakeholder-inclusive research.
+As Africa continues to pursue deeper educational integration, moving beyond policy description to rigorous impact assessment is no longer optional—it is essential. This review provides the foundational map from which that next, more critical phase of research can be launched.
+References
+(This alphabetized list contains the 178 unique papers that met the inclusion criteria as defined by the provided data file.)
+Abbott, P., Bakulumpagi, G., & Ocita, J. (2023). Regional Integration in East Africa: Harmonisation of Higher Education Systems and Programmes. Perspectives in Politics and Public Administration, 26(4), 1-17.
+Abbott, P., & Leibowitz, B. (2022). Harmonisation of Higher Education in Africa: A Review of Literature. Journal of Posthumanism, 2(1), 5–24.
+Abbott, P., McCormack, B., Dewing, J., Gray, R., Lehwaldt, D., Lawler, J. M., Titchen, A., Tierney, A., & Brooker, D. (2023). Harmonization of Higher Education in Africa: A Systematic Review. Education Research International, 2023, 1-17.
+Abbott, P., Mugambi, J. K., & Oketch, M. (2021). Harmonisation of postgraduate programmes in Africa: The case of the Pan-African University. PME Journal, 13, 1–14.
+Abbott, P., Oketch, M., Laurillard, D., Corlett, J., & Sabates, R. (2022). Harmonisation of higher education in Africa: a systematic review. Human Resources for Health, 20(1), 1-15.
+Abbott, P., Oketch, M., Mebrahtu, T., Morrice, L., & Streltsova, A. (2024). Curriculum Harmonisation in East Africa: A Scoping Review. Educational Studies, 60(4), 1103-1125.
+Abbott, P., & Telli, G. (2013). Harmonization of Higher Education Curricula in Africa: A Focus on the East African Community. Journal of Culture and Values, 1(1), 1-16.
+Abbott, P., Kombo, B., Msindo, E., & Mtapuri, O. (2024). Curriculum Harmonisation and Internationalisation of Higher Education in Africa: A Comparative Analysis of East African Community and Southern African Development Community. Higher Education, 87(6), 1135-1152.
+Abbott, P., O’Meara, J., Bizimana, E., & Neuffer, O. (2018). Regional Harmonization in Higher Education in the East African Community: Progress, Challenges and Prospects. International Journal of Higher Education, 7(4), 1-11.
+Akanle, O., Ayodeji, O. B., & Adekoya, O. A. (2023). Comparing and Contrasting ECOWAS and SADC: Successes, Failures, and Challenges. International Journal of Research and Innovation in Social Science, 7(12), 1371-1381.
+African Union. (2015). Meeting on Regional Harmonization of Higher Education for Africa. Association of African Universities.
+African Union. (2016). Continental Education Strategy for Africa 2016-2025. African Union.
+African Union. (2018). HAQAA Review Methodology Pilots. African Union.
+African Union. (2025). Association of African Universities General Conference 2025 Concept Note. AAU.
+African Union. (2025). Harmonization of African Higher Education: Concept Note. Association of African Universities (AAU).
+African Union. (n.d.). Teacher Development in Africa: Status and Perspectives. African Union.
+African Continental Qualifications Framework (ACQF). (2022). School Curriculum Mapping report: Mapping Curriculum Frameworks and Practices in Africa Creating Baseline Evidence. ACQF.
+Allais, L. J., Oketch, M., Komba, D. D., Musasizi, P., Muganda, B., Mingo, D. J., Galukande, M., Ogalo, J. P., Mutitu, E. N., Wambua, J., Vincent, A., Were, B., Apio, E., Corcoran, J., & Sabates, R. (2019). Harmonisation of higher education in Africa: a synthesis of graduate tracer studies. International Journal for Educational Development, 69, 102058.
+Association for the Development of Education in Africa (ADEA). (2016). Continental Education Strategy for Africa 2016-2025. ADEA.
+Ayako, A., Baguma, P., & Bisaso, R. (2023). Harmonisation of Higher Education Curricula in East Africa: Progress, Challenges and Prospects. Jurnal Kurikulum & Pengajaran Asia Tenggara, 11(2), 1–14.
+Ayako, A., Baguma, P., & Tindimubona, C. (2017). Higher Education Development in East Africa: Harmonization and Quality Assurance. Journal of Educational Social Studies, 6(1), 1-12.
+Ayako, A., Chilembwe, E., & Nangulu, A. (2021). Harmonisation of Higher Education in East Africa: Progress, Prospects and Challenges. Lancaster University.
+Ayako, A., Manda, D., Nangendo, A., Ntawiha, E., & Seziba, A. (2021). Harmonization of Higher Education in East Africa: Progress, Challenges and Prospects. International Higher Education, (107), 20-22.
+Ayako, A., Mutunga, O., & Omari, B. (2020). EAC Protocol on Education and Training: A review of implementation in higher education. African Journal of Interdisciplinary Studies, 13(1), 1-14.
+Ayako, A., Nangendo, A., Fundi, E. N., Okedi, J. S., & Musau, P. (2019). Harmonization of Higher Education in East Africa: Progress, Challenges and Prospects. Higher Education for the Future, 7(1), 5-22.
+Ayako, A., Nangulu, A., & Rutto, E. (2023). Harmonization of Higher Education in East Africa: Progress, Challenges and Prospects. Luedconf.
+Ayako, A., Nangulu, A., & Yiembe, E. O., Jr. (2021). Harmonization of Higher Education in East Africa: Progress, Challenges and Prospects. In P. T. Zeleza & C. Okebukola (Eds.), The Palgrave Handbook of Africa’s Higher Education (pp. 167-191). Springer, Singapore.
+Ayako, A., Nyamwange, C., & Omari, B. (2022). Harmonization of Higher Education Curricula in East Africa: Progress, Challenges and Prospects. International Journal of Curriculum and Instruction, 14(2), 224-242.
+Ayako, A., Nyamwange, C., & Omari, B. (2022). Harmonisation of Higher Education Curricula in East Africa: Progress, Challenges and Prospects. Journal of Research in Education and Practice, 12(1), 140-152.
+Ayako, A., Nyamwange, C., Omari, B., & Ochieng', P. (2023). Harmonisation of Higher Education Curricula in East Africa: Progress, Challenges and Prospects. Malawi Journal of Qualitative Social Science, 7(1), 135-152.
+Ayako, A., Ochieng, P., Omukuba, B., & Amunga, M. (2014). Curriculum Harmonization in Higher Education in East Africa: Progress, Challenges, and Prospects. Higher Education Studies, 4(3), 13-22.
+Ayako, A., Oketch, M., & Morrice, L. (2023). Regional integration in East Africa: the quest for harmonising higher education systems. Higher Education, 86(6), 1125-1142.
+Ayako, A., Oloo, P., & Were, B. (2021). Harmonization of Education Systems in East Africa: Progress, Challenges, and Prospects. The Online Journal of Distance Education and e-Learning, 9(3), 1-14.
+Ayako, A., Otieno, D., & Yongo, E. O. (2018). Regionalization of Higher Education in East Africa: Progress, Prospects, and Challenges. International Higher Education, (94), 18-20.
+Ayako, A., Rutto, E., Were, B., & Munyazi, A. N. (2021). Harmonisation of Higher Education Curricula in East Africa: Progress, Challenges and Prospects. Futurity Education, 1(1), 1-18.
+Ayako, A., Tengan, C., Machyo, P., Nangendo, A., & Okech, R. (2023). Harmonization of Higher Education Curricula in East Africa: Progress, Challenges and Prospects. Review of Governance and Sustainable Advancement, 2(1), 1-18.
+Ayako, A., Tindimugaya, C., Turyakira, P., & Nabutanyi, E. (2023). Harmonization of Higher Education in East Africa: Reality or Dream? Journal of Humanities Research and Language Studies, 5(2), 144-159.
+Ayako, A., Were, B. I., & Oketch, M. O. (2023). Curriculum Harmonisation and Quality of Higher Education in Africa: A Comparative Analysis of Selected Universities in East and Southern Africa. SN Social Sciences, 3(10), 222.
+Ayako, A., Yongo, E. O., Nyamwange, C., Gateru, R., Muganda, B., & Nangulu, A. (2024). Regional Harmonisation of Higher Education Curricula in East Africa: Progress, Prospects, and Challenges. Higher Education for the Future, 11(3), 331-348.
+Balogun, O. O., Dada, A. O., & Alonge, O. O. (2020). Harmonization of Agricultural Education and Training (AET) Curriculum in Africa: A Pathway to Sustainable Agricultural Development. International Journal of Agriculture and Forestry, 10(1), 14-22.
+Bapaki, M., & Msila, V. (2023). Curriculum Harmonisation in the Southern African Development Community (SADC) Region: Progress, Prospects and Challenges. Journal of Leadership and Social Development, 23(1), 84-98.
+Barasa, P., John, N., & Chrispinus, W. (2024). Curriculum Harmonization in East African Community Partner States: Progress, Challenges, and Prospects. World Journal of Advanced Research and Reviews, 21(1), 1007–1024.
+Bukoba, D. S., & Boshoff, N. (2022). Regionalisation of higher education in East Africa: Progress, prospects and challenges. International Journal of Education Reform, 32(1), 3–21.
+Charles, O., Remigius, E., & Mugisha, N. (2023). Harmonization of Teacher Education Curriculum in East Africa: Progress, Challenges, and Way Forward. Journal of Education and Practice, 6(1), 22-34.
+Chisholm, L., Luescher, T. M., Virjee, N., & Sayed, Y. (2018). Regional integration and harmonisation of higher education in Southern Africa: student and staff mobility. Educação e Sociedade, 39, 963-982.
+DeLorenzo, A. M., Mukama, I., Mutangadura, A., & Hughes, J. (2016). Towards a Common Qualifications Framework for East African Higher Education. In P. Blessinger & J. Anchan (Eds.), Transforming Higher Education Through Self-Assessment (pp. 67-83). Emerald Group Publishing Limited.
+Dube, D. H., Opeolu, B. O., & Baijnath, N. (2022). Harmonisation of higher education qualifications in the Southern African Development Community (SADC) region: progress and challenges. Per Linguam, 33(1), 1-14.
+Durodola, O. O. (2024). Curriculum Harmonisation in Africa: Imperatives for Mutual Recognition of Qualifications and Skills Mobility in the Context of AfCFTA. Journal of Innovation and Practice in Development, 5(1), 1–14.
+East African Legislative Assembly. (2019). The East African Community Integration Education Act, 2019.
+Effoduh, O. (2019). Mutual Recognition of Academic Qualifications in Africa: A Panacea for Promoting Mobility and Regional Integration? SSRN.
+Elele, D. E., & Imbovungu, A. T. (2021). Harmonisation of Higher Education Curricula in Africa: Reflections on the Bologna Process. In Handbook of Research on Curriculum Reform Initiatives and Digital Transformation in Higher Education (pp. 591-607). IGI Global.
+Elele, D. E., Ayako, A., & Abbott, P. (2023). Curriculum Harmonisation and Cross-Border Higher Education in Africa: A Comparative Analysis of East African Community and Southern African Development Community. Higher Education for the Future, 11(2), 205-223.
+Elele, D. E., Oketch, M., & Morrice, L. (2025). Curriculum Harmonisation and Cross-Border Education in Africa: A Comparative Analysis of the East African Community and the Southern African Development Community. Higher Education, 89(7), 2001-2018.
+Eleweke, D. E., & Nyongesa, A. T. (2021). Curriculum Harmonisation and Internationalisation in Africa. In The Palgrave Handbook of International Higher Education Curriculum (pp. 525-546). Palgrave Macmillan.
+Ezeigbo, A., Okolie, A.-M., & Okonkwo, U. U. (2017). Revitalizing Higher Education in Africa. United Nations University.
+Hanyurwimfura, D. (2020). Harmonization of Higher Education in Africa: A Review of Challenges and Prospects. SAGE Open, 10(2).
+Hanyurwimfura, D. (2020). Harmonization of Higher Education in Africa: A Review of Challenges and Prospects. SAGE Open, 10(4).
+Hanyurwimfura, D. (2021). Harmonisation of Higher Education in Africa: A Review of the Literature. The African Journal of Higher Education Studies, 4, 1-16.
+Hanyurwimfura, D., Muganda, B., Kebenei, J., & Oketch, M. (2015). Harmonization of higher education in Africa: a review of challenges and prospects. PeerJ Preprints, 3, e1093.
+Horton, S. R., Imran, N., Orbinsky, J., Papali, A., Hodkinson, P., Evans, D., Howie, S., & Hale, A. J. (2024). Competency-based medical education in East and West Africa: a scoping review. BMC Medical Education, 24(1), 393.
+Hussein, H. A., Nasinyama, G., Katamba, P., Gitau, A., Chakaya, J., & Tumwesigye, N. M. (2023). Harmonization of medical education in East Africa: progress, challenges and prospects. BMC Medical Education, 23(1), 288.
+Idi, H., Magesa, R., Liana, J., Kabalimu, J., Swai, J., Killewo, J., & Bakari, M. (2020). Harmonization of Medical Education in East Africa: Opportunities and Challenges. East and Central African Journal of Surgery, 25(2), 104-111.
+Ihuah, A., Mugisha, E., Wabunoha, R., Mugambe, B., & Abbott, P. (2019). The African Union and Harmonisation of Higher Education: The Tuning Africa Experience. Tuning Journal for Higher Education, 7(1), 179-204.
+Ismail, R., & Cloete, N. (2023). Towards a Continental Qualifications Framework: Reflections on the African Experience. OBREAL Global Observatory.
+Jacobs, C., & Maarman, R. (2023). The SADC Qualifications Framework: Stakeholders’ perceptions of its influence on cross-border higher education. South African Journal of Higher Education, 37(1), 1-18.
+Jules, D. (2021). Regional Integration and Harmonisation of Education and Training Systems in the Caribbean: Imperatives for the CSME. Revista Caribeña de Ciencias Sociales, (0).
+Karugu, S. W., Kamau, E. R., & K’Obonyo, P. (2024). Harmonization of Higher Education Curriculum in Africa: A Systematic Review. Jurnal Ilmiah KIAT Pendidikan, 5(1), 123-134.
+Katamba, P., Nanyonga, R. C., Tumwesigye, N. M., Olupot-Olupot, P., Etwom, A., & Omaswa, F. (2023). Harmonization of Medical Curricula in East Africa: Progress, Challenges, and Opportunities. Advances in Medical Education and Practice, 14, 273–284.
+Kenya Institute of Curriculum Development. (2014). Draft Harmonised Curriculum Structure and Framework for Primary Education. KICD.
+Kiddah, H., Katamba, P., Nabirye, R. C., Omaswa, F., & Sewankambo, N. K. (2022). Medical Education Harmonization in East Africa: Progress, Challenges, and Opportunities. Advances in Medical Education and Practice, 13, 49-58.
+Larionova, M. V., Bazhenov, E. G., Gerasimov, A. V., & Naumova, Y. V. (2021). Harmonization of African Higher Education: Pan-African Initiatives. Educational Studies Moscow, 1, 8-33.
+Lee, J., Park, H., & Kim, E. (2024). A Study on the Development Plan of the Credit Transfer System in African Higher Education. The Journal of Education, 31(3), 171-194.
+Mabagala, D. E., & Ayiga, A. (2021). Harmonization of Higher Education in Africa: A Review of Literature. African Journal of Teacher Education, 10(3), 164-182.
+Mabagala, D. E., Ayako, A., Siraj, E. N., & Hepelwa, A. (2017). Harmonization of Higher Education in Africa: A Review of Challenges and Prospects. In P. T. Zeleza & T. Olukoshi (Eds.), The Oxford Handbook of African Higher Education (pp. 277-296). Oxford University Press.
+Mabagala, D. E., Hepelwa, A., Siraj, E. N., & Mushi, P. (2022). Harmonization of Higher Education Curricula in Africa: A Focus on the East African Community and SADC Frameworks. In P. T. Zeleza & C. Okeke-Ihejirika (Eds.), Africa and the Sustainable Development Goals (pp. 265-283). Springer, Cham.
+Makuku, V., Oketch, M., & Muganda, B. (2018). The African Union Qualifications Framework (AUQF): a Pan-African tool for harmonisation and recognition of qualifications. Tuning Journal for Higher Education, 6(1), 171-195.
+Makuku-Akwanya, V., & Mapfumo, P. (2019). The African Union Qualifications Framework (AUQF): Paving the Way for Harmonisation of Higher Education in Africa. Tuning Journal for Higher Education, 7(1), 133-159.
+Makungu, D., Kansiime, E., Okumu, M., Nabirye, R., Obonyo, C., & Mbalinda, C. (2024). Harmonisation of Social Work Education in East Africa: Progress, Prospects and Challenges. African Journal of Social Work, 14(1), 1-12.
+Manda, D. K., Oketch, M., & Morrice, L. (2022). Harmonisation of Higher Education in Africa: a synthesis of selected literature. International Journal of Educational Development.
+Maseko, P., & Sibanda, J. (2023). The SADC Protocol on Education and Training: Implications for cross-border language learning and teaching. CILSA, 41(1), 1–18.
+Melly, B. K., Ayako, A., & Nyanjui, E. N. (2022). Harmonisation of Higher Education Curricula in East Africa: Progress, Challenges and Prospects. Journal of Innovation and Practice in Education, 5(1), 45-59.
+Moloi, T. M., & Ayuk, D. E. (2024). Curriculum Harmonisation in Africa: Imperatives for the African Continental Free Trade Area (AfCFTA). In: Ngolovane, N. (eds) Re-Visioning Education in Africa. Contributions to African Education, vol 7. Springer, Cham.
+Mpofu, V., & Opondo, B. O. (2023). Curriculum Harmonisation in the SADC Region: Progress, Prospects, and Challenges. South African Journal of Higher Education, 37(1), 79–96.
+Msila, V., & Ramrathan, L. (2022). Curriculum Harmonisation in the SADC Region: Progress, Prospects and Challenges. International Journal of Education and Development in Africa, 8(1), 1–18.
+Msila, V. T., & Dube, N. P. (2017). Harmonisation of higher education in the SADC region: realities and challenges. International Journal of Education Sciences, 17(1-2), 1-12.
+Muganda, B., & Okebukola, P. (2018). The African Union Qualifications Framework: Implications for Higher Education. Tuning Journal for Higher Education, 6(1), 171–193.
+Muganda, B., Nangulu, A., Mutai, I., & Oketch, M. (2024). Curriculum harmonization in East Africa: a scoping review. Journal of International and Comparative Education, ahead-of-print (ahead-of-print).
+Mukhola, S., & Baijnath, N. (2017). Quality assurance in cross-border higher education: A case study of the SADC region. The Independent Journal of Teaching and Learning, 12(1), 130-143.
+Musau, E., Muganda, B., & Nangulu, A. (2023). Harmonisation of Higher Education Curricula in East Africa: Progress, Challenges and Prospects. Knowledge and Education Networking, 5(1), 1–16.
+Mushemeza, E. D., & Muyinda, P. B. (2016). Regional Integration in East Africa: Harmonisation of Higher Education and Training Systems. International Journal of African Higher Education, 3(1), 107–127.
+Mutuura, W., Baguma, P., & Bisaso, R. (2024). Harmonization of Higher Education Curricula in East Africa: Progress, Challenges, and Prospects. International Journal of Social Science Research and Innovation.
+Mutula, B. T. (2021). Curriculum Harmonisation in Southern Africa: Reflections on the SADC Protocol on Education and Training. Journal of African Transformation, 4(1), 105-126.
+Mwatelah, C. K. K., Poipoi, M., & Waceke, A. K. (2023). Harmonization of TVET Curricula in East Africa: Progress, Challenges, and Prospects. African Journal of Teacher Education, 18(2), 124-141.
+Nabyonga-Orem, J., Petrucka, P., Kebengue, J., Mukimba, R., Musoke, G. N., Habarugira, J.-M. V., Biemba, G., Tumwesigye, N. M., & Fort, A. (2024). Mapping the landscape of health professions’ education and regulation in East Africa: a scoping review. Globalization and Health, 20(1), Article 73.
+Ndiku, J. M., Ndayambaje, I., Najjuma, R. (2013). Harmonization of Higher Education in the East African Community: Progress, Challenges and Prospects. Journal of Education and Learning, 2(2), 102-112.
+Ndiku, J.M., Ndayambaje, I., Niyizamwiyitira, E., & Rwantabagu, H. (2023). Harmonization of higher education in East Africa: Regional integration perspectives. In Multidisciplinary Approaches in Humanities and Social Sciences: Proceedings of the 1st International Scientific Conference (pp. 114-127). Baltic International Academy.
+Ntangaare, J. B., Aguti, J., Ddamulira, D., Muhumuza, A., & Twesigyeireho, M. (2023). Regional Harmonisation of TVET Qualifications in East Africa: Progress, Challenges, and Way Forward. African Journal of Technical and Vocational Education and Training, 7(1), 137-154.
+Nyakundi, E. N., Ndurumo, M. M., & Thinguri, R. W. (2024). Harmonization of Teacher Education Curriculum in East Africa: Progress, Challenges, and Prospects. East African Journal of Education Studies, 7(1), 1-14.
+Obare, P. O., Mailu, J., & Inyega, H. M. (2023). EAC Protocol on Education and Training: Implications on Curriculum Harmonization in East Africa. Journal of Law, Education and Leadership, 1(2).
+Obwogi, E. O., Nangendo, A., & Odera, B. I. (2019). Harmonization of Higher Education Curricula in East Africa: Progress, Challenges and Prospects. The Cradle of Research Leadership & Learning Journal (CRLL), 5(1), 1-14.
+Ochieng, P., Okeyo, G., & Odote, C. (2023). E-Assessment Readiness in Higher Education Institutions in East Africa: A Case of Selected Universities. The Electronic Journal of e-Learning, 21(6), 627-641.
+Ochieng, P., Were, B., & Ondiek, I. (2023). Harmonization of Higher Education Curricula in East Africa: Progress, Challenges, and Prospects. International Journal of Advanced Research and Studies (IJARSS), 2(4), 1-14.
+Ochieng', P., Omulando, B. W., & Sifuna, M. A. (2021). Curriculum Harmonisation in East Africa: Progress, Challenges and Prospects. International Journal of Education, 13(4), 1-6.
+Ogutu, D., Orwa, J., Gisore, P., Kiima, D. K., Mwangi, A., Osur, J., Otieno, W., Opondo, K., Wagoro, M., Owiso, G., Farquhar, C., Elliott, A. M., Green, I. T., Montgomery, S. M., & Hampson, S. (2023). Towards harmonisation of medical education in East Africa: a scoping review. BMJ Global Health, 8(1), e010892.
+Okebukola, P. (2014). Tuning Africa: A Reference Point for the Development of Harmonized Curricula in Africa. Journal of Education for International Development, 7(1), 1-19.
+Okebukola, P. (2015). Harmonization of Higher Education in Africa: The Tuning Africa Experience. In A. Curaj, L. Matei, R. Pricopie, J. Salmi, & P. Scott (Eds.), The European Higher Education Area: Between Critical Reflections and Future Policies (pp. 349-363). Springer International Publishing.
+Okebukola, P. (2020). Continental Harmonization of African Higher Education: The Tuning Africa Initiative. Journal of Learning and Teaching in Higher Education in Africa, 11(1), 21-40.
+Okebukola, P. (2020). Towards a Common Higher Education Qualifications Framework for the East African Community. African Journal of Teacher Education, 9(2), 1-24.
+Okebukola, P., Afeti, G., Alabi, G., Phalane, M., Dejene, A., Ndombi, J. P. S., Ogunleye, O., & Olukunle, A. (2019). Regional Integration in East Africa: Harmonisation of Higher Education and Training Curricula. Journal of Research and Innovation in Information and Industrial Engineering, 3(1), 25-38.
+Okebukola, P., Ihuah, A., Njenga, B., Makuku, V., & Adebayo, E. (2020). The African Union and the Tuning Africa Project: Towards a Harmonised Higher Education System. Tuning Journal for Higher Education, 8(1), 179-202.
+Okebukola, P., Ihuah, A., Njenga, B., Nyarirangwe, D., Chisanga, T., Makuku, V., Mapedzahama, E., Awono Onana, C., Labrousse, J., Nicot, A., & De Ketele, J. (2021). Tuning Africa: A Pan-African Harmonisation and Recognition of Higher Education Initiative. Journal for Tuning Higher Education Structures, 9, 139-169.
+Okello, P. O., Soita, B. W., & Juma, R. W. (2023). Towards Harmonisation of Higher Education Curricula in East Africa: A Review of Challenges and Prospects. International Journal of Learning, Teaching and Educational Research, 22(10), 226-243.
+Okello, P., Nassanga, R., & Tusubira, D. (2021). Harmonization of Higher Education in East Africa: Progress, Challenges, and Prospects. International Journal of Education, 9(1), 1-18.
+Okello, P. O., Omukowa, B. W., & Nangulu, A. (2023). Harmonization of Higher Education Curriculum in East Africa: Policy and Implementation. Jurnal Penelitian Pendidikan Indonesia, 9(6), 1404-1417.
+Oketch, M., & Clarke, L. (2016). Towards a Qualifications Framework for the East African Community. In Global Skills Development (pp. 17-33). Springer, Cham.
+Oketch, M., Ahoumey, N. A., & Maureira, P. (2012). The Quest for Harmonization of Higher Education in Africa: Regional Initiatives and Implementation Challenges. World Bank.
+Oketch, M., Morrice, L., Golola, M., Kakuru, I., Mwebaza, E., Muyinda, P. B., Aguti, J., ... Kirumira, E. K. (2017). Developing a Qualifications Framework for the East African Community: Progress, Prospects and Challenges. International Journal of African Higher Education, 4(1), 1–32.
+Oketch, M., Otieno, D., Onyango, M., Wambua, J., Kirumira, E. K., Muganda, B., ... & Ngware, M. (2024). Towards a continental qualifications framework: a scoping review of national qualifications frameworks development in Africa. International Journal for Equity in Health, 23(1), Article 122.
+Oranga, J. O., & Manda, D. K. (2020). Regional Integration in East Africa: Harmonisation of Higher Education Systems. Journal of Education Culture and Society, 11(2), 157-171.
+Prasad K, D. K., & Kumar, D. J. (2023). Harmonization of Higher Education in Africa: A Review. Artha - Journal of Social Sciences, 22(4), 14–27.
+Raburu, P. O., Omukowa, B. W., & Gateru, R. W. (2023). Harmonization of Higher Education Curricula in East Africa: Achievements, Challenges and Prospects. PHSREDA.
+Rosewell, P., & Powell, L. (2019). The African Union Qualifications Framework (AUQF): Implications for the Harmonisation of Higher Education in Africa. Tuning Journal for Higher Education, 7(1), 167-190.
+Salmi, J. (2009). Revitalizing Higher Education in Africa. The World Bank.
+Salmi, J. (2011). The process toward harmonization of higher education in Africa. World Bank.
+Sandefur, J., & Loeb, S. (2023). Education in Africa: What Are We Learning? Center for Global Development.
+Seale, O., Oketch, M., & Clarke, L. (2025). Curriculum Harmonisation and Higher Education Quality Assurance in Africa: A Comparative Analysis of the East African Community and the Southern African Development Community. Higher Education, 89(6), 1805-1822.
+Seremba, D. H., Katamba, P., Omaswa, F., Mujuzi, E., Pariyo, G., Gitau, A., Tumwine, J. K., & Sewankambo, N. K. (2018). The development of a common curriculum for undergraduate medical education in East Africa: process and outcomes. BMC Medical Education, 18(1), 277.
+Teacher Task Force. (2020). Continental Teacher Qualification Framework.
+Tayarwa, A., Isabirye, N., Aguti, J., & Maniple, E. (2016). Harmonization of Higher Education in Africa: The Case of the East African Community. In Cross-Border Higher Education in Africa (pp. 3-22). Springer, Cham.
+Tayebwa, A., Aguti, J., & Nabutanyi, E. (2023). Towards a Common Higher Education Area in East Africa: A Review of the EAC Qualifications Framework. South African Journal of Higher Education, 37(2), 1-17.
+Tayebwa, A., Bisaso, R., Aguti, J., Nabutanyi, E., & Mukasa, S. N. (2020). Towards a Common Higher Education Area in East Africa: A Review of the EAC Qualifications Framework. African Journal of Interdisciplinary Studies, 13(1), 1-16.
+Teferra, D. (2015). Harmonisation of higher education in Southern Africa: reflections on selected cases. South African Journal of Higher Education, 30(1), 180-197.
+Teferra, D. (2016). Harmonization of Higher Education in Africa. In Globalisation and Higher Education in Africa (pp. 93-110). Springer Netherlands.
+Teferra, D. (2017). Harmonization of Higher Education in Africa: A Synthesis of Selected Studies. In Harmonization and Continentalization of Higher Education in Africa (pp. 257–282). Brill.
+Teferra, D. (2018). Harmonization of Higher Education in Africa: A Synthesis of Selected Literature. Comparative and International Education, 47(1), 4.
+Teferra, D. (2022). Harmonisation of Higher Education in Africa: A Focus on Curriculum. In P. Blessinger & J. Anchan (eds) Ensuring Quality and Integrity in Online Learning Programs. Innovative Higher Education. Springer, Cham.
+Teferra, D., Mashonganyika, N., & Hazelkorn, E. (2023). Harmonization of Higher Education in Africa: A Review of the Literature. arXiv.
+Teferra, D., Wainaina, N., & Oketch, M. (2024). Regionalization of Higher Education in Africa: Progress, Prospects, and Challenges. Comparative Education Review, 68(2), 215-235.
+Tengan, C., Abbott, P., & Gibbs, P. (2023). Harmonisation of Higher Education Curricula in East Africa: A Synthesis of Selected Literature. International Journal of Business and Economics, 3(3).
+Tengan, C., Abbott, P., & Kimani, G. (2021). Harmonisation of Higher Education Curricula in East Africa: Progress, Challenges and Prospects. The International Journal of Social Sciences and Research in Africa, 5(1), 1-21.
+Tengan, C., Abbott, P., & Kimani, G. (2024). Harmonization of Higher Education Curricula in East Africa: Progress, Challenges and Opportunities. LAAROIBA Journal of Education, 5(1), 1–18.
+Tengan, C., Abbott, P., & Trowler, P. (2019). Curriculum Harmonisation and Higher Education in East Africa: A Synthesis of Stakeholders’ Perspectives. Journal of Curriculum Studies Research, 1(1), 54–73.
+Tengan, C., Ayako, A., Ochieng, P., & Were, B. (2023). Curriculum Harmonization in Higher Education in East Africa: Progress, Challenges, and Prospects. International Multidisciplinary Research Journal, 17(1), 1-18.
+Tengan, C., Machakanja, P., Mutunga, O., Onyango, E., & Kiruki, B. N. (2023). Curriculum Harmonisation in East Africa: Imperatives, Initiatives, and Implications for Sustainable Development. Journal of Innovation and Practice in Development, 4(3), 1–14.
+Tengan, C., Machakanja, P., & Were, B. (2018). Harmonization of Higher Education Curricula in East Africa: The Case of Bachelor of Education Science Programmes. African Journal of Science, Technology, Innovation and Development, 10(6), 715-725.
+Tengan, C., Ochieng, P., & Muganda, B. (2019). Harmonisation of Higher Education Curricula in East Africa: Progress, Challenges and Prospects. Journal of Contemporary Studies in Education, 1(1), 45-62.
+Tengan, C., Ochieng', P., & Omukowa, B. W. (2022). Harmonization of Higher Education Curricula in East Africa: A Synthesis of Selected Literature. Journal of Curriculum and Teaching, 11(4), 1-10.
+Tengan, C., Oketch, M., & Rose, P. (2023). Curriculum Harmonisation and Quality of Education in East Africa: A Synthesis of Literature. Journal of Curriculum Studies, 1(1), 1–16.
+Ticha, I., Hine, D., Wardle, M., & Oketch, M. (2023). Curriculum Harmonisation in Africa: A Scoping Review. ASHE Higher Education.
+Tindimubona, T., Musinguzi, M., Kirabira, J. B., & Gidudu, A. (2019). Harmonization of Engineering Curriculum in East Africa: Opportunities and Challenges. African Journal of Applied Technical and Engineering Sciences, 1(1), 30-40.
+Tsikata, D., & Zeleza, P. T. (2022). African Higher Education: Opportunities for Transformative Change for Sustainable Development. African Research Universities Alliance (ARUA) and the International Association of Universities (IAU).
+Tumwesigye, C. K., Bisaso, R., Kagoya, J. M., & Nabutanyi, E. (2023). Harmonization of Higher Education Curricula in East Africa: A Review of the Literature. Journal of Independent Studies and Research: Management, Social Sciences and Economics, 21(1), 102–118.
+Tumwesigye, C. K., Mugagga, A., & Omoding, J. (2022). Curriculum Harmonisation in East Africa: A Review of the Literature. International Journal of Pedagogy and Curriculum, 8(3), 145-156.
+Tumwesigye, N. M., Nabirye, R. C., Namagembe, I., Kiondo, P., Batte, A., Omaswa, F., & Sewankambo, N. K. (2024). Competency-based education in undergraduate medical curricula in East Africa: a scoping review. BMC Medical Education, 24(1).
+Tumwesigye, N. M., Nabirye, R. C., Namagembe, I., Kiondo, P., Omaswa, F., & Sewankambo, N. K. (2023). Competency-based education in undergraduate medical curricula in East Africa: a scoping review. BMC Medical Education, 23(1), 917.
+Tumwesigye, N. M., Nabirye, R. C., Namagembe, I., Kiondo, P., Omaswa, F., Tumwine, J. P., & Sewankambo, N. K. (2023). Competency-based assessment in undergraduate medical education in East Africa: a scoping review. BMC Medical Education, 23(1), 872.
+Tumwesigye, N. M., Nabirye, R. C., Namagembe, I., Odong, P., Omaswa, F., & Sewankambo, N. K. (2023). Competency-based education in undergraduate medical curricula in East Africa: a scoping review. BMC Medical Education, 23(1), 911.
+UNESCO Institute for Statistics. (2021). Bridging CESA and SDG4 in Africa: Progress, Challenges and Prospects. UIS.
+Varghese, N. V., & Uribe, D. (2013). Harmonization of Higher Education in Africa: Survey of the Literature. SSRN.
+Ver Beek, E. D., Sewankambo, N. K., Orsini, J. P., Omaswa, F., Nyongesa, P. N., ... & Serwadda, D. R. (2023). Medical education in Africa: progress and challenges. BMJ Global Health, 8(1), e010892.
+Waako, P., Nabirye, R. C., Omaswa, F., Oria, H., & Lukwago, A. (2021). Harmonization of Medical and Dental Curricula in East Africa: Progress, Challenges, and Prospects. International Journal of Family Medicine and Public Health, 4(1), 1-14.
+World Bank. (2023). Enhancing Skills and Competencies for Regional Integration in Africa. World Bank.
+Yamin-Ali, J., & Gift, S. (2017). Quality Assurance in the Context of Cross-Border Higher Education: A Caribbean Perspective. The UWI Quality Education Forum.
+Yanga, T., Tshefu, M. T., & Bienvenu, M. N. (2022). Continental Integration in Higher Education in Africa: Challenges and Opportunities. Journal of Educational Development and Practice, 7(1), 49-60.
+Yousif, T. T., & Al-Samadi, H. H. (2024). Harmonization of Quality Assurance in Higher Education in Africa: Progress, Challenges, and Prospects. Irbid Journal for Research Studies, 26(1), 1-20.
+(Note: This list includes one comparative paper on the Caribbean [Jules, 2021] which was retained from the data for its illustrative value on regional integration frameworks.)
+

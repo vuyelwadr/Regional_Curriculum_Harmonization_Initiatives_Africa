@@ -1,0 +1,46 @@
+{
+  "response_id": 153,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:42:08.700876",
+  "metadata": {
+    "url": "https://globalhealthsynapse.com/index.php/ghs/article/view/10",
+    "final_url": "https://globalhealthsynapse.com/index.php/ghs/article/view/10",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Integrating One Health for Enhanced Food Security and Safety in Sub-Saharan Africa: Addressing Nutrition, Health, and Climate Change Challenges\",\n    \"authors\": [\n      \"Wilfred A. Abia\",\n      \"Richard N. Fomboh\",\n      \"Aurélie Kognoudjui Mambap \",\n      \"Yacouba Foupouapouognigni\",\n      \"Paul K. Lunga\"\n    ],\n    \"doi\": \"10.63456/ghs-2-1-10\",\n    \"journal\": \"Global Health Synapse\",\n    \"year\": \"2025\",\n    \"abstract\": \"This paper explores the One Health approach as a vital framework for addressing food security and safety issues in Sub-Saharan Africa, particularly in the context of nutrition, health, and climate change. The interconnections between animal health, human health, and environmental sustainability highlight the need for integrated health policies that foster collaboration among the agriculture, health, and environmental sectors. Investment in interdisciplinary research is essential for identifying innovative and sustainable agri-food practices that can enhance regional food security. Emphasis should be placed on research initiatives that focus on sustainable agricultural methods, the development of climate-resilient crops, and effective pest management strategies, ensuring robust food systems that can adapt to the challenges of climate change. Moreover, promoting education and training is critical for empowering local farmers, healthcare professionals, and policymakers with the knowledge to implement One Health principles effectively. Educational initiatives can raise awareness of best practices in food production and handling, ultimately improving public health. Strengthening surveillance and monitoring systems is also crucial for early identifying and managing zoonotic diseases and foodborne pathogens, providing necessary data for informed decision-making. Finally, encouraging sustainable agricultural practices such as organic farming and agroecology is paramount for enhancing food safety and security. Policymakers must create incentives to support these transitions and engage communities in the decision-making processes to ensure that policies are contextually relevant. Overall, the findings emphasize the necessity of a holistic, collaborative approach to food security and safety in Sub-Saharan Africa, particularly in light of the region’s ongoing challenges related to nutrition, health, and climate change.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://globalhealthsynapse.com/index.php/ghs/article/view/10/14\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.004072654227382551
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2517,
+      "candidatesTokenCount": 599,
+      "totalTokenCount": 3116,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2517
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 599
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "_ZdSaPnxAbqFsbQPqNrRqAQ"
+  }
+}

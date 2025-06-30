@@ -1,0 +1,46 @@
+{
+  "response_id": 57,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:32:09.902792",
+  "metadata": {
+    "url": "http://www.cabidigitallibrary.org/doi/10.1079/9781789246544.0001",
+    "final_url": "https://www.cabidigitallibrary.org/doi/10.1079/9781789246544.0001",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Agriculture and tertiary education within the context of global and African development goals.\",\n    \"authors\": [],\n    \"doi\": \"10.1079/9781789246544.0001\",\n    \"journal\": \"Transforming tertiary agricultural education in Africa\",\n    \"year\": null,\n    \"abstract\": null\n  },\n  \"fulltext_links\": [],\n  \"repository_indicators\": [],\n  \"paywall_detected\": true,\n  \"open_access_indicators\": [],\n  \"confidence\": \"medium\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.0006697369728259697
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3510,
+      "candidatesTokenCount": 167,
+      "totalTokenCount": 3677,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3510
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 167
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "qJVSaJX7I7PQhMIP372DoQ0"
+  }
+}

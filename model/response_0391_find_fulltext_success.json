@@ -1,0 +1,55 @@
+{
+  "response_id": 391,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:05:07.451450",
+  "metadata": {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7304806/",
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7304806/",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Curriculum framework for advanced practice nursing in sub-Saharan Africa: a multimethod study\",\n    \"authors\": [\n      \"Christmal Dela Christmals\",\n      \"Susan J Armstrong\"\n    ],\n    \"doi\": \"10.1136/bmjopen-2019-035580\",\n    \"journal\": \"BMJ Open\",\n    \"year\": \"2020\",\n    \"abstract\": \"The implementation of advanced practice nursing (APN) programmes in sub-Saharan Africa (SSA) has been difficult due to lack of SSA-specific curriculum frameworks or benchmarks to guide institutions in developing and implementing APN programmes. A ...\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://pmc.ncbi.nlm.nih.gov/articles/PMC7304806/\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://pmc.ncbi.nlm.nih.gov/articles/PMC7304806/pdf/bmjopen-2019-035580.pdf\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 383,
+              "endIndex": 644,
+              "uri": "https://pubmed.ncbi.nlm.nih.gov/32554723/"
+            }
+          ]
+        },
+        "avgLogprobs": -0.00022442795728382312
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2917,
+      "candidatesTokenCount": 361,
+      "totalTokenCount": 3278,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2917
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 361
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "YJ1SaPrYOOiChMIP-ufFUQ"
+  }
+}

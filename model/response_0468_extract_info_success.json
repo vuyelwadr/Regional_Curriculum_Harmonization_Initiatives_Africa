@@ -1,0 +1,45 @@
+{
+  "response_id": 468,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:12:06.417390",
+  "metadata": {
+    "apa_number": 337,
+    "url": "https://www.acerwc.africa/sites/default/files/2022-10/Agenda2040-Assessment%20of%20the%20first%20phase%20of%20implementation%202016-2020_0.pdf",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://www.acerwc.africa/sites/default/files/2022-10/Agenda2040-Assessment%20of%20the%20first%20phase%20of%20implementation%202016-2020_0.pdf\",\n  \"MATCHES_CRITERIA\": false,\n  \"CRITERIA_MATCH_EXPLANATION\": \"This document assesses the implementation of the African Charter on the Rights and Welfare of the Child (Agenda 2040). While it discusses education and child rights across the African continent, it does not focus specifically on regional curriculum harmonization initiatives. The focus is on broader child welfare and rights issues, not curriculum harmonization across multiple countries or institutions.\",\n  \"Title\": \"Agenda 2040: An Assessment of the First Phase of Implementation 2016-2020\",\n  \"Authors\": [],\n  \"Year\": \"2020\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 667,
+      "candidatesTokenCount": 224,
+      "totalTokenCount": 891,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 667
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 224
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "BJ9SaIbcL4uZhMIPlvTuyQY"
+  }
+}

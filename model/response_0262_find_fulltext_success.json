@@ -1,0 +1,55 @@
+{
+  "response_id": 262,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:53:07.676212",
+  "metadata": {
+    "url": "https://journals.plos.org/globalpublichealth/article/file?id=10.1371/journal.pgph.0001296&type=manuscript",
+    "final_url": "https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pgph.0001296/1/pgph.0001296.xml?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20250618%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250618T105209Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=2b4194bdb06f958170fa3c1d71a118a4153c6d50c11229f48863f282563e46a2b6f7dd1bb76dd7bd7d0d38ca90dd734cda95bf11642aabcf823ec330b66a19f89bde9ad5a56eacb4793e1d5d93b75334bd3adb97dceed9a4e863c2c27e4507ea63da4772422483bf2372b17aef8b97ec6362cd522d089d813afb6b42b77f1f69523a69a0a65300cd1b335095dfffc0dd3442924a4ee00be8aee925445772626baae14d33dce10dcc695b431f7b879c800d0e82bb126c552071c89751c72a8ffb8ba2e383359822e005bdfce237f9690cd2b3e13cb45d4eef6fab9a647a50386a18eeaa6338b240e724144d089bc720de2a711b538460e8f2b2c915f7d3928464",
+    "attempt": 2,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Adoption of harmonisation policy for the midwives’ training programme in Mali: A policy analysis\",\n    \"authors\": [\n      \"Cheick S. Sidibé\",\n      \"Valentine Becquet\",\n      \"Tanya Y. Brückner\",\n      \"Ousmane Touré\",\n      \"Lalla Fatouma Traoré\",\n      \"Jacqueline E. W. Broerse\",\n      \"Marjolein Dieleman\"\n    ],\n    \"doi\": \"10.1371/journal.pgph.0001296\",\n    \"journal\": \"PLOS Global Public Health\",\n    \"year\": \"2023\",\n    \"abstract\": \"The persistent shortage of qualified midwives in Mali contributes to high maternal and neonatal mortality. In response, the Ministry of Health and Public Hygiene (MoHPH) initiated a policy to harmonise the midwives’ training programme in 2010. This study aimed to analyse the adoption process of this policy in Mali. We used a qualitative approach, conducting 28 semi-structured interviews with national and international stakeholders involved in midwives’ training. Data were analysed using thematic analysis, guided by the policy triangle framework. The harmonisation policy aimed to standardise the curriculum, teaching methods, and assessment procedures across all midwifery training institutions in Mali. The adoption process was influenced by several factors related to the context, actors, content, and process of the policy. The Malian context was characterised by a decentralised health system, limited resources, and a complex network of actors involved in midwives’ training. Key actors included the MoHPH, training institutions, professional associations, and international partners. The content of the policy was perceived as relevant and necessary to improve the quality of midwives’ training. However, the adoption process was hampered by a lack of communication, coordination, and stakeholder engagement. The harmonisation policy was adopted in 2010, but its implementation has been slow and uneven. Challenges include resistance from some training institutions, a lack of resources, and a lack of monitoring and evaluation. The adoption of the harmonisation policy for the midwives’ training programme in Mali has been a complex and challenging process. To ensure successful implementation, the MoHPH needs to strengthen communication, coordination, and stakeholder engagement. Further research is needed to evaluate the impact of the policy on the quality of midwives’ training and maternal and neonatal health outcomes.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0001296\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [\n    \"gold\"\n  ],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 219,
+              "endIndex": 401,
+              "uri": "https://ouci.dntb.gov.ua/en/works/9QeLrXy9/"
+            }
+          ]
+        },
+        "avgLogprobs": -0.09148955703139663
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3585,
+      "candidatesTokenCount": 666,
+      "totalTokenCount": 4251,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3585
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 666
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "j5pSaPL_CeiChMIP-ufFUQ"
+  }
+}

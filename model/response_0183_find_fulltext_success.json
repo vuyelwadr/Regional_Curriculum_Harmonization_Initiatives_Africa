@@ -1,0 +1,68 @@
+{
+  "response_id": 183,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:45:06.335941",
+  "metadata": {
+    "url": "https://ghrp.biomedcentral.com/articles/10.1186/s41256-024-00365-y",
+    "final_url": "https://ghrp.biomedcentral.com/articles/10.1186/s41256-024-00365-y",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Strengthening access to cancer medicines for children in East Africa: policy options to enhance medicine procurement, forecasting, and regulations\",\n    \"authors\": [\n      \"Petricca, Kadia\"\n    ],\n    \"doi\": \"10.1186/s41256-024-00365-y\",\n    \"journal\": \"Global Health Research and Policy\",\n    \"year\": \"2024\",\n    \"abstract\": \"Gaps in access to quality essential medicines remain a major impediment to the effective care of children with cancer in low-and middle-income countries (LMICs). The World Health Organization reports that less than 30% of LMICs have consistent availability of childhood cancer medicines, compared to over 95% in high-income countries. Information provided within this policy brief is drawn from a review of the literature and a mixed-methods study published in the Lancet Oncology that analyzed determinants of cancer medicine access for children in Kenya, Tanzania, Uganda, and Rwanda. Three key policy options are presented to guide strategic policy direction and critical health system planning for strengthening access to cancer medicines for children: pooled procurement, evidence-based forecasting, and regional harmonization of regulatory processes. Enhancing regional pooled procurement to address fragmented markets and improve medicine supply, investing in health information systems for improved forecasting and planning of childhood cancer medicine needs, and promoting regulatory harmonization to streamline medicine approval and quality assurance across East Africa are recommended. This policy brief is intended for policymakers, clinicians, and health-system planners involved in the procurement, supply chain management, policy and financing of childhood cancer medicines.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://ghrp.biomedcentral.com/counter/pdf/10.1186/s41256-024-00365-y\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://ghrp.biomedcentral.com/articles/10.1186/s41256-024-00365-y\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 96,
+              "endIndex": 250,
+              "uri": "http://globalauthorid.com/WebPortal/ArticleView?wd=738CA3F32DBBA6634399297CB869233F15D05C313A3123C3"
+            },
+            {
+              "startIndex": 428,
+              "endIndex": 621,
+              "uri": "https://ouci.dntb.gov.ua/?backlinks_to=10.1016/s1470-2045%2823%2900072-4"
+            },
+            {
+              "startIndex": 638,
+              "endIndex": 1207
+            },
+            {
+              "startIndex": 1166,
+              "endIndex": 1806
+            }
+          ]
+        },
+        "avgLogprobs": -5.2213496235492344e-05
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2477,
+      "candidatesTokenCount": 572,
+      "totalTokenCount": 3049,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2477
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 572
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "r5hSaLGkCrPQhMIP372DoQ0"
+  }
+}

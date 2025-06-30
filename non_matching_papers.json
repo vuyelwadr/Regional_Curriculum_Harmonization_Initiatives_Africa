@@ -1,0 +1,649 @@
+{
+  "extraction_date": "2025-06-18T13:30:17.699457",
+  "total_papers": 42,
+  "papers": [
+    {
+      "paper_id": "NON_MATCH_001",
+      "apa_number": 27,
+      "url": "http://www.moe.go.tz/sites/default/files/DIGITAL%20NATIONAL%20STRATEGY%202025_0.pdf",
+      "Title": "DIGITAL NATIONAL STRATEGY 2025",
+      "Authors": [],
+      "Year": "2025",
+      "CRITERIA_MATCH_EXPLANATION": "This document is Tanzania's Digital National Strategy 2025. It focuses on digital transformation within Tanzania, not regional curriculum harmonization across multiple African countries or regions. There is no mention of regional frameworks, cross-border education, mutual recognition, credit transfer systems, or regional qualifications frameworks.",
+      "download_path": "downloads/not_relevant/paper_027.pdf",
+      "batch_id": null
+    },
+    {
+      "paper_id": "NON_MATCH_002",
+      "apa_number": 50,
+      "url": "https://acuass.org/wp-content/uploads/2021/08/Competency-Based-Curriculum-Webinars-Revised-Report-August-2021.pdf",
+      "Title": "Competency-Based Curriculum Webinars Revised Report August 2021",
+      "Authors": [],
+      "Year": "2021",
+      "CRITERIA_MATCH_EXPLANATION": "This report summarizes webinars on competency-based curriculum development. While it discusses curriculum development in African universities, it does not focus on regional curriculum harmonization initiatives involving multiple countries or regions. The focus is on individual institutions adopting competency-based approaches, not cross-border harmonization.",
+      "download_path": "downloads/not_relevant/paper_050.pdf",
+      "batch_id": null
+    },
+    {
+      "paper_id": "NON_MATCH_003",
+      "apa_number": 52,
+      "url": "https://african.business/2025/02/arts-culture/tackling-africas-foundational-learning-crisis",
+      "Title": "Tackling Africa’s foundational learning crisis",
+      "Authors": [],
+      "Year": "2025",
+      "CRITERIA_MATCH_EXPLANATION": "This article discusses the foundational learning crisis in Africa, focusing on literacy and numeracy skills. While it mentions the importance of education and skills development, it does not specifically address regional curriculum harmonization initiatives, cross-border education, or mutual recognition of qualifications. Therefore, it does not meet the research criteria.",
+      "download_path": null,
+      "batch_id": null
+    },
+    {
+      "paper_id": "NON_MATCH_004",
+      "apa_number": 53,
+      "url": "https://africanpact.org/2025/01/30/building-futures-education-in-a-rapidly-growing-africa/",
+      "Title": "Building Futures: Education in a Rapidly Growing Africa",
+      "Authors": [
+        "African PACT"
+      ],
+      "Year": "2025",
+      "CRITERIA_MATCH_EXPLANATION": "The provided text is a blog post discussing the challenges and opportunities in African education due to rapid population growth. While it mentions the need for improved education systems and skills development, it does not specifically focus on regional curriculum harmonization initiatives involving multiple African countries or regions. There is no mention of regional frameworks, cross-border education, mutual recognition, credit transfer systems, or regional qualifications frameworks.",
+      "download_path": null,
+      "batch_id": null
+    },
+    {
+      "paper_id": "NON_MATCH_005",
+      "apa_number": 25,
+      "url": "http://www.educationthatpaysforitself.com/documents/Schooling%202025.pdf",
+      "Title": "Schooling 2025",
+      "Authors": [],
+      "Year": "Unknown",
+      "CRITERIA_MATCH_EXPLANATION": "The document \"Schooling 2025\" focuses on broader educational trends and future scenarios, particularly concerning the integration of technology and evolving skill requirements. While it discusses the need for adaptable and relevant education systems, it does not specifically address regional curriculum harmonization initiatives involving multiple African countries or regions. There is no mention of regional frameworks, cross-border education, mutual recognition, credit transfer systems, or regional qualifications frameworks within the document. Therefore, it does not meet the specified research criteria.",
+      "download_path": "downloads/not_relevant/paper_025.pdf",
+      "batch_id": null
+    },
+    {
+      "paper_id": "NON_MATCH_006",
+      "apa_number": 78,
+      "url": "https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-024-10585-0",
+      "Title": "Medical students’ experiences during the COVID-19 pandemic: a qualitative study from Makerere University, Uganda",
+      "Authors": [
+        "Nazarius Mbona Tumwesigye",
+        "Darius Osei Kwabena",
+        "Joseph Rujumba",
+        "Richard Migisha",
+        "Ian Munabi",
+        "Roy William Mayega"
+      ],
+      "Year": "2024",
+      "CRITERIA_MATCH_EXPLANATION": "This paper focuses on the experiences of medical students during the COVID-19 pandemic in one institution (Makerere University in Uganda). It does not address regional curriculum harmonization initiatives involving multiple African countries or regions. The focus is on a single university's response to the pandemic, not cross-border education or regional frameworks.",
+      "download_path": null,
+      "batch_id": null
+    },
+    {
+      "paper_id": "NON_MATCH_007",
+      "apa_number": 79,
+      "url": "https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-024-11994-x",
+      "Title": "Experiences of medical students during the COVID-19 pandemic: a qualitative study at Makerere University, Uganda",
+      "Authors": [
+        "Nazarius Mbona Tumwesigye",
+        "Darius Osei Kwabena",
+        "Joseph Mugisha",
+        "Christine Nalwadda",
+        "Lynn M. Atuyambe",
+        "Elizeus Rutebemberwa"
+      ],
+      "Year": "2024",
+      "CRITERIA_MATCH_EXPLANATION": "This paper focuses on the experiences of medical students at a single institution (Makerere University) during the COVID-19 pandemic. It does not address regional curriculum harmonization initiatives involving multiple African countries or regions. The study is limited to one university and does not discuss cross-border education, mutual recognition, credit transfer systems, or regional qualifications frameworks.",
+      "download_path": null,
+      "batch_id": null
+    },
+    {
+      "paper_id": "NON_MATCH_008",
+      "apa_number": 20,
+      "url": "http://thesai.org/Publications/ViewPaper?Volume=16&Issue=5&Code=ijacsa&SerialNo=30",
+      "Title": "Systematic Literature Review on Generative AI",
+      "Authors": [
+        "S. V. Rajashekar",
+        "Dr.S.S.Gundannavar"
+      ],
+      "Year": "2024",
+      "CRITERIA_MATCH_EXPLANATION": "This paper is a systematic literature review on Generative AI, not regional curriculum harmonization initiatives in Africa. It does not involve multiple African countries or regions, address harmonization across institutions/countries, or mention regional frameworks, cross-border education, mutual recognition, or credit transfer systems.",
+      "download_path": "downloads/not_relevant/paper_020.pdf",
+      "batch_id": null
+    },
+    {
+      "paper_id": "NON_MATCH_009",
+      "apa_number": 105,
+      "url": "https://documents1.worldbank.org/curated/en/149531557254443590/pdf/The-Lost-Human-Capital-Teacher-Knowledge-and-Student-Achievement-in-Africa.pdf",
+      "Title": "The Lost Human Capital: Teacher Knowledge and Student Achievement in Africa",
+      "Authors": [
+        "Jishnu Das",
+        "Stefan Dercon",
+        "James Habyarimana",
+        "Pramila Krishnan"
+      ],
+      "Year": "2013",
+      "CRITERIA_MATCH_EXPLANATION": "This paper focuses on teacher knowledge and student achievement in Africa, but it does not address regional curriculum harmonization initiatives. The paper discusses teacher characteristics, student performance, and the relationship between the two, but it does not mention regional frameworks, cross-border education, mutual recognition, credit transfer systems, or regional qualifications frameworks. Therefore, it does not meet the research criteria.",
+      "download_path": "downloads/not_relevant/paper_105.pdf",
+      "batch_id": null
+    },
+    {
+      "paper_id": "NON_MATCH_010",
+      "apa_number": 121,
+      "url": "https://ejournal.insuriponorogo.ac.id/index.php/qalamuna/article/view/2075",
+      "Title": "Pengembangan Kurikulum Pendidikan Agama Islam Berbasis Integrasi Interkoneksi di Perguruan Tinggi Agama Islam",
+      "Authors": [
+        "Muhammad Fathurrohman",
+        "Muntahibun Nafis",
+        "Muhammad Yunus"
+      ],
+      "Year": "2023",
+      "CRITERIA_MATCH_EXPLANATION": "The paper focuses on curriculum development within a single Islamic higher education institution in Indonesia, not regional harmonization across multiple countries or institutions in Africa. There is no mention of regional frameworks, cross-border education, mutual recognition, credit transfer systems, or regional qualifications frameworks related to African countries.",
+      "download_path": null,
+      "batch_id": null
+    },
+    {
+      "paper_id": "NON_MATCH_011",
+      "apa_number": 122,
+      "url": "https://ejournal.staimnglawak.ac.id/index.php/educatio/article/view/1429",
+      "Title": "Islamic Religious Education Curriculum Development in the Era of the Merdeka Curriculum",
+      "Authors": [
+        "Muhammad Habibi",
+        "Siti Fatimah",
+        "Muhammad Irfan"
+      ],
+      "Year": "2023",
+      "CRITERIA_MATCH_EXPLANATION": "The paper focuses on curriculum development in Islamic Religious Education in Indonesia, specifically within the context of the Merdeka Curriculum. It does not address regional curriculum harmonization initiatives involving multiple African countries or regions. The focus is on a national curriculum reform within a single country (Indonesia), not cross-border or regional harmonization.",
+      "download_path": "downloads/not_relevant/paper_122.pdf",
+      "batch_id": null
+    },
+    {
+      "paper_id": "NON_MATCH_012",
+      "apa_number": 120,
+      "url": "https://ejournal.iainu-kebumen.ac.id/index.php/cka/article/view/2122",
+      "Title": "Pengembangan Kurikulum Integratif Berbasis KKNI-SN-PT di Program Studi Pendidikan Agama Islam IAINU Kebumen",
+      "Authors": [
+        "Muhammad Hanif",
+        "Ahmad Tantowi",
+        "Muhammad Musiyam"
+      ],
+      "Year": "2021",
+      "CRITERIA_MATCH_EXPLANATION": "The paper focuses on curriculum development within a single Islamic university (IAINU Kebumen) in Indonesia. It does not address regional curriculum harmonization initiatives involving multiple African countries or regions. The paper discusses curriculum integration and development within the university's Islamic Education Study Program, not cross-border or regional harmonization efforts.",
+      "download_path": "downloads/not_relevant/paper_120.pdf",
+      "batch_id": null
+    },
+    {
+      "paper_id": "NON_MATCH_013",
+      "apa_number": 112,
+      "url": "https://dx.plos.org/10.1371/journal.pgph.0001296",
+      "Title": "A competency framework for the public health workforce: A global Delphi study",
+      "Authors": [
+        "Laura Rossouw",
+        "Michelle McConnell",
+        "Claire Brolan",
+        "Brian Oldenburg",
+        "Jeff Collin",
+        "Ronald Labonté",
+        "Colin Sindall",
+        "Don Nutbeam",
+        "Peter Leslie",
+        "Stefanie Topp"
+      ],
+      "Year": "2023",
+      "CRITERIA_MATCH_EXPLANATION": "The paper focuses on the development of a global competency framework for public health, not regional curriculum harmonization initiatives in Africa. It does not address harmonization across multiple African countries or regions, nor does it mention regional frameworks, cross-border education, mutual recognition, credit transfer systems, or regional qualifications frameworks. The focus is on global standards, not regional harmonization.",
+      "download_path": null,
+      "batch_id": null
+    },
+    {
+      "paper_id": "NON_MATCH_014",
+      "apa_number": 113,
+      "url": "https://dx.plos.org/10.1371/journal.pgph.0001651",
+      "Title": "The impact of COVID-19 on medical education in Africa: A systematic review",
+      "Authors": [
+        "Lesley Workman",
+        "Tanya Doherty",
+        "Andrew Ross",
+        "Hussein Talib",
+        "James A. Tumwine",
+        "Nazeeia Sayed",
+        "Robert Mash"
+      ],
+      "Year": "2023",
+      "CRITERIA_MATCH_EXPLANATION": "This paper focuses on the impact of COVID-19 on medical education in Africa. While it mentions challenges and adaptations in medical education across the continent, it does not specifically address regional curriculum harmonization initiatives, cross-border education frameworks, or mutual recognition of qualifications. The focus is on the pandemic's impact rather than regional harmonization efforts.",
+      "download_path": null,
+      "batch_id": null
+    },
+    {
+      "paper_id": "NON_MATCH_015",
+      "apa_number": 114,
+      "url": "https://dx.plos.org/10.1371/journal.pmed.1003092",
+      "Title": "Medical education and workforce development in Africa: Progress, challenges, and opportunities",
+      "Authors": [
+        "Eric L. Krakauer",
+        "Gene Bukhman",
+        "Agnes Binagwaho",
+        "Paul Farmer"
+      ],
+      "Year": "2020",
+      "CRITERIA_MATCH_EXPLANATION": "This paper focuses on medical education and workforce development in Africa, but it does not address regional curriculum harmonization initiatives. It discusses challenges and opportunities in medical education, but not in the context of cross-border or multi-national curriculum alignment. There is no mention of regional frameworks, cross-border education, mutual recognition, credit transfer systems, or regional qualifications frameworks.",
+      "download_path": null,
+      "batch_id": null
+    },
+    {
+      "paper_id": "NON_MATCH_016",
+      "apa_number": 182,
+      "url": "https://journal.stitmadani.ac.id/index.php/JPI/article/view/487",
+      "Title": "IMPLEMENTASI PROGRAM MERDEKA BELAJAR KAMPUS MERDEKA (MBKM) DI IAIN MADURA",
+      "Authors": [
+        "Ach. Muzakki",
+        "Siti Nur Azizah"
+      ],
+      "Year": "2023",
+      "CRITERIA_MATCH_EXPLANATION": "The paper focuses on the implementation of the Merdeka Belajar Kampus Merdeka (MBKM) program at a single institution (IAIN Madura) and does not address regional curriculum harmonization initiatives involving multiple African countries or regions. The paper does not mention regional frameworks, cross-border education, mutual recognition, credit transfer systems, or regional qualifications frameworks.",
+      "download_path": null,
+      "batch_id": null
+    },
+    {
+      "paper_id": "NON_MATCH_017",
+      "apa_number": 167,
+      "url": "https://insightsimaging.springeropen.com/articles/10.1007/s13244-012-0170-3",
+      "Title": "Radiology education and training in Africa",
+      "Authors": [
+        "Nazarius Mbona Tumwesigye",
+        "Miriam Nakalembe",
+        "James Mugisha",
+        "Paul Frelinghuysen",
+        "William Small Jr",
+        "Bruce J. Hillman"
+      ],
+      "Year": "2012",
+      "CRITERIA_MATCH_EXPLANATION": "This paper discusses radiology education and training in Africa, but it does not focus on regional curriculum harmonization initiatives across multiple countries or regions. It mentions the need for standardized training and addressing the shortage of radiologists, but it does not describe any specific regional frameworks, cross-border education programs, or mutual recognition agreements. Therefore, it does not meet the specified research criteria.",
+      "download_path": null,
+      "batch_id": null
+    },
+    {
+      "paper_id": "NON_MATCH_018",
+      "apa_number": 115,
+      "url": "https://e-journal.uniflor.ac.id/index.php/JPM/article/view/4907",
+      "Title": "Improving the Quality of Mathematics Learning through the Development of Learning Tools Based on Local Wisdom",
+      "Authors": [
+        "Maria Yulita da Cunha",
+        "Yosef Mario Tunu",
+        "Maria Ines Taneo"
+      ],
+      "Year": "2022",
+      "CRITERIA_MATCH_EXPLANATION": "The paper focuses on improving the quality of mathematics learning at the primary school level in Indonesia. It does not address regional curriculum harmonization initiatives involving multiple African countries or regions. The study is limited to a single country and does not discuss cross-border education, mutual recognition, credit transfer systems, or regional qualifications frameworks.",
+      "download_path": "downloads/not_relevant/paper_115.pdf",
+      "batch_id": null
+    },
+    {
+      "paper_id": "NON_MATCH_019",
+      "apa_number": 183,
+      "url": "https://journal.stitmadani.ac.id/index.php/JPI/article/view/719",
+      "Title": "Islamic Religious Education Curriculum Development in the Era of Freedom Learning",
+      "Authors": [
+        "Muhammad Irfan Helmy",
+        "Muhammad Husni Thamrin",
+        "Muhammad Chirzin"
+      ],
+      "Year": "2023",
+      "CRITERIA_MATCH_EXPLANATION": "The paper focuses on Islamic Religious Education curriculum development in Indonesia, specifically within the context of the Merdeka Belajar (Independent Learning) curriculum. It does not address regional curriculum harmonization initiatives involving multiple African countries or regions. The focus is on a national curriculum reform within a single country (Indonesia), not cross-border or regional harmonization.",
+      "download_path": "downloads/not_relevant/paper_183.pdf",
+      "batch_id": null
+    },
+    {
+      "paper_id": "NON_MATCH_020",
+      "apa_number": 179,
+      "url": "https://journal.arimbi.or.id/index.php/Maeswara/article/view/1615",
+      "Title": "Development of Local Content-Based Curriculum to Improve Students’ Understanding of Balinese Culture",
+      "Authors": [
+        "I. Gusti Ngurah Agung Suryadarma",
+        "I. Made Sujana",
+        "I. Putu Mas Dewantara"
+      ],
+      "Year": "2023",
+      "CRITERIA_MATCH_EXPLANATION": "This paper focuses on the development of a local content-based curriculum at a single university (Universitas Pendidikan Ganesha) in Indonesia. It does not address regional curriculum harmonization initiatives involving multiple African countries or regions. The focus is on integrating local wisdom into the curriculum, not cross-border educational frameworks or mutual recognition of qualifications.",
+      "download_path": "downloads/not_relevant/paper_179.pdf",
+      "batch_id": null
+    },
+    {
+      "paper_id": "NON_MATCH_021",
+      "apa_number": 202,
+      "url": "https://journals.plos.org/globalpublichealth/article?id=10.1371%2Fjournal.pgph.0001296",
+      "Title": "Competency-based education in the health professions: Time to act",
+      "Authors": [
+        "Trevor Gibbs",
+        "Hanneke Wilson",
+        "Janet Grant"
+      ],
+      "Year": "2024",
+      "CRITERIA_MATCH_EXPLANATION": "The paper focuses on global health workforce education and training, but does not specifically address regional curriculum harmonization initiatives involving multiple African countries or regions. It discusses global standards and competencies but lacks the regional focus required by the criteria.",
+      "download_path": null,
+      "batch_id": null
+    },
+    {
+      "paper_id": "NON_MATCH_022",
+      "apa_number": 185,
+      "url": "https://journal.uinsgd.ac.id/index.php/idajhs/article/view/35120",
+      "Title": "Islamic Education Curriculum at UIN Sunan Gunung Djati Bandung: An Evaluation Study",
+      "Authors": [
+        "Ahmad Ali Riyadi",
+        "Ahmad Yani",
+        "Didin Wahidin"
+      ],
+      "Year": "2023",
+      "CRITERIA_MATCH_EXPLANATION": "The paper focuses on Islamic education in Indonesia, specifically examining the curriculum at UIN Sunan Gunung Djati Bandung. It does not address regional curriculum harmonization initiatives involving multiple African countries or regions. The focus is on a single institution within Indonesia, not cross-border or regional harmonization efforts.",
+      "download_path": "downloads/not_relevant/paper_185.pdf",
+      "batch_id": null
+    },
+    {
+      "paper_id": "NON_MATCH_023",
+      "apa_number": 170,
+      "url": "https://jcope.uobaghdad.edu.iq/index.php/jcope/article/view/2222",
+      "Title": "Curriculum Development According to Bologna Process Standards: An Analytical Study of the Opinions of Faculty Members of the University of Baghdad",
+      "Authors": [
+        "Hala Bahjat Abdul Wahab",
+        "Suhair Abdul Karim Al-Qaisi"
+      ],
+      "Year": "2022",
+      "CRITERIA_MATCH_EXPLANATION": "The paper focuses on curriculum development in Iraqi universities, specifically in the context of the Bologna Process. It does not address regional curriculum harmonization initiatives involving multiple African countries or regions. The focus is on national-level reforms within Iraq, not cross-border or regional harmonization efforts.",
+      "download_path": null,
+      "batch_id": null
+    },
+    {
+      "paper_id": "NON_MATCH_024",
+      "apa_number": 214,
+      "url": "https://kicd.ac.ke/wp-content/uploads/2017/10/CURRICULUMFRAMEWORK.pdf",
+      "Title": "Kenya National Curriculum Framework",
+      "Authors": [],
+      "Year": "2016",
+      "CRITERIA_MATCH_EXPLANATION": "This document is the Kenya National Curriculum Framework. It focuses on the national curriculum within Kenya, not regional harmonization across multiple African countries or institutions. It does not address cross-border education, mutual recognition, credit transfer systems, or regional qualifications frameworks.",
+      "download_path": "downloads/not_relevant/paper_214.pdf",
+      "batch_id": null
+    },
+    {
+      "paper_id": "NON_MATCH_025",
+      "apa_number": 199,
+      "url": "https://journals.lww.com/10.1097/AS9.0000000000000140",
+      "Title": "An Online, Modular Curriculum Enhances Surgical Training in Resource-Limited Settings: A Prospective Cohort Study",
+      "Authors": [
+        "Katelyn E. Fassihi",
+        "Mwiza Chanda",
+        "Vishu D. Kumar",
+        "Sitali Hamazakaza",
+        "Chipepo Kankasa",
+        "Thierry M. Kitenge",
+        "Gillian Hsieh",
+        "Susan Pitt",
+        "Elizabeth Krebs",
+        "Catherine Gooding",
+        "Miriam K. Bryant",
+        "Jessica P. Simons"
+      ],
+      "Year": "2022",
+      "CRITERIA_MATCH_EXPLANATION": "This paper focuses on the development and implementation of an online surgical curriculum at a single institution (University of Zambia) and does not address regional curriculum harmonization initiatives involving multiple African countries or regions. It does not mention regional frameworks, cross-border education, mutual recognition, credit transfer systems, or regional qualifications frameworks.",
+      "download_path": null,
+      "batch_id": null
+    },
+    {
+      "paper_id": "NON_MATCH_026",
+      "apa_number": 200,
+      "url": "https://journals.lww.com/10.1097/AS9.0000000000000141",
+      "Title": "Design of a Novel Online, Modular, Competency-Based Curriculum for Ophthalmology Training in Low- and Middle-Income Countries",
+      "Authors": [
+        "Andrew Bastawrous",
+        "Hillary Rono",
+        "David Macleod",
+        "Matthew Burton",
+        "Heiko Philippin",
+        "Geoff Tabin",
+        "Paul Courtright"
+      ],
+      "Year": "2022",
+      "CRITERIA_MATCH_EXPLANATION": "This paper focuses on the design of an online modular curriculum for ophthalmology training. It does not address regional curriculum harmonization initiatives involving multiple African countries or regions. The focus is on a single institution's curriculum transformation, not cross-border or regional harmonization efforts.",
+      "download_path": null,
+      "batch_id": null
+    },
+    {
+      "paper_id": "NON_MATCH_027",
+      "apa_number": 218,
+      "url": "https://lghor.alzahra.ac.ir/article_7097_0b30b38f51ffac78f3850754ad814d20.pdf?lang=fa",
+      "Title": "Challenges and Opportunities of Internationalization of Higher Education in Iran",
+      "Authors": [
+        "Fatemeh Sadat Javadi Yeganeh",
+        "Ali Asghar Pour عزتi",
+        "Mohammad Reza Sarmadi",
+        "Mohammad Bagher Ghorbani"
+      ],
+      "Year": "2022",
+      "CRITERIA_MATCH_EXPLANATION": "The paper appears to focus on higher education in Iran, specifically the challenges and opportunities of internationalization. While it mentions international cooperation and the need for curriculum development to meet international standards, it does not focus on regional curriculum harmonization initiatives involving multiple African countries or regions. The paper does not address harmonization across institutions/countries in Africa, regional frameworks, cross-border education, mutual recognition, credit transfer systems, or regional qualifications frameworks within an African context.",
+      "download_path": "downloads/not_relevant/paper_218.pdf",
+      "batch_id": null
+    },
+    {
+      "paper_id": "NON_MATCH_028",
+      "apa_number": 271,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9869809/",
+      "Title": "Competency-Based Curriculum Development and Implementation: Lessons Learned from a Medical School in Rwanda",
+      "Authors": [
+        "Jean Baptiste Kakoma",
+        "Emile Bienvenu",
+        "Eugene Tuyishime",
+        "Stephen Mutwiwa",
+        "Bethany Hedt-Gauthier",
+        "Felix Sayinzoga",
+        "Jean de Dieu Gatete"
+      ],
+      "Year": "2023",
+      "CRITERIA_MATCH_EXPLANATION": "The paper focuses on the development of a competency-based curriculum for medical education in Rwanda. While it discusses curriculum development and adaptation, it does not address regional curriculum harmonization initiatives involving multiple African countries or regions. The focus is on a single country's medical education system.",
+      "download_path": null,
+      "batch_id": null
+    },
+    {
+      "paper_id": "NON_MATCH_029",
+      "apa_number": 266,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4535832/",
+      "Title": "Medical Education in Africa: Challenges and Opportunities",
+      "Authors": [
+        "Eldawlatly A",
+        "Elhassan T",
+        "Elzain Y",
+        "Mahmoud N",
+        "Ahmed S"
+      ],
+      "Year": "2015",
+      "CRITERIA_MATCH_EXPLANATION": "This paper focuses on medical education in Africa, but it primarily discusses challenges and opportunities within individual institutions and countries. It does not explicitly address regional curriculum harmonization initiatives involving multiple African countries or regions. While it mentions the need for standardization and collaboration, it doesn't delve into specific regional frameworks, cross-border education, or mutual recognition agreements.",
+      "download_path": null,
+      "batch_id": null
+    },
+    {
+      "paper_id": "NON_MATCH_030",
+      "apa_number": 267,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5814861/",
+      "Title": "Medical Education in Africa: Challenges and Opportunities",
+      "Authors": [
+        "Elusiyan Moyosore Adebayo"
+      ],
+      "Year": "2017",
+      "CRITERIA_MATCH_EXPLANATION": "This paper focuses on medical education in Africa, but it does not address regional curriculum harmonization initiatives across multiple countries or institutions. The focus is on the challenges and opportunities within medical education in Africa generally, not on specific regional harmonization efforts. There is no mention of regional frameworks, cross-border education, mutual recognition, credit transfer systems, or regional qualifications frameworks.",
+      "download_path": null,
+      "batch_id": null
+    },
+    {
+      "paper_id": "NON_MATCH_031",
+      "apa_number": 268,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7304806/",
+      "Title": "Development of a free online COVID-19 training course for medical students in Africa",
+      "Authors": [
+        "Jennifer A Downs",
+        "David Lissauer",
+        "Robert Rohrbaugh",
+        "Jennifer McCaney",
+        "Elizabeth McCarthy",
+        "Michael H Hogarth",
+        "John A Sellick",
+        "Paul Drain"
+      ],
+      "Year": "2020",
+      "CRITERIA_MATCH_EXPLANATION": "This paper focuses on the development of a single online course for medical education in Africa, specifically addressing the need for standardized training in response to the COVID-19 pandemic. While it aims to improve medical education in Africa, it does not address regional curriculum harmonization initiatives involving multiple countries or institutions. The focus is on a single course, not a broader harmonization effort across different curricula or educational systems.",
+      "download_path": null,
+      "batch_id": null
+    },
+    {
+      "paper_id": "NON_MATCH_032",
+      "apa_number": 293,
+      "url": "https://rsisinternational.org/journals/ijriss/articles/from-fragmentation-to-integration-developing-a-coherent-insurance-regulatory-framework-for-afcfta/",
+      "Title": "From Fragmentation to Integration: Developing a Coherent Insurance Regulatory Framework for AfCFTA",
+      "Authors": [
+        "Evans Osabuohien",
+        "Olufemi A. Aluko",
+        "Nicholas Olise",
+        "Olayinka Idowu",
+        "Abiodun S. Bankole",
+        "Oluwasola E. Omoju"
+      ],
+      "Year": "2023",
+      "CRITERIA_MATCH_EXPLANATION": "This paper focuses on the insurance regulatory framework within the African Continental Free Trade Area (AfCFTA). While it discusses regional integration, it does not specifically address curriculum harmonization in education. The focus is on financial regulation, not educational frameworks or cross-border education initiatives related to curriculum.",
+      "download_path": null,
+      "batch_id": null
+    },
+    {
+      "paper_id": "NON_MATCH_033",
+      "apa_number": 265,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11270597/",
+      "Title": "Development of a competency-based curriculum for undergraduate medical education in Uganda: Makerere University College of Health Sciences’ experience",
+      "Authors": [
+        "Nazarius Mbona Tumwesigye",
+        "Rose Chalo Nabirye",
+        "Isaac Okullo",
+        "Paul Odong",
+        "Sarah Kiguli",
+        "Nelson K. Sewankambo"
+      ],
+      "Year": "2024",
+      "CRITERIA_MATCH_EXPLANATION": "This paper focuses on the development of a competency-based curriculum for medical education in Uganda. While it discusses curriculum development and adaptation, it does not address regional curriculum harmonization initiatives involving multiple African countries or regions. The focus is on a national curriculum within Uganda, not cross-border or regional harmonization.",
+      "download_path": null,
+      "batch_id": null
+    },
+    {
+      "paper_id": "NON_MATCH_034",
+      "apa_number": 308,
+      "url": "https://trt.global/afrika-english/article/d49b5b748bde",
+      "Title": "African students are increasingly choosing to study in Africa",
+      "Authors": [],
+      "Year": "Unknown",
+      "CRITERIA_MATCH_EXPLANATION": "The article discusses the challenges faced by African students seeking education abroad, particularly in Europe and North America, and the increasing trend of studying within Africa. It highlights the need for improved quality and recognition of African universities to retain talent and reduce reliance on foreign education. While it touches upon the importance of intra-African mobility, it does not specifically focus on regional curriculum harmonization initiatives, frameworks, or policies across multiple African countries or regions. The article primarily discusses the broader context of African higher education and student mobility, rather than specific curriculum harmonization efforts.",
+      "download_path": null,
+      "batch_id": null
+    },
+    {
+      "paper_id": "NON_MATCH_035",
+      "apa_number": 304,
+      "url": "https://teachertaskforce.org/sites/default/files/2024-05/2024_Mitchell-et-al_Teacher-professional-development-in-Africa_EN.pdf",
+      "Title": "Teacher professional development in Africa: Synthesis report",
+      "Authors": [
+        "Mitchell, A.",
+        "Akyeampong, K.",
+        "Dachi, H. A.",
+        "Kinyanjui, P.",
+        "Onsomu, E.",
+        "Oduor, A.",
+        "Oketch, M.",
+        "Pryor, J.",
+        "Rose, P.",
+        "Unterhalter, E."
+      ],
+      "Year": "2024",
+      "CRITERIA_MATCH_EXPLANATION": "The paper focuses on teacher professional development across Africa, but it does not specifically address regional curriculum harmonization initiatives. While it mentions various countries and contexts, the focus is on national-level policies and practices rather than cross-border or regional harmonization efforts. There is no mention of regional frameworks, cross-border education, mutual recognition, credit transfer systems, or regional qualifications frameworks.",
+      "download_path": "downloads/not_relevant/paper_304.pdf",
+      "batch_id": null
+    },
+    {
+      "paper_id": "NON_MATCH_036",
+      "apa_number": 336,
+      "url": "https://www.academia.edu/download/104118595/58895.pdf",
+      "Title": "Internationalization of Higher Education in Africa: Status, Trends, and Prospects",
+      "Authors": [
+        "Damtew Teferra"
+      ],
+      "Year": "2017",
+      "CRITERIA_MATCH_EXPLANATION": "The paper focuses on the internationalization of higher education in Africa, but does not specifically address regional curriculum harmonization initiatives involving multiple African countries or regions. It discusses the need for African universities to adapt to global trends and improve their competitiveness, but it does not provide evidence of regional frameworks, cross-border education, mutual recognition, credit transfer systems, or regional qualifications frameworks.",
+      "download_path": "downloads/not_relevant/paper_336.pdf",
+      "batch_id": null
+    },
+    {
+      "paper_id": "NON_MATCH_037",
+      "apa_number": 331,
+      "url": "https://www.academia.edu/31335455/Paper_Title_Cultural_and_Linguistic_Dilemmas_in_African_Development_Trajectory_1",
+      "Title": "Cultural and Linguistic Dilemmas in African Development Trajectory",
+      "Authors": [
+        "Okonkwo, Uchechukwu Chris",
+        "Eme, Okechukwu Innocent",
+        "Nnabuife, Samuel Chukwudi"
+      ],
+      "Year": "2016",
+      "CRITERIA_MATCH_EXPLANATION": "The paper discusses cultural and linguistic issues in African development but does not focus on regional curriculum harmonization initiatives. It does not address harmonization across institutions/countries, regional frameworks, cross-border education, mutual recognition, or credit transfer systems.",
+      "download_path": null,
+      "batch_id": null
+    },
+    {
+      "paper_id": "NON_MATCH_038",
+      "apa_number": 337,
+      "url": "https://www.acerwc.africa/sites/default/files/2022-10/Agenda2040-Assessment%20of%20the%20first%20phase%20of%20implementation%202016-2020_0.pdf",
+      "Title": "Agenda 2040: An Assessment of the First Phase of Implementation 2016-2020",
+      "Authors": [],
+      "Year": "2020",
+      "CRITERIA_MATCH_EXPLANATION": "This document assesses the implementation of the African Charter on the Rights and Welfare of the Child (Agenda 2040). While it discusses education and child rights across the African continent, it does not focus specifically on regional curriculum harmonization initiatives. The focus is on broader child welfare and rights issues, not curriculum harmonization across multiple countries or institutions.",
+      "download_path": "downloads/not_relevant/paper_337.pdf",
+      "batch_id": null
+    },
+    {
+      "paper_id": "NON_MATCH_039",
+      "apa_number": 325,
+      "url": "https://vestnik-bist.ru/wp-content/uploads/2020/10/Kunsbaev_VestnikBIST_3-2020.pdf",
+      "Title": "The Bologna Process as a Factor of Integration of the Russian Education System into the European Educational Space",
+      "Authors": [
+        "I. N. Kunsbaev",
+        "R. R. Farkhutdinov"
+      ],
+      "Year": "2020",
+      "CRITERIA_MATCH_EXPLANATION": "The paper focuses on the Bologna process and its impact on the Russian education system. It does not address regional curriculum harmonization initiatives within Africa or involving multiple African countries/regions. The paper discusses the integration of the Russian education system into the European Higher Education Area, which is a different regional context than the one specified in the research criteria.",
+      "download_path": "downloads/not_relevant/paper_325.pdf",
+      "batch_id": null
+    },
+    {
+      "paper_id": "NON_MATCH_040",
+      "apa_number": 351,
+      "url": "https://www.comesa.int/wp-content/uploads/2022/03/4Final-MTSP-2021-2025-English-Reviewed-2_feb.pdf",
+      "Title": "COMESA Medium Term Strategic Plan (MTSP) 2021 – 2025",
+      "Authors": [],
+      "Year": "2021",
+      "CRITERIA_MATCH_EXPLANATION": "This document is a strategic plan for COMESA (Common Market for Eastern and Southern Africa). While it mentions education and skills development, it does not focus specifically on regional curriculum harmonization initiatives. The document outlines broad goals and strategies for economic and social development within the COMESA region, including improving education and skills to meet labor market demands. However, it lacks the specific focus on curriculum harmonization across multiple African countries or regions as required by the research criteria. There is no mention of cross-border education, mutual recognition, credit transfer systems, or regional qualifications frameworks in the context of curriculum harmonization.",
+      "download_path": "downloads/not_relevant/paper_351.pdf",
+      "batch_id": null
+    },
+    {
+      "paper_id": "NON_MATCH_041",
+      "apa_number": 332,
+      "url": "https://www.academia.edu/49088540/Pan_African_Health_Informatics_Association_HELINA_",
+      "Title": "Pan African Health Informatics Association (HELINA)",
+      "Authors": [],
+      "Year": null,
+      "CRITERIA_MATCH_EXPLANATION": "The document is a presentation abstract for the Pan African Health Informatics Association (HELINA). While it discusses health informatics in Africa, it does not focus on regional curriculum harmonization initiatives across multiple countries or regions. It does not address harmonization across institutions/countries, regional frameworks, cross-border education, mutual recognition, or credit transfer systems.",
+      "download_path": null,
+      "batch_id": null
+    },
+    {
+      "paper_id": "NON_MATCH_042",
+      "apa_number": 348,
+      "url": "https://www.brookings.edu/articles/why-africa-urgently-requires-transformation-of-its-education-systems/",
+      "Title": "Why Africa urgently requires transformation of its education systems",
+      "Authors": [
+        "Aloysius Ordu",
+        "Landry Signé"
+      ],
+      "Year": "2020",
+      "CRITERIA_MATCH_EXPLANATION": "This article discusses the need for education transformation in Africa but does not focus specifically on regional curriculum harmonization initiatives. It mentions the importance of skills development and adapting to the future of work, but it does not delve into cross-border curriculum alignment or mutual recognition of qualifications.",
+      "download_path": null,
+      "batch_id": null
+    }
+  ]
+}

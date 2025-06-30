@@ -1,0 +1,63 @@
+{
+  "response_id": 253,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:52:07.332073",
+  "metadata": {
+    "url": "https://journals.innovareacademics.in/index.php/ijoe/article/view/48581",
+    "final_url": "https://journals.innovareacademics.in/index.php/ijoe/article/view/48581",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Curriculum Reforms in Namibia: Progress, Derailments, and Possible Solutions for a Competitive Future\",\n    \"authors\": [\n      \"Linus  Kambeyo\",\n      \"Oiva S. Nauyoma\",\n      \"Lukas Julius\"\n    ],\n    \"doi\": \"10.22159/ijoe.2023v11i5.48581\",\n    \"journal\": \"Innovare Journal of Education\",\n    \"year\": \"2023\",\n    \"abstract\": \"The study analyzed the Curriculum Reforms in Namibia’s progress, derailments, and possible solutions for a competitive future. Educational reform and curriculum revision are crucial to redressing apartheid colonialism’s inequitable and fragmented education system in Namibia and building a responsive curriculum that prepares students for a better future. While noticeable progress is observed regarding access to education, policy development, and curriculum reform, many challenges remain. Thus, this study aimed to review literature from Postcolonial Namibia to determine the causes of Namibia’s basic education responsiveness and transformation before and after independence. The paper argues that implementing a responsive curriculum is critical for many reasons. This study employed a qualitative approach encased in a phenomenological interpretive framework with the literary analysis of Namibia’s curriculum reform.\\nAdditionally, the paper was couched by Moll’s Curriculum Responsiveness Theory to determine whether Namibian curricula at various epochs were responsive to learners’ and societal needs. The study reveals that curriculum reform is the dominant of politically driven, overly ambitious aspirations in the reform process. Furthermore, the Ministry of Education preaches access to education and curriculum reform without providing adequate teaching resources; classrooms and teachers expected to teach the new curriculum were not trained in content and pedagogy. The study recommends that curriculum revision be aligned with social congruence and not add to the country’s education sector’s problems.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://journals.innovareacademics.in/index.php/ijoe/article/download/48581/28537\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 87,
+              "endIndex": 328,
+              "uri": "https://m.booksci.cn/literature_d413908_2.htm"
+            },
+            {
+              "startIndex": 423,
+              "endIndex": 1347
+            },
+            {
+              "startIndex": 1362,
+              "endIndex": 2036
+            }
+          ]
+        },
+        "avgLogprobs": -0.0012067676256488822
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2775,
+      "candidatesTokenCount": 537,
+      "totalTokenCount": 3312,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2775
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 537
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "U5pSaNX9OYuZhMIPlvTuyQY"
+  }
+}

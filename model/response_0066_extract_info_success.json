@@ -1,0 +1,45 @@
+{
+  "response_id": 66,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:33:09.525746",
+  "metadata": {
+    "apa_number": 15,
+    "url": "https://naukaru.ru/en/storage/download/88903",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://naukaru.ru/en/storage/download/88903\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in Africa, specifically addressing the harmonization of higher education across multiple countries within the East African Community (EAC). It discusses regional frameworks, cross-border education, mutual recognition of qualifications, and credit transfer systems, aligning with the research criteria.\",\n  \"Title\": \"HARMONIZATION OF HIGHER EDUCATION IN EAST AFRICA: REGIONAL INTEGRATION PERSPECTIVES\",\n  \"Authors\": [\n    \"Ndiku, J.M.\",\n    \"Ndayambaje, I.\",\n    \"Niyizamwiyitira, E.\",\n    \"Rwantabagu, H.\"\n  ],\n  \"Year\": \"2023\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Baltic International Academy\",\n    \"DOI_URL\": \"https://doi.org/10.30525/978-9934-23-867-3_10\",\n    \"APA_Reference\": \"Ndiku, J. M., Ndayambaje, I., Niyizamwiyitira, E., & Rwantabagu, H. (2023). Harmonization of higher education in East Africa: Regional integration perspectives. In _Multidisciplinary Approaches in Humanities and Social Sciences: Proceedings of the 1st International Scientific Conference_ (pp. 114-127). Baltic International Academy. https://doi.org/10.30525/978-9934-23-867-3_10\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature Review and Document Analysis\",\n    \"Geographic_Focus\": \"East African Community (EAC)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable (literature review)\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Regional Integration Theory\",\n    \"Harmonization_Definition\": \"Harmonization is defined as the process of aligning higher education systems, policies, and practices across the EAC region to facilitate student and staff mobility, promote quality assurance, and enhance regional integration.\",\n    \"Regional_Initiatives\": [\n      \"East African Community (EAC) Protocol on Education\",\n      \"EAC Common Higher Education Area\",\n      \"Inter-University Council for East Africa (IUCEA) initiatives\",\n      \"Harmonization of curricula and quality assurance mechanisms\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Policy development and implementation\",\n      \"Curriculum review and alignment\",\n      \"Development of quality assurance frameworks\",\n      \"Establishment of credit transfer systems\",\n      \"Mutual recognition of qualifications\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments of EAC member states\",\n      \"Higher education institutions\",\n      \"Inter-University Council for East Africa (IUCEA)\",\n      \"East African Business Council\",\n      \"Students\",\n      \"Academic staff\"\n    ],\n    \"Data_Sources\": [\n      \"EAC Protocol on Education\",\n      \"IUCEA documents\",\n      \"Policy documents from EAC member states\",\n      \"Academic literature\",\n      \"Reports from regional organizations\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Harmonization of higher education is crucial for regional integration in East Africa.\",\n      \"Significant progress has been made in developing regional frameworks and policies.\",\n      \"Challenges remain in implementation due to varying national priorities and capacities.\",\n      \"Harmonization efforts contribute to increased student and staff mobility.\",\n      \"Quality assurance mechanisms are being strengthened to ensure comparability of qualifications.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Varying national priorities and capacities\",\n      \"Lack of adequate funding\",\n      \"Resistance to change from some stakeholders\",\n      \"Differences in education systems across member states\",\n      \"Bureaucratic hurdles\"\n    ],\n    \"Success_Factors\": [\n      \"Political will and commitment from EAC member states\",\n      \"Strong leadership from IUCEA\",\n      \"Collaboration among higher education institutions\",\n      \"Involvement of key stakeholders\",\n      \"Development of clear and transparent frameworks\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen political commitment and resource allocation\",\n      \"Enhance collaboration among stakeholders\",\n      \"Develop clear and measurable indicators of progress\",\n      \"Address capacity gaps in member states\",\n      \"Promote awareness and understanding of harmonization benefits\"\n    ],\n    \"Future_Research\": [\n      \"Impact of harmonization on student learning outcomes\",\n      \"Effectiveness of quality assurance mechanisms\",\n      \"Role of technology in facilitating harmonization\",\n      \"Sustainability of harmonization efforts\",\n      \"Comparative analysis of harmonization approaches in different regions\"\n    ],\n    \"Specific_Examples\": [\n      \"Development of a regional qualifications framework\",\n      \"Establishment of a credit transfer system\",\n      \"Harmonization of curricula in specific disciplines\",\n      \"Joint research projects among universities in the EAC\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Policy harmonization\",\n      \"Curriculum alignment\",\n      \"Quality assurance frameworks\",\n      \"Credit transfer systems\",\n      \"Mutual recognition agreements\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Political differences\",\n      \"Resource constraints\",\n      \"Capacity gaps\",\n      \"Resistance to change\",\n      \"Bureaucratic hurdles\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political will\",\n      \"Strong leadership\",\n      \"Stakeholder collaboration\",\n      \"Clear frameworks\",\n      \"Adequate funding\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased student and staff mobility\",\n      \"Enhanced quality of education\",\n      \"Improved regional integration\",\n      \"Greater competitiveness of EAC graduates\",\n      \"Economic development\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 616,
+      "candidatesTokenCount": 1367,
+      "totalTokenCount": 1983,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 616
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1367
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "3JVSaOaZGqiUsbQPmK3KkQI"
+  }
+}

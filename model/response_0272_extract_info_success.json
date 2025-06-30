@@ -1,0 +1,45 @@
+{
+  "response_id": 272,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:54:07.233033",
+  "metadata": {
+    "apa_number": 202,
+    "url": "https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pgph.0001296/1/pgph.0001296.xml?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20250618%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250618T105209Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=2b4194bdb06f958170fa3c1d71a118a4153c6d50c11229f48863f282563e46a2b6f7dd1bb76dd7bd7d0d38ca90dd734cda95bf11642aabcf823ec330b66a19f89bde9ad5a56eacb4793e1d5d93b75334bd3adb97dceed9a4e863c2c27e4507ea63da4772422483bf2372b17aef8b97ec6362cd522d089d813afb6b42b77f1f69523a69a0a65300cd1b335095dfffc0dd3442924a4ee00be8aee925445772626baae14d33dce10dcc695b431f7b879c800d0e82bb126c552071c89751c72a8ffb8ba2e383359822e005bdfce237f9690cd2b3e13cb45d4eef6fab9a647a50386a18eeaa6338b240e724144d089bc720de2a711b538460e8f2b2c915f7d3928464",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pgph.0001296/1/pgph.0001296.xml?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20250618%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250618T105209Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=2b4194bdb06f958170fa3c1d71a118a4153c6d50c11229f48863f282563e46a2b6f7dd1bb76dd7bd7d0d38ca90dd734cda95bf11642aabcf823ec330b66a19f89bde9ad5a56eacb4793e1d5d93b75334bd3adb97dceed9a4e863c2c27e4507ea63da4772422483bf2372b17aef8b97ec6362cd522d089d813afb6b42b77f1f69523a69a0a65300cd1b335095dfffc0dd3442924a4ee00be8aee925445772626baae14d33dce10dcc695b431f7b879c800d0e82bb126c552071c89751c72a8ffb8ba2e383359822e005bdfce237f9690cd2b3e13cb45d4eef6fab9a647a50386a18eeaa6338b240e724144d089bc720de2a711b538460e8f2b2c915f7d3928464\",\n  \"MATCHES_CRITERIA\": false,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on global health workforce education and training, but does not specifically address regional curriculum harmonization initiatives involving multiple African countries or regions. It discusses global standards and competencies but lacks the regional focus required by the criteria.\",\n  \"Title\": \"Competency-based education in the health professions: Time to act\",\n  \"Authors\": [\n    \"Trevor Gibbs\",\n    \"Hanneke Wilson\",\n    \"Janet Grant\"\n  ],\n  \"Year\": \"2024\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 1223,
+      "candidatesTokenCount": 765,
+      "totalTokenCount": 1988,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1223
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 765
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "yppSaITYJZrnqsMPzonmkA0"
+  }
+}

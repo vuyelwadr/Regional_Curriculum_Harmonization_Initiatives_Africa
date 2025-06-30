@@ -1,0 +1,55 @@
+{
+  "response_id": 22,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:29:07.024197",
+  "metadata": {
+    "url": "http://gjournals.org/GJER/archive/vol-9-issue-1-2019/orodho.html",
+    "final_url": "https://gjournals.org/GJER/archive/vol-9-issue-1-2019/orodho.html",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Mainstreaming Core-Values in the Curriculum of East African Community Countries for Holistic and Sustainable Development: Challenges and Prospects\",\n    \"authors\": [],\n    \"doi\": null,\n    \"journal\": \"Greener Journal of Educational Research\",\n    \"year\": \"2019\",\n    \"abstract\": null\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://gjournals.org/GJER/article/download/2810/2687\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"medium\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 96,
+              "endIndex": 250,
+              "uri": "https://zenodo.org/record/3482917"
+            }
+          ]
+        },
+        "avgLogprobs": -0.053457142057872956
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2974,
+      "candidatesTokenCount": 210,
+      "totalTokenCount": 3184,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2974
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 210
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "8ZRSaNz7DbqFsbQPqNrRqAQ"
+  }
+}

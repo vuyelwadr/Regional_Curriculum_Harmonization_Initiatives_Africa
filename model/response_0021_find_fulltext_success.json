@@ -1,0 +1,79 @@
+{
+  "response_id": 21,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:29:03.405427",
+  "metadata": {
+    "url": "http://perlinguam.journals.ac.za/pub/article/view/532",
+    "final_url": "https://perlinguam.journals.ac.za/pub/article/view/532",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"The challenges of designing a common, standards-based curriculum for all South Africa’s languages\",\n    \"authors\": [\n      \"Sarah Murray\"\n    ],\n    \"doi\": \"10.5785/28-2-532\",\n    \"journal\": \"Per Linguam\",\n    \"year\": \"2012\",\n    \"abstract\": \"This article examines the challenges of designing a common core curriculum for all South Africa’s eleven official languages to be taught as school subjects.\\u00a0 It takes the position that curriculum design should be responsive to the character and status of specific languages, the purposes for which they are used and the time available in the curriculum to study them.\\u00a0 Curriculum developers should also be knowledgeable about the historical antecedents of the language curriculum in question, and familiar with its associated pedagogy.   The paper begins by describing the status and role of the eleven official languages in the public arena and the education system.\\u00a0 It then outlines the development of the different home language syllabuses and curriculum statements over the last forty years and looks at the impact of the introduction of a common outcomes based curriculum in 1997.    A number of challenges are identified.\\u00a0 Firstly, how to ensure that languages are taught and assessed at the same level of linguistic and intellectual challenge whilst acknowledging any differences that might exist.\\u00a0 Secondly, how to ensure that specific curricula are authentic, reflecting each language’s role and features, and enabling students to learn languages for purposes of identity and heritage as well as intellectual development. Thirdly, the challenge of accommodating a Second Additional Language in the school curriculum is addressed. Finally, the article concludes by arguing for an iterative approach in which curriculum development is seen as a long term, ongoing process.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://perlinguam.journals.ac.za/pub/article/download/532/pdf\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 339,
+              "endIndex": 485,
+              "uri": "https://xjournals.com/collections/articles/Article?qt=HXOVh2Y37s0ao2tTIvHCfqljIdso5xjQAKul+6MbyeCIlsXdcyAvawFb8RNIWHCG"
+            },
+            {
+              "startIndex": 502,
+              "endIndex": 710,
+              "uri": "https://xjournals.com/collections/articles/Article?qt=HXOVh2Y37s0ao2tTIvHCfqljIdso5xjQAKul+6MbyeCIlsXdcyAvawFb8RNIWHCG"
+            },
+            {
+              "startIndex": 718,
+              "endIndex": 1011,
+              "uri": "https://xjournals.com/collections/articles/Article?qt=HXOVh2Y37s0ao2tTIvHCfqljIdso5xjQAKul+6MbyeCIlsXdcyAvawFb8RNIWHCG"
+            },
+            {
+              "startIndex": 1023,
+              "endIndex": 1278,
+              "uri": "https://xjournals.com/collections/articles/Article?qt=HXOVh2Y37s0ao2tTIvHCfqljIdso5xjQAKul+6MbyeCIlsXdcyAvawFb8RNIWHCG"
+            },
+            {
+              "startIndex": 1289,
+              "endIndex": 1462,
+              "uri": "https://xjournals.com/collections/articles/Article?qt=HXOVh2Y37s0ao2tTIvHCfqljIdso5xjQAKul+6MbyeCIlsXdcyAvawFb8RNIWHCG"
+            },
+            {
+              "startIndex": 1471,
+              "endIndex": 1938
+            }
+          ]
+        },
+        "avgLogprobs": -0.00139634103209749
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2861,
+      "candidatesTokenCount": 523,
+      "totalTokenCount": 3384,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2861
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 523
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "7JRSaIuCFeiChMIP-ufFUQ"
+  }
+}

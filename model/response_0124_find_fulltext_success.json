@@ -1,0 +1,59 @@
+{
+  "response_id": 124,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:39:09.120213",
+  "metadata": {
+    "url": "https://cultureandvalues.org/index.php/JCV/article/view/153",
+    "final_url": "https://cultureandvalues.org/index.php/JCV/article/view/153",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Reimagining Responsible Research Innovations Regarding Professional Teaching Standards for Curriculum Practice\",\n    \"authors\": [\n      \"Molaodi David Tshelane\"\n    ],\n    \"doi\": \"10.46303/jcve.2022.8\",\n    \"journal\": \"Journal of Culture and Values in Education\",\n    \"year\": \"2022\",\n    \"abstract\": \"Applying teacher capabilities is widely considered to be a technique for enriching the quality of teaching in all teaching spaces, worldwide. Education reformists have a responsibility to ensure that education accommodates the best interests of all learners. Standards depend largely on teacher capabilities and the context of a country. This paper reflects on responsible research innovation techniques that are crucial for improving teacher capabilities and advancing professional standards that are needed to improve education in South African schools. An architecture theory, which draws heavily on the famous quotation of Adolf Loos, was used as the main lens for the study. Critical participatory action research (CPAR) was used to generate data. CPAR was preferred, since it pilgrimages three principles of responsible research innovations, that is, recognising participants, establishing professional learning communities, and engaging in critical reflection that deliberately embraces capabilities, to address the inequalities that characterise the context of the South African education space. Critical discourse analysis was used to arrive at the following broad findings: (i) A practical learning experience must be created for all teachers; and (ii) Teacher training institutions are central to edifying teacher capabilities. The paper concludes with a recommendation that the preconfigured standards for professional teaching practices should be reconfigured to involve a de-hierarchical list, and to avoid decontextualized performance and false dichotomies.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://cultureandvalues.org/index.php/JCV/article/download/153/82\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 87,
+              "endIndex": 234,
+              "uri": "https://m.booksci.cn/literature/125675143.htm"
+            },
+            {
+              "startIndex": 397,
+              "endIndex": 1968
+            }
+          ]
+        },
+        "avgLogprobs": -0.0009473857247395071
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2778,
+      "candidatesTokenCount": 494,
+      "totalTokenCount": 3272,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2778
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 494
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "SpdSaKviCuiChMIP-ufFUQ"
+  }
+}

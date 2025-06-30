@@ -1,0 +1,45 @@
+{
+  "response_id": 454,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:10:20.735146",
+  "metadata": {
+    "apa_number": 318,
+    "url": "https://unisapressjournals.co.za/index.php/CILSA/article/view/15912",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://unisapressjournals.co.za/index.php/CILSA/article/view/15912\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in Africa, specifically examining the SADC region. It addresses harmonization across institutions and countries, discussing regional frameworks, mutual recognition, and credit transfer systems. The paper explicitly mentions the SADC Protocol on Education and Training and its implications for cross-border education.\",\n  \"Title\": \"The SADC Protocol on Education and Training: Implications for cross-border language learning and teaching\",\n  \"Authors\": [\n    \"Maseko, Pamela\",\n    \"Sibanda, Jabulani\"\n  ],\n  \"Year\": \"2023\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"UNISA Press\",\n    \"DOI_URL\": \"https://doi.org/10.25159/2520-9868/15912\",\n    \"APA_Reference\": \"Maseko, P., & Sibanda, J. (2023). The SADC Protocol on Education and Training: Implications for cross-border language learning and teaching. *CILSA*, *41*(1), 1–18. https://doi.org/10.25159/2520-9868/15912\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature Review/Document Analysis\",\n    \"Geographic_Focus\": \"SADC Region (Southern Africa)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"N/A\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated, but implicitly draws on theories of regional integration and policy implementation.\",\n    \"Harmonization_Definition\": \"Harmonization is understood as aligning education and training systems across SADC member states to facilitate cross-border mobility and recognition of qualifications.\",\n    \"Regional_Initiatives\": [\n      \"SADC Protocol on Education and Training\",\n      \"SADC Qualifications Framework (SADCQF)\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Policy development\",\n      \"Framework development\",\n      \"Mutual recognition agreements\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"SADC Secretariat\",\n      \"Member States\",\n      \"Higher Education Institutions\",\n      \"Students\",\n      \"Language practitioners\"\n    ],\n    \"Data_Sources\": [\n      \"SADC Protocol on Education and Training\",\n      \"SADC documents\",\n      \"Academic literature\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"The SADC Protocol on Education and Training aims to promote regional integration through harmonizing education and training systems.\",\n      \"Language plays a crucial role in facilitating cross-border education and training.\",\n      \"Implementation of the SADC Protocol faces challenges related to varying national contexts and resources.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Varying national contexts and priorities\",\n      \"Limited resources for implementation\",\n      \"Language barriers\",\n      \"Lack of awareness among stakeholders\"\n    ],\n    \"Success_Factors\": [\n      \"Political will\",\n      \"Regional cooperation\",\n      \"Stakeholder engagement\"\n    ],\n    \"Recommendations\": [\n      \"Strengthening regional cooperation and coordination\",\n      \"Investing in language education and training\",\n      \"Raising awareness among stakeholders\",\n      \"Developing clear implementation guidelines\"\n    ],\n    \"Future_Research\": [\n      \"Further research is needed to assess the impact of the SADC Protocol on Education and Training on cross-border language learning and teaching.\",\n      \"Studies on the effectiveness of different implementation approaches are also needed.\"\n    ],\n    \"Specific_Examples\": [\n      \"The paper discusses the need for mutual recognition of language qualifications across SADC member states.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Policy frameworks\",\n      \"Regional agreements\",\n      \"Mutual recognition\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Resource constraints\",\n      \"Language differences\",\n      \"Policy divergence\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political commitment\",\n      \"Regional collaboration\",\n      \"Stakeholder involvement\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased cross-border mobility\",\n      \"Enhanced regional integration\",\n      \"Improved quality of education and training\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 624,
+      "candidatesTokenCount": 1062,
+      "totalTokenCount": 1686,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 624
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1062
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "lZ5SaKfYMYuZhMIPlvTuyQY"
+  }
+}

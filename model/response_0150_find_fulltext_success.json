@@ -1,0 +1,83 @@
+{
+  "response_id": 150,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:41:21.527984",
+  "metadata": {
+    "url": "https://curationis.org.za/index.php/curationis/article/view/1906/2565",
+    "final_url": "https://curationis.org.za/index.php/curationis/article/view/1906/2565",
+    "attempt": 3,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Nurse graduates’ experiences and support needs: A qualitative systematic review of South Africa’s community service programme\",\n    \"authors\": [\n      \"Rita O. Abiodun\",\n      \"Felicity Daniels\",\n      \"Christoph Pimmer\",\n      \"Jennifer Chipps\"\n    ],\n    \"doi\": null,\n    \"journal\": \"Curationis\",\n    \"year\": \"2019\",\n    \"abstract\": \"Background: The student-to-nurse graduate transition is a pivotal phase in the professional development of nurses. In South Africa, this transition is part of a compulsory community service programme, which requires newly graduated nurses to work in rural and/or underserved areas for a period of 1 year. Objectives: The aim of this study was to review nurse graduates’ experiences and support needs during their transition in the compulsory community service programme. Methods: A qualitative systematic review of experiences was conducted. Qualitative research studies that addressed nurses’ experience in South Africa (2008–2017) were identified in Cochrane, Joanna Briggs Institute (JBI), Academic Search Complete, CINAHL, PubMed, SABINET, Science Direct, SCOPUS and Google Scholar databases. The systematic review methods included searching, sifting, abstracting and quality assessment of relevant qualitative studies by two reviewers and cross-checking by a third reviewer. Two reviewers independently performed blinded data extraction and quality assessment using the confidence in qualitative synthesis findings (ConQual) approach. Results: A total of 1257 studies were identified of which 12 met the inclusion criteria. Seven of the 12 studies were published articles and six were theses. The quality of the studies was found to be of high standard based on the ConQual rating. Four main themes emerged from the analysis: (1) rich developmental experiences through practice exposure, (2) difficulties in reconciling theory and practice, (3) contextual challenges in the workplace and (4) need for professional support structures, educational measures and public guidelines. Conclusion: Although positive experiences were reported, various challenges emerged, indicating the need for more systematic support mechanisms during transition.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://curationis.org.za/index.php/curationis/article/view/1906/2565\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 96,
+              "endIndex": 218,
+              "uri": "https://scielo.org.za/scielo.php?script=sci_arttext&pid=S2223-62792019000100021"
+            },
+            {
+              "startIndex": 420,
+              "endIndex": 554,
+              "uri": "https://paperity.org/p/250988994/nurse-graduates"
+            },
+            {
+              "startIndex": 444,
+              "endIndex": 735,
+              "uri": "https://scielo.org.za/scielo.php?script=sci_arttext&pid=S2223-62792019000100021"
+            },
+            {
+              "startIndex": 749,
+              "endIndex": 899,
+              "uri": "https://scielo.org.za/scielo.php?script=sci_arttext&pid=S2223-62792019000100021"
+            },
+            {
+              "startIndex": 912,
+              "endIndex": 1562
+            },
+            {
+              "startIndex": 1581,
+              "endIndex": 2105
+            },
+            {
+              "startIndex": 2127,
+              "endIndex": 2267,
+              "uri": "https://scielo.org.za/scielo.php?script=sci_arttext&pid=S2223-62792019000100021"
+            }
+          ]
+        },
+        "avgLogprobs": -0.000316279913335277
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2663,
+      "candidatesTokenCount": 587,
+      "totalTokenCount": 3250,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2663
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 587
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "zZdSaPexOf6ShMIPm7P8iAY"
+  }
+}

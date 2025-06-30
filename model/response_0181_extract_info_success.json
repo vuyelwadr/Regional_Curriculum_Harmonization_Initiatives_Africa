@@ -1,0 +1,45 @@
+{
+  "response_id": 181,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:45:03.222558",
+  "metadata": {
+    "apa_number": 112,
+    "url": "https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0001296",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0001296\",\n  \"MATCHES_CRITERIA\": false,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on the development of a global competency framework for public health, not regional curriculum harmonization initiatives in Africa. It does not address harmonization across multiple African countries or regions, nor does it mention regional frameworks, cross-border education, mutual recognition, credit transfer systems, or regional qualifications frameworks. The focus is on global standards, not regional harmonization.\",\n  \"Title\": \"A competency framework for the public health workforce: A global Delphi study\",\n  \"Authors\": [\n    \"Laura Rossouw\",\n    \"Michelle McConnell\",\n    \"Claire Brolan\",\n    \"Brian Oldenburg\",\n    \"Jeff Collin\",\n    \"Ronald Labonté\",\n    \"Colin Sindall\",\n    \"Don Nutbeam\",\n    \"Peter Leslie\",\n    \"Stefanie Topp\"\n  ],\n  \"Year\": \"2023\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 634,
+      "candidatesTokenCount": 253,
+      "totalTokenCount": 887,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 634
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 253
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "rJhSaNOlNZrnqsMPzonmkA0"
+  }
+}

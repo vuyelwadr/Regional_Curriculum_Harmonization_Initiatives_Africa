@@ -1,0 +1,46 @@
+{
+  "response_id": 399,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:05:27.213320",
+  "metadata": {
+    "url": "https://thejournal.org.za/index.php/thejournal/article/view/482",
+    "final_url": "https://thejournal.org.za/index.php/thejournal/article/view/482",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Education reimagined: South Africa’s journey through the 4IR and beyond\",\n    \"authors\": [\n      \"Alexander B. Samuels\",\n      \"Upasana Singh\"\n    ],\n    \"doi\": \"10.4102/the.v10i0.482\",\n    \"journal\": \"Transformation in Higher Education\",\n    \"year\": \"2025\",\n    \"abstract\": \"The Fourth Industrial Revolution (4IR) is transforming global education, posing significant challenges and opportunities for higher education in South Africa. This revolution is driving a shift in teaching methodologies, curriculum design, and the integration of advanced technologies. This study systematically investigates how South Africa’s higher education sector is adapting to the demands and opportunities of the 4IR.The research focuses on South African higher education institutions operating within a complex socio-economic environment. These institutions are navigating historical disparities and emerging technological trends to remain competitive and inclusive.Utilising the PRISMA framework for systematic reviews, this study synthesises existing literature on the adoption of 4IR technologies, such as artificial intelligence, big data analytics, and blockchain in higher education. Peer-reviewed articles, conference papers, and official reports published between 2010 and 2024 were critically evaluated to identify themes of technological integration, curriculum reform, and policy development. The review reveals a progressive integration of 4IR technologies across South African institutions. Key findings indicate significant curriculum updates to include 4IR competencies, ongoing faculty training to improve digital literacy, and the development of strategic partnerships with industry. However, persistent challenges such as resource constraints, digital inclusivity issues, and gaps in policy frameworks continue to hinder full adaptation.   Contribution: \\u00a0Strategic investments in digital infrastructure, inclusive policy frameworks, and continuous professional development are critical for sustaining South Africa’s higher education transformation in the 4IR era. Addressing these challenges will ensure that institutions are well-equipped to encourage innovation and meet the evolving demands of the digital economy.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://thejournal.org.za/index.php/thejournal/article/download/482/866\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://thejournal.org.za/index.php/thejournal/article/view/482/863\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://thejournal.org.za/index.php/thejournal/article/view/482/864\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://thejournal.org.za/index.php/thejournal/article/view/482/865\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.0013490603582279102
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2693,
+      "candidatesTokenCount": 740,
+      "totalTokenCount": 3433,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2693
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 740
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "c51SaM-GCrqFsbQPqNrRqAQ"
+  }
+}

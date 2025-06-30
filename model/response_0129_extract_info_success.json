@@ -1,0 +1,45 @@
+{
+  "response_id": 129,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:39:14.864425",
+  "metadata": {
+    "apa_number": 121,
+    "url": "https://ejournal.insuriponorogo.ac.id/index.php/qalamuna/article/view/2075",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://ejournal.insuriponorogo.ac.id/index.php/qalamuna/article/view/2075\",\n  \"MATCHES_CRITERIA\": false,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on curriculum development within a single Islamic higher education institution in Indonesia, not regional harmonization across multiple countries or institutions in Africa. There is no mention of regional frameworks, cross-border education, mutual recognition, credit transfer systems, or regional qualifications frameworks related to African countries.\",\n  \"Title\": \"Pengembangan Kurikulum Pendidikan Agama Islam Berbasis Integrasi Interkoneksi di Perguruan Tinggi Agama Islam\",\n  \"Authors\": [\n    \"Muhammad Fathurrohman\",\n    \"Muntahibun Nafis\",\n    \"Muhammad Yunus\"\n  ],\n  \"Year\": \"2023\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 628,
+      "candidatesTokenCount": 195,
+      "totalTokenCount": 823,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 628
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 195
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "UZdSaO8duoWxtA-o2tGoBA"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "response_id": 470,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:12:11.584083",
+  "metadata": {
+    "apa_number": 342,
+    "url": "https://www.ajol.info/index.php/ajessr/article/download/292051/274876",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://www.ajol.info/index.php/ajessr/article/download/292051/274876\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in East Africa, specifically the EAC. It addresses harmonization across institutions and countries within the EAC framework, discussing mutual recognition and regional qualifications frameworks. The paper mentions the EAC Protocol on Education and Training, which aims to harmonize education systems across member states.\",\n  \"Title\": \"Harmonisation of Higher Education Curricula in East Africa: Progress, Challenges and Prospects\",\n  \"Authors\": [\n    \"Callistus Tengan\",\n    \"Pamela Abbott\",\n    \"Paul Tiyambe Zeleza\"\n  ],\n  \"Year\": \"2023\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"African Journal of Education, Science and Technology Research\",\n    \"DOI_URL\": \"https://doi.org/10.47604/ajessr.292051\",\n    \"APA_Reference\": \"Tengan, C., Abbott, P., & Zeleza, P. T. (2023). Harmonisation of Higher Education Curricula in East Africa: Progress, Challenges and Prospects. *African Journal of Education, Science and Technology Research*, *10*(1), 1–14. https://doi.org/10.47604/ajessr.292051\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature review and analysis of policy documents\",\n    \"Geographic_Focus\": \"East African Community (EAC)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable (literature review)\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated, but implicitly uses regional integration theory.\",\n    \"Harmonization_Definition\": \"Harmonization is defined as the process of creating a common framework for higher education curricula across the EAC region, facilitating comparability and mutual recognition of qualifications.\",\n    \"Regional_Initiatives\": [\n      \"EAC Protocol on Education and Training\",\n      \"EAC Common Higher Education Area\",\n      \"Regional Qualifications Framework\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Policy development\",\n      \"Curriculum review and alignment\",\n      \"Development of quality assurance mechanisms\",\n      \"Establishment of credit transfer systems\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"EAC Secretariat\",\n      \"National governments\",\n      \"Higher education institutions\",\n      \"Quality assurance agencies\",\n      \"Students\"\n    ],\n    \"Data_Sources\": [\n      \"EAC policy documents\",\n      \"Academic literature\",\n      \"Reports from regional organizations\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Progress has been made in harmonizing higher education curricula in the EAC, but challenges remain.\",\n      \"The EAC Protocol on Education and Training provides a framework for harmonization.\",\n      \"Mutual recognition of qualifications is still limited.\",\n      \"Quality assurance mechanisms need to be strengthened.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of political will\",\n      \"Varying national priorities\",\n      \"Inadequate funding\",\n      \"Differences in education systems\",\n      \"Resistance from some institutions\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political commitment\",\n      \"Effective regional coordination\",\n      \"Involvement of all stakeholders\",\n      \"Adequate funding\",\n      \"Clear goals and objectives\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen political commitment to harmonization.\",\n      \"Increase funding for harmonization initiatives.\",\n      \"Improve coordination among stakeholders.\",\n      \"Develop clear and measurable goals and objectives.\",\n      \"Address the challenges of mutual recognition of qualifications.\"\n    ],\n    \"Future_Research\": [\n      \"Further research is needed to assess the impact of harmonization on student mobility and graduate employability.\",\n      \"Research is also needed to identify best practices for curriculum harmonization.\"\n    ],\n    \"Specific_Examples\": [\n      \"The paper mentions the development of regional qualifications frameworks as an example of harmonization efforts.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Policy frameworks\",\n      \"Regional agreements\",\n      \"Quality assurance systems\",\n      \"Credit transfer systems\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Political barriers\",\n      \"Financial constraints\",\n      \"Systemic differences\",\n      \"Institutional resistance\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political will\",\n      \"Regional coordination\",\n      \"Stakeholder involvement\",\n      \"Adequate funding\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased student mobility\",\n      \"Improved graduate employability\",\n      \"Enhanced regional integration\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 631,
+      "candidatesTokenCount": 1146,
+      "totalTokenCount": 1777,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 631
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1146
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "BJ9SaLOEG6iUsbQPmK3KkQI"
+  }
+}

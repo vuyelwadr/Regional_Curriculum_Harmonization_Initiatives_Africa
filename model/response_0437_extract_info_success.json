@@ -1,0 +1,45 @@
+{
+  "response_id": 437,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:09:11.057833",
+  "metadata": {
+    "apa_number": 308,
+    "url": "https://trt.global/afrika-english/article/d49b5b748bde",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://trt.global/afrika-english/article/d49b5b748bde\",\n  \"MATCHES_CRITERIA\": false,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The article discusses the challenges faced by African students seeking education abroad, particularly in Europe and North America, and the increasing trend of studying within Africa. It highlights the need for improved quality and recognition of African universities to retain talent and reduce reliance on foreign education. While it touches upon the importance of intra-African mobility, it does not specifically focus on regional curriculum harmonization initiatives, frameworks, or policies across multiple African countries or regions. The article primarily discusses the broader context of African higher education and student mobility, rather than specific curriculum harmonization efforts.\",\n  \"Title\": \"African students are increasingly choosing to study in Africa\",\n  \"Authors\": [],\n  \"Year\": \"Unknown\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 620,
+      "candidatesTokenCount": 197,
+      "totalTokenCount": 817,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 620
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 197
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "VZ5SaOuiFaiUsbQPmK3KkQI"
+  }
+}

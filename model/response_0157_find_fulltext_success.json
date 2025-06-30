@@ -1,0 +1,46 @@
+{
+  "response_id": 157,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:42:18.211220",
+  "metadata": {
+    "url": "https://ejournal.iainu-kebumen.ac.id/index.php/cka/article/view/2122",
+    "final_url": "https://ejournal.iainu-kebumen.ac.id/index.php/cka/article/view/2122",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Kesiapan Bahan Ajar Guru dengan Penerapan Kurikulum Merdeka pada Tahun Ajaran 2024-2025 di Sekolah Menengah Atas Islam Terpada Al - Luthfah Cikarang\",\n    \"authors\": [\n      \"Abdul Karim Komarudin\",\n      \"Mayasari Mayasari\",\n      \"Nurhaeeni Sikki\"\n    ],\n    \"doi\": \"10.33507/cakrawala.v8i2.2122\",\n    \"journal\": \"Cakrawala : Jurnal Kajian Studi Manajemen Pendidikan Islam dan Studi Sosial\",\n    \"year\": \"2024\",\n    \"abstract\": \"The Ministry of Education, Culture, and Research and Technology issued a policy known as the Merdeka Learning curriculum, which aims to optimize the current education program. The commendation of this research is to evaluate the readiness of teachers to implement the Independent Learning Curriculum. This case study involves two teachers and a curriculum waka who implemented this curriculum in high school. Data was collected through interviews, observations, and documentation. Then the data is evaluated through collection, and subtraction, delivery and conclusion. The results of this study show that teachers are quite ready to establish an independent learning curriculum in secondary schools. One of the obstacles for teachers in implementing this curriculum is the lack of understanding between teachers and parents about the independent learning curriculum. In addition, resources and facilities are inadequate.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://ejournal.iainu-kebumen.ac.id/index.php/cka/article/download/2122/988\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.00026241034071091275
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2928,
+      "candidatesTokenCount": 451,
+      "totalTokenCount": 3379,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2928
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 451
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "B5hSaJvmGsWUsbQP-d_MIQ"
+  }
+}

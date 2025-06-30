@@ -1,0 +1,45 @@
+{
+  "response_id": 476,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:12:20.541934",
+  "metadata": {
+    "apa_number": 351,
+    "url": "https://www.comesa.int/wp-content/uploads/2022/03/4Final-MTSP-2021-2025-English-Reviewed-2_feb.pdf",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://www.comesa.int/wp-content/uploads/2022/03/4Final-MTSP-2021-2025-English-Reviewed-2_feb.pdf\",\n  \"MATCHES_CRITERIA\": false,\n  \"CRITERIA_MATCH_EXPLANATION\": \"This document is a strategic plan for COMESA (Common Market for Eastern and Southern Africa). While it mentions education and skills development, it does not focus specifically on regional curriculum harmonization initiatives. The document outlines broad goals and strategies for economic and social development within the COMESA region, including improving education and skills to meet labor market demands. However, it lacks the specific focus on curriculum harmonization across multiple African countries or regions as required by the research criteria. There is no mention of cross-border education, mutual recognition, credit transfer systems, or regional qualifications frameworks in the context of curriculum harmonization.\",\n  \"Title\": \"COMESA Medium Term Strategic Plan (MTSP) 2021 – 2025\",\n  \"Authors\": [],\n  \"Year\": \"2021\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 645,
+      "candidatesTokenCount": 248,
+      "totalTokenCount": 893,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 645
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 248
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "Ep9SaOnaL4uZhMIPlvTuyQY"
+  }
+}

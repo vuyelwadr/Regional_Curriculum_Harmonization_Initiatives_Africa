@@ -1,0 +1,60 @@
+{
+  "response_id": 411,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:06:26.243543",
+  "metadata": {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8769006/",
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8769006/",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Are we there yet? A systematic literature review of Open Educational Resources in Africa: A combined content and bibliometric analysis\",\n    \"authors\": [\n      \"Ahmed Tlili\",\n      \"Fahriye Altinay\",\n      \"Ronghuai Huang\",\n      \"Zehra Altinay\",\n      \"Jako Olivier\",\n      \"Sanjaya Mishra\",\n      \"Mohamed Jemni\",\n      \"Daniel Burgos\"\n    ],\n    \"doi\": \"10.1371/journal.pone.0262615\",\n    \"journal\": \"PLoS ONE\",\n    \"year\": \"2022\",\n    \"abstract\": \"Although several studies have been conducted to summarize the progress of open educational resources (OER) in specific regions, only a limited number of studies summarize OER in Africa. Therefore, this paper presents a systematic literature review ...\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://pmc.ncbi.nlm.nih.gov/articles/PMC8769006/pdf/pone.0262615.pdf\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://pmc.ncbi.nlm.nih.gov/articles/PMC8769006/\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 100,
+              "endIndex": 238,
+              "uri": "https://izdanja.hkdrustvo.hr/casopisi/vbh/article/view/994"
+            },
+            {
+              "startIndex": 548,
+              "endIndex": 790,
+              "uri": "https://pubmed.ncbi.nlm.nih.gov/35041695/"
+            }
+          ]
+        },
+        "avgLogprobs": -0.0004251384898611435
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2918,
+      "candidatesTokenCount": 401,
+      "totalTokenCount": 3319,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2918
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 401
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "r51SaNfKNP-ygLUP6JjvyA0"
+  }
+}

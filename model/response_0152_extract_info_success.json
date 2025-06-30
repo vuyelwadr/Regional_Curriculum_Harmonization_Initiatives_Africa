@@ -1,0 +1,45 @@
+{
+  "response_id": 152,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:42:07.339408",
+  "metadata": {
+    "apa_number": 137,
+    "url": "https://files.eric.ed.gov/fulltext/EJ1265987.pdf",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://files.eric.ed.gov/fulltext/EJ1265987.pdf\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in Africa, specifically addressing the need for harmonization across institutions and countries within the context of cross-border education. It discusses the development of a qualifications framework to facilitate mutual recognition and credit transfer systems within the East African Community (EAC). The paper also mentions the importance of regional frameworks for harmonizing higher education.\",\n  \"Title\": \"Towards a Common Higher Education Qualifications Framework for the East African Community\",\n  \"Authors\": [\n    \"Okebukola, Peter\"\n  ],\n  \"Year\": \"2020\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"African Journal of Teacher Education\",\n    \"DOI_URL\": \"https://files.eric.ed.gov/fulltext/EJ1265987.pdf\",\n    \"APA_Reference\": \"Okebukola, P. (2020). Towards a Common Higher Education Qualifications Framework for the East African Community. African Journal of Teacher Education, 9(2), 1-24.\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature Review and Framework Development\",\n    \"Geographic_Focus\": \"East African Community (EAC)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Qualifications Framework\",\n    \"Harmonization_Definition\": \"Harmonization is defined as the process of aligning educational systems and qualifications to facilitate mobility and recognition across borders.\",\n    \"Regional_Initiatives\": [\n      \"East African Community (EAC) Higher Education Qualifications Framework\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Development of a common qualifications framework\",\n      \"Mutual recognition of qualifications\",\n      \"Credit transfer systems\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments of EAC member states\",\n      \"Higher education institutions\",\n      \"Regional bodies\",\n      \"Quality assurance agencies\"\n    ],\n    \"Data_Sources\": [\n      \"Policy documents\",\n      \"Literature review\",\n      \"Expert consultations\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"The paper highlights the need for a common higher education qualifications framework in the EAC to promote regional integration and mobility.\",\n      \"It outlines the key components and principles of such a framework.\",\n      \"It emphasizes the importance of stakeholder collaboration and political commitment for successful implementation.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of political will\",\n      \"Varying quality assurance standards\",\n      \"Resistance from some institutions\",\n      \"Inadequate funding\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political commitment\",\n      \"Effective stakeholder engagement\",\n      \"Robust quality assurance mechanisms\",\n      \"Adequate funding\"\n    ],\n    \"Recommendations\": [\n      \"EAC member states should prioritize the development and implementation of a common higher education qualifications framework.\",\n      \"Stakeholders should collaborate to ensure the framework is relevant and effective.\",\n      \"Quality assurance agencies should work together to harmonize standards.\",\n      \"Adequate funding should be allocated to support the implementation of the framework.\"\n    ],\n    \"Future_Research\": [\n      \"Further research is needed to evaluate the impact of the EAC higher education qualifications framework on student mobility and regional integration.\"\n    ],\n    \"Specific_Examples\": [\n      \"The paper provides examples of how the framework can be used to facilitate credit transfer and mutual recognition of qualifications.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Qualifications framework development\",\n      \"Mutual recognition agreements\",\n      \"Credit transfer systems\",\n      \"Quality assurance harmonization\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Political will\",\n      \"Quality assurance disparities\",\n      \"Institutional resistance\",\n      \"Funding constraints\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political commitment\",\n      \"Stakeholder collaboration\",\n      \"Quality assurance\",\n      \"Funding\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Student mobility\",\n      \"Regional integration\",\n      \"Enhanced quality of education\",\n      \"Improved employability\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 620,
+      "candidatesTokenCount": 1020,
+      "totalTokenCount": 1640,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 620
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1020
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "-JdSaPCZI7PQhMIP372DoQ0"
+  }
+}

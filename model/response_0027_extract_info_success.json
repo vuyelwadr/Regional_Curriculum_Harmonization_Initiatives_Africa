@@ -1,0 +1,45 @@
+{
+  "response_id": 27,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:29:10.502988",
+  "metadata": {
+    "apa_number": 51,
+    "url": "https://acuass.org/wp-content/uploads/2021/10/ACa-journal-4.pdf",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://acuass.org/wp-content/uploads/2021/10/ACa-journal-4.pdf\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper discusses regional curriculum harmonization initiatives in Africa, specifically focusing on the African Union's efforts to harmonize higher education. It addresses cross-border education and the development of a qualifications framework. The paper mentions the Arusha Convention and the need for mutual recognition of qualifications.\",\n  \"Title\": \"Harmonisation of Higher Education in Africa: A Review of the Literature\",\n  \"Authors\": [\n    \"Damien Hanyurwimfura\"\n  ],\n  \"Year\": \"2021\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"The African Journal of Higher Education Studies\",\n    \"DOI_URL\": null,\n    \"APA_Reference\": \"Hanyurwimfura, D. (2021). Harmonisation of Higher Education in Africa: A Review of the Literature. The African Journal of Higher Education Studies, 4, 1-16.\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature Review\",\n    \"Geographic_Focus\": \"Africa\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"N/A\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly mentioned\",\n    \"Harmonization_Definition\": \"Harmonization is presented as a process of creating coherence and comparability in higher education systems across different countries, facilitating mobility and recognition of qualifications.\",\n    \"Regional_Initiatives\": [\n      \"African Union's harmonization efforts\",\n      \"Arusha Convention\",\n      \"Harmonization Tools Project (HTP)\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Development of qualifications frameworks\",\n      \"Credit transfer systems\",\n      \"Mutual recognition agreements\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"African Union\",\n      \"Higher education institutions\",\n      \"Governments\",\n      \"Regional economic communities\"\n    ],\n    \"Data_Sources\": [\n      \"Academic literature\",\n      \"Policy documents\",\n      \"Reports\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Harmonization is essential for promoting mobility and competitiveness in African higher education.\",\n      \"Progress has been made, but challenges remain in implementation.\",\n      \"The African Union plays a key role in driving harmonization efforts.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of political will\",\n      \"Varying quality standards\",\n      \"Resistance to change\",\n      \"Financial constraints\"\n    ],\n    \"Success_Factors\": [\n      \"Strong leadership\",\n      \"Collaboration among stakeholders\",\n      \"Clear goals and objectives\",\n      \"Adequate resources\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen regional cooperation\",\n      \"Invest in quality assurance\",\n      \"Promote mutual recognition of qualifications\",\n      \"Develop robust credit transfer systems\"\n    ],\n    \"Future_Research\": [\n      \"Further research is needed to assess the impact of harmonization on student mobility and graduate employability.\",\n      \"More studies are needed to identify best practices in harmonization.\"\n    ],\n    \"Specific_Examples\": [\n      \"Mention of the Harmonization Tools Project (HTP) as an example of a specific initiative.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Qualifications frameworks\",\n      \"Credit transfer systems\",\n      \"Mutual recognition agreements\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Political will\",\n      \"Quality standards\",\n      \"Resistance to change\",\n      \"Financial constraints\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Leadership\",\n      \"Collaboration\",\n      \"Clear goals\",\n      \"Resources\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Student mobility\",\n      \"Graduate employability\",\n      \"Competitiveness\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 626,
+      "candidatesTokenCount": 948,
+      "totalTokenCount": 1574,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 626
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 948
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "8JRSaKquMqiUsbQPmK3KkQI"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "response_id": 271,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:54:05.393287",
+  "metadata": {
+    "url": "https://journals.iuiu.ac.ug/index.php/ije/article/view/328",
+    "final_url": "https://journals.iuiu.ac.ug/index.php/ije/article/view/328",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"A Systematic Review of the Post COVID-19 Pandemic Transformation on Design and Delivery of Curriculum\",\n    \"authors\": [\n      \"Oluwatoyin Ayodele Ajani\"\n    ],\n    \"doi\": \"10.53449/ije.v7i1.328\",\n    \"journal\": \"Interdisciplinary Journal of Education\",\n    \"year\": \"2024\",\n    \"abstract\": \"This study investigated the lasting impact of the COVID-19 pandemic on higher education in Africa, focusing on curriculum design and delivery. The pandemic highlighted significant vulnerabilities in African higher education, notably exacerbating the digital divide that hindered seamless curriculum delivery during lockdowns. This systematic literature review synthesizes empirical and conceptual studies to assess these impacts from 2019 to 2022. The pandemic caused substantial setbacks in curriculum implementation due to enforced lockdowns and restrictions on physical gatherings, crucial for traditional classroom-based instruction. These constraints underscored the urgent need for educational institutions to adapt to digital modes of instruction to maintain continuity in teaching and learning. The findings reveal that many African higher education institutions were unprepared for the abrupt shift to online learning, resulting in significant educational disruptions. The cessation of in-person instruction prevented students from accessing educational resources, further widening the pre-existing digital divide. The study emphasizes the necessity for a comprehensive redesign of higher education curricula to incorporate online delivery methods effectively, leveraging various learning technologies to ensure uninterrupted curriculum delivery during crises. It recommends that African higher education institutions prioritize integrating digital learning platforms and tools in their curricula. This adaptation is critical in enhancing resilience against future disruptions, ensuring the academic calendar remains intact despite potential crises.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://journals.iuiu.ac.ug/index.php/ije/article/download/328/280\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 387,
+              "endIndex": 2043
+            }
+          ]
+        },
+        "avgLogprobs": -0.00036455487938431223
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2714,
+      "candidatesTokenCount": 492,
+      "totalTokenCount": 3206,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2714
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 492
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "yppSaMbVIP6ShMIPm7P8iAY"
+  }
+}

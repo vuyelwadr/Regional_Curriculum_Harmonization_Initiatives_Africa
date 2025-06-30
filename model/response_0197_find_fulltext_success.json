@@ -1,0 +1,59 @@
+{
+  "response_id": 197,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:46:14.399185",
+  "metadata": {
+    "url": "https://journal.lib.uoguelph.ca/index.php/ajote/article/view/7515",
+    "final_url": "https://journal.lib.uoguelph.ca/index.php/ajote/article/view/7515",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"African identity and curriculum transformation at universities in South Africa\",\n    \"authors\": [\n      \"Phafane Peter Mashilo\",\n      \"Logan Govender\"\n    ],\n    \"doi\": \"10.21083/ajote.v12i2.7515\",\n    \"journal\": \"African Journal of Teacher Education\",\n    \"year\": \"2023\",\n    \"abstract\": \"This paper argues for the notion of African identity to be placed at the centre of creating a new African university as part of the education decolonisation project. Defining the African university does not mean a total negation of Western ideas and epistemologies, but rather the foregrounding of African identity, traditions and culture. The paper recognises that Africa is part of a global economy, hence African university curricula must (among other phenomena) be responsive to the Fourth Industrial Revolution (4IR), pandemics and climate change. Drawing on recent African identity-driven curriculum transformation developments at four South African universities, the paper recognises differences in institutional initiatives, some with detailed curriculum transformation plans and others with no clear plans. Based on a literature review and document analysis methods, the results suggest that progress in curriculum transformation is mediated by context and history, as well as differences in institutional commitment to the decolonisation education project. The authors suggest that – with support from government and policymakers – a clear and detailed programme of curriculum transformation is needed, underpinned by a moral imperative to foreground African identity in the transition to the new African university.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://journal.lib.uoguelph.ca/index.php/ajote/article/download/7515/6918\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 86,
+              "endIndex": 290,
+              "uri": "https://m.booksci.cn/literature_d397945_2.htm"
+            },
+            {
+              "startIndex": 386,
+              "endIndex": 1722
+            }
+          ]
+        },
+        "avgLogprobs": -0.0007701303459640242
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2791,
+      "candidatesTokenCount": 468,
+      "totalTokenCount": 3259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2791
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 468
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "85hSaIHOBYqThMIPyoil0Qo"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "response_id": 360,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:02:10.606217",
+  "metadata": {
+    "apa_number": 262,
+    "url": "https://phsreda.com/e-articles/10660/Action10660-114909.pdf",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://phsreda.com/e-articles/10660/Action10660-114909.pdf\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in East Africa, specifically the EAC. It addresses harmonization across institutions and countries within the EAC framework. The paper mentions regional frameworks, cross-border education, mutual recognition, and regional qualifications frameworks.\",\n  \"Title\": \"Harmonization of Higher Education Curricula in East Africa: Achievements, Challenges and Prospects\",\n  \"Authors\": [\n    \"Pamela Ochieng' Raburu\",\n    \"Beatrice Were Omukowa\",\n    \"Robert W. Gateru\"\n  ],\n  \"Year\": \"2023\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"PHSREDA\",\n    \"DOI_URL\": null,\n    \"APA_Reference\": \"Raburu, P. O., Omukowa, B. W., & Gateru, R. W. (2023). Harmonization of Higher Education Curricula in East Africa: Achievements, Challenges and Prospects. PHSREDA.\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature Review\",\n    \"Geographic_Focus\": \"East Africa (EAC)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable (literature review)\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated\",\n    \"Harmonization_Definition\": \"Not explicitly defined, but discussed in terms of standardization and comparability of curricula across EAC countries.\",\n    \"Regional_Initiatives\": [\n      \"EAC Protocol on Education\",\n      \"EAC Common Higher Education Area\",\n      \"Regional Qualifications Framework\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Policy frameworks\",\n      \"Curriculum development guidelines\",\n      \"Quality assurance mechanisms\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments\",\n      \"Higher Education Institutions\",\n      \"Regional bodies (EAC Secretariat)\",\n      \"Quality Assurance Agencies\"\n    ],\n    \"Data_Sources\": [\n      \"Policy documents\",\n      \"Reports\",\n      \"Academic literature\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Harmonization efforts have led to increased mobility of students and faculty within the EAC.\",\n      \"Progress has been made in developing regional qualifications frameworks.\",\n      \"Challenges remain in ensuring quality and relevance of harmonized curricula.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Varying national education systems\",\n      \"Lack of resources\",\n      \"Resistance to change\",\n      \"Differing interpretations of harmonization goals\"\n    ],\n    \"Success_Factors\": [\n      \"Political will\",\n      \"Collaboration among stakeholders\",\n      \"Clear policy frameworks\",\n      \"Adequate funding\"\n    ],\n    \"Recommendations\": [\n      \"Strengthening regional quality assurance mechanisms\",\n      \"Investing in capacity building\",\n      \"Promoting stakeholder engagement\",\n      \"Developing common assessment standards\"\n    ],\n    \"Future_Research\": [\n      \"Impact of harmonization on graduate employability\",\n      \"Effectiveness of regional qualifications frameworks\",\n      \"Role of technology in facilitating harmonization\"\n    ],\n    \"Specific_Examples\": [\n      \"Development of common curricula in specific disciplines (e.g., medicine, engineering)\",\n      \"Establishment of regional accreditation bodies\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Policy frameworks\",\n      \"Curriculum guidelines\",\n      \"Quality assurance\",\n      \"Accreditation\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"National differences\",\n      \"Resource constraints\",\n      \"Resistance to change\",\n      \"Quality concerns\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political commitment\",\n      \"Collaboration\",\n      \"Clear policies\",\n      \"Funding\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased mobility\",\n      \"Regional integration\",\n      \"Improved quality (potential)\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 629,
+      "candidatesTokenCount": 971,
+      "totalTokenCount": 1600,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 629
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 971
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "rJxSaOfRELPQhMIP372DoQ0"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "response_id": 367,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:02:31.636245",
+  "metadata": {
+    "apa_number": 230,
+    "url": "https://link.springer.com/article/10.1007/s42330-022-00200-x",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://link.springer.com/article/10.1007/s42330-022-00200-x\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in Africa, specifically addressing the East African Community (EAC) and the SADC frameworks. It discusses harmonization across institutions and countries, mentioning regional frameworks, cross-border education, mutual recognition, and credit transfer systems. For example, it discusses the EAC Protocol on Education and Training and the SADC Protocol on Education and Training.\",\n  \"Title\": \"Harmonisation of Higher Education in Africa: a synthesis of selected literature\",\n  \"Authors\": [\n    \"Damiano K. Manda\",\n    \"Moses Oketch\",\n    \"Linda Morrice\"\n  ],\n  \"Year\": \"2022\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"International Journal of Educational Development\",\n    \"DOI_URL\": \"https://doi.org/10.1007/s42330-022-00200-x\",\n    \"APA_Reference\": \"Manda, D. K., Oketch, M., & Morrice, L. (2022). Harmonisation of Higher Education in Africa: a synthesis of selected literature. *International Journal of Educational Development*. https://doi.org/10.1007/s42330-022-00200-x\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature Review/Synthesis\",\n    \"Geographic_Focus\": \"Africa (East African Community (EAC) and SADC)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable (literature review)\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated, but draws on literature related to regional integration and higher education policy.\",\n    \"Harmonization_Definition\": \"Harmonisation is defined as a process of creating coherence and compatibility across different higher education systems, including curriculum, qualifications, and quality assurance mechanisms.\",\n    \"Regional_Initiatives\": [\n      \"East African Community (EAC) Protocol on Education and Training\",\n      \"SADC Protocol on Education and Training\",\n      \"African Union's Harmonization Strategy for Higher Education in Africa (HAQAA)\",\n      \"Arusha Convention\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Policy development\",\n      \"Curriculum review and alignment\",\n      \"Development of qualifications frameworks\",\n      \"Establishment of quality assurance mechanisms\",\n      \"Credit transfer systems\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments\",\n      \"Higher education institutions\",\n      \"Regional organizations (EAC, SADC, AU)\",\n      \"Quality assurance agencies\",\n      \"Students\",\n      \"Employers\"\n    ],\n    \"Data_Sources\": [\n      \"Academic literature\",\n      \"Policy documents\",\n      \"Reports from regional organizations\",\n      \"Conference proceedings\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Harmonisation of higher education in Africa is a complex and multifaceted process.\",\n      \"Regional initiatives face challenges related to funding, capacity, and political will.\",\n      \"Harmonisation can promote student mobility, improve the quality of higher education, and enhance regional integration.\",\n      \"The Arusha Convention is important for recognition of qualifications.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of funding\",\n      \"Limited capacity\",\n      \"Political instability\",\n      \"Varying levels of development across countries\",\n      \"Resistance from some stakeholders\",\n      \"Language barriers\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political commitment\",\n      \"Effective leadership\",\n      \"Collaboration among stakeholders\",\n      \"Adequate funding\",\n      \"Clear goals and objectives\",\n      \"Context-specific approaches\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen regional cooperation\",\n      \"Increase investment in higher education\",\n      \"Build capacity for harmonisation\",\n      \"Promote stakeholder engagement\",\n      \"Develop clear and transparent policies\",\n      \"Address language barriers\"\n    ],\n    \"Future_Research\": [\n      \"Impact of harmonisation on student learning outcomes\",\n      \"Effectiveness of different implementation approaches\",\n      \"Role of technology in harmonisation\",\n      \"Sustainability of harmonisation initiatives\"\n    ],\n    \"Specific_Examples\": [\n      \"EAC Protocol on Education and Training\",\n      \"SADC Protocol on Education and Training\",\n      \"African Union's Harmonization Strategy for Higher Education in Africa (HAQAA)\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Policy frameworks\",\n      \"Qualifications frameworks\",\n      \"Quality assurance mechanisms\",\n      \"Credit transfer systems\",\n      \"Mutual recognition agreements\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Funding constraints\",\n      \"Capacity limitations\",\n      \"Political instability\",\n      \"Varying levels of development\",\n      \"Stakeholder resistance\",\n      \"Language differences\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political commitment\",\n      \"Effective leadership\",\n      \"Stakeholder collaboration\",\n      \"Adequate funding\",\n      \"Clear objectives\",\n      \"Context-specific strategies\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased student mobility\",\n      \"Improved quality of higher education\",\n      \"Enhanced regional integration\",\n      \"Greater employability of graduates\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 633,
+      "candidatesTokenCount": 1293,
+      "totalTokenCount": 1926,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 633
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1293
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "v5xSaOfMErqFsbQPqNrRqAQ"
+  }
+}

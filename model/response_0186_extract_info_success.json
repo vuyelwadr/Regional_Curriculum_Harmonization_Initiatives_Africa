@@ -1,0 +1,45 @@
+{
+  "response_id": 186,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:45:14.943655",
+  "metadata": {
+    "apa_number": 159,
+    "url": "https://idpjournal.biomedcentral.com/articles/10.1186/s40249-019-0567-z",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://idpjournal.biomedcentral.com/articles/10.1186/s40249-019-0567-z\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"This paper focuses on regional curriculum harmonization initiatives in Africa, specifically examining the East African Community (EAC) and the Southern African Development Community (SADC). It addresses harmonization across institutions and countries, discussing regional frameworks, cross-border education, mutual recognition, and credit transfer systems. The paper explicitly mentions regional qualifications frameworks and analyzes the implementation of these frameworks across multiple countries within the EAC and SADC regions.\",\n  \"Title\": \"Harmonisation of higher education in Africa: a synthesis of graduate tracer studies\",\n  \"Authors\": [\n    \"Linda J. Allais\",\n    \"Moses Oketch\",\n    \"Daniel D. Komba\",\n    \"Paul Musasizi\",\n    \"Beatrice Muganda\",\n    \"Damian J. Mingo\",\n    \"Moses Galukande\",\n    \"James P. Ogalo\",\n    \"Eunice N. Mutitu\",\n    \"Jacob Wambua\",\n    \"Alfred Vincent\",\n    \"Beatrice Were\",\n    \"Eunice Apio\",\n    \"Justine Corcoran\",\n    \"Ricardo Sabates\"\n  ],\n  \"Year\": \"2019\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"International Journal for Educational Development\",\n    \"DOI_URL\": \"https://doi.org/10.1186/s40249-019-0567-z\",\n    \"APA_Reference\": \"Allais, L. J., Oketch, M., Komba, D. D., Musasizi, P., Muganda, B., Mingo, D. J., Galukande, M., Ogalo, J. P., Mutitu, E. N., Wambua, J., Vincent, A., Were, B., Apio, E., Corcoran, J., & Sabates, R. (2019). Harmonisation of higher education in Africa: a synthesis of graduate tracer studies. *International Journal for Educational Development*, *69*, 102058. https://doi.org/10.1186/s40249-019-0567-z\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Synthesis of graduate tracer studies\",\n    \"Geographic_Focus\": \"East African Community (EAC) and Southern African Development Community (SADC)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not explicitly stated, but involves graduates from multiple universities across EAC and SADC regions.\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated, but implicitly uses frameworks related to regional integration and human capital development.\",\n    \"Harmonization_Definition\": \"Harmonization is defined in terms of creating comparable qualifications and facilitating mobility of graduates across the EAC and SADC regions.\",\n    \"Regional_Initiatives\": [\n      \"East African Community (EAC) Protocol on Education\",\n      \"SADC Protocol on Education and Training\",\n      \"Harmonisation of curricula and qualifications frameworks\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Development of regional qualifications frameworks\",\n      \"Curriculum review and alignment\",\n      \"Establishment of credit transfer systems\",\n      \"Mutual recognition of qualifications\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Universities\",\n      \"National governments\",\n      \"Regional bodies (EAC, SADC)\",\n      \"Employers\",\n      \"Students/Graduates\"\n    ],\n    \"Data_Sources\": [\n      \"Graduate tracer studies\",\n      \"Policy documents\",\n      \"Literature review\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Harmonization efforts are underway but face challenges in implementation.\",\n      \"Graduate mobility is still limited despite regional frameworks.\",\n      \"Employers' recognition of qualifications varies across countries.\",\n      \"Curriculum relevance to labor market needs is a key concern.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of political will\",\n      \"Varying national priorities\",\n      \"Inadequate funding\",\n      \"Differences in education systems\",\n      \"Resistance from some universities\"\n    ],\n    \"Success_Factors\": [\n      \"Strong regional leadership\",\n      \"Commitment from national governments\",\n      \"Active involvement of universities\",\n      \"Alignment with labor market needs\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen regional coordination mechanisms\",\n      \"Increase investment in higher education\",\n      \"Promote curriculum relevance\",\n      \"Enhance mutual recognition of qualifications\"\n    ],\n    \"Future_Research\": [\n      \"Further studies on the impact of harmonization on graduate employability\",\n      \"Comparative analysis of harmonization approaches in different regions\",\n      \"Investigation of the role of technology in facilitating harmonization\"\n    ],\n    \"Specific_Examples\": [\n      \"Examples of curriculum harmonization initiatives in specific disciplines (not detailed in this synthesis)\",\n      \"Challenges faced by graduates seeking employment in other EAC/SADC countries\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Regional qualifications frameworks\",\n      \"Curriculum harmonization workshops\",\n      \"Credit transfer agreements\",\n      \"Quality assurance mechanisms\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Political interference\",\n      \"Bureaucratic hurdles\",\n      \"Financial constraints\",\n      \"Cultural differences\",\n      \"Language barriers\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Strong leadership\",\n      \"Stakeholder collaboration\",\n      \"Clear goals and objectives\",\n      \"Adequate resources\",\n      \"Effective communication\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased graduate mobility (limited)\",\n      \"Improved curriculum relevance (potential)\",\n      \"Enhanced regional integration (potential)\",\n      \"Greater recognition of qualifications (variable)\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 635,
+      "candidatesTokenCount": 1385,
+      "totalTokenCount": 2020,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 635
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1385
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "sZhSaNbCCJrnqsMPzonmkA0"
+  }
+}

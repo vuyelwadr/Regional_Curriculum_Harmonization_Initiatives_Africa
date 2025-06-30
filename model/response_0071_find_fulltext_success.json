@@ -1,0 +1,46 @@
+{
+  "response_id": 71,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:34:02.943328",
+  "metadata": {
+    "url": "https://jovacet.ac.za/index.php/JOVACET/issue/current",
+    "final_url": "https://jovacet.ac.za/index.php/JOVACET/issue/view/12",
+    "attempt": 2,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Journal of Vocational, Adult and Continuing Education and Training, Volume 7, Issue 2, 2024. Special Issue.\",\n    \"authors\": [],\n    \"doi\": \"10.14426/jovacet.v7i2\",\n    \"journal\": \"Journal of Vocational, Adult and Continuing Education and Training\",\n    \"year\": \"2024\",\n    \"abstract\": null\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://jovacet.ac.za/index.php/JOVACET/article/view/411\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"medium\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.0022428524544049508
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3223,
+      "candidatesTokenCount": 239,
+      "totalTokenCount": 3462,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3223
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 239
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "GZZSaNfKDbPQhMIP372DoQ0"
+  }
+}

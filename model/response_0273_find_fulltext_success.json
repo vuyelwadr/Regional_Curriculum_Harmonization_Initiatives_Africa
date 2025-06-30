@@ -1,0 +1,55 @@
+{
+  "response_id": 273,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:54:08.746549",
+  "metadata": {
+    "url": "https://link.springer.com/10.1007/978-3-030-90973-4_14",
+    "final_url": "https://link.springer.com/chapter/10.1007/978-3-030-90973-4_14",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Quality Assurance Management for Higher Education Harmonization Agenda’s Sustainability in Africa\",\n    \"authors\": [\n      \"Elijah, P. T.\",\n      \"Obaseki, M.\"\n    ],\n    \"doi\": \"10.1007/978-3-030-90973-4_14\",\n    \"journal\": \"Sustainable Education and Development – Making Cities and Human Settlements Inclusive, Safe, Resilient, and Sustainable\",\n    \"year\": \"2022\",\n    \"abstract\": \"Purpose: This study investigated quality assurance management for higher education harmonization agenda’s in Africa. In achieving the aim various objectives were employed which are identify the ways of managing information systems for higher education...\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://link.springer.com/content/pdf/10.1007/978-3-030-90973-4_14.pdf\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://link.springer.com/chapter/10.1007/978-3-030-90973-4_14\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": true,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 481,
+              "endIndex": 731,
+              "uri": "https://www.springerprofessional.de/sustainable-education-and-development-making-cities-and-human-se/19983074"
+            }
+          ]
+        },
+        "avgLogprobs": -0.0004758450905887448
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3144,
+      "candidatesTokenCount": 392,
+      "totalTokenCount": 3536,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3144
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 392
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "zppSaMfmEouZhMIPlvTuyQY"
+  }
+}

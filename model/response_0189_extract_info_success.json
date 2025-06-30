@@ -1,0 +1,45 @@
+{
+  "response_id": 189,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:45:22.496414",
+  "metadata": {
+    "apa_number": 171,
+    "url": "https://jecs.pl/index.php/jecs/article/download/1543/1321",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://jecs.pl/index.php/jecs/article/download/1543/1321\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in East Africa, specifically the EAC. It addresses harmonization across institutions and countries within the EAC framework, discussing mutual recognition, credit transfer systems, and regional qualifications frameworks. The paper explicitly mentions the EAC Protocol on Education and Training and its implications for harmonizing higher education systems.\",\n  \"Title\": \"Regional Integration in East Africa: Harmonisation of Higher Education Systems\",\n  \"Authors\": [\n    \"James Omondi Oranga\",\n    \"Damiano K Manda\"\n  ],\n  \"Year\": \"2020\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Journal of Education Culture and Society\",\n    \"DOI_URL\": \"https://doi.org/10.15503/jecs2020.2.157.171\",\n    \"APA_Reference\": \"Oranga, J. O., & Manda, D. K. (2020). Regional Integration in East Africa: Harmonisation of Higher Education Systems. *Journal of Education Culture and Society*, *11*(2), 157-171. https://doi.org/10.15503/jecs2020.2.157.171\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Document analysis and literature review\",\n    \"Geographic_Focus\": \"East African Community (EAC)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable (document analysis)\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Regional Integration Theory\",\n    \"Harmonization_Definition\": \"Harmonization is defined as the process of creating common standards and policies in higher education across the EAC member states to facilitate mobility and recognition of qualifications.\",\n    \"Regional_Initiatives\": [\n      \"EAC Protocol on Education and Training\",\n      \"EAC Common Higher Education Area\",\n      \"Mutual Recognition of Academic Qualifications\",\n      \"Credit Accumulation and Transfer Systems (CATS)\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Policy development\",\n      \"Curriculum review and standardization\",\n      \"Establishment of quality assurance mechanisms\",\n      \"Development of regional qualifications frameworks\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"EAC Secretariat\",\n      \"National governments\",\n      \"Higher education institutions\",\n      \"Quality assurance agencies\",\n      \"Students\"\n    ],\n    \"Data_Sources\": [\n      \"EAC documents\",\n      \"Policy documents\",\n      \"Academic literature\",\n      \"Reports from EAC institutions\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Harmonization of higher education systems in the EAC is crucial for regional integration.\",\n      \"The EAC Protocol on Education and Training provides a framework for harmonization.\",\n      \"Progress in harmonization has been made, but challenges remain.\",\n      \"Mutual recognition of qualifications is essential for student and labor mobility.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Varying national education systems\",\n      \"Lack of political will\",\n      \"Inadequate funding\",\n      \"Resistance from some stakeholders\",\n      \"Quality assurance disparities\"\n    ],\n    \"Success_Factors\": [\n      \"Political commitment\",\n      \"Strong regional institutions\",\n      \"Stakeholder collaboration\",\n      \"Clear policy frameworks\",\n      \"Adequate funding\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen the EAC Secretariat's role in coordinating harmonization efforts.\",\n      \"Increase funding for harmonization initiatives.\",\n      \"Promote stakeholder engagement and collaboration.\",\n      \"Develop clear and enforceable quality assurance mechanisms.\",\n      \"Address disparities in national education systems.\"\n    ],\n    \"Future_Research\": [\n      \"Impact of harmonization on student mobility and employability.\",\n      \"Effectiveness of different harmonization approaches.\",\n      \"Role of technology in facilitating harmonization.\",\n      \"Comparative analysis of harmonization efforts in different regional blocs.\"\n    ],\n    \"Specific_Examples\": [\n      \"Efforts to harmonize curricula in specific disciplines.\",\n      \"Development of regional qualifications frameworks.\",\n      \"Establishment of credit transfer systems.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Policy frameworks\",\n      \"Regional qualifications frameworks\",\n      \"Credit transfer systems\",\n      \"Quality assurance mechanisms\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Varying national systems\",\n      \"Lack of political will\",\n      \"Inadequate funding\",\n      \"Stakeholder resistance\",\n      \"Quality disparities\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political commitment\",\n      \"Strong regional institutions\",\n      \"Stakeholder collaboration\",\n      \"Clear policies\",\n      \"Adequate funding\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased student mobility\",\n      \"Enhanced employability\",\n      \"Regional integration\",\n      \"Economic development\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 624,
+      "candidatesTokenCount": 1194,
+      "totalTokenCount": 1818,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 624
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1194
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "uphSaJixMv6ShMIPm7P8iAY"
+  }
+}

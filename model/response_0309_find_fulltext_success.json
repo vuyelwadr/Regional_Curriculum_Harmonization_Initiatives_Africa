@@ -1,0 +1,55 @@
+{
+  "response_id": 309,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:57:18.471872",
+  "metadata": {
+    "url": "https://link.springer.com/chapter/10.1007/978-3-031-53322-8_11",
+    "final_url": "https://link.springer.com/chapter/10.1007/978-3-031-53322-8_11",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"A Systematic Review of Research on the Use of Mathematical Modelling in the South African Education\",\n    \"authors\": [\n      \"Arne Jakobsen\",\n      \"Duncan Mhakure\"\n    ],\n    \"doi\": \"10.1007/978-3-031-53322-8_11\",\n    \"journal\": \"Researching Mathematical Modelling Education in Disruptive Times\",\n    \"year\": \"2024\",\n    \"abstract\": \"Following the introduction of mathematical modelling (MM) in the South African National Curriculum Statement in 2003, research on its use in the South African context has expanded considerably. In this chapter, we conduct a systematic review of empirical studies...\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://link.springer.com/content/pdf/10.1007/978-3-031-53322-8_11.pdf\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://link.springer.com/chapter/10.1007/978-3-031-53322-8_11\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 431,
+              "endIndex": 706,
+              "uri": "https://www.researchgate.net/publication/381140390_A_Systematic_Review_of_Research_on_the_Use_of_Mathematical_Modelling_in_the_South_African_Education"
+            }
+          ]
+        },
+        "avgLogprobs": -0.0006636404015524003
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3185,
+      "candidatesTokenCount": 391,
+      "totalTokenCount": 3576,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3185
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 391
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "jJtSaPekA8WUsbQP-d_MIQ"
+  }
+}

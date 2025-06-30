@@ -1,0 +1,45 @@
+{
+  "response_id": 496,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:14:17.502134",
+  "metadata": {
+    "apa_number": 315,
+    "url": "https://uis.unesco.org/sites/default/files/documents/bridging_cesa_and_sdg4_in_africa-final.pdf",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://uis.unesco.org/sites/default/files/documents/bridging_cesa_and_sdg4_in_africa-final.pdf\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The document focuses on regional curriculum harmonization initiatives across multiple African countries, specifically in the context of the Continental Education Strategy for Africa (CESA) and Sustainable Development Goal 4 (SDG4). It addresses harmonization across institutions and countries, discussing regional frameworks and cross-border education. The document mentions regional frameworks and initiatives related to education in Africa.\",\n  \"Title\": \"Bridging CESA and SDG4 in Africa: Progress, Challenges and Prospects\",\n  \"Authors\": [],\n  \"Year\": \"2021\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"UNESCO Institute for Statistics\",\n    \"DOI_URL\": \"https://uis.unesco.org/sites/default/files/documents/bridging_cesa_and_sdg4_in_africa-final.pdf\",\n    \"APA_Reference\": \"UNESCO Institute for Statistics. (2021). Bridging CESA and SDG4 in Africa: Progress, Challenges and Prospects. UIS.\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Desk review and analysis of existing data and literature\",\n    \"Geographic_Focus\": \"Africa\",\n    \"Educational_Level\": \"All levels\",\n    \"Sample_Size\": \"N/A\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Continental Education Strategy for Africa (CESA), Sustainable Development Goal 4 (SDG4)\",\n    \"Harmonization_Definition\": \"Not explicitly defined, but implied through alignment of CESA and SDG4 goals and indicators\",\n    \"Regional_Initiatives\": [\n      \"Continental Education Strategy for Africa (CESA)\",\n      \"Sustainable Development Goal 4 (SDG4)\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Policy alignment\",\n      \"Data collection and monitoring\",\n      \"Capacity building\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"African Union\",\n      \"UNESCO\",\n      \"Member States\",\n      \"Regional Economic Communities (RECs)\"\n    ],\n    \"Data_Sources\": [\n      \"UNESCO Institute for Statistics (UIS) data\",\n      \"Policy documents\",\n      \"Reports from African Union and RECs\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Progress has been made in aligning CESA and SDG4 goals in Africa.\",\n      \"Significant challenges remain in achieving the targets.\",\n      \"Data gaps hinder effective monitoring and evaluation.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Data gaps and inconsistencies\",\n      \"Limited resources\",\n      \"Weak institutional capacity\",\n      \"Political instability\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political commitment\",\n      \"Effective partnerships\",\n      \"Evidence-based policymaking\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen data collection and analysis\",\n      \"Increase investment in education\",\n      \"Enhance regional cooperation\",\n      \"Promote innovation and technology\"\n    ],\n    \"Future_Research\": [\n      \"Impact of CESA and SDG4 on learning outcomes\",\n      \"Effectiveness of different implementation strategies\",\n      \"Role of technology in accelerating progress\"\n    ],\n    \"Specific_Examples\": [\n      \"Examples of countries aligning their national education policies with CESA and SDG4\",\n      \"Examples of regional initiatives promoting cross-border education\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Policy alignment\",\n      \"Data collection and monitoring\",\n      \"Capacity building\",\n      \"Regional cooperation\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Data gaps\",\n      \"Limited resources\",\n      \"Weak capacity\",\n      \"Political instability\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political commitment\",\n      \"Partnerships\",\n      \"Evidence-based policymaking\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Progress towards CESA and SDG4 goals\",\n      \"Improved access to education\",\n      \"Enhanced quality of education\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 632,
+      "candidatesTokenCount": 992,
+      "totalTokenCount": 1624,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 632
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 992
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "g59SaJfsHZrnqsMPzonmkA0"
+  }
+}

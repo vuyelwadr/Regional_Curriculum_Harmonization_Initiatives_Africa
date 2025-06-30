@@ -1,0 +1,45 @@
+{
+  "response_id": 246,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:51:12.969486",
+  "metadata": {
+    "apa_number": 211,
+    "url": "https://jriiejournal.com/wp-content/uploads/2019/02/JRIIE-3-1-003.pdf",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://jriiejournal.com/wp-content/uploads/2019/02/JRIIE-3-1-003.pdf\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper discusses regional harmonization efforts in East Africa, specifically focusing on the EAC Protocol on Education and Training. It addresses cross-border education, mutual recognition of qualifications, and the development of a regional qualifications framework. The paper explicitly mentions the EAC framework and its impact on higher education.\",\n  \"Title\": \"Regional Integration in East Africa: Harmonisation of Higher Education and Training Curricula\",\n  \"Authors\": [\n    \"Okebukola, Peter\",\n    \"Afeti, George\",\n    \"Alabi, Gbenga\",\n    \"Phalane, Mpine\",\n    \"Dejene, Alemayehu\",\n    \"Ndombi, John Paul Singi\",\n    \"Ogunleye, Olubunmi\",\n    \"Olukunle, Ayodele\"\n  ],\n  \"Year\": \"2019\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Journal of Research and Innovation in Information and Industrial Engineering\",\n    \"DOI_URL\": \"https://jriiejournal.com/wp-content/uploads/2019/02/JRIIE-3-1-003.pdf\",\n    \"APA_Reference\": \"Okebukola, P., Afeti, G., Alabi, G., Phalane, M., Dejene, A., Ndombi, J. P. S., Ogunleye, O., & Olukunle, A. (2019). Regional Integration in East Africa: Harmonisation of Higher Education and Training Curricula. Journal of Research and Innovation in Information and Industrial Engineering, 3(1), 25-38.\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Document analysis and literature review\",\n    \"Geographic_Focus\": \"East Africa (EAC)\",\n    \"Educational_Level\": \"Higher Education and Training\",\n    \"Sample_Size\": \"Not applicable\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Regional Integration Theory\",\n    \"Harmonization_Definition\": \"Harmonization is defined as the process of aligning curricula and standards across different countries to facilitate mobility and recognition of qualifications.\",\n    \"Regional_Initiatives\": [\n      \"EAC Protocol on Education and Training\",\n      \"EAC Qualifications Framework\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Curriculum review and alignment\",\n      \"Development of regional standards\",\n      \"Mutual recognition agreements\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments\",\n      \"Higher education institutions\",\n      \"Regional bodies (EAC Secretariat)\",\n      \"Quality assurance agencies\"\n    ],\n    \"Data_Sources\": [\n      \"EAC documents\",\n      \"Policy documents\",\n      \"Literature review\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"The EAC Protocol on Education and Training provides a framework for harmonization of higher education curricula.\",\n      \"Progress has been made in developing regional standards and qualifications frameworks.\",\n      \"Challenges remain in implementation due to varying national contexts and priorities.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Varying national contexts and priorities\",\n      \"Lack of resources\",\n      \"Resistance to change\",\n      \"Coordination challenges\"\n    ],\n    \"Success_Factors\": [\n      \"Political will\",\n      \"Strong regional leadership\",\n      \"Stakeholder engagement\",\n      \"Adequate resources\"\n    ],\n    \"Recommendations\": [\n      \"Strengthening regional coordination mechanisms\",\n      \"Providing adequate resources for implementation\",\n      \"Promoting stakeholder engagement\",\n      \"Addressing national context specific challenges\"\n    ],\n    \"Future_Research\": [\n      \"Impact assessment of harmonization efforts\",\n      \"Comparative studies of different harmonization models\",\n      \"Analysis of the role of technology in facilitating harmonization\"\n    ],\n    \"Specific_Examples\": [\n      \"Harmonization of engineering curricula in EAC universities\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Regional protocols\",\n      \"Qualifications frameworks\",\n      \"Curriculum alignment\",\n      \"Mutual recognition agreements\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"National sovereignty\",\n      \"Resource constraints\",\n      \"Coordination challenges\",\n      \"Resistance to change\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political will\",\n      \"Regional leadership\",\n      \"Stakeholder engagement\",\n      \"Resource mobilization\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased student mobility\",\n      \"Improved quality of education\",\n      \"Enhanced regional integration\",\n      \"Greater employability of graduates\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 633,
+      "candidatesTokenCount": 1129,
+      "totalTokenCount": 1762,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 633
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1129
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "GZpSaKm3L8WUsbQP-d_MIQ"
+  }
+}

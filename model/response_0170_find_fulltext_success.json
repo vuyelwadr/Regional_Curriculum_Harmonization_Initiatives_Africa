@@ -1,0 +1,46 @@
+{
+  "response_id": 170,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:43:22.316512",
+  "metadata": {
+    "url": "https://haqaa.aau.org/",
+    "final_url": "https://haqaa.aau.org/",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"HAQAA Initiative | A Joint Africa – EU Strategy\",\n    \"authors\": [],\n    \"doi\": null,\n    \"journal\": null,\n    \"year\": null,\n    \"abstract\": null\n  },\n  \"fulltext_links\": [],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"low\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.0017491151211839733
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3566,
+      "candidatesTokenCount": 132,
+      "totalTokenCount": 3698,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3566
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 132
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "SZhSaPfnB8WUsbQP-d_MIQ"
+  }
+}

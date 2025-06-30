@@ -1,0 +1,66 @@
+{
+  "response_id": 99,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:36:17.509446",
+  "metadata": {
+    "url": "https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-024-11994-x",
+    "final_url": "https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-024-11994-x",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"The South African Competition Commission COVID-19 easing of competition rules for private healthcare to facilitate public-private interaction - a media content analysis\",\n    \"authors\": [],\n    \"doi\": \"10.1186/s12913-024-11994-x\",\n    \"journal\": \"BMC Health Services Research\",\n    \"year\": \"2024\",\n    \"abstract\": \"Future emergencies from climate degradation or diseases are likely, prompting ongoing investment in emergency readiness and learning from country responses. South Africa’s healthcare system, divided into public and private sectors, required a coordinated, intersectoral response to the COVID-19 pandemic. A coordinated action that the South African government took was adapting competition regulations. The South African Department of Trade, Industry and Competition on 19 March 2020, published a block exemption (easing of competition rules) for healthcare to promote standardization of practices across the health sector and facilitate agreements between the National Department of Health and the private sector to ensure adequate service delivery to all South Africans. We assessed how much coverage the block exemption for healthcare received in the media and if the scope included details of what the exemption meant, how stakeholders and the public could use it, and the resulting public sentiment. We conducted a media content analysis to select, screen and assess the media material. Online and social-media articles in the public domain from 19 March 2020 to 19 March 2021, in English were considered. We analysed 22 online media articles that matched our inclusion criteria. Twenty of these reflected a positive sentiment, and two were negative. Media reported on the COVID-19 block exemption in healthcare only in the first three months of our study period. The articles primarily communicated what the block exemption meant, focusing on allowing collaboration, the purpose of the exemption, the activities granted under the exemption and the actors to whom it applied. It’s estimated that these media articles could have been read by up to 432,003 people out of a total population of just under 43&nbsp;million people over the age of 15 years. In times of crisis, the media has a significant responsibility to provide accurate information to the public. However, the accuracy and reliability of such information depends on the quality of official sources on which the media relies. Our research shows that very few media reports were available about the block exemption for healthcare. While the government implemented the exemption, it did not communicate its purpose directly to the public. Our research highlights the need for better communication between policymakers and the media.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://bmchealthservres.biomedcentral.com/counter/pdf/10.1186/s12913-024-11994-x\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-024-11994-x\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 411,
+              "endIndex": 1180
+            },
+            {
+              "startIndex": 1184,
+              "endIndex": 1615
+            },
+            {
+              "startIndex": 1622,
+              "endIndex": 2217
+            },
+            {
+              "startIndex": 2267,
+              "endIndex": 2805
+            }
+          ]
+        },
+        "avgLogprobs": -0.0007893097827501614
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2416,
+      "candidatesTokenCount": 782,
+      "totalTokenCount": 3198,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2416
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 782
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "nJZSaITnNMWUsbQP-d_MIQ"
+  }
+}

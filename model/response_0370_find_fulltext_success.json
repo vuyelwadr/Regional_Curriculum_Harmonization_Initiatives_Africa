@@ -1,0 +1,60 @@
+{
+  "response_id": 370,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:03:10.084662",
+  "metadata": {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10022231/",
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10022231/",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Adoption of harmonisation policy for the midwives’ training programme in Mali: A policy analysis\",\n    \"authors\": [\n      \"Cheick S Sidibé\",\n      \"Valentine Becquet\",\n      \"Tanya Y Brückner\",\n      \"Ousmane Touré\",\n      \"Lalla Fatouma Traoré\",\n      \"Jacqueline E W Broerse\",\n      \"Marjolein Dieleman\"\n    ],\n    \"doi\": \"10.1371/journal.pgph.0001296\",\n    \"journal\": \"PLOS Global Public Health\",\n    \"year\": \"2022\",\n    \"abstract\": \"West Africa is engaged in a process of harmonising health workers’ training programmes as a means to regulate regional training standards and thus improve their quality. There is currently a lack of documented information regarding the adoption of ...\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://pmc.ncbi.nlm.nih.gov/articles/PMC10022231/\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://pmc.ncbi.nlm.nih.gov/articles/PMC10022231/pdf/pgph.0001296.pdf\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 219,
+              "endIndex": 397,
+              "uri": "https://ouci.dntb.gov.ua/en/works/9QeLrXy9/"
+            },
+            {
+              "startIndex": 533,
+              "endIndex": 773,
+              "uri": "https://pubmed.ncbi.nlm.nih.gov/36962856/"
+            }
+          ]
+        },
+        "avgLogprobs": -0.00010456060690264548
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2938,
+      "candidatesTokenCount": 403,
+      "totalTokenCount": 3341,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2938
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 403
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "65xSaLjjI-iChMIP-ufFUQ"
+  }
+}

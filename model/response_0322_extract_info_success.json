@@ -1,0 +1,45 @@
+{
+  "response_id": 322,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:58:23.807649",
+  "metadata": {
+    "apa_number": 200,
+    "url": "https://journals.lww.com/aosopen/fulltext/2022/03000/design_of_a_novel_online,_modular,.31.aspx",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://journals.lww.com/aosopen/fulltext/2022/03000/design_of_a_novel_online,_modular,.31.aspx\",\n  \"MATCHES_CRITERIA\": false,\n  \"CRITERIA_MATCH_EXPLANATION\": \"This paper focuses on the design of an online modular curriculum for ophthalmology training. It does not address regional curriculum harmonization initiatives involving multiple African countries or regions. The focus is on a single institution's curriculum transformation, not cross-border or regional harmonization efforts.\",\n  \"Title\": \"Design of a Novel Online, Modular, Competency-Based Curriculum for Ophthalmology Training in Low- and Middle-Income Countries\",\n  \"Authors\": [\n    \"Andrew Bastawrous\",\n    \"Hillary Rono\",\n    \"David Macleod\",\n    \"Matthew Burton\",\n    \"Heiko Philippin\",\n    \"Geoff Tabin\",\n    \"Paul Courtright\"\n  ],\n  \"Year\": \"2022\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 639,
+      "candidatesTokenCount": 231,
+      "totalTokenCount": 870,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 639
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 231
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "zptSaOUG6IKEwg_658VR"
+  }
+}

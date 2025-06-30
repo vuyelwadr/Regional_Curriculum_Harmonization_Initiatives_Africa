@@ -1,0 +1,45 @@
+{
+  "response_id": 387,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:04:23.348474",
+  "metadata": {
+    "apa_number": 286,
+    "url": "https://revistacaribena.com/ojs/index.php/rccs/article/download/4570/3160",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://revistacaribena.com/ojs/index.php/rccs/article/download/4570/3160\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper discusses regional curriculum harmonization initiatives in the Caribbean, specifically focusing on the CARICOM framework. It addresses harmonization across institutions and countries within the region, mentioning mutual recognition and regional qualifications frameworks. The paper explicitly discusses the CARICOM Single Market and Economy (CSME) and its impact on education and training.\",\n  \"Title\": \"Regional Integration and Harmonisation of Education and Training Systems in the Caribbean: Imperatives for the CSME\",\n  \"Authors\": [\n    \"Didacus Jules\"\n  ],\n  \"Year\": \"2021\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Revista Caribeña de Ciencias Sociales\",\n    \"DOI_URL\": \"https://doi.org/10.55418/rcs.v0i0.4570\",\n    \"APA_Reference\": \"Jules, D. (2021). Regional Integration and Harmonisation of Education and Training Systems in the Caribbean: Imperatives for the CSME. Revista Caribeña de Ciencias Sociales, (0). https://doi.org/10.55418/rcs.v0i0.4570\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature Review and Policy Analysis\",\n    \"Geographic_Focus\": \"Caribbean (CARICOM)\",\n    \"Educational_Level\": \"Tertiary Education and TVET\",\n    \"Sample_Size\": \"N/A\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Regional Integration Theory, Human Capital Theory\",\n    \"Harmonization_Definition\": \"Alignment of education and training systems to facilitate mobility and recognition of qualifications within the CARICOM region.\",\n    \"Regional_Initiatives\": [\n      \"CARICOM Single Market and Economy (CSME)\",\n      \"CARICOM Regional Qualifications Framework (CRQF)\",\n      \"Caribbean Accreditation Authority for Education in Medicine and other Health Professions (CAAM-HP)\",\n      \"Association of Caribbean Tertiary Institutions (ACTI)\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Policy development\",\n      \"Accreditation\",\n      \"Qualifications Frameworks\",\n      \"Mutual Recognition Agreements\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments\",\n      \"Educational Institutions\",\n      \"Regional Organizations (CARICOM Secretariat)\",\n      \"Private Sector\",\n      \"Students\"\n    ],\n    \"Data_Sources\": [\n      \"Policy documents\",\n      \"Reports from CARICOM\",\n      \"Academic literature\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Harmonization is essential for the success of the CSME.\",\n      \"The CRQF is a key instrument for facilitating mobility and recognition of qualifications.\",\n      \"Accreditation plays a crucial role in ensuring quality and comparability of education and training.\",\n      \"Challenges remain in implementation due to varying national contexts and capacities.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Varying national contexts and capacities\",\n      \"Lack of resources\",\n      \"Resistance to change\",\n      \"Coordination challenges\"\n    ],\n    \"Success_Factors\": [\n      \"Political will\",\n      \"Strong regional leadership\",\n      \"Stakeholder engagement\",\n      \"Adequate resources\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen regional governance mechanisms\",\n      \"Increase investment in education and training\",\n      \"Promote stakeholder engagement\",\n      \"Develop robust monitoring and evaluation systems\"\n    ],\n    \"Future_Research\": [\n      \"Impact of harmonization on economic development\",\n      \"Effectiveness of the CRQF\",\n      \"Role of technology in facilitating harmonization\"\n    ],\n    \"Specific_Examples\": [\n      \"CAAM-HP as a successful example of regional accreditation\",\n      \"ACTI's role in promoting collaboration among tertiary institutions\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Regional Qualifications Frameworks\",\n      \"Accreditation\",\n      \"Mutual Recognition Agreements\",\n      \"Policy Harmonization\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Resource constraints\",\n      \"Coordination challenges\",\n      \"Varying national contexts\",\n      \"Resistance to change\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political will\",\n      \"Regional leadership\",\n      \"Stakeholder engagement\",\n      \"Adequate resources\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased mobility of labor\",\n      \"Enhanced recognition of qualifications\",\n      \"Improved quality of education and training\",\n      \"Contribution to regional economic integration\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 630,
+      "candidatesTokenCount": 1107,
+      "totalTokenCount": 1737,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 630
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1107
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "L51SaM3wK5rnqsMPzonmkA0"
+  }
+}

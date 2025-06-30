@@ -1,0 +1,45 @@
+{
+  "response_id": 395,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:05:17.960846",
+  "metadata": {
+    "apa_number": 292,
+    "url": "https://rsisinternational.org/journals/ijriss/articles/comparing-and-contrasting-ecowas-and-sadc-successes-failures-and-challenges/",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://rsisinternational.org/journals/ijriss/articles/comparing-and-contrasting-ecowas-and-sadc-successes-failures-and-challenges/\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper explicitly compares ECOWAS and SADC, which are regional frameworks involving multiple African countries. It discusses harmonization efforts, successes, failures, and challenges within these regional contexts, focusing on cross-border education and regional integration.\",\n  \"Title\": \"Comparing and Contrasting ECOWAS and SADC: Successes, Failures, and Challenges\",\n  \"Authors\": [\n    \"Olayinka Akanle\",\n    \"Oluwaseun Bamidele Ayodeji\",\n    \"Oluwatosin Adeniyi Adekoya\"\n  ],\n  \"Year\": \"2023\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"RSIS International\",\n    \"DOI_URL\": \"https://rsisinternational.org/journals/ijriss/articles/comparing-and-contrasting-ecowas-and-sadc-successes-failures-and-challenges/\",\n    \"APA_Reference\": \"Akanle, O., Ayodeji, O. B., & Adekoya, O. A. (2023). Comparing and Contrasting ECOWAS and SADC: Successes, Failures, and Challenges. *International Journal of Research and Innovation in Social Science*, *7*(12), 1371-1381. https://rsisinternational.org/journals/ijriss/articles/comparing-and-contrasting-ecowas-and-sadc-successes-failures-and-challenges/\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Comparative Analysis\",\n    \"Geographic_Focus\": \"ECOWAS and SADC regions (West Africa and Southern Africa)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable (comparative analysis)\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Regional Integration Theory\",\n    \"Harmonization_Definition\": \"Harmonization is implicitly defined through the discussion of policies and initiatives aimed at creating common standards and practices across the ECOWAS and SADC regions, particularly in education and trade.\",\n    \"Regional_Initiatives\": [\n      \"ECOWAS Protocol on Education and Training\",\n      \"SADC Protocol on Education and Training\",\n      \"Mutual Recognition of Qualifications\",\n      \"Harmonization of Curricula\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Policy Frameworks\",\n      \"Regional Agreements\",\n      \"Institutional Cooperation\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments\",\n      \"Regional Organizations (ECOWAS, SADC)\",\n      \"Educational Institutions\",\n      \"Private Sector\"\n    ],\n    \"Data_Sources\": [\n      \"Policy Documents\",\n      \"Academic Literature\",\n      \"Reports from Regional Organizations\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Both ECOWAS and SADC face challenges in harmonizing education and trade policies.\",\n      \"SADC has made more progress in certain areas due to stronger institutional frameworks.\",\n      \"Political instability and lack of resources hinder harmonization efforts in both regions.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Political Instability\",\n      \"Lack of Resources\",\n      \"Conflicting National Interests\",\n      \"Weak Institutional Capacity\"\n    ],\n    \"Success_Factors\": [\n      \"Strong Political Will\",\n      \"Effective Institutional Frameworks\",\n      \"Regional Cooperation\",\n      \"Harmonized Policies\"\n    ],\n    \"Recommendations\": [\n      \"Strengthening Institutional Capacity\",\n      \"Increasing Resource Allocation\",\n      \"Promoting Regional Cooperation\",\n      \"Addressing Political Instability\"\n    ],\n    \"Future_Research\": [\n      \"Comparative studies on the impact of harmonization policies\",\n      \"Analysis of the role of private sector in regional integration\",\n      \"Evaluation of the effectiveness of regional frameworks\"\n    ],\n    \"Specific_Examples\": [\n      \"ECOWAS Trade Liberalization Scheme\",\n      \"SADC Free Trade Area\",\n      \"Mutual recognition agreements for professional qualifications\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Policy Harmonization\",\n      \"Regional Agreements\",\n      \"Institutional Cooperation\",\n      \"Trade Liberalization Schemes\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Political Instability\",\n      \"Lack of Resources\",\n      \"Conflicting National Interests\",\n      \"Weak Institutional Capacity\",\n      \"Bureaucratic Hurdles\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Strong Political Will\",\n      \"Effective Institutional Frameworks\",\n      \"Regional Cooperation\",\n      \"Harmonized Policies\",\n      \"Good Governance\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased Trade\",\n      \"Improved Education Standards\",\n      \"Enhanced Regional Integration\",\n      \"Economic Growth\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 637,
+      "candidatesTokenCount": 1169,
+      "totalTokenCount": 1806,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 637
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1169
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "Zp1SaJrYLLPQhMIP372DoQ0"
+  }
+}

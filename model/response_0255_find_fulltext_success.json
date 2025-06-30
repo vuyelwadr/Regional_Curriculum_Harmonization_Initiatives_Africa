@@ -1,0 +1,54 @@
+{
+  "response_id": 255,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:52:12.283745",
+  "metadata": {
+    "url": "https://juku.um.edu.my/index.php/JUKU/article/view/51889",
+    "final_url": "https://juku.um.edu.my/index.php/JUKU/article/view/51889",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"SERVICE LEARNING IN HIGHER EDUCATION INSTITUTION TOWARDS CHARACTER EDUCATION CURRICULUM: A SYSTEMATIC LITERATURE REVIEW\",\n    \"authors\": [\n      \"Obby Taufik Hidayat\",\n      \"Vishalache Balakrishnan\"\n    ],\n    \"doi\": \"10.22452/juku.vol12no2.2\",\n    \"journal\": \"JuKu: Jurnal Kurikulum & Pengajaran Asia Pasifik\",\n    \"year\": \"2024\",\n    \"abstract\": \"Amid this disruptive era, every country faces various social and moral issues, such as ethnic conflict, loss of social care, and social bullying. Due to that, the good character of each individual becomes increasingly important. However, character education in Indonesia, is yet to be optimal because the cognitive aspect still dominates and moral degradation is an ongoing issue among the younger generation. In an international context, this systematic review study provides a research map on developing character education through experience-based learning, such as service learning in higher education institutions. This literature review used the PRISMA approach. Articles published in trustworthy databases from 2013 to 2023 were reviewed, and 9 of 859 were selected for detailed synthesis and analysis. The review revealed that: a) the experiential learning model in service learning is effective in integrated character education curriculum; b) research often emphasizes values of responsibility and compassion; c) the reflection method in service learning is character education practice. This research suggests that service learning is a crucial approach to applying character education curriculum in higher education.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://juku.um.edu.my/index.php/JUKU/article/download/51889/16906\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 445,
+              "endIndex": 1668
+            }
+          ]
+        },
+        "avgLogprobs": -3.040340622343744e-06
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2886,
+      "candidatesTokenCount": 480,
+      "totalTokenCount": 3366,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2886
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 480
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "WZpSaM2fCaiUsbQPmK3KkQI"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "response_id": 426,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:08:10.980657",
+  "metadata": {
+    "apa_number": 294,
+    "url": "https://safrap.wordpress.com/wp-content/uploads/2018/12/au-continental-education-strategy-for-africa-2016-2025.pdf",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://safrap.wordpress.com/wp-content/uploads/2018/12/au-continental-education-strategy-for-africa-2016-2025.pdf\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The document outlines a continental education strategy for Africa, focusing on regional harmonization initiatives across multiple African countries. It addresses cross-border education and regional frameworks.\",\n  \"Title\": \"Continental Education Strategy for Africa 2016-2025\",\n  \"Authors\": [\n    \"African Union\"\n  ],\n  \"Year\": \"2016\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"African Union\",\n    \"DOI_URL\": \"https://safrap.wordpress.com/wp-content/uploads/2018/12/au-continental-education-strategy-for-africa-2016-2025.pdf\",\n    \"APA_Reference\": \"African Union. (2016). Continental Education Strategy for Africa 2016-2025. African Union.\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Policy Framework\",\n    \"Geographic_Focus\": \"Africa\",\n    \"Educational_Level\": \"All levels\",\n    \"Sample_Size\": \"N/A\",\n    \"Is_Longitudinal\": true\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Continental Education Strategy for Africa (CESA 16-25)\",\n    \"Harmonization_Definition\": \"Harmonization is implied through the promotion of standardization and comparability of education systems across the continent.\",\n    \"Regional_Initiatives\": [\n      \"Continental Education Strategy for Africa (CESA 16-25)\",\n      \"Harmonization of curricula\",\n      \"Mutual recognition of qualifications\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Policy development\",\n      \"Capacity building\",\n      \"Resource mobilization\",\n      \"Partnerships\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments\",\n      \"Regional Economic Communities (RECs)\",\n      \"Educational institutions\",\n      \"Private sector\",\n      \"Civil society organizations\"\n    ],\n    \"Data_Sources\": [\n      \"Policy documents\",\n      \"Statistical data\",\n      \"Consultations with stakeholders\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"CESA 16-25 provides a comprehensive framework for transforming education in Africa.\",\n      \"Harmonization of education systems is crucial for promoting mobility and competitiveness.\",\n      \"Increased investment in education is essential for achieving the goals of CESA 16-25.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Inadequate funding\",\n      \"Lack of political will\",\n      \"Weak institutional capacity\",\n      \"Resistance to change\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political commitment\",\n      \"Effective partnerships\",\n      \"Adequate resources\",\n      \"Evidence-based planning\"\n    ],\n    \"Recommendations\": [\n      \"Increase investment in education\",\n      \"Strengthen institutional capacity\",\n      \"Promote regional cooperation\",\n      \"Monitor and evaluate progress\"\n    ],\n    \"Future_Research\": [\n      \"Impact of CESA 16-25 on educational outcomes\",\n      \"Effectiveness of different harmonization approaches\",\n      \"Role of technology in transforming education\"\n    ],\n    \"Specific_Examples\": [\n      \"Harmonization of curricula in specific subject areas\",\n      \"Development of regional qualifications frameworks\",\n      \"Establishment of credit transfer systems\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Policy frameworks\",\n      \"Regional cooperation\",\n      \"Capacity building\",\n      \"Resource mobilization\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Financial constraints\",\n      \"Political obstacles\",\n      \"Institutional weaknesses\",\n      \"Cultural differences\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political will\",\n      \"Strategic partnerships\",\n      \"Adequate funding\",\n      \"Effective leadership\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Improved access to education\",\n      \"Enhanced quality of education\",\n      \"Increased mobility of students and workers\",\n      \"Greater competitiveness of African economies\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 644,
+      "candidatesTokenCount": 1025,
+      "totalTokenCount": 1669,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 644
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1025
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "FJ5SaICSIuiChMIP-ufFUQ"
+  }
+}

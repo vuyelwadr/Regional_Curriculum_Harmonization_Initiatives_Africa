@@ -1,0 +1,60 @@
+{
+  "response_id": 316,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:58:11.532277",
+  "metadata": {
+    "url": "https://link.springer.com/10.1007/978-3-319-11961-8_21",
+    "final_url": "https://link.springer.com/chapter/10.1007/978-3-319-11961-8_21",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Campus Greening in Open and Distance Learning: Curriculum Initiatives in the Department of Geography, University of South Africa\",\n    \"authors\": [\n      \"Pretorius, Rudi W.\",\n      \"Hedding, David W.\",\n      \"Nicolau, Melanie D.\",\n      \"Nkooe, Ernestina S.\"\n    ],\n    \"doi\": \"10.1007/978-3-319-11961-8_21\",\n    \"journal\": \"Implementing Campus Greening Initiatives\",\n    \"year\": \"2015\",\n    \"abstract\": \"This chapter presents and reflects on two campus greening initiatives by the Department of Geography at the University of South Africa (Unisa). The first initiative is the environmental management degree programme, which was implemented in 2000 as the first...\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://link.springer.com/content/pdf/10.1007/978-3-319-11961-8_21.pdf\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://link.springer.com/chapter/10.1007/978-3-319-11961-8_21\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": true,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 96,
+              "endIndex": 232,
+              "uri": "https://www.unisa.ac.za/sites/corporate/default/Colleges/Agriculture-&-Environmental-Sciences/Schools,-departments,-centres-&-units/School-of-Ecological-and-Human-Sustainability/Department-of-Geography/Staff-members/Prof-M-D-Nicolau"
+            },
+            {
+              "startIndex": 502,
+              "endIndex": 754,
+              "uri": "https://www.researchgate.net/publication/321589875_Implementing_Campus_Greening_Initiatives_Approaches_Methods_and_Perspectives"
+            }
+          ]
+        },
+        "avgLogprobs": -4.812235975467064e-06
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3147,
+      "candidatesTokenCount": 414,
+      "totalTokenCount": 3561,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3147
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 414
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "wZtSaOn7D-iChMIP-ufFUQ"
+  }
+}

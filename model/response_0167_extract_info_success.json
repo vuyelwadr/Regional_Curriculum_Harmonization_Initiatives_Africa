@@ -1,0 +1,45 @@
+{
+  "response_id": 167,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:43:19.446784",
+  "metadata": {
+    "apa_number": 148,
+    "url": "https://gh.bmj.com/content/8/1/e010892",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://gh.bmj.com/content/8/1/e010892\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in medical education across multiple African countries, specifically addressing the East African Community (EAC) and the need for cross-border recognition of medical qualifications. It discusses regional frameworks and mutual recognition of qualifications, aligning with the research criteria.\",\n  \"Title\": \"Towards harmonisation of medical education in East Africa: a scoping review\",\n  \"Authors\": [\n    \"David Ogutu\",\n    \"James Orwa\",\n    \"Peter Gisore\",\n    \"Daniel K Kiima\",\n    \"Alfred Mwangi\",\n    \"Joachim Osur\",\n    \"Walter Otieno\",\n    \"Kizito Opondo\",\n    \"Miriam Wagoro\",\n    \"George Owiso\",\n    \"Carey Farquhar\",\n    \"Alison M Elliott\",\n    \"Iain T Green\",\n    \"Scott M Montgomery\",\n    \"Sarah Hampson\"\n  ],\n  \"Year\": \"2023\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"BMJ Global Health\",\n    \"DOI_URL\": \"https://gh.bmj.com/content/8/1/e010892\",\n    \"APA_Reference\": \"Ogutu, D., Orwa, J., Gisore, P., Kiima, D. K., Mwangi, A., Osur, J., Otieno, W., Opondo, K., Wagoro, M., Owiso, G., Farquhar, C., Elliott, A. M., Green, I. T., Montgomery, S. M., & Hampson, S. (2023). Towards harmonisation of medical education in East Africa: a scoping review. BMJ Global Health, 8(1), e010892.\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Scoping Review\",\n    \"Geographic_Focus\": \"East African Community (EAC)\",\n    \"Educational_Level\": \"Medical Education\",\n    \"Sample_Size\": \"Not applicable for scoping review\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated, but implicitly grounded in theories of regional integration and standardization of professional education.\",\n    \"Harmonization_Definition\": \"Implied as the process of aligning medical education curricula, standards, and assessment methods across EAC partner states to facilitate mutual recognition of qualifications and improve the quality of healthcare professionals.\",\n    \"Regional_Initiatives\": [\n      \"East African Community (EAC) initiatives for medical education harmonization\",\n      \"Efforts towards mutual recognition of medical qualifications\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Curriculum review and alignment\",\n      \"Development of common standards and guidelines\",\n      \"Establishment of regional accreditation mechanisms\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Medical schools\",\n      \"Regulatory bodies\",\n      \"EAC Secretariat\",\n      \"Healthcare professionals\",\n      \"Students\"\n    ],\n    \"Data_Sources\": [\n      \"Published literature\",\n      \"Grey literature\",\n      \"Policy documents\",\n      \"Reports from EAC institutions\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Significant progress has been made towards harmonizing medical education in the EAC, but challenges remain.\",\n      \"Variations in curricula, assessment methods, and accreditation standards exist across EAC partner states.\",\n      \"Mutual recognition of medical qualifications is crucial for facilitating cross-border mobility of healthcare professionals.\",\n      \"Regional collaboration and political will are essential for successful harmonization.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of resources\",\n      \"Political instability\",\n      \"Varying levels of infrastructure\",\n      \"Resistance to change from some stakeholders\",\n      \"Differences in language and culture\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political commitment from EAC partner states\",\n      \"Active involvement of medical schools and regulatory bodies\",\n      \"Availability of funding and technical support\",\n      \"Effective communication and collaboration among stakeholders\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen regional accreditation mechanisms\",\n      \"Develop common curricula and assessment standards\",\n      \"Promote cross-border exchange programs for students and faculty\",\n      \"Invest in infrastructure and resources for medical education\",\n      \"Enhance collaboration and communication among stakeholders\"\n    ],\n    \"Future_Research\": [\n      \"Further research is needed to evaluate the impact of harmonization efforts on the quality of healthcare and patient outcomes.\",\n      \"Studies are needed to identify best practices for implementing harmonization initiatives in different contexts.\",\n      \"Research is needed to assess the cost-effectiveness of harmonization efforts.\"\n    ],\n    \"Specific_Examples\": [\n      \"The East African Health Research Commission (EAHRC) has played a key role in coordinating research and promoting evidence-based policy-making in the region.\",\n      \"The EAC Medical and Dental Practitioners Council is working to develop common standards for medical education and practice.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Regional accreditation bodies\",\n      \"Curriculum harmonization workshops\",\n      \"Cross-border exchange programs\",\n      \"Development of common standards and guidelines\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Resource constraints\",\n      \"Political instability\",\n      \"Varying levels of infrastructure\",\n      \"Resistance to change\",\n      \"Cultural and linguistic differences\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political commitment\",\n      \"Stakeholder engagement\",\n      \"Funding and technical support\",\n      \"Effective communication\",\n      \"Regional collaboration\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Improved quality of medical education\",\n      \"Enhanced mobility of healthcare professionals\",\n      \"Increased access to healthcare services\",\n      \"Strengthened regional integration\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 619,
+      "candidatesTokenCount": 1364,
+      "totalTokenCount": 1983,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 619
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1364
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "PphSaI7wI7qFsbQPqNrRqAQ"
+  }
+}

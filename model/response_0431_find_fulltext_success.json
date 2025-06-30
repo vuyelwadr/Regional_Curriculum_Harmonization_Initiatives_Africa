@@ -1,0 +1,60 @@
+{
+  "response_id": 431,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:08:19.902021",
+  "metadata": {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9362365/",
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9362365/",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"(Hidden) potentials for African languages in curriculum reforms: examples from Kenya and South Africa\",\n    \"authors\": [\n      \"Michael M Kretzer\",\n      \"Everlyn Oluoch-Suleh\"\n    ],\n    \"doi\": \"10.1007/s43545-022-00440-6\",\n    \"journal\": \"Sn Social Sciences\",\n    \"year\": \"2022\",\n    \"abstract\": \"Education systems are globally reformed to focus more on competencies and be more pupil-centred. Post-colonial countries like Kenya and South Africa face severe educational challenges regarding access, language policy and the quality of education. ...\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://pmc.ncbi.nlm.nih.gov/articles/PMC9362365/\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://pmc.ncbi.nlm.nih.gov/articles/PMC9362365/pdf/43545_2022_Article_440.pdf\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 371,
+              "endIndex": 507,
+              "uri": "https://gresis.osc.int/records/v8d6r-83752/preview/s43545-022-00440-6.pdf.pdf?include_deleted=0"
+            },
+            {
+              "startIndex": 395,
+              "endIndex": 656,
+              "uri": "https://pubmed.ncbi.nlm.nih.gov/35966815/"
+            }
+          ]
+        },
+        "avgLogprobs": -0.00020418342517572138
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2928,
+      "candidatesTokenCount": 367,
+      "totalTokenCount": 3295,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2928
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 367
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "IZ5SaJDkKNTGgLUPq5jKwQo"
+  }
+}

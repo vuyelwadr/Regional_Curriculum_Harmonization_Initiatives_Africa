@@ -1,0 +1,205 @@
+{
+  "response_id": 373,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:03:16.324022",
+  "metadata": {
+    "url": "https://ojs.library.lancs.ac.uk/lue/article/view/9",
+    "final_url": "https://ojs.library.lancs.ac.uk/lue/article/view/9",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Bridging borders: Harmonizing curricula for equivalence in Transnational Education\",\n    \"authors\": [\n      \"Patrick Amfo Anim\",\n      \"Frederick Boafo\",\n      \"Emmanuel Arthur\"\n    ],\n    \"doi\": null,\n    \"journal\": \"Proceedings of the Lancaster University Education Conference\",\n    \"year\": \"2024\",\n    \"abstract\": \"Transnational education is increasingly pivotal as universities expand programs offshore through partnerships and international campuses, particularly in Africa. While this approach offers significant potential, it faces challenges in harmonizing curricula across diverse educational contexts to ensure a seamless learning experience. This study explores these challenges and opportunities, focusing on curriculum alignment using Lancaster University Ghana as a case study. Drawing on Waterval et al.'s (2015) framework, the study examines strategies to achieve curriculum equivalence and engages with broader debates on educational globalization. The findings highlight the importance of equitable learning opportunities and provide actionable insights for enhancing curriculum harmonization in transnational education.\\nReferences\\nAlam, A. S., Ma, L., Watson, A., Wijeratne, V., &amp;amp; Chai, M. (2022). Transnational education and e-learning during a pandemic: Challenges, opportunities, and future. E-learning and Digital Education in the Twenty-First Century, 1-26.\\nAllAfrica.com. (2019). Ghana: Trends in cross-border, transnational and borderless education in a changing world. All Africa Global Media.\\nBennell, P. (2019). Transnational higher education in the United Kingdom: An update. International Journal of Educational Development, 67, 29–40.\\nBohm, A., Davis, T., Meares, D., &amp;amp; Pearce, D. (2002). Global student mobility 2025: Forecasts of the global demand for higher education. Paper presented at the 16th Australian International Education Conference (30th Sept. – 4th Oct.), Hobart, Tasmania, Australia.\\nBovill, C., Jordan, L., &amp;amp; Watters, N. (2015). Transnational approaches to teaching and learning in higher education: Challenges and possible guiding principles. Teaching in Higher Education, 20(1), 12–23. https://doi.org/10.1080/13562517.2014.945162\\nBriguglio, C. (2000). Language and cultural issues for English-as-a-second/foreign language students in transnational educational settings. Higher Education in Europe, 25, 425-434.\\nCastle, R., &amp;amp; Kelly, D. (2004). International education: Quality assurance and standards in offshore teaching: Exemplars and problems. Quality in Higher Education, 10, 51-57.\\nChapman, A., &amp;amp; Pyvis, D. (2006). Dilemmas in the formation of student identity in offshore higher education: A case study in Hong Kong. Educational Review, 58(3), 291–302.\\nColeman, D. (2003). Quality assurance in transnational education. Journal of Studies in International Education, 7, 354-378.\\nDobos, K. (2011). Serving two masters—Academics’ perspectives on working at an offshore campus in Malaysia. Educational Review, 63, 19-35.\\nDunworth, K. (2008). Ideas and realities: Investigating good practice in the management of transnational English language programmes for the higher education sector. Quality in Higher Education, 14, 95-107.\\nEldridge, K., &amp;amp; Cranston, N. (2009). Managing transnational education: Does national culture really matter? Journal of Higher Education Policy and Management, 31, 67-79.\\nGoh, E., &amp;amp; Sigala, M. (2020). Integrating information &amp;amp; communication technologies (ICT) into classroom instruction: Teaching tips for hospitality educators from a diffusion of innovation approach. Journal of Teaching in Travel &amp;amp; Tourism, 20(2), 156-165.\\nGregory, V. L., &amp;amp; Wohlmuth, S. R. (2002). Planning for the internationalization of a postgraduate professional degree programme in library and information science. Higher Education in Europe, 27, 261-268.\\nHeffernan, T., Morrison, M., Basu, P., &amp;amp; Sweeney, A. (2010). Cultural differences, learning styles and transnational education. Journal of Higher Education Policy and Management, 32, 27-39.\\nHorsthemke, K., &amp;amp; Enslin, P. (2009). African philosophy of education: The price of unchallengeability. Studies in Philosophy and Education, 28, 209–222. https://doi.org/10.1007/s11217-008-9106-2\\nJones, F. (1999). The FLOTE project: A study of assessment practices in the Curtin Business School, with a focus on the needs of students whose first language is other than English. Curtin Business School, unpublished report.\\nLane, J. E., Brown, M. C., II, &amp;amp; Pearcey, M. A. (2004). Transnational campuses: Obstacles and opportunities for institutional research in the global education market. New Directions for Institutional Research, 2004(124), 49-62.\\nLee, J., &amp;amp; Waters, J. (2023). International education ‘here’ and ‘there’: Geographies, materialities and differentiated mobilities within UK degrees. Social &amp;amp; Cultural Geography, 24(8), 1422-1439.\\nLim, F. C. B. (2010). Do too many rights make a wrong? A qualitative study of the experiences of a sample of Malaysian and Singapore private higher education providers in transnational quality assurance. Quality in Higher Education, 16, 211-222.\\nMcBurnie, G. (2000). Quality matters in transnational education: Undergoing the GATE review process. An Australian-Asian case study. Journal of Studies in International Education, 4(1), 23-38.\\nMiliszewska, I., &amp;amp; Sztendur, E. (2011). Critical success attributes of transnational IT education programmes: The client perspective. Journal of Information Technology Education, 10, 123-137.\\nMok, K. H. (2021). Education market with Chinese characteristics: The rise of minban and transnational higher education in China. Higher Education Quarterly, 75(3), 398-417.\\nMorrison-Smith, S., &amp;amp; Ruiz, J. (2020). Challenges and barriers in virtual teams: A literature review. SN Applied Sciences, 2, 1-33.\\nNaicker, A., Singh, E., &amp;amp; van Genugten, T. (2022). Collaborative online international learning (COIL): Preparedness and experiences of South African students. Innovations in Education and Teaching International, 59(5), 499-510.\\nOlcott, D., Jr. (2009). Global connections to global partnerships: Navigating the changing landscape of internationalism and cross-border higher education. The Journal of Continuing Higher Education, 57, 1-9.\\nOwusu-Agyeman, Y., &amp;amp; Amoakohene, G. (2020). Transnational education delivery in Ghana: Examining the benefits, challenges and future prospects. Policy Reviews in Higher Education, 4(2), 135-163. https://doi.org/10.1080/23322969.2020.1774408\\nParnther, C. (2022). International students and academic misconduct: Considering culture, community, and context. Journal of College and Character, 23(1), 60-75.\\nPoole, A. (2020). Decoupling Chinese internationalised schools from normative constructions of the international school. Compare: A Journal of Comparative and International Education, 50(3), 447-454.\\nShams, F., &amp;amp; Huisman, J. (2012). Managing offshore branch campuses: An analytical framework for institutional strategies. Journal of Studies in International Education, 16, 106-127.\\nStella, A. (2006). Quality assurance of cross-border higher education.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://ojs.library.lancs.ac.uk/lue/article/view/9/7\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 1254,
+              "endIndex": 1414,
+              "uri": "https://bibliotekanauki.pl/articles/18675694.xml"
+            },
+            {
+              "startIndex": 1323,
+              "endIndex": 1477,
+              "uri": "https://publications.eai.eu/index.php/el/article/view/4258"
+            },
+            {
+              "startIndex": 1638,
+              "endIndex": 1773,
+              "uri": "https://cyberleninka.ru/article/n/universitet-3-0-fundamentalnye-i-prikladnye-aspekty"
+            },
+            {
+              "startIndex": 1819,
+              "endIndex": 1989,
+              "uri": "https://dergipark.org.tr/en/pub/mersinefd/issue/17376/181441?publisher=mersin%3Fpublisher%3Dmersin"
+            },
+            {
+              "startIndex": 2104,
+              "endIndex": 2240,
+              "uri": "https://www.ed.ac.uk/institute-academic-development/about-us/staff/profiles/catherine-bovill"
+            },
+            {
+              "startIndex": 2320,
+              "endIndex": 2474,
+              "uri": "https://www.mindmeister.com/595269483/how-does-english-as-a-second-language-affect-students"
+            },
+            {
+              "startIndex": 2513,
+              "endIndex": 2654,
+              "uri": "https://www.qualityresearchinternational.com/glossary/transnationaleducation.htm"
+            },
+            {
+              "startIndex": 2698,
+              "endIndex": 2839,
+              "uri": "https://www.researchgate.net/profile/Nigel_Healey2/publication/282349695_Managing_International_Branch_Campuses_What_Do_We_Know/links/563259f808ae911fcd490c3f/Managing-International-Branch-Campuses-What-Do-We-Know"
+            },
+            {
+              "startIndex": 2989,
+              "endIndex": 3119,
+              "uri": "https://www.deepdyve.com/doc-view?docId=10.1177/1028315317697542&fieldName=journal_doi&affiliateId=sage"
+            },
+            {
+              "startIndex": 3132,
+              "endIndex": 3284,
+              "uri": "http://opus.bath.ac.uk/view/divisions/dept=5Fedu.html"
+            },
+            {
+              "startIndex": 3178,
+              "endIndex": 3317,
+              "uri": "https://www.qualityresearchinternational.com/glossary/transnationaleducation.htm"
+            },
+            {
+              "startIndex": 3354,
+              "endIndex": 3498,
+              "uri": "http://dx.doi.org/10.17576/gema-2015-1501-01"
+            },
+            {
+              "startIndex": 3581,
+              "endIndex": 3718,
+              "uri": "https://ro.ecu.edu.au/2020.html"
+            },
+            {
+              "startIndex": 3609,
+              "endIndex": 3751,
+              "uri": "https://sciendo.com/pdf/10.2478/jesm-2023-0001"
+            },
+            {
+              "startIndex": 3815,
+              "endIndex": 3977,
+              "uri": "http://en.wikipedia.org/wiki/Vicki_L._Gregory"
+            },
+            {
+              "startIndex": 4052,
+              "endIndex": 4190,
+              "uri": "https://www.researchgate.net/profile/Nigel_Healey2/publication/282349695_Managing_International_Branch_Campuses_What_Do_We_Know/links/563259f808ae911fcd490c3f/Managing-International-Branch-Campuses-What-Do-We-Know"
+            },
+            {
+              "startIndex": 4228,
+              "endIndex": 4357,
+              "uri": "https://dokumen.pub/erasing-invisibility-inequity-and-social-injustice-of-africans-in-the-diaspora-and-the-continent-1nbsped-9781527504165-9781443894975.html"
+            },
+            {
+              "startIndex": 4413,
+              "endIndex": 4628,
+              "uri": "http://clt.curtin.edu.au/events/conferences/tlf/tlf2000/briguglio.html"
+            },
+            {
+              "startIndex": 4697,
+              "endIndex": 4853,
+              "uri": "https://www.ijme.net/archive/14/family-medicine-curriculum/"
+            },
+            {
+              "startIndex": 4908,
+              "endIndex": 5036,
+              "uri": "http://globalauthorid.com/WebPortal/ArticleView?wd=068B97C88CE4CF5DF95F2B44B5ED3BA68C9DDE34C436B1F0CB3598C265568D65"
+            },
+            {
+              "startIndex": 5089,
+              "endIndex": 5314,
+              "uri": "https://journal.hcmue.edu.vn/index.php/hcmuejos/article/view/51/0"
+            },
+            {
+              "startIndex": 5352,
+              "endIndex": 5508,
+              "uri": "https://eber.uek.krakow.pl/index.php/eber/article/view/315"
+            },
+            {
+              "startIndex": 5573,
+              "endIndex": 5713,
+              "uri": "https://esquant.com.au/ct-menu-item-1/about-us/dr-ewa-sztendur/dr-ewa-sztendur-publications.html"
+            },
+            {
+              "startIndex": 6076,
+              "endIndex": 6209,
+              "uri": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1141620/epub?isPublishedV2=false"
+            },
+            {
+              "startIndex": 6115,
+              "endIndex": 6278,
+              "uri": "https://od.kubg.edu.ua/index.php/journal/article/view/1083"
+            },
+            {
+              "startIndex": 6296,
+              "endIndex": 6419,
+              "uri": "http://www.damitamajettedepm622.com/Participation-Module-4.php"
+            },
+            {
+              "startIndex": 6518,
+              "endIndex": 6692,
+              "uri": "https://ijmmu.com/index.php/ijmmu/article/view/6183"
+            },
+            {
+              "startIndex": 6749,
+              "endIndex": 6884,
+              "uri": "https://www.qualitymatters.org/sites/default/files/presentations/Plagiarism%20the%20devil%20is%20in%20the%20details%20.pptx"
+            },
+            {
+              "startIndex": 6909,
+              "endIndex": 7061,
+              "uri": "https://eera-ecer.de/ecer-programmes/conference/28/contribution/56078"
+            },
+            {
+              "startIndex": 6957,
+              "endIndex": 7095,
+              "uri": "https://www.ewadirect.com/proceedings/chr/article/view/15521"
+            },
+            {
+              "startIndex": 7124,
+              "endIndex": 7275,
+              "uri": "https://www.researchgate.net/profile/Nigel_Healey2/publication/282349695_Managing_International_Branch_Campuses_What_Do_We_Know/links/563259f808ae911fcd490c3f/Managing-International-Branch-Campuses-What-Do-We-Know"
+            }
+          ]
+        },
+        "avgLogprobs": -0.0012128592757859192
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2766,
+      "candidatesTokenCount": 2149,
+      "totalTokenCount": 4915,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2766
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2149
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "6ZxSaJT6FIuZhMIPlvTuyQY"
+  }
+}

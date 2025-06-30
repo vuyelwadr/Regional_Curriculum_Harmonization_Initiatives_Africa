@@ -1,0 +1,60 @@
+{
+  "response_id": 202,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:47:05.178223",
+  "metadata": {
+    "url": "https://dx.plos.org/10.1371/journal.pmed.1003092",
+    "final_url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003092",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Improving access to quality medicines in East Africa: An independent perspective on the East African Community Medicines Regulatory Harmonization initiative\",\n    \"authors\": [\n      \"Alexander R. Giaquinto\",\n      \"Alberto Grignolo\",\n      \"Lawrence Liberti\",\n      \"John C. W. Lim\",\n      \"Tomas Salmonson\",\n      \"Fernand Sauer\",\n      \"Henrietta Ukwu\"\n    ],\n    \"doi\": \"10.1371/journal.pmed.1003092\",\n    \"journal\": \"PLOS Medicine\",\n    \"year\": \"2020\",\n    \"abstract\": \"Alexander Giaquinto and co-authors discuss the East African Community's Medicines Regulatory Harmonization initiative.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003092\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.1003092&type=printable\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 96,
+              "endIndex": 245,
+              "uri": "https://www.duke-nus.edu.sg/core/about/news"
+            },
+            {
+              "startIndex": 558,
+              "endIndex": 681,
+              "uri": "https://typeset.io/topics/harmonization-1oqwqepj?paper_page=62"
+            }
+          ]
+        },
+        "avgLogprobs": -0.0007185113970518713
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2806,
+      "candidatesTokenCount": 397,
+      "totalTokenCount": 3203,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2806
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 397
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "JplSaOD2KZbrqsMPiOTvsQI"
+  }
+}

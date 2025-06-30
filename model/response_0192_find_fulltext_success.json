@@ -1,0 +1,54 @@
+{
+  "response_id": 192,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:46:05.790130",
+  "metadata": {
+    "url": "https://ieeexplore.ieee.org/document/9245191/",
+    "final_url": "https://ieeexplore.ieee.org/document/9245191/",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Harmonization of curriculum with the needs and requests of the Fourth Industrial Revolution: Case of Faculty of Economics and Business Rijeka\",\n    \"authors\": [],\n    \"doi\": \"10.1109/ICEIDT50746.2020.9245191\",\n    \"journal\": \"IEEE Conference Publication\",\n    \"year\": \"2020\",\n    \"abstract\": \"The Fourth Industrial Revolution and its disruptive technologies shape everyday life and future of society. They have and will have a significant impact not only on the economy, but on each area of human life. Higher education that prepares students for life and professional careers represents a vital part of each economy. It is impacted by the Fourth Industrial Revolution and its technologies. The objective of this research is to determine the level of curriculum harmonization at the Faculty of Economics and Business Rijeka with the needs and requests of the Fourth Industrial Revolution and predictions about the future needs of the labor market. The research data has been collected through questionnaires filled by students and the teaching staff at the Faculty of Economics and Business Rijeka. The results will reveal obstacles and possibilities to increase the level of harmonization.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://ieeexplore.ieee.org/document/9245191/\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": true,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 389,
+              "endIndex": 1285
+            }
+          ]
+        },
+        "avgLogprobs": -0.007307409930538821
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 4087,
+      "candidatesTokenCount": 385,
+      "totalTokenCount": 4472,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 4087
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 385
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "65hSaPCvF5rnqsMPzonmkA0"
+  }
+}

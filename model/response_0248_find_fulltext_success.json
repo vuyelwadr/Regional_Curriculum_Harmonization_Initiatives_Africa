@@ -1,0 +1,46 @@
+{
+  "response_id": 248,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:51:18.211461",
+  "metadata": {
+    "url": "https://japendi.publikasiindonesia.id/index.php/japendi/article/view/7657",
+    "final_url": "https://japendi.publikasiindonesia.id/index.php/japendi/article/view/7657",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"A Case Study on Teaching and Learning Writing Recount Text on Merdeka Curriculum at The Tenth Grade of The Students of TKJ 2 SMKN 1 Bantul in The Academic Year 2023/2024\",\n    \"authors\": [\n      \"Dian Awaliati\",\n      \"Dwi Bambang Putut Setyadi\",\n      \"Hersulastuti Hersulastuti\"\n    ],\n    \"doi\": \"10.59141/japendi.v6i4.7657\",\n    \"journal\": \"Jurnal Pendidikan Indonesia\",\n    \"year\": \"2025\",\n    \"abstract\": \"Writing is vital in English education, particularly for vocational school students who need practical communication abilities. This study explores the teaching and learning of recount text writing under the Merdeka Curriculum at SMKN 1 Bantul, where recount texts are used to enhance students’ narrative and linguistic skills. The research aims to investigate instructional strategies, student engagement, and curriculum implementation challenges in recount writing lessons. Using a qualitative case study design, data were collected through classroom observations, teacher and student interviews, and document analysis of lesson plans and syllabi. The findings reveal that the teacher employed structured guidance, multimedia resources, and collaborative tasks to facilitate learning. Although students participated actively, many struggled with grammar and vocabulary, which affected their writing proficiency. Instructional media like PowerPoint and videos enhanced understanding, yet individualized feedback and differentiated instruction were limited. Assessment relied primarily on group tasks and observation, lacking personalized evaluation mechanisms. These results suggest that while current strategies align with Merdeka Curriculum principles, improvements are needed in language support, feedback systems, and assessment frameworks. The study implies that integrating interactive, student-centered approaches with targeted grammar instruction and more individualized assessment can enhance the effectiveness of writing instruction in vocational settings. Future research is recommended to compare practices across schools to identify broader trends and best practices in implementing writing pedagogy under the Merdeka Curriculum.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://japendi.publikasiindonesia.id/index.php/japendi/article/download/7657/1838\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -7.35162336305188e-07
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2869,
+      "candidatesTokenCount": 553,
+      "totalTokenCount": 3422,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2869
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 553
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "I5pSaO2XBv6ShMIPm7P8iAY"
+  }
+}

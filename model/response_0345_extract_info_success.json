@@ -1,0 +1,45 @@
+{
+  "response_id": 345,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:00:28.977981",
+  "metadata": {
+    "apa_number": 224,
+    "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-27258-0_5.pdf",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://link.springer.com/content/pdf/10.1007/978-3-319-27258-0_5.pdf\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in Africa, specifically addressing the development of a regional qualifications framework (RQF) for higher education in East Africa. It discusses cross-border education and harmonization across institutions/countries within the East African Community (EAC). The paper mentions the EAC Protocol and the need for mutual recognition of qualifications.\",\n  \"Title\": \"Towards a Common Qualifications Framework for East African Higher Education\",\n  \"Authors\": [\n    \"Anne Marie DeLorenzo\",\n    \"Ignatius Mukama\",\n    \"Aloys Mutangadura\",\n    \"Jonathan Hughes\"\n  ],\n  \"Year\": \"2016\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Springer\",\n    \"DOI_URL\": \"https://doi.org/10.1007/978-3-319-27258-0_5\",\n    \"APA_Reference\": \"DeLorenzo, A. M., Mukama, I., Mutangadura, A., & Hughes, J. (2016). Towards a Common Qualifications Framework for East African Higher Education. In P. Blessinger & J. Anchan (Eds.), Transforming Higher Education Through Self-Assessment (pp. 67-83). Emerald Group Publishing Limited. https://doi.org/10.1007/978-3-319-27258-0_5\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Qualitative; Case study\",\n    \"Geographic_Focus\": \"East African Community (EAC)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not explicitly stated, but involves multiple stakeholders and institutions within the EAC.\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated, but implicitly draws on theories of regional integration and education policy.\",\n    \"Harmonization_Definition\": \"Harmonization is defined as the process of aligning higher education systems and qualifications across the EAC member states to facilitate mobility and recognition.\",\n    \"Regional_Initiatives\": [\n      \"East African Community (EAC) Protocol\",\n      \"Development of a Regional Qualifications Framework (RQF) for Higher Education\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Stakeholder consultations\",\n      \"Policy development\",\n      \"Capacity building\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Government officials\",\n      \"Higher education institutions\",\n      \"Quality assurance agencies\",\n      \"Employers\"\n    ],\n    \"Data_Sources\": [\n      \"Policy documents\",\n      \"Consultation reports\",\n      \"Expert interviews\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"The development of a regional qualifications framework (RQF) is crucial for harmonizing higher education in the EAC.\",\n      \"Stakeholder engagement is essential for the successful implementation of the RQF.\",\n      \"Capacity building is needed to support the implementation of the RQF.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Varying levels of development across EAC member states.\",\n      \"Differences in higher education systems.\",\n      \"Lack of resources.\"\n    ],\n    \"Success_Factors\": [\n      \"Political will.\",\n      \"Stakeholder collaboration.\",\n      \"Technical expertise.\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen stakeholder engagement.\",\n      \"Invest in capacity building.\",\n      \"Secure political commitment.\"\n    ],\n    \"Future_Research\": [\n      \"Further research is needed to assess the impact of the RQF on student mobility and graduate employability.\"\n    ],\n    \"Specific_Examples\": [\n      \"The paper provides examples of how the RQF can be used to facilitate credit transfer and mutual recognition of qualifications within the EAC.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Regional Qualifications Framework (RQF)\",\n      \"Stakeholder consultations\",\n      \"Policy development\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Varying levels of development\",\n      \"Differences in higher education systems\",\n      \"Lack of resources\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political will\",\n      \"Stakeholder collaboration\",\n      \"Technical expertise\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased student mobility\",\n      \"Improved graduate employability\",\n      \"Enhanced regional integration\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 638,
+      "candidatesTokenCount": 1088,
+      "totalTokenCount": 1726,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 638
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1088
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "RpxSaJjsEoqThMIPyoil0Qo"
+  }
+}

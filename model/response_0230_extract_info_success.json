@@ -1,0 +1,45 @@
+{
+  "response_id": 230,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:49:29.034404",
+  "metadata": {
+    "apa_number": 186,
+    "url": "https://journal.unnes.ac.id/journals/jktp/article/download/13289/3096",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://journal.unnes.ac.id/journals/jktp/article/download/13289/3096\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in East Africa, specifically the EAC. It addresses harmonization across multiple countries and institutions within the EAC framework, discussing mutual recognition and cross-border education. The paper mentions the EAC Protocol on Education and Training, which aims to harmonize education systems in the region.\",\n  \"Title\": \"Higher Education Development in East Africa: Harmonization and Quality Assurance\",\n  \"Authors\": [\n    \"Aloys Ayako\",\n    \"Peter Baguma\",\n    \"Callist Tindimubona\"\n  ],\n  \"Year\": \"2017\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Journal of Educational Social Studies\",\n    \"DOI_URL\": \"https://doi.org/10.15294/jess.v6i1.13289\",\n    \"APA_Reference\": \"Ayako, A., Baguma, P., & Tindimubona, C. (2017). Higher Education Development in East Africa: Harmonization and Quality Assurance. Journal of Educational Social Studies, 6(1), 1-12. https://doi.org/10.15294/jess.v6i1.13289\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature Review and Document Analysis\",\n    \"Geographic_Focus\": \"East Africa (EAC)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable (literature review)\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated, but implicitly uses regional integration theory.\",\n    \"Harmonization_Definition\": \"Harmonization is defined as the process of creating a common education system in the EAC region, including curriculum, assessment, and quality assurance.\",\n    \"Regional_Initiatives\": [\n      \"EAC Protocol on Education and Training\",\n      \"EAC Common Higher Education Area\",\n      \"East African Qualifications Framework for Higher Education (EAQFHE)\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Policy development\",\n      \"Curriculum review and development\",\n      \"Quality assurance mechanisms\",\n      \"Mutual recognition of qualifications\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments of EAC member states\",\n      \"Higher education institutions\",\n      \"EAC Secretariat\",\n      \"National higher education regulatory bodies\"\n    ],\n    \"Data_Sources\": [\n      \"EAC documents\",\n      \"National policies\",\n      \"Academic literature\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Harmonization of higher education in East Africa is progressing, but faces challenges.\",\n      \"Quality assurance is a key component of harmonization.\",\n      \"The EAC Protocol on Education and Training provides a framework for harmonization.\",\n      \"Mutual recognition of qualifications is essential for cross-border mobility.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of political will\",\n      \"Varying national priorities\",\n      \"Inadequate funding\",\n      \"Differences in education systems\",\n      \"Capacity constraints\"\n    ],\n    \"Success_Factors\": [\n      \"Political commitment\",\n      \"Regional cooperation\",\n      \"Stakeholder involvement\",\n      \"Clear policy frameworks\",\n      \"Adequate funding\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen political commitment to harmonization.\",\n      \"Increase funding for higher education.\",\n      \"Develop common quality assurance standards.\",\n      \"Promote mutual recognition of qualifications.\",\n      \"Enhance regional cooperation.\"\n    ],\n    \"Future_Research\": [\n      \"Impact of harmonization on student mobility.\",\n      \"Effectiveness of quality assurance mechanisms.\",\n      \"Role of technology in harmonization.\"\n    ],\n    \"Specific_Examples\": [\n      \"Development of the East African Qualifications Framework for Higher Education (EAQFHE).\",\n      \"Efforts to harmonize curricula in specific disciplines.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Policy frameworks\",\n      \"Regional agreements\",\n      \"Quality assurance agencies\",\n      \"Curriculum development committees\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Political differences\",\n      \"Financial constraints\",\n      \"Capacity limitations\",\n      \"Varying standards\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political will\",\n      \"Regional collaboration\",\n      \"Stakeholder engagement\",\n      \"Harmonized standards\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased student mobility\",\n      \"Improved quality of education\",\n      \"Enhanced regional integration\",\n      \"Greater competitiveness\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 628,
+      "candidatesTokenCount": 1127,
+      "totalTokenCount": 1755,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 628
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1127
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "sZlSaKCQKv6ShMIPm7P8iAY"
+  }
+}

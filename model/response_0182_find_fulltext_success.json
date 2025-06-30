@@ -1,0 +1,68 @@
+{
+  "response_id": 182,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:45:05.783474",
+  "metadata": {
+    "url": "https://jecs.pl/index.php/jecs/article/view/1543",
+    "final_url": "https://jecs.pl/index.php/jecs/article/view/1543",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Towards Authentic African Higher Education based on African Epistemology\",\n    \"authors\": [\n      \"Angelo Nicolaides\",\n      \"Jean Steyn\"\n    ],\n    \"doi\": \"10.15503/jecs2023.2.116.128\",\n    \"journal\": \"Journal of Education Culture and Society\",\n    \"year\": \"2023\",\n    \"abstract\": \"Aim. The purpose of this article is to challenge the notion that a largely Eurocentric education is the best one for African universities. It is not by any means suggested that Eurocentric notions should be discounted, but rather that African education should be devoid of any form of subordination and be allowed to assume its rightful equal place and space, in an interconnected global education arena alongside a range of epistemologies and ontologies.\\nMethods. A literature review was conducted on the topic and the researchers surveyed scholarly articles, books, and other sources relevant to the area of research.\\u00a0The review conducted to a lesser or greater extent enumerates, describes, summarizes, issues relating to the theme.\\nResults. Knowledge should be sought for its value to communities through individuals and it should perpetually produce sensible, empathetic, and responsible citizens. African education must inter alia reflect a multiplicity of perspectives and notions that are grounded on local knowledge.\\nConclusion. The existing form of Eurocentric university education in Africa certainly has defects when viewed Afro-centrically.\\nOriginality. Decades after the demise of colonialism [if it has in fact ended], African universities still embrace a Eurocentric epistemological paradigm and are for the most part consciously or unconsciously disparaging or ignoring Indigenous African knowledge systems. This is far from liberating, and it is argued in a novel way that what is required is a vigorous promotion of African scholarship which is infused with African values, philosophies and knowledge that can also be promoted to our erstwhile colonisers and others.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://jecs.pl/index.php/jecs/article/download/1543/1321\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 378,
+              "endIndex": 827
+            },
+            {
+              "startIndex": 844,
+              "endIndex": 990,
+              "uri": "https://bibliotekanauki.pl/articles/18766204"
+            },
+            {
+              "startIndex": 1130,
+              "endIndex": 1408,
+              "uri": "https://bibliotekanauki.pl/articles/18766204"
+            },
+            {
+              "startIndex": 1554,
+              "endIndex": 2069
+            }
+          ]
+        },
+        "avgLogprobs": -0.0016586721920576252
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2645,
+      "candidatesTokenCount": 549,
+      "totalTokenCount": 3194,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2645
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 549
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "rphSaN2sGpbrqsMPiOTvsQI"
+  }
+}

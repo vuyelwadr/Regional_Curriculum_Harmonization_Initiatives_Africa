@@ -1,0 +1,55 @@
+{
+  "response_id": 162,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:43:04.653613",
+  "metadata": {
+    "url": "https://haqaa3.obreal.org/discussing-recognition-harmonisation-and-new-approaches-to-teaching-and-learning-in-african-higher-education/",
+    "final_url": "https://haqaa3.obreal.org/discussing-recognition-harmonisation-and-new-approaches-to-teaching-and-learning-in-african-higher-education/",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Discussing Recognition, Harmonisation and transformative approaches to Teaching and Learning in African Higher Education\",\n    \"authors\": [\n      \"Georgina Boixereu\"\n    ],\n    \"doi\": null,\n    \"journal\": \"HAQAA3\",\n    \"year\": \"2023\",\n    \"abstract\": null\n  },\n  \"fulltext_links\": [],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 96,
+              "endIndex": 224,
+              "uri": "https://haqaa3.obreal.org/category/news/feed/"
+            }
+          ]
+        },
+        "avgLogprobs": -6.406679866636325e-05
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3048,
+      "candidatesTokenCount": 159,
+      "totalTokenCount": 3207,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3048
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 159
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "NphSaInvPLPQhMIP372DoQ0"
+  }
+}

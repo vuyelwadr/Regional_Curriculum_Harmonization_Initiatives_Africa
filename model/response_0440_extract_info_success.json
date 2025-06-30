@@ -1,0 +1,45 @@
+{
+  "response_id": 440,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:09:19.387200",
+  "metadata": {
+    "apa_number": 304,
+    "url": "https://teachertaskforce.org/sites/default/files/2024-05/2024_Mitchell-et-al_Teacher-professional-development-in-Africa_EN.pdf",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://teachertaskforce.org/sites/default/files/2024-05/2024_Mitchell-et-al_Teacher-professional-development-in-Africa_EN.pdf\",\n  \"MATCHES_CRITERIA\": false,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on teacher professional development across Africa, but it does not specifically address regional curriculum harmonization initiatives. While it mentions various countries and contexts, the focus is on national-level policies and practices rather than cross-border or regional harmonization efforts. There is no mention of regional frameworks, cross-border education, mutual recognition, credit transfer systems, or regional qualifications frameworks.\",\n  \"Title\": \"Teacher professional development in Africa: Synthesis report\",\n  \"Authors\": [\n    \"Mitchell, A.\",\n    \"Akyeampong, K.\",\n    \"Dachi, H. A.\",\n    \"Kinyanjui, P.\",\n    \"Onsomu, E.\",\n    \"Oduor, A.\",\n    \"Oketch, M.\",\n    \"Pryor, J.\",\n    \"Rose, P.\",\n    \"Unterhalter, E.\"\n  ],\n  \"Year\": \"2024\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 644,
+      "candidatesTokenCount": 279,
+      "totalTokenCount": 923,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 644
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 279
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "XZ5SaOqIA-iChMIP-ufFUQ"
+  }
+}

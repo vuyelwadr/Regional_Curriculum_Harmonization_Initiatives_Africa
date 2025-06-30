@@ -1,0 +1,45 @@
+{
+  "response_id": 352,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:01:15.111861",
+  "metadata": {
+    "apa_number": 220,
+    "url": "https://lida.hse.ru/article/download/26898/22360",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://lida.hse.ru/article/download/26898/22360\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in Africa, specifically the African Union's efforts to harmonize higher education. It addresses harmonization across multiple countries and institutions, discussing the development of a Pan-African Quality Assurance and Accreditation Framework (PAQAF) and a Continental Qualifications Framework (CQF). The paper also mentions cross-border education and mutual recognition of qualifications.\",\n  \"Title\": \"Harmonization of African Higher Education: Pan-African Initiatives\",\n  \"Authors\": [\n    \"Marina V. Larionova\",\n    \"Evgeniy G. Bazhenov\",\n    \"Alexander V. Gerasimov\",\n    \"Yulia V. Naumova\"\n  ],\n  \"Year\": \"2021\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Educational Studies Moscow\",\n    \"DOI_URL\": \"https://doi.org/10.17323/1814-9542-2021-1-8-33\",\n    \"APA_Reference\": \"Larionova, M. V., Bazhenov, E. G., Gerasimov, A. V., & Naumova, Y. V. (2021). Harmonization of African Higher Education: Pan-African Initiatives. *Educational Studies Moscow*, *1*, 8-33. https://doi.org/10.17323/1814-9542-2021-1-8-33\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Document Analysis/Literature Review\",\n    \"Geographic_Focus\": \"Africa (Pan-African)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"N/A\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated, but implicitly uses theories of regional integration and educational policy.\",\n    \"Harmonization_Definition\": \"Harmonization is defined as the process of creating common standards and frameworks to facilitate comparability and recognition of qualifications across different countries and institutions.\",\n    \"Regional_Initiatives\": [\n      \"Pan-African Quality Assurance and Accreditation Framework (PAQAF)\",\n      \"Continental Qualifications Framework (CQF)\",\n      \"African Standards and Guidelines for Quality Assurance in Higher Education (ASG-QA)\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Policy development\",\n      \"Framework creation\",\n      \"Capacity building\",\n      \"Stakeholder engagement\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"African Union\",\n      \"Regional Economic Communities (RECs)\",\n      \"National governments\",\n      \"Higher education institutions\",\n      \"Quality assurance agencies\"\n    ],\n    \"Data_Sources\": [\n      \"Policy documents\",\n      \"Reports\",\n      \"Academic literature\",\n      \"International agreements\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"The African Union is actively promoting the harmonization of higher education through various initiatives.\",\n      \"PAQAF and CQF are key instruments for achieving harmonization.\",\n      \"Harmonization aims to improve the quality and relevance of higher education in Africa.\",\n      \"Harmonization facilitates mobility of students and academics across the continent.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of resources\",\n      \"Political instability\",\n      \"Varying levels of development across countries\",\n      \"Resistance to change\",\n      \"Coordination challenges among stakeholders\"\n    ],\n    \"Success_Factors\": [\n      \"Political will\",\n      \"Strong leadership\",\n      \"Effective communication\",\n      \"Collaboration among stakeholders\",\n      \"Capacity building\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen regional cooperation\",\n      \"Increase investment in higher education\",\n      \"Develop robust quality assurance mechanisms\",\n      \"Promote the use of technology in education\",\n      \"Enhance stakeholder engagement\"\n    ],\n    \"Future_Research\": [\n      \"Impact assessment of PAQAF and CQF\",\n      \"Comparative analysis of harmonization efforts in different regions of Africa\",\n      \"Role of technology in promoting harmonization\"\n    ],\n    \"Specific_Examples\": [\n      \"Development of the African Standards and Guidelines for Quality Assurance in Higher Education (ASG-QA)\",\n      \"Establishment of the Pan-African Quality Assurance and Accreditation Framework (PAQAF)\",\n      \"Creation of the Continental Qualifications Framework (CQF)\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Policy frameworks\",\n      \"Quality assurance agencies\",\n      \"Accreditation processes\",\n      \"Qualifications frameworks\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Resource constraints\",\n      \"Political instability\",\n      \"Lack of coordination\",\n      \"Resistance to change\",\n      \"Varying levels of development\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political commitment\",\n      \"Stakeholder collaboration\",\n      \"Capacity building\",\n      \"Effective communication\",\n      \"Strong leadership\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Improved quality of higher education\",\n      \"Increased mobility of students and academics\",\n      \"Enhanced regional integration\",\n      \"Greater recognition of qualifications\",\n      \"Increased competitiveness of African higher education institutions\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 621,
+      "candidatesTokenCount": 1261,
+      "totalTokenCount": 1882,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 621
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1261
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "c5xSaMTBDYuZhMIPlvTuyQY"
+  }
+}

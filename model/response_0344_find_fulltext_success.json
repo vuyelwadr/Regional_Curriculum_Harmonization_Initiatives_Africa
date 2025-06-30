@@ -1,0 +1,63 @@
+{
+  "response_id": 344,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:00:26.269272",
+  "metadata": {
+    "url": "https://link.springer.com/article/10.1007/s41297-023-00223-w",
+    "final_url": "https://link.springer.com/article/10.1007/s41297-023-00223-w",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Community voices in curriculum development\",\n    \"authors\": [\n      \"Kofi Nkonkonya Mpuangnan\",\n      \"Sithabile Ntombela\"\n    ],\n    \"doi\": \"10.1007/s41297-023-00223-w\",\n    \"journal\": \"Curriculum Perspectives\",\n    \"year\": \"2023\",\n    \"abstract\": \"The study aimed at incorporating community voices in curriculum development to achieve broader educational goals. Therefore, the significance of community-based knowledge and perspectives in shaping curriculum development was explored by following the Social Reconstructionist Model (SRM) developed by George Counts in the 1930s. The following questions were addressed; How effectively can community-based knowledge contribute to the enhancement of curriculum development? What approaches can be employed to develop a culturally relevant curriculum? To conduct the study, the researchers conducted a systematic literature review, and extracted data from various databases such as Scopus, WoS, IBSS, and DOAJ. Inclusion and exclusion criteria of article selection were applied by using search terms. The search criteria yielded 58 articles, books, and reports published between 1978 and 2023. Through a comprehensive analysis, the findings were categorized into emerging themes. The results demonstrated that community-based knowledge was relevant in facilitating curriculum development through other approaches like community engagement and community needs assessment. The community needs assessment process was shown to enhance curriculum quality, learner engagement, and educational outcomes. Additionally, embracing cultural diversity was identified as a valuable approach to developing a culturally responsive curriculum. Based on the findings, it was recommended that the active involvement of community members be prioritized to incorporate their knowledge, expertise, and perspectives throughout the curriculum development process.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://link.springer.com/content/pdf/10.1007/s41297-023-00223-w.pdf\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://link.springer.com/article/10.1007/s41297-023-00223-w\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 346,
+              "endIndex": 770
+            },
+            {
+              "startIndex": 655,
+              "endIndex": 914,
+              "uri": "https://paperity.org/p/313639766/community-voices-in-curriculum-development"
+            },
+            {
+              "startIndex": 795,
+              "endIndex": 1977
+            }
+          ]
+        },
+        "avgLogprobs": -0.0007184084935403949
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2812,
+      "candidatesTokenCount": 597,
+      "totalTokenCount": 3409,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2812
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 597
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "RpxSaM6hN7qFsbQPqNrRqAQ"
+  }
+}

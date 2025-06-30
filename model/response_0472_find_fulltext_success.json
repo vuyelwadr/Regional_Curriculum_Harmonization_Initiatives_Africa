@@ -1,0 +1,46 @@
+{
+  "response_id": 472,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:12:12.290657",
+  "metadata": {
+    "url": "https://www.academia.edu/49088540/Pan_African_Health_Informatics_Association_HELINA_",
+    "final_url": "https://www.academia.edu/49088540/Pan_African_Health_Informatics_Association_HELINA_",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Pan African Health Informatics Association (HELINA)\",\n    \"authors\": [\n      \"Kagiso ndlovu\"\n    ],\n    \"doi\": \"10.1055/S-0040-1701967\",\n    \"journal\": \"Yearbook of Medical Informatics\",\n    \"year\": \"2021\",\n    \"abstract\": null\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://www.academia.edu/49088540/Pan_African_Health_Informatics_Association_HELINA_\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [\n    \"academia\"\n  ],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.0006205850717972736
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3460,
+      "candidatesTokenCount": 245,
+      "totalTokenCount": 3705,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3460
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 245
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "Cp9SaOaUJ5rnqsMPzonmkA0"
+  }
+}

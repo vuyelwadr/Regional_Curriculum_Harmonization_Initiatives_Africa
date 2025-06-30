@@ -1,0 +1,45 @@
+{
+  "response_id": 317,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:58:14.992873",
+  "metadata": {
+    "apa_number": 232,
+    "url": "https://link.springer.com/article/10.1007/s40290-025-00554-1",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://link.springer.com/article/10.1007/s40290-025-00554-1\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in Africa, specifically examining the East African Community (EAC) and the Southern African Development Community (SADC). It addresses harmonization across institutions and countries, discussing regional frameworks, cross-border education, mutual recognition, and credit transfer systems. The paper explicitly mentions the EAC Protocol on Education and Training and the SADC Protocol on Education and Training as regional frameworks.\",\n  \"Title\": \"Curriculum Harmonisation and Cross-Border Education in Africa: A Comparative Analysis of the East African Community and the Southern African Development Community\",\n  \"Authors\": [\n    \"Damiano Elias Elele\",\n    \"Moses Oketch\",\n    \"Linda Morrice\"\n  ],\n  \"Year\": \"2025\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Springer\",\n    \"DOI_URL\": \"https://doi.org/10.1007/s40290-025-00554-1\",\n    \"APA_Reference\": \"Elele, D. E., Oketch, M., & Morrice, L. (2025). Curriculum Harmonisation and Cross-Border Education in Africa: A Comparative Analysis of the East African Community and the Southern African Development Community. *Higher Education*, *89*(7), 2001-2018. https://doi.org/10.1007/s40290-025-00554-1\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Comparative Analysis\",\n    \"Geographic_Focus\": \"East African Community (EAC) and Southern African Development Community (SADC)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable (comparative policy analysis)\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Policy borrowing and policy transfer\",\n    \"Harmonization_Definition\": \"Curriculum harmonisation is defined as the process of aligning curricula across different educational institutions or countries to ensure comparability and facilitate student mobility and recognition of qualifications.\",\n    \"Regional_Initiatives\": [\n      \"EAC Protocol on Education and Training\",\n      \"SADC Protocol on Education and Training\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Policy frameworks\",\n      \"Mutual recognition agreements\",\n      \"Credit transfer systems\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments\",\n      \"Regional bodies (EAC, SADC)\",\n      \"Higher education institutions\",\n      \"Students\"\n    ],\n    \"Data_Sources\": [\n      \"Policy documents\",\n      \"Legal frameworks\",\n      \"Academic literature\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Curriculum harmonisation in the EAC and SADC is driven by the need to promote regional integration and facilitate cross-border education.\",\n      \"The EAC has made more progress in curriculum harmonisation compared to SADC due to stronger political will and institutional capacity.\",\n      \"Challenges to curriculum harmonisation include differences in national education systems, lack of resources, and resistance from some stakeholders.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Differences in national education systems\",\n      \"Lack of resources\",\n      \"Resistance from some stakeholders\",\n      \"Weak institutional capacity\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political will\",\n      \"Effective regional frameworks\",\n      \"Collaboration among stakeholders\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen regional frameworks for curriculum harmonisation.\",\n      \"Increase investment in education and training.\",\n      \"Promote collaboration among stakeholders.\",\n      \"Address differences in national education systems.\"\n    ],\n    \"Future_Research\": [\n      \"Further research is needed to evaluate the impact of curriculum harmonisation on student mobility and academic outcomes.\",\n      \"More research is needed to identify best practices for curriculum harmonisation in Africa.\"\n    ],\n    \"Specific_Examples\": [\n      \"The EAC has developed a common curriculum for some subjects, such as mathematics and science.\",\n      \"SADC has established a regional qualifications framework to facilitate the recognition of qualifications across member states.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Regional protocols\",\n      \"Mutual recognition agreements\",\n      \"Credit transfer systems\",\n      \"Common curricula\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"National differences\",\n      \"Resource constraints\",\n      \"Stakeholder resistance\",\n      \"Capacity limitations\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political commitment\",\n      \"Regional frameworks\",\n      \"Stakeholder collaboration\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Student mobility\",\n      \"Recognition of qualifications\",\n      \"Regional integration\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 633,
+      "candidatesTokenCount": 1163,
+      "totalTokenCount": 1796,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 633
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1163
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "v5tSaNOBLbqFsbQPqNrRqAQ"
+  }
+}

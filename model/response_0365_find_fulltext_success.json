@@ -1,0 +1,46 @@
+{
+  "response_id": 365,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:02:24.433613",
+  "metadata": {
+    "url": "https://doi.org/10.38159/ehass.20245158",
+    "final_url": "https://noyam.org/ehass20245158/",
+    "attempt": 2,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Towards Sustainable Preservation: Revitalising Indigenous African Instruments and Craftsmanship\",\n    \"authors\": [\n      \"Ntshengedzeni Evans Netshivhambe\"\n    ],\n    \"doi\": \"10.38159/ehass.20245158\",\n    \"journal\": \"Noyam Journals\",\n    \"year\": \"2024\",\n    \"abstract\": \"This study addresses a critical gap in the scholarship of indigenous African music by shifting the focus from preventing the extinction of musical traditions to ensuring the sustainability of indigenous African instruments within academic frameworks\"\n  },\n  \"fulltext_links\": [],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.002103362564749561
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3170,
+      "candidatesTokenCount": 213,
+      "totalTokenCount": 3383,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3170
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 213
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "v5xSaPbQBeiChMIP-ufFUQ"
+  }
+}

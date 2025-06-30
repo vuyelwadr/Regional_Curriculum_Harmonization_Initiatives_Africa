@@ -1,0 +1,75 @@
+{
+  "response_id": 187,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:45:18.226420",
+  "metadata": {
+    "url": "https://dx.plos.org/10.1371/journal.pgph.0001651",
+    "final_url": "https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0001651",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Best practices in the African Medicines Regulatory Harmonization initiative: Perspectives of regulators and medicines manufacturers\",\n    \"authors\": [\n      \"Margareth Ndomondo-Sigonda\",\n      \"Samvel Azatyan\",\n      \"Petra Doerr\",\n      \"Collins Agaba\",\n      \"Kristin N. Harper\"\n    ],\n    \"doi\": \"10.1371/journal.pgph.0001651\",\n    \"journal\": \"PLOS Global Public Health\",\n    \"year\": \"2023\",\n    \"abstract\": \"In the African Medicines Regulatory Harmonization initiative, national regulatory authorities (NRAs) within each of Africa&rsquo;s regional economic communities coordinate their activities, rely on the work of one another and other trusted regulatory authorities, and apply other principles of smart regulation. The first regional medicines regulatory harmonization (MRH) initiative in Africa was launched in 2012, with the goal of accelerating access to quality, safe, effective medical products, and now five MRH initiatives are active on the continent. Thus, a wealth of knowledge regarding best practices and approaches to dealing with common challenges has accumulated. The goal of this qualitative study was to gather and share information on these best practices. To do this, we conducted interviews with key participants from four regional MRH initiatives&mdash;the East African Community (EAC), Southern African Development Community (SADC), Economic Community of West African States (ECOWAS), and Intergovernmental Authority on Development (IGAD)&mdash;as well as representatives from the pharmaceutical industry. Here we explore major themes that emerged from the interviews: 1. Transparency and reliability are critical; 2. Reliance is essential for smart regulation; 3. Multiple successful strategies for NRA capacity building have been identified; 4. Communication between heads of agencies is essential; 5. Cooperation at the regional level is not possible without leadership at the NRA level; 6. Sustainable funding remains challenging; and 7. Industry has important insights. We hope that the information on best practices shared in this article can benefit regional MRH initiatives inside and outside of Africa, ultimately helping them accelerate access to quality, safe, effective medical products.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0001651\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://journals.plos.org/globalpublichealth/article/file?id=10.1371/journal.pgph.0001651&type=printable\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [\n    \"gold\"\n  ],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 96,
+              "endIndex": 222,
+              "uri": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2024.1467229/epub"
+            },
+            {
+              "startIndex": 508,
+              "endIndex": 631,
+              "uri": "https://pubmed.ncbi.nlm.nih.gov/37186241/"
+            },
+            {
+              "startIndex": 637,
+              "endIndex": 1364,
+              "uri": "https://pubmed.ncbi.nlm.nih.gov/37186241/"
+            },
+            {
+              "startIndex": 1378,
+              "endIndex": 1555,
+              "uri": "https://pubmed.ncbi.nlm.nih.gov/37186241/"
+            },
+            {
+              "startIndex": 1571,
+              "endIndex": 2319,
+              "uri": "https://pubmed.ncbi.nlm.nih.gov/37186241/"
+            }
+          ]
+        },
+        "avgLogprobs": -0.0016571928915116712
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2385,
+      "candidatesTokenCount": 698,
+      "totalTokenCount": 3083,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2385
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 698
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "uphSaMGYHaiUsbQPmK3KkQI"
+  }
+}

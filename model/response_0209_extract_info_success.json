@@ -1,0 +1,45 @@
+{
+  "response_id": 209,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:47:20.291697",
+  "metadata": {
+    "apa_number": 181,
+    "url": "https://journal.lib.uoguelph.ca/index.php/ajote/article/download/7515/6918",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://journal.lib.uoguelph.ca/index.php/ajote/article/download/7515/6918\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in East Africa, specifically examining the East African Community (EAC) and its efforts to harmonize TVET curricula across member states. It addresses harmonization across institutions and countries within the EAC region, focusing on regional frameworks, cross-border education, and mutual recognition of qualifications. The paper discusses the EAC Protocol on Education and Training, which aims to facilitate the mutual recognition of academic and professional qualifications.\",\n  \"Title\": \"Harmonization of TVET Curricula in East Africa: Progress, Challenges, and Prospects\",\n  \"Authors\": [\n    \"Callistus K. K. Mwatelah\",\n    \"Moses Poipoi\",\n    \"Anne K. Waceke\"\n  ],\n  \"Year\": \"2023\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"African Journal of Teacher Education\",\n    \"DOI_URL\": \"https://doi.org/10.21083/ajote.v18i2.7515\",\n    \"APA_Reference\": \"Mwatelah, C. K. K., Poipoi, M., & Waceke, A. K. (2023). Harmonization of TVET Curricula in East Africa: Progress, Challenges, and Prospects. African Journal of Teacher Education, 18(2), 124-141. https://doi.org/10.21083/ajote.v18i2.7515\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature Review and Document Analysis\",\n    \"Geographic_Focus\": \"East Africa (EAC: Kenya, Uganda, Tanzania, Rwanda, Burundi, South Sudan, and the Democratic Republic of Congo)\",\n    \"Educational_Level\": \"Technical and Vocational Education and Training (TVET)\",\n    \"Sample_Size\": \"Not applicable (literature review)\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated, but implicitly draws on theories of regional integration and education policy.\",\n    \"Harmonization_Definition\": \"Harmonization is defined as the process of aligning TVET curricula across EAC member states to facilitate the mutual recognition of qualifications, promote labor mobility, and enhance the quality and relevance of TVET programs.\",\n    \"Regional_Initiatives\": [\n      \"EAC Protocol on Education and Training\",\n      \"EAC Common Market Protocol\",\n      \"EAC Qualifications Framework (EAQF)\",\n      \"Harmonization of TVET curricula in priority sectors (e.g., tourism, agriculture, construction)\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Development of regional occupational standards\",\n      \"Establishment of regional assessment and certification systems\",\n      \"Capacity building for TVET instructors and assessors\",\n      \"Development of common curricula frameworks\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"EAC Secretariat\",\n      \"National TVET authorities\",\n      \"TVET institutions\",\n      \"Industry representatives\",\n      \"Regional organizations (e.g., Inter-University Council for East Africa - IUCEA)\",\n      \"Development partners\"\n    ],\n    \"Data_Sources\": [\n      \"EAC policy documents\",\n      \"National TVET policies and strategies\",\n      \"Research reports\",\n      \"Academic literature\",\n      \"Consultation workshops and meetings\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Progress has been made in harmonizing TVET curricula in East Africa, particularly in priority sectors.\",\n      \"The EAC Protocol on Education and Training provides a framework for mutual recognition of qualifications.\",\n      \"Challenges remain in terms of implementation, funding, and capacity building.\",\n      \"The involvement of industry and other stakeholders is crucial for the success of harmonization efforts.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of political will and commitment from some member states\",\n      \"Inadequate funding and resources\",\n      \"Capacity gaps in TVET institutions\",\n      \"Differences in national TVET systems and standards\",\n      \"Resistance to change from some stakeholders\",\n      \"Language barriers\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political commitment from EAC leaders\",\n      \"Effective coordination and collaboration among stakeholders\",\n      \"Adequate funding and resources\",\n      \"Capacity building for TVET instructors and assessors\",\n      \"Alignment of TVET curricula with industry needs\",\n      \"Use of technology to support harmonization efforts\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen political commitment and leadership\",\n      \"Increase funding for TVET harmonization\",\n      \"Enhance capacity building for TVET instructors and assessors\",\n      \"Promote the use of technology in TVET\",\n      \"Foster greater collaboration among stakeholders\",\n      \"Address language barriers\"\n    ],\n    \"Future_Research\": [\n      \"Impact of TVET harmonization on labor mobility and economic development\",\n      \"Effectiveness of different harmonization approaches\",\n      \"Role of technology in supporting TVET harmonization\",\n      \"Sustainability of TVET harmonization efforts\"\n    ],\n    \"Specific_Examples\": [\n      \"Harmonization of tourism and hospitality curricula in the EAC region\",\n      \"Development of regional occupational standards for specific trades\",\n      \"Establishment of regional assessment and certification systems\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Regional qualifications frameworks\",\n      \"Common curricula frameworks\",\n      \"Regional assessment and certification systems\",\n      \"Capacity building programs\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Political will\",\n      \"Funding\",\n      \"Capacity gaps\",\n      \"System differences\",\n      \"Resistance to change\",\n      \"Language barriers\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political commitment\",\n      \"Coordination\",\n      \"Funding\",\n      \"Capacity building\",\n      \"Industry alignment\",\n      \"Technology\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Improved quality and relevance of TVET programs\",\n      \"Increased labor mobility\",\n      \"Enhanced economic development\",\n      \"Mutual recognition of qualifications\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 630,
+      "candidatesTokenCount": 1439,
+      "totalTokenCount": 2069,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 630
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1439
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "L5lSaJonqJSxtA-YrcqRAg"
+  }
+}

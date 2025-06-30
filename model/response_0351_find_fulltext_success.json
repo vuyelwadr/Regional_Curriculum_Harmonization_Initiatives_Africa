@@ -1,0 +1,55 @@
+{
+  "response_id": 351,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:01:14.358192",
+  "metadata": {
+    "url": "https://my.chartered.college/african-education-research-database/",
+    "final_url": "https://my.chartered.college/african-education-research-database/",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"African Education Research Database : My College\",\n    \"authors\": [\n      \"CCT Admin\"\n    ],\n    \"doi\": null,\n    \"journal\": \"My College\",\n    \"year\": \"2022\",\n    \"abstract\": \"The online African Education Research Database (AERD) has been developed by the Research for Equitable Access and Learning (REAL) Centre at the University of Cambridge, in partnership with ESSA. The database aims to raise the visibility of African research, consolidate the evidence base for policy and practice, and inform future research priorities and partnerships. The AERD is [&hellip;]\"\n  },\n  \"fulltext_links\": [],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 409,
+              "endIndex": 652,
+              "uri": "https://my.chartered.college/african-education-research-database/"
+            }
+          ]
+        },
+        "avgLogprobs": -0.0022545626404088573
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3242,
+      "candidatesTokenCount": 218,
+      "totalTokenCount": 3460,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3242
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 218
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "eJxSaN2BO4qThMIPyoil0Qo"
+  }
+}

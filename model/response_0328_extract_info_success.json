@@ -1,0 +1,45 @@
+{
+  "response_id": 328,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:59:11.569590",
+  "metadata": {
+    "apa_number": 257,
+    "url": "https://papers.academic-conferences.org/index.php/icer/article/download/3184/2854",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://papers.academic-conferences.org/index.php/icer/article/download/3184/2854\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in East Africa, specifically the EAC. It addresses harmonization across institutions and countries within the EAC framework, mentioning cross-border education and regional qualifications frameworks. The paper discusses the harmonization of curricula in higher education across multiple East African countries.\",\n  \"Title\": \"Curriculum Harmonisation in East Africa: A Review of the Literature\",\n  \"Authors\": [\n    \"Pamela Ochieng Okello\",\n    \"Beatrice I. Odera\",\n    \"Anne Nangulu\"\n  ],\n  \"Year\": \"2019\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"The International Conference on Education and Research\",\n    \"DOI_URL\": \"https://doi.org/10.34190/ICER.19.048\",\n    \"APA_Reference\": \"Okello, P. O., Odera, B. I., & Nangulu, A. (2019). Curriculum Harmonisation in East Africa: A Review of the Literature. The International Conference on Education and Research. https://doi.org/10.34190/ICER.19.048\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature Review\",\n    \"Geographic_Focus\": \"East Africa (EAC)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"N/A (Literature Review)\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated, but implicitly uses regional integration theory.\",\n    \"Harmonization_Definition\": \"The paper defines curriculum harmonization as a process of aligning curricula across different institutions or countries to ensure comparability and facilitate student mobility.\",\n    \"Regional_Initiatives\": [\n      \"East African Community (EAC) Protocol on Education\",\n      \"EAC Common Higher Education Area\",\n      \"Harmonization of engineering programs\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Development of common curricula\",\n      \"Establishment of quality assurance mechanisms\",\n      \"Mutual recognition of qualifications\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Universities\",\n      \"National governments\",\n      \"Regional bodies (EAC Secretariat)\",\n      \"Quality assurance agencies\"\n    ],\n    \"Data_Sources\": [\n      \"Academic literature\",\n      \"Policy documents\",\n      \"Reports from regional organizations\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Curriculum harmonization in East Africa is driven by the need to promote regional integration and enhance the quality and relevance of higher education.\",\n      \"Significant progress has been made in harmonizing curricula in some fields, such as engineering, but challenges remain in other areas.\",\n      \"The EAC Protocol on Education provides a framework for curriculum harmonization, but its implementation has been uneven across member states.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of political will\",\n      \"Inadequate funding\",\n      \"Differences in national education systems\",\n      \"Resistance from some universities\",\n      \"Varying levels of infrastructure and resources\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political commitment\",\n      \"Adequate funding\",\n      \"Effective coordination among stakeholders\",\n      \"Development of clear standards and guidelines\",\n      \"Capacity building for universities\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen political commitment to curriculum harmonization\",\n      \"Increase funding for harmonization initiatives\",\n      \"Improve coordination among stakeholders\",\n      \"Develop clear standards and guidelines for curriculum development\",\n      \"Provide capacity building for universities\"\n    ],\n    \"Future_Research\": [\n      \"Further research is needed to evaluate the impact of curriculum harmonization on student learning outcomes and graduate employability.\",\n      \"More research is needed to identify the most effective strategies for implementing curriculum harmonization in different contexts.\",\n      \"Research is needed to explore the role of technology in supporting curriculum harmonization.\"\n    ],\n    \"Specific_Examples\": [\n      \"Harmonization of engineering programs in East Africa is mentioned as a specific example.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Common curricula\",\n      \"Quality assurance mechanisms\",\n      \"Mutual recognition of qualifications\",\n      \"Credit transfer systems\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Political will\",\n      \"Funding\",\n      \"National education systems\",\n      \"University resistance\",\n      \"Infrastructure\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political commitment\",\n      \"Funding\",\n      \"Coordination\",\n      \"Standards\",\n      \"Capacity building\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Regional integration\",\n      \"Quality of education\",\n      \"Student mobility\",\n      \"Graduate employability\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 627,
+      "candidatesTokenCount": 1161,
+      "totalTokenCount": 1788,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 627
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1161
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "-JtSaOOPLIuZhMIPlvTuyQY"
+  }
+}

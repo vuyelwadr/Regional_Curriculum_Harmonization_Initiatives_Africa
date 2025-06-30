@@ -1,0 +1,58 @@
+{
+  "response_id": 332,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:59:21.005050",
+  "metadata": {
+    "url": "https://peerj.com/preprints/1093v1",
+    "final_url": "https://peerj.com/preprints/1093v1/",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"The role of information technologies in medical curriculum harmonisation\",\n    \"authors\": [\n      \"Martin Komenda\",\n      \"Daniel Schwarz\",\n      \"Ladislav Dušek\"\n    ],\n    \"doi\": \"10.7287/peerj.preprints.1093v1\",\n    \"journal\": \"PeerJ PrePrints\",\n    \"year\": \"2015\",\n    \"abstract\": \"In this contribution a new comprehensive approach describing medical curriculum harmonisation will be introduced. Behind the whole concept stays original methodological background, which is trending towards an outcome-based paradigm, together with an engineering and development of new curriculum management system intended for for curriculum designers, guarantors and faculty management. It provides a clear and transparent composition of compulsory and optional courses, and easy identification of potential duplicities and overlaps across a domain of medical and healthcare education. For students, it means an absolutely new way of how to understand what is really taught during a learning period, including all necessary meta information such as type and range of teaching, related MeSH keywords and list of essential terms presented in particular lecture, seminar or clinical practice. Moreover it brings a new communication channel between all involved stakeholders including students at institution level. The broad overview shows that various existing curriculum management systems focus on the outcome-based paradigm only from a certain perspective offering the agenda together with selected functionalities. However, they are unable to cater all the needs on curriculum harmonisation of the today’s higher education institutions. This is the reason why we decided to develop own web-based platform supporting guaranteed and more transparent building of curriculum including a control mechanisms in the form of deep inspection. Furthermore we will introduce a set of data mining and statistical methods in compliance with standardized and approved approaches, which are used for content analysis of a huge dataset extracted from a curriculum management system. These results may assist to identify potentially problematic areas and construct comprehensive overview of defined curriculum, because from the perspective of human cognition abilities, it is not possible to carefully read, verify and understand all learning units with all their linkages and co-dependencies.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://peerj.com/preprints/1093.pdf\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://peerj.com/preprints/1093\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"/preprints/1093v1.pdf\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"/preprints/1093v1.html\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 381,
+              "endIndex": 1000
+            },
+            {
+              "startIndex": 1006,
+              "endIndex": 2459
+            }
+          ]
+        },
+        "avgLogprobs": -0.005032615647938535
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2252,
+      "candidatesTokenCount": 697,
+      "totalTokenCount": 2949,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2252
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 697
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "BZxSaNHrGuiChMIP-ufFUQ"
+  }
+}

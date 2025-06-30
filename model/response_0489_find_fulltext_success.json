@@ -1,0 +1,55 @@
+{
+  "response_id": 489,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:13:26.354112",
+  "metadata": {
+    "url": "https://www.academia.edu/62657206/Case_studies_of_curriculum_innovations_in_Western_Africa",
+    "final_url": "https://www.academia.edu/62657206/Case_studies_of_curriculum_innovations_in_Western_Africa",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Case studies of curriculum innovations in Western Africa\",\n    \"authors\": [\n      \"Pai  Obanya\"\n    ],\n    \"doi\": \"10.1007/BF01103032\",\n    \"journal\": \"International Review of Education\",\n    \"year\": \"1995\",\n    \"abstract\": \"This article examines some of the curriculum innovations that have been attempted in West Africa since the early 1960s. These include promoting the use of national languages in schools, the introduction of environmental studies into the curriculum\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://doi.org/10.1007/BF01103032\",\n      \"type\": \"doi_url\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"repository_indicators\": [\n    \"academia\"\n  ],\n  \"paywall_detected\": true,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 309,
+              "endIndex": 568,
+              "uri": "https://typeset.io/authors/pai-obanya-5b505g2s7u"
+            }
+          ]
+        },
+        "avgLogprobs": -0.002874579212882302
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3341,
+      "candidatesTokenCount": 275,
+      "totalTokenCount": 3616,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3341
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 275
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "VJ9SaL2-Iv6ShMIPm7P8iAY"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "response_id": 264,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:53:11.587040",
+  "metadata": {
+    "url": "https://journal.lib.uoguelph.ca/index.php/ajote/article/view/7511",
+    "final_url": "https://journal.lib.uoguelph.ca/index.php/ajote/article/view/7511",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Towards a context-relevant, institution-based ICT integration model of teacher education curriculum at diploma level in Zimbabwe\",\n    \"authors\": [\n      \"Tendai Dzinoreva\",\n      \"George Mavunga\",\n      \"Logan Govender\"\n    ],\n    \"doi\": \"10.21083/ajote.v12i2.7511\",\n    \"journal\": \"African Journal of Teacher Education\",\n    \"year\": \"2023\",\n    \"abstract\": \"&nbsp;21st Century requirements for teaching and learning, driven by ICT advancements have opened doors for the development of models to guide and enhance ICT integration. Some countries have adopted international models and others have adapted them to suit their own environments. Zimbabwe still remains silent on what model it is using as there is no clear framework (policy related to ICT in education). In this paper, the authors focus on the Zimbabwean teacher education landscape in the absence of neither a distinct localised model &nbsp;&nbsp;nor an international one. Using literature review, document analysis and reviews of a proposed model, by six teacher educators from three secondary school teacher education colleges in Zimbabwe (carried out through semi structured interviews) this paper seeks to propose a framework for the integration of ICTs in teacher education curriculum. Drawing from literature around the Zimbabwean ICT landscape and its ICT policy framework, models proposed in the broader African and global contexts, we argue for a context-relevant and institution-based model of ICT integration for the teacher education curriculum in Zimbabwe. This proposed model privileges the localised contextual issues and takes a critical view of models which assume similarity of conditions across countries and institutions. Moreover, the model has relevance for ICT integration in the teacher education programmes of countries facing political and socio-economic challenges similar to those which Zimbabwe is facing.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://journal.lib.uoguelph.ca/index.php/ajote/article/download/7511/6920\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 95,
+              "endIndex": 231,
+              "uri": "https://repository.globethics.net/handle/20.500.12424/93?locale-attribute=ar"
+            },
+            {
+              "startIndex": 456,
+              "endIndex": 991
+            },
+            {
+              "startIndex": 1001,
+              "endIndex": 1990
+            }
+          ]
+        },
+        "avgLogprobs": -0.0007920450333392981
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2701,
+      "candidatesTokenCount": 528,
+      "totalTokenCount": 3229,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2701
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 528
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "lJpSaM32JP6ShMIPm7P8iAY"
+  }
+}

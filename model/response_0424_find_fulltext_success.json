@@ -1,0 +1,63 @@
+{
+  "response_id": 424,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:08:07.094478",
+  "metadata": {
+    "url": "https://riojournal.com/article/138833/",
+    "final_url": "https://riojournal.com/article/138833/",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"The DSAIL-GeJuSTA Data Science Education Workshop: Designing a Data Science Curriculum for the African Continent\",\n    \"authors\": [\n      \"Lorna Mugambi\",\n      \"Gabriel Kiarie\",\n      \"Jason Kabi\",\n      \"Ciira wa Maina\",\n      \"Suvodeep Mazumdar\"\n    ],\n    \"doi\": \"10.3897/rio.10.e138833\",\n    \"journal\": \"Research Ideas and Outcomes\",\n    \"year\": \"2024\",\n    \"abstract\": \"The DSAIL-GeJuSTA Data Science Education Workshop was a joint initiative by the Centre for Data Science and Artificial Intelligence (DSAIL) and Gender Justice in STEM Research in Africa (GeJUSTA). GeJUSTA is a programme funded by the International Development Research Centre (IDRC) that is working towards increasing the representation of women in STEM. The workshop was held on 9 November 2023, during the 7th DeKUT International Conference on Science, Technology, Innovation and Entrepreneurship (STI&amp;E) at Dedan Kimathi University of Technology (DeKUT). The conference ran from 8-10 November 2023. The event successfully convened 31 participants. The composition of the attendees was diverse, ranging from data-science educators, industry participants using data science, researchers who use data science and students in a myriad of courses, including engineering and pharmacy. The primary focus of the workshop was to have a discussion with the attendees and share practices around designing data-science curriculum, strategies for achieving gender equity in data-science education, addressing new technological challenges in education and fostering multidisciplinary approaches to data-science education. This report encapsulates the collective vision of the workshop participants, whose contributions have set the stage for progressive strides in data-science education.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://riojournal.com/article/138833/\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 472,
+              "endIndex": 976
+            },
+            {
+              "startIndex": 980,
+              "endIndex": 1236,
+              "uri": "https://zenodo.org/records/13949062"
+            },
+            {
+              "startIndex": 1243,
+              "endIndex": 1848
+            }
+          ]
+        },
+        "avgLogprobs": -0.0014104783535003663
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2327,
+      "candidatesTokenCount": 530,
+      "totalTokenCount": 2857,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2327
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 530
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "FJ5SaODHDJrnqsMPzonmkA0"
+  }
+}

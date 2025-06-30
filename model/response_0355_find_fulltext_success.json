@@ -1,0 +1,59 @@
+{
+  "response_id": 355,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:01:25.247263",
+  "metadata": {
+    "url": "https://link.springer.com/10.1007/s10639-023-12363-7",
+    "final_url": "https://link.springer.com/article/10.1007/s10639-023-12363-7",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Measuring student and educator digital competence beyond self-assessment: Developing and validating two rubric-based frameworks\",\n    \"authors\": [],\n    \"doi\": \"10.1007/s10639-023-12363-7\",\n    \"journal\": \"Education and Information Technologies\",\n    \"year\": \"2023\",\n    \"abstract\": \"Over the past decade, self-assessment tools have garnered significant attention in the interest of measuring the skillset required by educators and students to function productively and ethically in digitally mediated environments, particularly in relation to education policy implementation. Since stated beliefs do not always align with actual practice, gaps have been shown to occur between self-reporting and performance in practice. Having an external assessor can counteract this imbalance; however, both perspectives should be taken into consideration as both are equally important. Against this background, this study develops and validates two rubric-based frameworks that supplement self perceived student and educator digital competence with classroom observation and task performance analysis. The DigComp and DigCompEdu self-assessment frameworks were used as a starting point to develop a student rubric and an educator rubric, respectively, underpinned by criteria validated in previous frameworks. The expert technique, which is the base for the Delphi Method, was used to validate each rubric, after which the rubrics were implemented at a Spanish university to test their reliability. The results indicated that the force of agreement across raters was consistent and both rubrics had a high degree of internal consistency, therefore both instruments are reliable.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://link.springer.com/content/pdf/10.1007/s10639-023-12363-7.pdf\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://link.springer.com/article/10.1007/s10639-023-12363-7\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": true,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 96,
+              "endIndex": 217,
+              "uri": "https://ouci.dntb.gov.ua/en/works/ldv8aKk7/"
+            },
+            {
+              "startIndex": 385,
+              "endIndex": 1761
+            }
+          ]
+        },
+        "avgLogprobs": -0.0010444957769767023
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2761,
+      "candidatesTokenCount": 547,
+      "totalTokenCount": 3308,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2761
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 547
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "gpxSaNbnELPQhMIP372DoQ0"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "response_id": 416,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:07:16.986645",
+  "metadata": {
+    "url": "https://pmejournal.org/articles/10.5334/pme.956/",
+    "final_url": "https://pmejournal.org/articles/10.5334/pme.956",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Design and Implementation of a National Program of Assessment Model – Integrating Entrustable Professional Activity Assessments in Canadian Specialist Postgraduate Medical Education\",\n    \"authors\": [\n      \"Warren J. Cheung\",\n      \"Farhan Bhanji\",\n      \"Wade Gofton\",\n      \"Andrew K. Hall\",\n      \"Jolanta Karpinski\",\n      \"Denyse Richardson\",\n      \"Jason R. Frank\",\n      \"Nancy Dudek\"\n    ],\n    \"doi\": \"10.5334/pme.956\",\n    \"journal\": \"Perspectives on Medical Education\",\n    \"year\": \"2024\",\n    \"abstract\": \"Traditional approaches to assessment in health professions education systems, which have generally focused on the summative function of assessment through the development and episodic use of individual high-stakes examinations, may no longer be appropriate in an era of competency based medical education. Contemporary assessment programs should not only ensure collection of high-quality performance data to support robust decision-making on learners&rsquo; achievement and competence development but also facilitate the provision of meaningful feedback to learners to support reflective practice and performance improvement. Programmatic assessment is a specific approach to designing assessment systems through the intentional selection and combination of a variety of assessment methods and activities embedded within an educational framework to simultaneously optimize the decision-making and learning function of assessment. It is a core component of competency based medical education and is aligned with the goals of promoting assessment for learning and coaching learners to achieve predefined levels of competence. In Canada, postgraduate specialist medical education has undergone a transformative change to a competency based model centred around entrustable professional activities (EPAs). In this paper, we describe and reflect on the large scale, national implementation of a program of assessment model designed to guide learning and ensure that robust data is collected to support defensible decisions about EPA achievement and progress through training. Reflecting on the design and implications of this assessment system may help others who want to incorporate a competency based approach in their own country.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://pmejournal.org/articles/10.5334/pme.956\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 96,
+              "endIndex": 269,
+              "uri": "https://ouci.dntb.gov.ua/en/works/4MoQ5BY9/"
+            },
+            {
+              "startIndex": 615,
+              "endIndex": 1065
+            },
+            {
+              "startIndex": 1074,
+              "endIndex": 2336
+            }
+          ]
+        },
+        "avgLogprobs": -0.0007138248533010483
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3306,
+      "candidatesTokenCount": 560,
+      "totalTokenCount": 3866,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3306
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 560
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "4Z1SaIa-I5rnqsMPzonmkA0"
+  }
+}

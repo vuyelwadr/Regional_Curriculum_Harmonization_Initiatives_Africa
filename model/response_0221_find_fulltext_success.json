@@ -1,0 +1,46 @@
+{
+  "response_id": 221,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:49:05.273328",
+  "metadata": {
+    "url": "https://e-journal.uniflor.ac.id/index.php/JPM/article/view/4907",
+    "final_url": "https://e-journal.uniflor.ac.id/index.php/JPM/article/view/4907",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"CURRICULUM TRANSFORMATION TOWARDS FUTURE EDUCATION\",\n    \"authors\": [\n      \"Edwin Edwin\",\n      \"I Wayan Widiana\",\n      \"I Wayan Lasmawan\",\n      \"I Gusti Putu Suharta\"\n    ],\n    \"doi\": \"10.37478/jpm.v6i2.4907\",\n    \"journal\": \"Prima Magistra: Jurnal Ilmiah Kependidikan\",\n    \"year\": \"2025\",\n    \"abstract\": \"The transformation of education in the 21st century requires a curriculum that moves beyond content delivery and focuses on developing core competencies such as critical thinking, collaboration, creativity, and communication (4C). This study investigates strategies for integrating 4C skills into curriculum development using a library research approach. The data were obtained from peer-reviewed scientific articles published between 2021 and 2025 and analyzed thematically. The results show that critical thinking can be fostered through blended learning, inquiry-based learning, critical reflection, academic debate, and clinical simulation. Collaboration develops through interprofessional education, interdisciplinary projects, community partnerships, and the use of digital technology. Creativity is supported by STEAM approaches, project-based learning, augmented reality, artificial intelligence, and maker education. Communication is enhanced through simulation training, narrative-based learning, mentoring, and digital media. These findings emphasize the need for systemic and flexible curriculum reform, supported by educator training and technological integration. A future-ready curriculum must act as a transformative space that prepares learners to think critically, act creatively, collaborate effectively, and communicate meaningfully in a complex and interconnected global environment.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://e-journal.uniflor.ac.id/index.php/JPM/article/download/4907/2992\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.000831453333318115
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2921,
+      "candidatesTokenCount": 503,
+      "totalTokenCount": 3424,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2921
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 503
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "nplSaOOkFIqThMIPyoil0Qo"
+  }
+}

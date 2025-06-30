@@ -1,0 +1,45 @@
+{
+  "response_id": 10,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:27:18.383319",
+  "metadata": {
+    "apa_number": 31,
+    "url": "https://www.scielo.br/j/es/a/6XnkSHSj6wxmFgkGBqdmBcM/?lang=pt",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://www.scielo.br/j/es/a/6XnkSHSj6wxmFgkGBqdmBcM/?lang=pt\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper discusses regional curriculum harmonization initiatives in the context of the Southern African Development Community (SADC), involving multiple African countries. It addresses harmonization across institutions and countries, focusing on mutual recognition and regional qualifications frameworks. The paper specifically mentions the SADC Protocol on Education and Training and its implications for cross-border education.\",\n  \"Title\": \"Regional integration and harmonisation of higher education in Southern Africa: student and staff mobility\",\n  \"Authors\": [\n    \"Linda Chisholm\",\n    \"Thierry M. Luescher\",\n    \"Nazina Virjee\",\n    \"Yusuf Sayed\"\n  ],\n  \"Year\": \"2018\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Educação e Sociedade\",\n    \"DOI_URL\": \"https://doi.org/10.1590/ES0101-73302018177877\",\n    \"APA_Reference\": \"Chisholm, L., Luescher, T. M., Virjee, N., & Sayed, Y. (2018). Regional integration and harmonisation of higher education in Southern Africa: student and staff mobility. Educação e Sociedade, 39, 963-982. https://doi.org/10.1590/ES0101-73302018177877\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Qualitative research based on document analysis and interviews.\",\n    \"Geographic_Focus\": \"Southern Africa (SADC region)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not explicitly stated, but involves analysis of SADC policies and interviews with stakeholders.\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Regional integration theory, policy borrowing.\",\n    \"Harmonization_Definition\": \"Harmonization is defined in the context of aligning higher education systems to facilitate student and staff mobility within the SADC region.\",\n    \"Regional_Initiatives\": [\n      \"SADC Protocol on Education and Training\",\n      \"SADC Regional Qualifications Framework (SADC-RQF)\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Policy development\",\n      \"Framework creation\",\n      \"Mutual recognition agreements\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"SADC Secretariat\",\n      \"National governments\",\n      \"Higher education institutions\",\n      \"Students\",\n      \"Staff\"\n    ],\n    \"Data_Sources\": [\n      \"Policy documents\",\n      \"Interviews\",\n      \"Literature review\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"The SADC Protocol on Education and Training aims to promote regional integration through harmonizing higher education systems.\",\n      \"Progress in harmonization is uneven across SADC member states.\",\n      \"Student and staff mobility remains limited despite policy efforts.\",\n      \"Challenges include varying national priorities and resource constraints.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Varying national priorities\",\n      \"Resource constraints\",\n      \"Lack of political will\",\n      \"Bureaucratic hurdles\",\n      \"Differences in quality assurance mechanisms\"\n    ],\n    \"Success_Factors\": [\n      \"Political commitment\",\n      \"Strong regional leadership\",\n      \"Adequate funding\",\n      \"Effective communication and coordination\"\n    ],\n    \"Recommendations\": [\n      \"Strengthening regional governance mechanisms\",\n      \"Increasing investment in higher education\",\n      \"Promoting greater stakeholder engagement\",\n      \"Developing common quality assurance standards\"\n    ],\n    \"Future_Research\": [\n      \"Further research is needed to assess the impact of harmonization efforts on student and staff mobility.\",\n      \"More research is needed on the role of quality assurance in promoting regional integration.\"\n    ],\n    \"Specific_Examples\": [\n      \"Examples of successful credit transfer systems are needed.\",\n      \"Case studies of effective regional qualifications frameworks are needed.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Policy frameworks\",\n      \"Regional qualifications frameworks\",\n      \"Credit transfer systems\",\n      \"Mutual recognition agreements\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Lack of resources\",\n      \"Varying national priorities\",\n      \"Bureaucratic hurdles\",\n      \"Quality assurance differences\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political commitment\",\n      \"Regional leadership\",\n      \"Stakeholder engagement\",\n      \"Adequate funding\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased student and staff mobility (limited)\",\n      \"Enhanced regional integration (potential)\",\n      \"Improved quality of higher education (potential)\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 631,
+      "candidatesTokenCount": 1151,
+      "totalTokenCount": 1782,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 631
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1151
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "fpRSaNzJGuiChMIP-ufFUQ"
+  }
+}

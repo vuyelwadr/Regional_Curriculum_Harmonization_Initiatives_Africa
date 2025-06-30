@@ -1,0 +1,45 @@
+{
+  "response_id": 108,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:37:12.588693",
+  "metadata": {
+    "apa_number": 88,
+    "url": "https://carijournals.org/journals/index.php/JEP/article/download/1028/1246",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://carijournals.org/journals/index.php/JEP/article/download/1028/1246\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in East Africa, specifically the EAC. It addresses harmonization across institutions and countries within the EAC framework, mentioning cross-border education and regional qualifications frameworks. The paper discusses the harmonization of curricula in teacher education programs across East African Community partner states.\",\n  \"Title\": \"Harmonization of Teacher Education Curriculum in East Africa: Progress, Challenges, and Way Forward\",\n  \"Authors\": [\n    \"Okello Charles\",\n    \"Dr. Ejang Remigius\",\n    \"Dr. Nelio Mugisha\"\n  ],\n  \"Year\": \"2023\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"CARI Journals\",\n    \"DOI_URL\": \"https://carijournals.org/journals/index.php/JEP/article/view/1028\",\n    \"APA_Reference\": \"Charles, O., Remigius, E., & Mugisha, N. (2023). Harmonization of Teacher Education Curriculum in East Africa: Progress, Challenges, and Way Forward. Journal of Education and Practice, 6(1), 22-34. https://carijournals.org/journals/index.php/JEP/article/view/1028\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature Review\",\n    \"Geographic_Focus\": \"East Africa (EAC)\",\n    \"Educational_Level\": \"Teacher Education\",\n    \"Sample_Size\": \"Not applicable (literature review)\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated\",\n    \"Harmonization_Definition\": \"The paper defines harmonization as a process of aligning teacher education curricula across EAC partner states to ensure quality and relevance.\",\n    \"Regional_Initiatives\": [\n      \"East African Community (EAC) harmonization of teacher education curricula\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Curriculum review and development\",\n      \"Stakeholder consultations\",\n      \"Development of common standards and guidelines\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Ministries of Education\",\n      \"Teacher education institutions\",\n      \"EAC Secretariat\",\n      \"Development partners\"\n    ],\n    \"Data_Sources\": [\n      \"Policy documents\",\n      \"Curriculum frameworks\",\n      \"Research reports\",\n      \"EAC documents\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Progress has been made in harmonizing teacher education curricula in East Africa.\",\n      \"Challenges remain in implementation due to varying national contexts and resource constraints.\",\n      \"Harmonization is essential for promoting quality and mobility of teachers within the EAC.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Varying national contexts and priorities\",\n      \"Resource constraints\",\n      \"Lack of political will\",\n      \"Resistance to change\",\n      \"Inadequate stakeholder involvement\"\n    ],\n    \"Success_Factors\": [\n      \"Political commitment\",\n      \"Stakeholder collaboration\",\n      \"Adequate resources\",\n      \"Clear standards and guidelines\",\n      \"Effective monitoring and evaluation\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen political commitment and resource allocation.\",\n      \"Enhance stakeholder collaboration and ownership.\",\n      \"Develop clear standards and guidelines for harmonization.\",\n      \"Establish effective monitoring and evaluation mechanisms.\",\n      \"Promote research and innovation in teacher education.\"\n    ],\n    \"Future_Research\": [\n      \"Impact of harmonization on teacher quality and student learning outcomes.\",\n      \"Effectiveness of different implementation approaches.\",\n      \"Sustainability of harmonization efforts.\"\n    ],\n    \"Specific_Examples\": [\n      \"Development of a common teacher education framework for the EAC.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Curriculum development\",\n      \"Policy frameworks\",\n      \"Stakeholder engagement\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Resource constraints\",\n      \"Political differences\",\n      \"Resistance to change\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political will\",\n      \"Stakeholder collaboration\",\n      \"Clear guidelines\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Improved teacher quality\",\n      \"Enhanced mobility\",\n      \"Regional integration\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 626,
+      "candidatesTokenCount": 1048,
+      "totalTokenCount": 1674,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 626
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1048
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "0ZZSaPzPJ6is1dkPlvP06Q0"
+  }
+}

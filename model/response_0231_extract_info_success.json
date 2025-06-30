@@ -1,0 +1,45 @@
+{
+  "response_id": 231,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:50:03.254802",
+  "metadata": {
+    "apa_number": 115,
+    "url": "https://e-journal.uniflor.ac.id/index.php/JPM/article/download/4907/2992",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://e-journal.uniflor.ac.id/index.php/JPM/article/download/4907/2992\",\n  \"MATCHES_CRITERIA\": false,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on improving the quality of mathematics learning at the primary school level in Indonesia. It does not address regional curriculum harmonization initiatives involving multiple African countries or regions. The study is limited to a single country and does not discuss cross-border education, mutual recognition, credit transfer systems, or regional qualifications frameworks.\",\n  \"Title\": \"Improving the Quality of Mathematics Learning through the Development of Learning Tools Based on Local Wisdom\",\n  \"Authors\": [\n    \"Maria Yulita da Cunha\",\n    \"Yosef Mario Tunu\",\n    \"Maria Ines Taneo\"\n  ],\n  \"Year\": \"2022\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 630,
+      "candidatesTokenCount": 202,
+      "totalTokenCount": 832,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 630
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 202
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "2ZlSaI3_FZbrqsMPiOTvsQI"
+  }
+}

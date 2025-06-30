@@ -1,0 +1,60 @@
+{
+  "response_id": 56,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:32:08.782764",
+  "metadata": {
+    "url": "http://www.sciedupress.com/journal/index.php/jct/article/view/12521",
+    "final_url": "https://www.sciedupress.com/journal/index.php/jct/article/view/12521",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Sciences Teacher Education Curriculum Re-alignment: Science Education Lecturers’ Perspectives of Knowledge Integration at South African Universities\",\n    \"authors\": [\n      \"Kwanele Booi\",\n      \"Mamsie Ethel Khuzwayo\"\n    ],\n    \"doi\": \"10.5430/jct.v7n1p52\",\n    \"journal\": \"Journal of Curriculum and Teaching\",\n    \"year\": \"2017\",\n    \"abstract\": \"A qualitative case study was conducted at six purposively sampled universities; out of a population of approximately 23 universities. This sampling strategy was based on selecting some universities that became Universities of Technology during the process of merging Higher Education Institutions (HEIs) while other universities kept their identity; currently being referred to as Traditional Universities. In-depth interviews and analysis of curriculum documents were used as sources of data acquisition to address the aim and questions explored by this study explored; necessitated by the need to implement Minimum Requirements for Teaching Education Qualification (MRTEQ) policy guidelines. The sampled universities’ identities were concealed and pseudonyms were assigned to participants for ethical reasons. Qualitative methods were applied for data analysis. Findings revealed that for some institutions’ integration of sub-disciples of science curriculum led to contestations and debates resulting from different philosophical perceptions held by subject specialists in the curriculum design process. Knowledge integration continues to be a contested field in universities that typifies resistance to change. Some participants demonstrated a positive disposition towards knowledge integration models which they used in curriculum development. This study concludes that a collaborative and collegial deliberation among science education lecturers and experts in various knowledge domains could be a way to find common ground on issues highlighted in this study. Re-thinking and re-conceptualising knowledge organisation for science academic knowledge are appropriate to the needs of school curriculum and benefit science teachers with knowledge and competences for knowledge impartation, skills and values in the subject.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://www.sciedupress.com/journal/index.php/jct/article/download/12521/8066\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 95,
+              "endIndex": 251,
+              "uri": "https://jom.uin-suska.ac.id/index.php/TSCS/article/view/112"
+            },
+            {
+              "startIndex": 446,
+              "endIndex": 2262,
+              "uri": "https://eric.ed.gov/?id=EJ1170332"
+            }
+          ]
+        },
+        "avgLogprobs": -0.0014671040580138048
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2814,
+      "candidatesTokenCount": 549,
+      "totalTokenCount": 3363,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2814
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 549
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "pZVSaPeZG4qThMIPyoil0Qo"
+  }
+}

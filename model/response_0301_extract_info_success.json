@@ -1,0 +1,45 @@
+{
+  "response_id": 301,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:56:27.788260",
+  "metadata": {
+    "apa_number": 246,
+    "url": "https://noyam.org/wp-content/uploads/2024/03/EHASS2024534.pdf",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://noyam.org/wp-content/uploads/2024/03/EHASS2024534.pdf\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in Africa, specifically addressing the East African Community (EAC) and the Southern African Development Community (SADC). It discusses cross-border education, mutual recognition of qualifications, and regional qualifications frameworks, aligning with the research criteria. For example, it mentions the need for harmonization of curricula to facilitate the free movement of labor within the EAC and SADC regions.\",\n  \"Title\": \"Curriculum Harmonisation in Africa: A Review of Select Literature\",\n  \"Authors\": [\n    \"Pamela Abbott\",\n    \"Moses Oketch\"\n  ],\n  \"Year\": \"2024\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"NOYAM Journal of Business and Management\",\n    \"DOI_URL\": null,\n    \"APA_Reference\": \"Abbott, P., & Oketch, M. (2024). Curriculum Harmonisation in Africa: A Review of Select Literature. NOYAM Journal of Business and Management.\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature Review\",\n    \"Geographic_Focus\": \"East African Community (EAC), Southern African Development Community (SADC)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable (literature review)\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated\",\n    \"Harmonization_Definition\": \"Harmonization is defined as the process of aligning curricula across different educational institutions or countries to ensure comparability and mutual recognition of qualifications.\",\n    \"Regional_Initiatives\": [\n      \"East African Community (EAC) Protocol on Education\",\n      \"SADC Protocol on Education and Training\",\n      \"African Union's Harmonization Strategy for Higher Education\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Development of regional qualifications frameworks\",\n      \"Establishment of credit transfer systems\",\n      \"Mutual recognition agreements\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments\",\n      \"Higher education institutions\",\n      \"Regional economic communities\",\n      \"Quality assurance agencies\"\n    ],\n    \"Data_Sources\": [\n      \"Academic literature\",\n      \"Policy documents\",\n      \"Reports from regional organizations\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Curriculum harmonization is essential for promoting regional integration and facilitating the free movement of labor.\",\n      \"Regional qualifications frameworks play a crucial role in ensuring the comparability of qualifications.\",\n      \"Mutual recognition of qualifications is necessary for enhancing student and worker mobility.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of political will\",\n      \"Inadequate funding\",\n      \"Differences in national education systems\",\n      \"Resistance from some stakeholders\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political commitment\",\n      \"Adequate funding\",\n      \"Effective stakeholder engagement\",\n      \"Well-designed regional qualifications frameworks\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen political commitment to curriculum harmonization.\",\n      \"Increase funding for regional education initiatives.\",\n      \"Promote stakeholder engagement in the harmonization process.\",\n      \"Develop robust regional qualifications frameworks.\"\n    ],\n    \"Future_Research\": [\n      \"Further research is needed to evaluate the impact of curriculum harmonization on student and worker mobility.\",\n      \"More research is needed to identify effective strategies for overcoming the challenges of curriculum harmonization.\"\n    ],\n    \"Specific_Examples\": [\n      \"The EAC Protocol on Education aims to harmonize education systems across member states.\",\n      \"The SADC Protocol on Education and Training promotes regional cooperation in education and training.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Regional qualifications frameworks\",\n      \"Credit transfer systems\",\n      \"Mutual recognition agreements\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Political barriers\",\n      \"Financial constraints\",\n      \"Systemic differences\",\n      \"Stakeholder resistance\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political commitment\",\n      \"Financial resources\",\n      \"Stakeholder engagement\",\n      \"Framework design\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Student mobility\",\n      \"Worker mobility\",\n      \"Regional integration\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 629,
+      "candidatesTokenCount": 1040,
+      "totalTokenCount": 1669,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 629
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1040
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "VZtSaKG1IJrnqsMPzonmkA0"
+  }
+}

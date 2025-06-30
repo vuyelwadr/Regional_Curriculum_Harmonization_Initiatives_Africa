@@ -1,0 +1,46 @@
+{
+  "response_id": 412,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:07:06.026486",
+  "metadata": {
+    "url": "https://tuningjournal.org/article/view/1415/1735",
+    "final_url": "https://tuningjournal.org/article/view/1415/1735",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Harmonization of higher education in Africa and Europe: Policy convergence at supranational level\",\n    \"authors\": [],\n    \"doi\": null,\n    \"journal\": \"Tuning Journal for Higher Education\",\n    \"year\": null,\n    \"abstract\": null\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://tuningjournal.org/article/download/1415/1735?inline=1\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://tuningjournal.org/article/view/1415\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.0008739091215595122
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2712,
+      "candidatesTokenCount": 248,
+      "totalTokenCount": 2960,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2712
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 248
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "2J1SaMW_GouZhMIPlvTuyQY"
+  }
+}

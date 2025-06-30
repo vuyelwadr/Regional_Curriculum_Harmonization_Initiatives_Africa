@@ -1,0 +1,59 @@
+{
+  "response_id": 250,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:51:24.215789",
+  "metadata": {
+    "url": "https://journals.dut.ac.za/index.php/ajims/article/view/1244",
+    "final_url": "https://journals.dut.ac.za/index.php/ajims/article/view/1244",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Globalisation and ICT in Education through Unhu/Ubuntu African Philosophical Framework: A Case of the Zimbabwean Curriculum\",\n    \"authors\": [\n      \"Alice Dhliwayo\",\n      \"Thuthukile Jita\"\n    ],\n    \"doi\": \"10.51415/ajims.v5i1.1244\",\n    \"journal\": \"African Journal of Inter/Multidisciplinary Studies\",\n    \"year\": \"2023\",\n    \"abstract\": \"This paper reviews the philosophical foundations of Unhu/Ubuntu in the Zimbabwean education system. The Zimbabwean curriculum underwent a comprehensive paradigm shift from a Western philosophy to an ancient indigenous philosophy of Unhu/Ubuntu. The Western philosophy was discarded on the premise that it provided an extraneous education lacking authentic existence for the people. Through the lens of connectivism, the paper answers the question of how after this removal from Western ideals, the present education impacts the country’s need to be an active player in the Fourth Industrial Revolution (4IR) and global citizenship. Digital technologies are not a traditional heritage from an African epistemology. Therefore, the question remains whether the philosophy of Unhu/Ubuntu is rich enough to provide a framework for the integration of information and communication technology (ICT) and a resultant 4IR-relevant education for the country. We argue that Unhu/Ubuntu is well aligned to provide a framework for a digitalised technological education through its ethical, humanistic values. The paper concludes with a strong assertion that while both Capitalism and Unhu/Ubuntu achieve the goals of 4IR through education, one produces a competent skilled worker without the accompaniment of moral and ethical integrity which the other deliberately instils besides the skills and competences. \"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://journals.dut.ac.za/index.php/ajims/article/download/1244/902\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 95,
+              "endIndex": 216,
+              "uri": "https://journals.dut.ac.za/index.php/ajims/article/view/1148"
+            },
+            {
+              "startIndex": 438,
+              "endIndex": 1832
+            }
+          ]
+        },
+        "avgLogprobs": -0.002238414992091707
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2907,
+      "candidatesTokenCount": 511,
+      "totalTokenCount": 3418,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2907
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 511
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "KZpSaNCEC_6ShMIPm7P8iAY"
+  }
+}

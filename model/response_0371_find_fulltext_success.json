@@ -1,0 +1,55 @@
+{
+  "response_id": 371,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:03:12.718279",
+  "metadata": {
+    "url": "https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=3384383",
+    "final_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3384383",
+    "attempt": 2,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"The Lost Human Capital: Teacher Knowledge and Student Achievement in Africa\",\n    \"authors\": [\n      \"Tessa Bold\",\n      \"Deon Filmer\",\n      \"Ezequiel Molina\",\n      \"Jakob Svensson\"\n    ],\n    \"doi\": null,\n    \"journal\": \"SSRN\",\n    \"year\": \"2019\",\n    \"abstract\": \"In many low-income countries, teachers do not master the subject they are teaching, and children learn little while attending school. Using unique data from national assessments of teachers’ subject knowledge in 15 African countries, we document that most teachers have very limited mastery of the curriculum they are expected to teach. We then link teacher knowledge to student achievement using Demographic and Health Survey data on children’s test scores. We find that teacher knowledge is a strong predictor of student achievement, even after controlling for household characteristics, school resources, and teacher education and experience. Our estimates suggest that increasing teacher knowledge by one standard deviation would increase student test scores by 0.15 standard deviations. This effect is larger than the effect of reducing class size or increasing school resources. Our findings highlight the importance of teacher knowledge for student learning in Africa.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=3384383\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 351,
+              "endIndex": 527,
+              "uri": "https://www.jakobsvensson.com/uploads/9/9/1/0/99107788/the-lost-human-capital-teacher-knowledge-and-student-achievement-in-africa.pdf"
+            }
+          ]
+        },
+        "avgLogprobs": -0.10072972076107757
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3810,
+      "candidatesTokenCount": 396,
+      "totalTokenCount": 4206,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3810
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 396
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "7ZxSaKTMNYuZhMIPlvTuyQY"
+  }
+}

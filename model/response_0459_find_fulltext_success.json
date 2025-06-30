@@ -1,0 +1,59 @@
+{
+  "response_id": 459,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:11:08.940420",
+  "metadata": {
+    "url": "https://tuningjournal.org/article/view/1415",
+    "final_url": "https://tuningjournal.org/article/view/1415",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Harmonization of higher education in Africa and Europe: Policy convergence at supranational level\",\n    \"authors\": [\n      \"Ayenachew Aseffa Woldegiyorgis\"\n    ],\n    \"doi\": \"10.18543/tjhe-5(2)-2018pp133-157\",\n    \"journal\": \"Tuning Journal for Higher Education\",\n    \"year\": \"2018\",\n    \"abstract\": \"While the Bologna Process in Europe is the leading example, regional efforts towards harmonization of higher education are taking place in every corner of the world. In Africa, such a process has its roots from decades ago, although more coordinated activities are only recent phenomena. This paper looks back at the harmonization processes in Africa and Europe, and argues that although the process in Africa has been influenced by its European counterpart, the former has its own unique features, among other things, in its thematic and sub-regional initiatives. The paper notes similarities and differences between the two processes, appreciates the strengths and shortcomings of the African process, and highlights the importance for the African Union to more effectively utilize its leverage as a coordinating body, with a wider and more meaningful involvement of higher education institutions and other stakeholders. It also calls for more exploration into the potential strengths and risks in harmonization initiatives strongly rooted at sub-regional level.Received: 06 March 2018 Accepted: 04 May 2018 Published online: 31 May 2018\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://tuningjournal.org/article/download/1415/1725\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://tuningjournal.org/article/view/1415/1735\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://tuningjournal.org/article/view/1415\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 373,
+              "endIndex": 1458
+            },
+            {
+              "startIndex": 1343,
+              "endIndex": 1534,
+              "uri": "https://www.sciencegate.app/document/10.28925/1609-8595.2018(1-2)3846"
+            }
+          ]
+        },
+        "avgLogprobs": -0.00037322657887507927
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2779,
+      "candidatesTokenCount": 563,
+      "totalTokenCount": 3342,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2779
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 563
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "yZ5SaM_7HOiChMIP-ufFUQ"
+  }
+}

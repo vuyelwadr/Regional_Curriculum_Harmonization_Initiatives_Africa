@@ -1,0 +1,46 @@
+{
+  "response_id": 420,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:07:23.857904",
+  "metadata": {
+    "url": "https://thesanafrican.com/2024/11/08/reimagining-african-education-an-insight-into-regional-challenges-and-opportunities-for-change/",
+    "final_url": "https://sanafrican.news.blog/2024/11/08/reimagining-african-education-an-insight-into-regional-challenges-and-opportunities-for-change/",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Reimagining African Education: An Insight into Regional Challenges and Opportunities for Change\",\n    \"authors\": [],\n    \"doi\": null,\n    \"journal\": \"The San African\",\n    \"year\": \"2024\",\n    \"abstract\": null\n  },\n  \"fulltext_links\": [],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"low\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.006816539126382747
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3246,
+      "candidatesTokenCount": 142,
+      "totalTokenCount": 3388,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3246
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 142
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "6p1SaMijMv6ShMIPm7P8iAY"
+  }
+}

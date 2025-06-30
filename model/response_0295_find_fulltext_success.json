@@ -1,0 +1,46 @@
+{
+  "response_id": 295,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:56:12.546997",
+  "metadata": {
+    "url": "https://journals.lww.com/10.1097/AS9.0000000000000140",
+    "final_url": "https://journals.lww.com/aosopen/fulltext/2022/03000/an_online,_modular_curriculum_enhances_surgical.32.aspx",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"An Online, Modular Curriculum Enhances Surgical Resident Education in Resource-Limited Settings\",\n    \"authors\": [\n      \"Katelyn E. Faraizi\",\n      \"MD, MPH\",\n      \"Shayan S. Shahid\",\n      \"BS\",\n      \"Shahrzad Jafari\",\n      \"MD\",\n      \"Shirin Towfigh\",\n      \"MD\",\n      \"Jenny Shao\",\n      \"MD\",\n      \"Sharmila Dissanaike\",\n      \"MD\",\n      \"Zara Cooper\",\n      \"MD, MSCI\",\n      \"Shadi Ali Weber\",\n      \"MD, MPH\"\n    ],\n    \"doi\": \"10.1097/aso.0000000000000440\",\n    \"journal\": \"Annals of Surgery Open\",\n    \"year\": \"2022\",\n    \"abstract\": \"Objective:\\nSurgical education in resource-limited settings (RLS) faces unique challenges. Online learning may mitigate these challenges, but few curricula are designed for RLS. We evaluated the impact of a novel, online, modular curriculum on surgical resident knowledge in RLS.\\n\\nSummary Background Data:\\nWe developed an online curriculum of 10 modules covering surgical topics relevant to RLS. Each module included a pretest, video lecture, and posttest. We partnered with surgical residency programs in Kenya, Uganda, and Ethiopia to implement the curriculum. Residents completed pretests and posttests for each module. We compared pretest and posttest scores using paired t tests. We also surveyed residents on their experience with the curriculum.\\n\\nMethods:\\nResidents completed pretests and posttests for each module. We compared pretest and posttest scores using paired t tests. We also surveyed residents on their experience with the curriculum.\\n\\nResults:\\nFrom January 2020 to June 2021, 106 residents completed 407 modules. Mean pretest score was 54.3% ± 18.6% and mean posttest score was 74.4% ± 15.5% (P < 0.001). Residents reported that the curriculum was relevant to their practice (92%), improved their knowledge (90%), and changed their practice (70%).\\n\\nConclusions:\\nAn online, modular curriculum can improve surgical resident knowledge in RLS. This curriculum may be a valuable tool for surgical education in RLS.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://journals.lww.com/aosopen/fulltext/2022/03000/an_online,_modular_curriculum_enhances_surgical.32.aspx\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.21315269142303905
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3952,
+      "candidatesTokenCount": 698,
+      "totalTokenCount": 4650,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3952
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 698
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "R5tSaOnPEOiChMIP-ufFUQ"
+  }
+}

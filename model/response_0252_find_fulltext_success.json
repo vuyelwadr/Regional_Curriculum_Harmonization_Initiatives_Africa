@@ -1,0 +1,60 @@
+{
+  "response_id": 252,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:52:07.058696",
+  "metadata": {
+    "url": "https://journals.plos.org/globalpublichealth/article?id=10.1371%2Fjournal.pgph.0001296",
+    "final_url": "https://journals.plos.org/globalpublichealth/article?id=10.1371%2Fjournal.pgph.0001296",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Adoption of harmonisation policy for the midwives’ training programme in Mali: A policy analysis\",\n    \"authors\": [\n      \"Cheick S. Sidibé\",\n      \"Valentine Becquet\",\n      \"Tanya Y. Brückner\",\n      \"Ousmane Touré\",\n      \"Lalla Fatouma Traoré\",\n      \"Jacqueline E. W. Broerse\",\n      \"Marjolein Dieleman\"\n    ],\n    \"doi\": \"10.1371/journal.pgph.0001296\",\n    \"journal\": \"PLOS Global Public Health\",\n    \"year\": \"2022\",\n    \"abstract\": \"West Africa is engaged in a process of harmonising health workers’ training programmes as a means to regulate regional training standards and thus improve their quality. There is currently a lack of documented information regarding the adoption of these revised training programmes. In 2012 a harmonised programme, the WAHO competency-based curriculum, was introduced in Mali for training midwives. The present study explores the barriers and facilitators of the adoption of this programme and how the content, context, process, and actor-related factors influenced this. We used a qualitative research design consisting of document analysis (n = 25) and semi-structured interviews (n = 21) with policymakers, students, and those in charge of implementing the training programme. Information was collected on education and training policies, the context and process of the harmonised curriculum development, its adoption, and the actors involved in the adoption strategy, along with their role. The study shows that the adoption of the harmonised curriculum in Mali offered midwives an opportunity to attain a higher standard of training and level of qualification than before. It also displayed both the government’s and the public school’s willingness and commitment to improve maternal and child health through enhancing midwives’ training standards. The most salient factors that influenced adoption were the lack of available resources, and the lack of involvement of, and coordination with, relevant actors for successful policy adoption. Mali’s experience of adopting the harmonisation policy of training curricula demonstrates the need for the authorities to collaborate with relevant actors for information dissemination and in the adoption process. It also demonstrates the need for finding innovative ways to secure and diversify funding opportunities, as well as establish a supervisory body for health worker training.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://journals.plos.org/globalpublichealth/article/file?id=10.1371/journal.pgph.0001296&type=manuscript\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://journals.plos.org/globalpublichealth/article/file?id=10.1371/journal.pgph.0001296&type=printable\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://journals.plos.org/globalpublichealth/article/file?id=10.1371/journal.pgph.0001296&type=pdf\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [\n    \"gold\"\n  ],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 219,
+              "endIndex": 401,
+              "uri": "https://ouci.dntb.gov.ua/en/works/9QeLrXy9/"
+            },
+            {
+              "startIndex": 537,
+              "endIndex": 2459,
+              "uri": "https://pubmed.ncbi.nlm.nih.gov/36962856/"
+            }
+          ]
+        },
+        "avgLogprobs": -0.0010937307530648906
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2357,
+      "candidatesTokenCount": 811,
+      "totalTokenCount": 3168,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2357
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 811
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "UppSaO26JLPQhMIP372DoQ0"
+  }
+}

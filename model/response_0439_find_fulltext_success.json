@@ -1,0 +1,46 @@
+{
+  "response_id": 439,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:09:13.552625",
+  "metadata": {
+    "url": "https://posthumanism.co.uk/jp/article/view/1649",
+    "final_url": "https://posthumanism.co.uk/jp/article/view/1649",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Harmonization of the National Education System Law No. 20 of 2003 Based on Dignified Justice\",\n    \"authors\": [\n      \"Franciscus Xaverius Wartoyo\"\n    ],\n    \"doi\": \"10.63332/joph.v5i5.1649\",\n    \"journal\": \"Journal of Posthumanism\",\n    \"year\": \"2025\",\n    \"abstract\": \"This study analyzes the harmonization of Indonesia's National Education System Law No. 20/2003 through the lens of dignified justice. Although the law ensures the right to education for all citizens, its implementation faces challenges in access, quality, and equity across regions and socio-economic groups. Using a normative juridical method and doctrinal approach, this research explores legal norms and sociological realities. The findings highlight the need for inclusive, affirmative education policies that address the needs of vulnerable groups and promote equal opportunities. Strengthening institutional capacity, enhancing public participation, and decentralizing policy are essential to achieving a more just and dignified education system.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://posthumanism.co.uk/jp/article/download/1649/867\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.000984644369473533
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3158,
+      "candidatesTokenCount": 378,
+      "totalTokenCount": 3536,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3158
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 378
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "V55SaOLOH5brqsMPiOTvsQI"
+  }
+}

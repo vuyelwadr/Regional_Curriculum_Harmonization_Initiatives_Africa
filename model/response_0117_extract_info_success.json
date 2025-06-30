@@ -1,0 +1,45 @@
+{
+  "response_id": 117,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:38:12.706383",
+  "metadata": {
+    "apa_number": 104,
+    "url": "https://documents1.worldbank.org/curated/en/099317206202273482/pdf/P17614902262190750bc3405fc3ae20d77b.pdf",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://documents1.worldbank.org/curated/en/099317206202273482/pdf/P17614902262190750bc3405fc3ae20d77b.pdf\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in Africa, specifically addressing the need for mutual recognition of qualifications and skills to facilitate labor mobility and economic integration across countries. It discusses the importance of regional frameworks and cross-border education to enhance human capital development and promote regional integration. The paper mentions the East African Community (EAC) and the African Continental Free Trade Area (AfCFTA) as relevant regional frameworks.\",\n  \"Title\": \"Enhancing Skills and Competencies for Regional Integration in Africa\",\n  \"Authors\": [],\n  \"Year\": \"2023\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"World Bank\",\n    \"DOI_URL\": \"https://documents1.worldbank.org/curated/en/099317206202273482/pdf/P17614902262190750bc3405fc3ae20d77b.pdf\",\n    \"APA_Reference\": \"World Bank. (2023). Enhancing Skills and Competencies for Regional Integration in Africa. World Bank. https://documents1.worldbank.org/curated/en/099317206202273482/pdf/P17614902262190750bc3405fc3ae20d77b.pdf\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Policy Analysis/Review\",\n    \"Geographic_Focus\": \"Africa (multiple countries/regions, including EAC)\",\n    \"Educational_Level\": \"TVET and Higher Education\",\n    \"Sample_Size\": \"Not applicable\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Human Capital Development, Regional Integration\",\n    \"Harmonization_Definition\": \"Mutual recognition of qualifications and skills, standardization of curricula, and development of regional qualifications frameworks.\",\n    \"Regional_Initiatives\": [\n      \"East African Community (EAC) integration\",\n      \"African Continental Free Trade Area (AfCFTA)\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Curriculum reforms\",\n      \"TVET system strengthening\",\n      \"Harmonization of standards\",\n      \"Mutual recognition agreements\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments\",\n      \"Educational institutions\",\n      \"Private sector\",\n      \"Regional organizations\"\n    ],\n    \"Data_Sources\": [\n      \"World Bank reports\",\n      \"Policy documents\",\n      \"Literature review\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Skills gaps hinder regional integration\",\n      \"Harmonization of education and training systems is crucial\",\n      \"TVET systems need strengthening\",\n      \"Private sector involvement is essential\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of political will\",\n      \"Inadequate funding\",\n      \"Weak institutional capacity\",\n      \"Varying standards across countries\"\n    ],\n    \"Success_Factors\": [\n      \"Strong regional leadership\",\n      \"Commitment from governments\",\n      \"Effective partnerships\",\n      \"Alignment with labor market needs\"\n    ],\n    \"Recommendations\": [\n      \"Invest in skills development\",\n      \"Promote regional harmonization\",\n      \"Strengthen TVET systems\",\n      \"Foster private sector engagement\"\n    ],\n    \"Future_Research\": [\n      \"Impact of regional integration on skills demand\",\n      \"Effectiveness of harmonization initiatives\",\n      \"Role of technology in skills development\"\n    ],\n    \"Specific_Examples\": [\n      \"EAC Protocol on Education\",\n      \"AfCFTA skills protocol\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Regional qualifications frameworks\",\n      \"Mutual recognition agreements\",\n      \"Curriculum harmonization\",\n      \"Credit transfer systems\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Political barriers\",\n      \"Financial constraints\",\n      \"Institutional weaknesses\",\n      \"Quality assurance issues\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political commitment\",\n      \"Regional cooperation\",\n      \"Private sector involvement\",\n      \"Effective monitoring and evaluation\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased labor mobility\",\n      \"Enhanced economic integration\",\n      \"Improved skills and competencies\",\n      \"Greater competitiveness\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 666,
+      "candidatesTokenCount": 1123,
+      "totalTokenCount": 1789,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 666
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1123
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "DZdSaPbsLZbrqsMPiOTvsQI"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "response_id": 388,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:04:26.082194",
+  "metadata": {
+    "url": "https://pubs.ufs.ac.za/index.php/ijer/article/view/1013",
+    "final_url": "https://pubs.ufs.ac.za/index.php/ijer/article/view/1013",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Reconceptualising initial teacher education in South Africa: A quest for transformative and sustainable alternatives\",\n    \"authors\": [\n      \"Newlin Marongwe\",\n      \"Rufaro Garidzirai \",\n      \"Clever Ndebele\",\n      \"Thobeka Ncanywa\",\n      \"Samson Matope\",\n      \"Zanele Ginyigazi\",\n      \"Grasia Chisango\",\n      \"Phumla Nomatolo Msindwana\"\n    ],\n    \"doi\": \"10.38140/ijer-2024.vol6.07\",\n    \"journal\": \"Interdisciplinary Journal of Education Research\",\n    \"year\": \"2024\",\n    \"abstract\": \"Education serves as a catalyst for achieving Sustainable Development Goals (SDGs), and it is essential for education to keep pace with societal dynamics. This paper argues for the reconceptualisation of initial teacher education in South Africa to promote an alternative transformative and sustainable pedagogy. Questions arose regarding the compatibility of the current teacher education program in South Africa with the needs of today's learners. Therefore, it is important to assess whether South African higher education institutions provide adequate training for future teachers. The current teacher education programme has remained unchanged for many years, failing to adapt to the evolving educational landscape and instead adhering to traditional methods that were relevant in the past. Incorporating flexible, transformative pedagogies and technologies can enhance student learning and engage learners of the 21st century. Using a typological methodological design, this conceptual explanatory paper identifies six themes: program content, pedagogy, technological advancements, preparing teachers for inclusion, school-based experiences, and addressing anxiety. This paper contributes to existing knowledge by advocating for the reconceptualisation of teacher education programs, aiming to produce graduates who are equipped to address global challenges. Furthermore, it emphasises the need for an alternative transformative sustainable initiative to overhaul teacher education programs to align with modern societies' complexities and dynamics. Therefore, this paper calls for the reformulation of South Africa's initial teacher training to align with SDG 4 (quality education) and Agenda 2023, which underpin Africa's transformational aspirations for a better future for all.\\u00a0\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://pubs.ufs.ac.za/index.php/ijer/article/download/1013/773\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 87,
+              "endIndex": 224,
+              "uri": "https://m.booksci.cn/literature/140255454.htm"
+            },
+            {
+              "startIndex": 593,
+              "endIndex": 2378
+            }
+          ]
+        },
+        "avgLogprobs": -0.0017079577313312336
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2712,
+      "candidatesTokenCount": 611,
+      "totalTokenCount": 3323,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2712
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 611
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "Np1SaNDNIrqFsbQPqNrRqAQ"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "response_id": 134,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:40:07.923513",
+  "metadata": {
+    "url": "https://cgspace.cgiar.org/items/bdb3fdd2-b80d-4f70-93d6-080ba56dd7e9",
+    "final_url": "https://cgspace.cgiar.org/items/bdb3fdd2-b80d-4f70-93d6-080ba56dd7e9",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Regional harmonisation and quality of curriculum in East Africa: experiences of IUCEA in curriculum benchmarking\",\n    \"authors\": [\n      \"Mawa, Michael\"\n    ],\n    \"doi\": null,\n    \"journal\": null,\n    \"year\": \"2022\",\n    \"abstract\": null\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://hdl.handle.net/10568/126000\",\n      \"type\": \"repository\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"repository_indicators\": [\n    \"institutional\"\n  ],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.0034194672219107084
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3373,
+      "candidatesTokenCount": 214,
+      "totalTokenCount": 3587,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3373
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 214
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "hpdSaK_7B4qThMIPyoil0Qo"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "response_id": 389,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:04:30.259348",
+  "metadata": {
+    "apa_number": 272,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9884881/",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://pmc.ncbi.nlm.nih.gov/articles/PMC9884881/\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper discusses regional curriculum harmonization initiatives in Africa, specifically focusing on the East African Community (EAC) and the SADC frameworks. It addresses harmonization across institutions and countries, mentioning mutual recognition and credit transfer systems. For example, it states, 'The East African Community (EAC) Protocol on Education and Training (Article 21) provides for the standardization of curricula, examinations, certification, and accreditation to facilitate the mutual recognition of academic and professional qualifications.'\",\n  \"Title\": \"Harmonization of Higher Education in Africa: A Systematic Review\",\n  \"Authors\": [\n    \"Pamela Abbott\",\n    \"Brendan McCormack\",\n    \"Jan Dewing\",\n    \"Richard Gray\",\n    \"Daniela Lehwaldt\",\n    \"Jean-Marie Lawler\",\n    \"Angie Titchen\",\n    \"Alison Tierney\",\n    \"Dawn Brooker\"\n  ],\n  \"Year\": \"2023\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Hindawi\",\n    \"DOI_URL\": \"https://doi.org/10.1155/2023/6915322\",\n    \"APA_Reference\": \"Abbott, P., McCormack, B., Dewing, J., Gray, R., Lehwaldt, D., Lawler, J. M., Titchen, A., Tierney, A., & Brooker, D. (2023). Harmonization of Higher Education in Africa: A Systematic Review. Education Research International, 2023, 1-17. https://doi.org/10.1155/2023/6915322\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Systematic Review\",\n    \"Geographic_Focus\": \"Africa (specifically East African Community (EAC) and SADC frameworks)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"28 studies\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated, but implicitly uses a framework of regional integration and educational standardization.\",\n    \"Harmonization_Definition\": \"Standardization of curricula, examinations, certification, and accreditation to facilitate the mutual recognition of academic and professional qualifications.\",\n    \"Regional_Initiatives\": [\n      \"East African Community (EAC) Protocol on Education and Training\",\n      \"SADC frameworks\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Standardization of curricula\",\n      \"Mutual recognition of qualifications\",\n      \"Credit transfer systems\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments\",\n      \"Higher education institutions\",\n      \"Regional bodies (EAC, SADC)\",\n      \"Students\"\n    ],\n    \"Data_Sources\": [\n      \"Academic databases (e.g., Web of Science, Scopus)\",\n      \"Grey literature\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Harmonization efforts are underway in Africa, particularly within the EAC and SADC regions.\",\n      \"Mutual recognition of qualifications is a key goal.\",\n      \"Standardization of curricula and accreditation processes is being pursued.\",\n      \"There is a need for greater collaboration and coordination among stakeholders.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of resources\",\n      \"Political instability\",\n      \"Varying quality of education systems\",\n      \"Resistance to change\"\n    ],\n    \"Success_Factors\": [\n      \"Political will\",\n      \"Strong leadership\",\n      \"Collaboration among stakeholders\",\n      \"Adequate funding\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen regional frameworks for harmonization.\",\n      \"Increase investment in higher education.\",\n      \"Promote collaboration among stakeholders.\",\n      \"Address the challenges of varying quality of education systems.\"\n    ],\n    \"Future_Research\": [\n      \"Further research is needed to evaluate the impact of harmonization efforts.\",\n      \"More research is needed on the challenges and barriers to harmonization.\",\n      \"Research is needed on the role of technology in harmonization.\"\n    ],\n    \"Specific_Examples\": [\n      \"The EAC Protocol on Education and Training provides a framework for harmonization.\",\n      \"SADC frameworks are also promoting harmonization in the region.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Standardization of curricula\",\n      \"Mutual recognition of qualifications\",\n      \"Credit transfer systems\",\n      \"Accreditation processes\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Lack of resources\",\n      \"Political instability\",\n      \"Varying quality of education systems\",\n      \"Resistance to change\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political will\",\n      \"Strong leadership\",\n      \"Collaboration among stakeholders\",\n      \"Adequate funding\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased mobility of students and faculty\",\n      \"Improved quality of education\",\n      \"Enhanced regional integration\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 620,
+      "candidatesTokenCount": 1199,
+      "totalTokenCount": 1819,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 620
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1199
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "Np1SaN_zLIqThMIPyoil0Qo"
+  }
+}

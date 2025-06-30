@@ -1,0 +1,46 @@
+{
+  "response_id": 62,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:33:06.841655",
+  "metadata": {
+    "url": "https://au.int/en/theme/2025",
+    "final_url": "https://au.int/en/theme/2025",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"AU THEME OF THE YEAR 2025\",\n    \"authors\": [],\n    \"doi\": null,\n    \"journal\": \"African Union\",\n    \"year\": null,\n    \"abstract\": null\n  },\n  \"fulltext_links\": [],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.0008304317418793987
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 4460,
+      "candidatesTokenCount": 133,
+      "totalTokenCount": 4593,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 4460
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 133
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "4ZVSaIC7HsWUsbQP-d_MIQ"
+  }
+}

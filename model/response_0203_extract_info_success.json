@@ -1,0 +1,45 @@
+{
+  "response_id": 203,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:47:09.942569",
+  "metadata": {
+    "apa_number": 176,
+    "url": "https://jle.hse.ru/article/download/11644/12878",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://jle.hse.ru/article/download/11644/12878\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in Africa, specifically addressing the development of qualifications frameworks and mutual recognition of qualifications across multiple countries. It discusses the Pan-African Quality Assurance and Accreditation Framework (PAQAF) and its impact on harmonization efforts. The paper also mentions the need for cross-border education and the development of credit transfer systems.\",\n  \"Title\": \"Continental Harmonization of African Higher Education: The Tuning Africa Initiative\",\n  \"Authors\": [\n    \"Peter Okebukola\"\n  ],\n  \"Year\": \"2020\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Journal of Learning and Teaching in Higher Education in Africa\",\n    \"DOI_URL\": \"https://doi.org/10.18546/jhems.11.1.02\",\n    \"APA_Reference\": \"Okebukola, P. (2020). Continental Harmonization of African Higher Education: The Tuning Africa Initiative. Journal of Learning and Teaching in Higher Education in Africa, 11(1), 21-40. https://doi.org/10.18546/jhems.11.1.02\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature Review and Analysis\",\n    \"Geographic_Focus\": \"Africa (Pan-African)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Tuning Methodology\",\n    \"Harmonization_Definition\": \"Harmonization is defined in the context of developing comparable qualifications and learning outcomes across African higher education institutions, facilitating student and staff mobility, and promoting mutual recognition of qualifications.\",\n    \"Regional_Initiatives\": [\n      \"Tuning Africa Initiative\",\n      \"Pan-African Quality Assurance and Accreditation Framework (PAQAF)\",\n      \"African Union's Agenda 2063\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Curriculum Development based on Tuning Methodology\",\n      \"Development of Qualifications Frameworks\",\n      \"Quality Assurance and Accreditation\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"African Union\",\n      \"Higher Education Institutions\",\n      \"Academics\",\n      \"Students\",\n      \"Employers\",\n      \"Quality Assurance Agencies\"\n    ],\n    \"Data_Sources\": [\n      \"Literature Review\",\n      \"Policy Documents\",\n      \"Project Reports\",\n      \"Conference Proceedings\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"The Tuning Africa Initiative has contributed to the harmonization of curricula and qualifications in African higher education.\",\n      \"PAQAF provides a framework for quality assurance and accreditation at the continental level.\",\n      \"Harmonization efforts face challenges related to funding, capacity building, and political will.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Inadequate funding\",\n      \"Limited capacity building\",\n      \"Lack of political will\",\n      \"Diversity of higher education systems\",\n      \"Language barriers\"\n    ],\n    \"Success_Factors\": [\n      \"Strong leadership and commitment from the African Union\",\n      \"Collaboration among higher education institutions\",\n      \"Use of the Tuning Methodology\",\n      \"Development of qualifications frameworks\"\n    ],\n    \"Recommendations\": [\n      \"Increased investment in higher education\",\n      \"Strengthening of quality assurance mechanisms\",\n      \"Promotion of student and staff mobility\",\n      \"Development of regional qualifications frameworks\",\n      \"Capacity building for curriculum development and quality assurance\"\n    ],\n    \"Future_Research\": [\n      \"Impact of harmonization on student learning outcomes\",\n      \"Effectiveness of different harmonization approaches\",\n      \"Role of technology in promoting harmonization\"\n    ],\n    \"Specific_Examples\": [\n      \"Development of common curricula in specific disciplines\",\n      \"Establishment of credit transfer systems\",\n      \"Mutual recognition of qualifications\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Curriculum Development\",\n      \"Qualifications Frameworks\",\n      \"Quality Assurance\",\n      \"Accreditation\",\n      \"Credit Transfer Systems\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Funding Constraints\",\n      \"Capacity Gaps\",\n      \"Political Will\",\n      \"Systemic Differences\",\n      \"Language Barriers\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Leadership Commitment\",\n      \"Institutional Collaboration\",\n      \"Methodological Frameworks\",\n      \"Framework Development\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Curriculum Harmonization\",\n      \"Qualifications Recognition\",\n      \"Student Mobility\",\n      \"Quality Enhancement\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 621,
+      "candidatesTokenCount": 1125,
+      "totalTokenCount": 1746,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 621
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1125
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "JplSaITWHv6ShMIPm7P8iAY"
+  }
+}

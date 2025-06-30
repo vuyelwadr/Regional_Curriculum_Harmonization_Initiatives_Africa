@@ -1,0 +1,76 @@
+{
+  "response_id": 106,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:37:09.590366",
+  "metadata": {
+    "url": "https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-023-04631-4",
+    "final_url": "https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-023-04631-4",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Constructing validity evidence from a pilot key-features assessment of clinical decision-making in cerebral palsy diagnosis: application of Kane’s validity framework to implementation evaluations\",\n    \"authors\": [],\n    \"doi\": \"10.1186/s12909-023-04631-4\",\n    \"journal\": \"BMC Medical Education\",\n    \"year\": \"2023\",\n    \"abstract\": \"Physician decision-making skills training is a priority to improve adoption of the cerebral palsy (CP) clinical guideline and, through this, lower the age of CP diagnosis. Clinical guideline implementation aims to improve physician practice, but evaluating meaningful change is complex. Limitations in the validity evidence of evaluation instruments impact the evidence base. Validity frameworks, such as Kane’s, enable a targeted process to gather evidence for instrument scores, congruent to context and purpose. Yet, application of argument-based methodology to implementation validation is rare. Key-features examination methodology has established validity evidence supporting its use to measure decision-making skills, with potential to predict performance. We aimed to apply Kane’s framework to evaluate a pilot key-features examination on physician decision-making in early CP diagnosis. Following Kane’s framework, we evaluated evidence across inferences of scoring, generalisation, extrapolation and implications in a study design describing the development and pilot of a CP diagnosis key-features examination for practising physicians. If found to be valid, we proposed to use the key-feature scores as an outcome measure of decision-making post education intervention to expedite CP diagnosis and to correlate with real-world performance data to predict physician practice. Supporting evidence for acceptance of scoring inferences was achieved through examination development with an expert group (n\\u0001=\\u000110) and pilot results (n\\u0001=\\u000110): (1) high internal consistency (0.82); (2) acceptable mean item-discrimination (0.34); and (3) acceptable reliability of examination scorers (95.2% congruence). Decreased physician acceptance of examination time (70%) was identified as a threat and prioritised in case reduction processes. Partial acceptance of generalisation, extrapolation and implications inferences were defensible with: (1) accumulated development evidence following established key-features methodology; (2) high pilot acceptance for authenticity (90%); and (3) plausibility of assumptions of score correlation with population register data. Kane’s approach is beneficial for prioritising sources of validity evidence alongside the iterative development of a key-features examination in the CP field. The validity argument supports scoring assumptions and use of scores as an outcome measure of physician decision-making for CP guideline education implementation interventions. Scoring evidence provides the foundation to direct future studies exploring association of key-feature scores with real-world performance.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://bmcmededuc.biomedcentral.com/counter/pdf/10.1186/s12909-023-04631-4\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-023-04631-4\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 96,
+              "endIndex": 288,
+              "uri": "https://ouci.dntb.gov.ua/en/works/7qMLkkQ7/"
+            },
+            {
+              "startIndex": 431,
+              "endIndex": 1324
+            },
+            {
+              "startIndex": 1327,
+              "endIndex": 1809
+            },
+            {
+              "startIndex": 1818,
+              "endIndex": 1938,
+              "uri": "https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-023-04631-4"
+            },
+            {
+              "startIndex": 1999,
+              "endIndex": 2609
+            },
+            {
+              "startIndex": 2612,
+              "endIndex": 3085
+            }
+          ]
+        },
+        "avgLogprobs": -0.0029121116527075904
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2352,
+      "candidatesTokenCount": 824,
+      "totalTokenCount": 3176,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2352
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 824
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "0JZSaKGlH4qThMIPyoil0Qo"
+  }
+}

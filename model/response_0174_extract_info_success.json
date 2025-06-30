@@ -1,0 +1,45 @@
+{
+  "response_id": 174,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:44:08.711221",
+  "metadata": {
+    "apa_number": 158,
+    "url": "https://ictforum.adeanet.org/sites/default/files/cesa_journal_vol1.pdf",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://ictforum.adeanet.org/sites/default/files/cesa_journal_vol1.pdf\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper discusses regional harmonization initiatives in Africa, specifically focusing on the Continental Education Strategy for Africa (CESA) 2016-2025. It addresses cross-border education and mutual recognition of qualifications within the African continent. The paper also mentions the need for harmonized curricula and quality assurance mechanisms to facilitate mobility and recognition of qualifications across African countries.\",\n  \"Title\": \"Continental Education Strategy for Africa 2016-2025\",\n  \"Authors\": [],\n  \"Year\": \"2016\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"ADEA\",\n    \"DOI_URL\": \"https://ictforum.adeanet.org/sites/default/files/cesa_journal_vol1.pdf\",\n    \"APA_Reference\": \"Association for the Development of Education in Africa (ADEA). (2016). Continental Education Strategy for Africa 2016-2025. ADEA.\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Policy Framework\",\n    \"Geographic_Focus\": \"Africa\",\n    \"Educational_Level\": \"All levels\",\n    \"Sample_Size\": \"N/A\",\n    \"Is_Longitudinal\": true\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Continental Education Strategy for Africa (CESA)\",\n    \"Harmonization_Definition\": \"Harmonization refers to aligning education systems, curricula, and qualifications frameworks across African countries to facilitate mobility, recognition of qualifications, and promote regional integration.\",\n    \"Regional_Initiatives\": [\n      \"Continental Education Strategy for Africa (CESA) 2016-2025\",\n      \"Harmonization of curricula\",\n      \"Mutual recognition of qualifications\",\n      \"Establishment of African Accreditation Agency\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Policy development\",\n      \"Capacity building\",\n      \"Resource mobilization\",\n      \"Partnerships\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"African Union\",\n      \"Regional Economic Communities (RECs)\",\n      \"Member States\",\n      \"Development partners\",\n      \"Civil society organizations\",\n      \"Private sector\"\n    ],\n    \"Data_Sources\": [\n      \"Policy documents\",\n      \"Strategic plans\",\n      \"Reports from AU and RECs\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"CESA provides a comprehensive framework for transforming education and training systems in Africa.\",\n      \"Harmonization of curricula and qualifications is essential for promoting mobility and regional integration.\",\n      \"Quality assurance mechanisms are needed to ensure the comparability and recognition of qualifications across countries.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of political will\",\n      \"Inadequate resources\",\n      \"Weak institutional capacity\",\n      \"Conflicting priorities\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political commitment\",\n      \"Effective partnerships\",\n      \"Adequate resources\",\n      \"Capacity building\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen political commitment to CESA implementation.\",\n      \"Mobilize resources for education and training.\",\n      \"Build institutional capacity for quality assurance and accreditation.\",\n      \"Promote regional cooperation and harmonization.\"\n    ],\n    \"Future_Research\": [\n      \"Impact of CESA on education outcomes\",\n      \"Effectiveness of harmonization initiatives\",\n      \"Role of technology in education\"\n    ],\n    \"Specific_Examples\": [\n      \"Establishment of the Pan African Quality Assurance and Accreditation Framework (PAQAF)\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Policy frameworks\",\n      \"Strategic plans\",\n      \"Partnerships\",\n      \"Resource mobilization\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Political will\",\n      \"Resources\",\n      \"Capacity\",\n      \"Conflicting priorities\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political commitment\",\n      \"Partnerships\",\n      \"Resources\",\n      \"Capacity building\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Improved education quality\",\n      \"Increased access to education\",\n      \"Enhanced mobility\",\n      \"Regional integration\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 621,
+      "candidatesTokenCount": 1027,
+      "totalTokenCount": 1648,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 621
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1027
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "cphSaKuYDbqFsbQPqNrRqAQ"
+  }
+}

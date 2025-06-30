@@ -1,0 +1,82 @@
+{
+  "response_id": 131,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:40:06.330051",
+  "metadata": {
+    "url": "https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-024-05618-5",
+    "final_url": "https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-024-05618-5",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Tools for measuring curriculum integration in health professions’ education: a systematic review\",\n    \"authors\": [],\n    \"doi\": \"10.1186/s12909-024-05618-5\",\n    \"journal\": \"BMC Medical Education\",\n    \"year\": \"2024\",\n    \"abstract\": \"Curriculum integration is an important educational concept widely implemented by various educational institutions, particularly within the healthcare field. Its significance lies in enhancing the preparation of future healthcare professionals. The assessment of these integrated curricula is imperative to guarantee their effectiveness. Consequently, the aim of this systematic review is to delve into existing literature, with the goal of identifying instruments designed to assess the extent of curriculum integration in health professions’ education. A comprehensive search was conducted to identify peer-reviewed papers and grey literature describing the development, validation, or use of instruments measuring the degree of integration in a curriculum. Eight databases were searched: PubMed, Scopus, Google Scholar, CINAHL Ultimate, Web of Science, Cochrane, ProQuest Central and EMBASE. Grey literature was also included. Titles, abstracts, and full text screening was conducted. Data extraction was done using a data extraction tool developed by our research team. The search resulted in the identification of 2094 references. After the removal of duplicates and title and abstract screening, 16 articles were deemed suitable for inclusion in this systematic review. Twenty-two instruments were extracted from these articles. The identified instruments assessed either integration attributes, perceptions about the integrated curriculum characteristics, process and outcomes, or curriculum integration level. Two of the instruments were focused on assessing horizontal integration (Basic Science Curriculum Assessment Instrument and the integration characteristic tool). In addition, one instrument was developed to assess integration within a single session only, while other instruments assessed curriculum integration level. Two of the integration instruments (The Session Integration Tool and Integration Ladder Questionnaire) provided scales for calculating integration levels. Validation of the integration assessment instruments was infrequent, with only 9 of 22 instruments validated for their psychometric properties. Our findings reveal the existence of diverse instruments designed to assess the extent of curriculum integration within health professions’ curricula. The majority of identified instruments were focused on participants’ perceptions towards the attributes of the integrated curriculum, and a significant number of these tools lacked validation.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://bmcmededuc.biomedcentral.com/counter/pdf/10.1186/s12909-024-05618-5\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-024-05618-5\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 332,
+              "endIndex": 886
+            },
+            {
+              "startIndex": 886,
+              "endIndex": 1401
+            },
+            {
+              "startIndex": 1405,
+              "endIndex": 1916
+            },
+            {
+              "startIndex": 1802,
+              "endIndex": 2128,
+              "uri": "https://www.researchgate.net/publication/381230937_Tools_for_measuring_curriculum_integration_in_health_professions'_education_a_systematic_review"
+            },
+            {
+              "startIndex": 2082,
+              "endIndex": 2378,
+              "uri": "https://www.researchgate.net/publication/381230937_Tools_for_measuring_curriculum_integration_in_health_professions'_education_a_systematic_review"
+            },
+            {
+              "startIndex": 2271,
+              "endIndex": 2462,
+              "uri": "https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-024-05618-5"
+            },
+            {
+              "startIndex": 2467,
+              "endIndex": 2808,
+              "uri": "https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-024-05618-5"
+            }
+          ]
+        },
+        "avgLogprobs": -3.996493533905201e-05
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2290,
+      "candidatesTokenCount": 709,
+      "totalTokenCount": 2999,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2290
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 709
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "gpdSaNh0luuqww-I5O-xAg"
+  }
+}

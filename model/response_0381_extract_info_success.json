@@ -1,0 +1,45 @@
+{
+  "response_id": 381,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:04:12.238622",
+  "metadata": {
+    "apa_number": 263,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10022231/",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://pmc.ncbi.nlm.nih.gov/articles/PMC10022231/\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper discusses regional curriculum harmonization initiatives in East Africa, specifically focusing on the East African Community (EAC) and its efforts to harmonize medical curricula across member states. It addresses harmonization across institutions and countries within the EAC region, aligning with the research criteria.\",\n  \"Title\": \"Harmonization of Medical Curricula in East Africa: Progress, Challenges, and Opportunities\",\n  \"Authors\": [\n    \"Paul Katamba\",\n    \"Rose Clarke Nanyonga\",\n    \"Nazarius Mbona Tumwesigye\",\n    \"Peter Olupot-Olupot\",\n    \"Alfred Etwom\",\n    \"Francis Omaswa\"\n  ],\n  \"Year\": \"2023\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Advances in Medical Education and Practice\",\n    \"DOI_URL\": \"https://doi.org/10.2147/AMEP.S404239\",\n    \"APA_Reference\": \"Katamba, P., Nanyonga, R. C., Tumwesigye, N. M., Olupot-Olupot, P., Etwom, A., & Omaswa, F. (2023). Harmonization of Medical Curricula in East Africa: Progress, Challenges, and Opportunities. Advances in Medical Education and Practice, 14, 273–284. https://doi.org/10.2147/AMEP.S404239\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature Review and Expert Opinion\",\n    \"Geographic_Focus\": \"East Africa (EAC: Uganda, Kenya, Tanzania, Rwanda, Burundi, South Sudan, and Democratic Republic of Congo)\",\n    \"Educational_Level\": \"Medical Education (Undergraduate)\",\n    \"Sample_Size\": \"Not applicable (Literature Review)\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Competency-Based Education\",\n    \"Harmonization_Definition\": \"Alignment of medical curricula across EAC partner states to ensure comparable standards and facilitate mobility of graduates.\",\n    \"Regional_Initiatives\": [\n      \"East African Community (EAC) Medical Curriculum Harmonization\",\n      \"EAC Sectoral Council of Ministers of Health\",\n      \"East African Health Research Commission (EAHRC)\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Development of EAC Minimum Standards and Guidelines for Medical Education\",\n      \"Establishment of Regional Accreditation Mechanisms\",\n      \"Capacity Building Workshops for Faculty\",\n      \"Use of Technology and E-Learning Platforms\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Medical Schools\",\n      \"National Medical Councils\",\n      \"EAC Secretariat\",\n      \"East African Health Research Commission (EAHRC)\",\n      \"Ministries of Health\",\n      \"Faculty\",\n      \"Students\"\n    ],\n    \"Data_Sources\": [\n      \"Published Literature\",\n      \"Policy Documents\",\n      \"EAC Documents\",\n      \"Expert Opinions\",\n      \"Workshop Reports\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Significant progress in developing EAC minimum standards and guidelines for medical education.\",\n      \"Challenges remain in implementation due to varying national contexts and resource constraints.\",\n      \"Harmonization efforts have the potential to improve the quality and relevance of medical education in the region.\",\n      \"Increased mobility of medical graduates within the EAC region.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Varying national contexts and priorities\",\n      \"Resource constraints\",\n      \"Lack of political will\",\n      \"Resistance to change from some stakeholders\",\n      \"Inadequate infrastructure\",\n      \"Language barriers\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political commitment from EAC member states\",\n      \"Active involvement of key stakeholders\",\n      \"Availability of funding\",\n      \"Effective communication and coordination\",\n      \"Use of technology and e-learning platforms\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen political commitment and resource allocation\",\n      \"Enhance stakeholder engagement and ownership\",\n      \"Address resource constraints and infrastructure gaps\",\n      \"Promote the use of technology and e-learning platforms\",\n      \"Develop robust monitoring and evaluation mechanisms\"\n    ],\n    \"Future_Research\": [\n      \"Impact of curriculum harmonization on the quality of medical education and healthcare outcomes\",\n      \"Cost-effectiveness of different harmonization approaches\",\n      \"Sustainability of harmonization efforts\",\n      \"Role of technology in facilitating harmonization\"\n    ],\n    \"Specific_Examples\": [\n      \"Development of EAC Minimum Standards and Guidelines for Medical Education\",\n      \"Establishment of Regional Accreditation Mechanisms\",\n      \"Capacity Building Workshops for Faculty\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Regional Accreditation\",\n      \"Minimum Standards and Guidelines\",\n      \"Capacity Building Workshops\",\n      \"E-Learning Platforms\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Resource Constraints\",\n      \"Political Will\",\n      \"National Contexts\",\n      \"Resistance to Change\",\n      \"Infrastructure Gaps\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political Commitment\",\n      \"Stakeholder Involvement\",\n      \"Funding Availability\",\n      \"Effective Communication\",\n      \"Technology Use\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Improved Quality of Medical Education\",\n      \"Increased Mobility of Graduates\",\n      \"Enhanced Healthcare Outcomes\",\n      \"Regional Integration\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 621,
+      "candidatesTokenCount": 1300,
+      "totalTokenCount": 1921,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 621
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1300
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "I51SaL6SKprnqsMPzonmkA0"
+  }
+}

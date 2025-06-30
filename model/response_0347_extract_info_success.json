@@ -1,0 +1,45 @@
+{
+  "response_id": 347,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:01:10.675032",
+  "metadata": {
+    "apa_number": 229,
+    "url": "https://link.springer.com/article/10.1007/s41297-023-00200-3",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://link.springer.com/article/10.1007/s41297-023-00200-3\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in Africa, specifically examining the East African Community (EAC) and the Southern African Development Community (SADC). It addresses harmonization across institutions and countries, discussing regional frameworks, cross-border education, mutual recognition, and credit transfer systems. The paper explicitly mentions the EAC Protocol on Education and Training and the SADC Protocol on Education and Training as key regional frameworks.\",\n  \"Title\": \"Curriculum Harmonisation and Cross-Border Higher Education in Africa: A Comparative Analysis of East African Community and Southern African Development Community\",\n  \"Authors\": [\n    \"Damiano Elias Elele\",\n    \"Aloys Ayako\",\n    \"Pamela Abbott\"\n  ],\n  \"Year\": \"2023\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Springer\",\n    \"DOI_URL\": \"https://doi.org/10.1007/s41297-023-00200-3\",\n    \"APA_Reference\": \"Elele, D. E., Ayako, A., & Abbott, P. (2023). Curriculum Harmonisation and Cross-Border Higher Education in Africa: A Comparative Analysis of East African Community and Southern African Development Community. *Higher Education for the Future*, *11*(2), 205-223. https://doi.org/10.1007/s41297-023-00200-3\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Comparative Analysis\",\n    \"Geographic_Focus\": \"East African Community (EAC) and Southern African Development Community (SADC)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable (document analysis)\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated, but implicitly uses regional integration theory.\",\n    \"Harmonization_Definition\": \"Curriculum harmonization is defined as the process of aligning curricula across different educational institutions or countries to facilitate comparability, recognition of qualifications, and mobility of students and professionals.\",\n    \"Regional_Initiatives\": [\n      \"East African Community (EAC) Protocol on Education and Training\",\n      \"Southern African Development Community (SADC) Protocol on Education and Training\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Policy frameworks\",\n      \"Mutual recognition agreements\",\n      \"Credit transfer systems\",\n      \"Regional qualifications frameworks\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments\",\n      \"Higher education institutions\",\n      \"Regional bodies (EAC, SADC)\",\n      \"Students\",\n      \"Employers\"\n    ],\n    \"Data_Sources\": [\n      \"Policy documents\",\n      \"Legal frameworks\",\n      \"Academic literature\",\n      \"Reports from regional organizations\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Curriculum harmonization is crucial for promoting cross-border higher education and regional integration in Africa.\",\n      \"The EAC and SADC have made progress in developing regional frameworks for curriculum harmonization, but implementation remains a challenge.\",\n      \"Differences in national education systems and regulatory frameworks hinder the harmonization process.\",\n      \"Mutual recognition of qualifications is essential for facilitating student and professional mobility.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of political will\",\n      \"Inadequate funding\",\n      \"Differences in national education systems\",\n      \"Resistance from some stakeholders\",\n      \"Limited capacity for implementation\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political commitment\",\n      \"Adequate funding\",\n      \"Effective coordination among stakeholders\",\n      \"Clear and transparent frameworks\",\n      \"Capacity building\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen regional frameworks for curriculum harmonization.\",\n      \"Increase funding for harmonization initiatives.\",\n      \"Promote greater collaboration among stakeholders.\",\n      \"Develop clear and transparent mechanisms for mutual recognition of qualifications.\",\n      \"Build capacity for implementation.\"\n    ],\n    \"Future_Research\": [\n      \"Further research is needed to assess the impact of curriculum harmonization on student and professional mobility.\",\n      \"More research is needed to identify best practices for implementing curriculum harmonization initiatives.\",\n      \"Research should explore the role of technology in facilitating curriculum harmonization.\"\n    ],\n    \"Specific_Examples\": [\n      \"The EAC Protocol on Education and Training aims to harmonize curricula across member states.\",\n      \"The SADC Protocol on Education and Training promotes the development of regional qualifications frameworks.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Regional protocols\",\n      \"Mutual recognition agreements\",\n      \"Credit transfer systems\",\n      \"Regional qualifications frameworks\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Political will\",\n      \"Funding\",\n      \"National education system differences\",\n      \"Stakeholder resistance\",\n      \"Implementation capacity\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political commitment\",\n      \"Funding\",\n      \"Stakeholder coordination\",\n      \"Transparent frameworks\",\n      \"Capacity building\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Student mobility\",\n      \"Professional mobility\",\n      \"Regional integration\",\n      \"Economic development\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 633,
+      "candidatesTokenCount": 1272,
+      "totalTokenCount": 1905,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 633
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1272
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "bpxSaLP5O5rnqsMPzonmkA0"
+  }
+}

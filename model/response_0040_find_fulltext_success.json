@@ -1,0 +1,46 @@
+{
+  "response_id": 40,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:30:15.728095",
+  "metadata": {
+    "url": "https://ajates-scholarly.com/index.php/ajates/article/view/30",
+    "final_url": "https://ajates-scholarly.com/index.php/ajates/article/view/30",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"A SYSTEMATIC REVIEW OF PUBLIC BUDGETING STRATEGIES IN DEVELOPING ECONOMIES: TOOLS FOR TRANSPARENT FISCAL GOVERNANCE\",\n    \"authors\": [\n      \"Sazzad Islam\"\n    ],\n    \"doi\": \"10.63125/wm547117\",\n    \"journal\": \"American Journal of Advanced Technology and Engineering Solutions\",\n    \"year\": \"2025\",\n    \"abstract\": \"This systematic review investigates the evolution, implementation, and effectiveness of public budgeting strategies in developing economies, with a particular focus on transparency, equity, and institutional accountability. Drawing on a total of 94 peer-reviewed articles and high-quality institutional studies published between 2015 and 2025, the study examines the adoption and outcomes of key budgeting reforms, including participatory budgeting, performance-based budgeting, gender-responsive budgeting, and donor-supported fiscal initiatives. Employing the PRISMA 2020 guidelines, the review followed a rigorous multi-stage process involving identification, screening, eligibility assessment, and synthesis, resulting in a thematically structured evaluation of reform models across diverse regional contexts. The findings demonstrate that while budgeting innovations such as participatory budgeting in Sub-Saharan Africa and Latin America, performance-based budgeting in Southeast Asia, and gender-responsive budgeting in South Asia have produced measurable improvements in service delivery and transparency, their effectiveness remains uneven and highly context-dependent. Key barriers to sustained reform include limited administrative capacity, fragmented inter-ministerial coordination, weak political will, and the pervasive influence of informal institutions such as clientelism and patronage networks. Furthermore, donor-driven reforms, while often effective in catalyzing change, frequently suffer from limited local ownership and post-project sustainability challenges. The review also identifies critical gaps in the existing literature, including a dearth of longitudinal impact assessments, insufficient multi-country comparative analyses, and limited empirical work on the integration of digital platforms for budget transparency and citizen engagement. The study contributes to the growing body of public financial management scholarship by offering a comparative, evidence-based synthesis that highlights both the opportunities and systemic constraints shaping fiscal governance in the Global South. Ultimately, the review underscores the need for adaptive, politically aware, and institutionally grounded approaches to public budgeting reform that align with local governance realities and long-term development goals.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://ajates-scholarly.com/index.php/ajates/article/download/30/28\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.0001552209664040651
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2309,
+      "candidatesTokenCount": 624,
+      "totalTokenCount": 2933,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2309
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 624
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "M5VSaLWONprnqsMPzonmkA0"
+  }
+}

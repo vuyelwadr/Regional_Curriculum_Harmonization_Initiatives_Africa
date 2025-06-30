@@ -1,0 +1,60 @@
+{
+  "response_id": 65,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:33:09.294169",
+  "metadata": {
+    "url": "http://www.ccsenet.org/journal/index.php/hes/article/view/24852",
+    "final_url": "https://www.ccsenet.org/journal/index.php/hes/article/view/24852",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Conceptualizing Harmonization of Higher Education Systems: The Application of Regional Integration Theories on Higher Education Studies\",\n    \"authors\": [\n      \"Emnet Woldegiorgis\"\n    ],\n    \"doi\": \"10.5539/hes.v3n2p12\",\n    \"journal\": \"Higher Education Studies\",\n    \"year\": \"2013\",\n    \"abstract\": \"There have been various higher education policy reforms at regional level to overcome the challenges and impacts of globalization in the current knowledge based global economy. Universities have already been involved in various internationalization processes establishing both bilateral and multilateral cooperations across borders. Through various integration schemes, regional organizations like the European Union (EU) and its Commission, the African Union (AU) and its Commission are engaging in policy harmonization processes to foster more integration and provide regional remedies for the common challenges of globalization in their respective regions. Researchers also engaged in academic debates and analyze various higher education system integration discourses at professional level. Most of the theories used in higher education discourses however are borrowed from other disciplines and when terms and concepts from other disciplines migrate to the higher education sector and vice versa there is fertile ground for confusion and misunderstanding unless they are conceptually framed and analyzed. This particular article focuses on theories of regional integration and higher education harmonization discourses. It discusses the process of policy harmonization in higher education and interprets the notions of regional integration theories in the interpretive paradigms of informal/formal, top-down/bottom- up, proactive/reactive, gradual/ quantum leap and internally driven/ externally driven relationships in policy formulations. These interpretive paradigms provide a theoretical perspective on conceptual framework of higher education harmonization and integration schemes form the neo-functionalist and intergovernmentalist point of view.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://ccsenet.org/journal/index.php/hes/article/download/24852/16016\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 95,
+              "endIndex": 216,
+              "uri": "http://www.tuningjournal.org/article/view/1415/1735"
+            },
+            {
+              "startIndex": 398,
+              "endIndex": 2154,
+              "uri": "http://eric.ed.gov/?id=EJ1080195"
+            }
+          ]
+        },
+        "avgLogprobs": -0.0003591542481444776
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2767,
+      "candidatesTokenCount": 512,
+      "totalTokenCount": 3279,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2767
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 512
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "4pVSaPuxEYuZhMIPlvTuyQY"
+  }
+}

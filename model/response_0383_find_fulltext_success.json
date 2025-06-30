@@ -1,0 +1,60 @@
+{
+  "response_id": 383,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:04:13.797156",
+  "metadata": {
+    "url": "https://scholar.kyobobook.co.kr/article/detail/4010070131395",
+    "final_url": "https://scholar.kyobobook.co.kr/article/detail/4010070131395",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"영유아 교사의 놀이 중심 학습공동체 연구동향 분석: 2020-2024년을 중심으로\",\n    \"authors\": [\n      \"차현주\",\n      \"임지용\",\n      \"김미류\"\n    ],\n    \"doi\": \"10.22251/jlcci.2024.24.21.467\",\n    \"journal\": \"학습자중심교과교육연구\",\n    \"year\": \"2024\",\n    \"abstract\": \"목적 본 연구에서는 영유아 교육기관의 2019 개정 누리과정 시행 이후, 영유아 교사의 놀이 중심 학습공동체와 관련된 연구 동향을 분석하여 교사학습공동체의 실제와 나아가야 할 방향을 제시하고자 하였다.\\n방법 2020년부터 2024년 5월까지 영유아 교육⋅보육 기관의 놀이 중심 교사학습공동체를 주제로 한국학술정보(KISS), DBpia, 한국교육학술정보원(RISS)에서 검색한 학위논문과 학술지 논문 72편을 대상으로 Excel 2016 프로그램을 활용하여 빈도분석 및 백분율을 산출하였다.\\n결과 본 연구의 주요 결과를 살펴보면, 연도 분포별로 영유아 교사의 놀이 중심 학습공동체 논문은 점차 증가하고 있었으며, 유치원 교사와 어린이집 교사를 대상으로 한 연구가 많이 이루어졌다. 연구 유형으로는 질적연구가 가장 많이 나타났으며, 연구 주제로는 놀이 중심 학습공동체에 참여한 경험과 의미를 분석한 주제가 가장 많이 나타났다. 놀이 중심 학습공동체 연구에 나타난 공동체의 특징을 살펴본 결과, 영유아 교사들은 수평적인 관계를 바탕으로 협력을 이룬 것이 가장 많이 나타났으며, 협력의 양상은 고민 공유 및 해결이 가장 많이 나타났다. 운영 구조는 내부 구조가 가장 많이 나타났고, 대면 방식의 만남 형태가 가장 많이 이루어졌다. 영유아 교사의 놀이 중심 학습공동체 연구의 논의 및 시사점으로는 영유아 교사의 놀이 중심 학습공동체 활동 측면이 가장 많이 나타났으며, 그중에서도 개인적 측면의 교사 변화에 대한 키워드가 가장 많이 도출되었다.\\n결론 후속 연구에 주는 시사점으로 놀이 중심 학습공동체 연구 대상의 다양화, 다양한 평가도구 개발을 통한 양적연구와 혼합연구의 확장, 교사들의 학습공동체 인식 및 의식 연구를 통한 프로그램 개발⋅실행⋅평가 등이 필요함을 제언하였다.\"\n  },\n  \"fulltext_links\": [],\n  \"repository_indicators\": [],\n  \"paywall_detected\": true,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 431,
+              "endIndex": 593,
+              "uri": "https://scholar.kyobobook.co.kr/article/detail/4010070131395"
+            },
+            {
+              "startIndex": 594,
+              "endIndex": 1067,
+              "uri": "https://scholar.kyobobook.co.kr/article/detail/4010070131395"
+            }
+          ]
+        },
+        "avgLogprobs": -2.2180498974518318e-05
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3878,
+      "candidatesTokenCount": 819,
+      "totalTokenCount": 4697,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3878
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 819
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "Kp1SaIzBCLPQhMIP372DoQ0"
+  }
+}

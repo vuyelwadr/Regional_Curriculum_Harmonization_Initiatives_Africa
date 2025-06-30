@@ -1,0 +1,54 @@
+{
+  "response_id": 218,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:48:18.311425",
+  "metadata": {
+    "url": "https://journal.stitmadani.ac.id/index.php/JPI/article/view/487",
+    "final_url": "https://journal.stitmadani.ac.id/index.php/JPI/article/view/487",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Digital-based learning planning at baiturrahman islamic boarding school in the academic year 2024/2025\",\n    \"authors\": [\n      \"Asep Deni\",\n      \"Maemunah Sa’diyah\",\n      \"Ouedraogo saidou\"\n    ],\n    \"doi\": \"10.51468/jpi.v6i1.487\",\n    \"journal\": \"At Turots: Jurnal Pendidikan Islam\",\n    \"year\": \"2024\",\n    \"abstract\": \"This research aims to describe digital-based learning planning in Islamic boarding schools. This research uses a qualitative method with a field study approach conducted at Baiturrahman Islamic Boarding School in Ciparay, Bandung Regency. Data collection techniques were carried out through observation, interviews, and documentary studies. Data analysis uses Miles and Huberman's model, namely data reduction, data display, and conclusion drawing. The advancement of information technology nowadays affects all fields, including education. Therefore, educational institutions, including Islamic boarding schools, need to transform towards digital-based learning. The research findings indicate that Baiturrahman Islamic Boarding School is undergoing a digital-based learning transformation in response to the demands of education in the rapid advancement of information technology era. This transformation will be fully implemented starting from July 2024. However, the planning and preparation have been conducted since 2023. The planning of this program begins with support from the policy stakeholders, namely the Yayasan Baiturrahman Indonesia, followed by the formation of a special team and benchmarking visits to schools that have implemented digital-based learning processes. The next steps involve the implementation of preparation stages as follows: (1) introduction and preparation stage; (2) platform selection; (3) implementation stage; and (4) preparation of financing estimates\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://journal.stitmadani.ac.id/index.php/JPI/article/download/487/266\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://journal.stitmadani.ac.id/index.php/JPI/article/view/487\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 422,
+              "endIndex": 1914
+            }
+          ]
+        },
+        "avgLogprobs": -0.001643866800621852
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2922,
+      "candidatesTokenCount": 596,
+      "totalTokenCount": 3518,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2922
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 596
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "bplSaP-hLZbrqsMPiOTvsQI"
+  }
+}

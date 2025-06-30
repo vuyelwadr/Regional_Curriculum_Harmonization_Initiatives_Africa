@@ -1,0 +1,45 @@
+{
+  "response_id": 463,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:11:18.044451",
+  "metadata": {
+    "apa_number": 331,
+    "url": "https://www.academia.edu/31335455/Paper_Title_Cultural_and_Linguistic_Dilemmas_in_African_Development_Trajectory_1",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://www.academia.edu/31335455/Paper_Title_Cultural_and_Linguistic_Dilemmas_in_African_Development_Trajectory_1\",\n  \"MATCHES_CRITERIA\": false,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper discusses cultural and linguistic issues in African development but does not focus on regional curriculum harmonization initiatives. It does not address harmonization across institutions/countries, regional frameworks, cross-border education, mutual recognition, or credit transfer systems.\",\n  \"Title\": \"Cultural and Linguistic Dilemmas in African Development Trajectory\",\n  \"Authors\": [\n    \"Okonkwo, Uchechukwu Chris\",\n    \"Eme, Okechukwu Innocent\",\n    \"Nnabuife, Samuel Chukwudi\"\n  ],\n  \"Year\": \"2016\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 637,
+      "candidatesTokenCount": 193,
+      "totalTokenCount": 830,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 637
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 193
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "1J5SaOGjH5rnqsMPzonmkA0"
+  }
+}

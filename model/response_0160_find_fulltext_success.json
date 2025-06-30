@@ -1,0 +1,46 @@
+{
+  "response_id": 160,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:42:21.609518",
+  "metadata": {
+    "url": "https://guides.lib.utexas.edu/c.php?g=493787&p=10653473",
+    "final_url": "https://guides.lib.utexas.edu/c.php?g=493787&p=10653473",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"LibGuides: Library & Information Science: Databases covering research from the global south\",\n    \"authors\": [\n      \"Meryl Brodsky\"\n    ],\n    \"doi\": null,\n    \"journal\": null,\n    \"year\": \"2025\",\n    \"abstract\": null\n  },\n  \"fulltext_links\": [],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"low\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.0029369647929210537
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3480,
+      "candidatesTokenCount": 151,
+      "totalTokenCount": 3631,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3480
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 151
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "DJhSaMK_EMWUsbQP-d_MIQ"
+  }
+}

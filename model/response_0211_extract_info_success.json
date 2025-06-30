@@ -1,0 +1,45 @@
+{
+  "response_id": 211,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:48:03.159726",
+  "metadata": {
+    "apa_number": 114,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003092",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003092\",\n  \"MATCHES_CRITERIA\": false,\n  \"CRITERIA_MATCH_EXPLANATION\": \"This paper focuses on medical education and workforce development in Africa, but it does not address regional curriculum harmonization initiatives. It discusses challenges and opportunities in medical education, but not in the context of cross-border or multi-national curriculum alignment. There is no mention of regional frameworks, cross-border education, mutual recognition, credit transfer systems, or regional qualifications frameworks.\",\n  \"Title\": \"Medical education and workforce development in Africa: Progress, challenges, and opportunities\",\n  \"Authors\": [\n    \"Eric L. Krakauer\",\n    \"Gene Bukhman\",\n    \"Agnes Binagwaho\",\n    \"Paul Farmer\"\n  ],\n  \"Year\": \"2020\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 634,
+      "candidatesTokenCount": 217,
+      "totalTokenCount": 851,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 634
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 217
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "YZlSaIC9EprnqsMPzonmkA0"
+  }
+}

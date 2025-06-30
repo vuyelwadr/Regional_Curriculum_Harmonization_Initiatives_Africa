@@ -1,0 +1,55 @@
+{
+  "response_id": 378,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:03:25.794098",
+  "metadata": {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5814861/",
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5814861/",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Assessing the Impact of Early Learning Programs in Africa\",\n    \"authors\": [\n      \"Amber Gove\",\n      \"Tracy Brunette\",\n      \"Jennae Bulat\",\n      \"Bidemi Carrol\",\n      \"Catherine Henny\",\n      \"Wykia Macon\",\n      \"Evangeline Nderu\",\n      \"Yasmin Sitabkhan\"\n    ],\n    \"doi\": \"10.1002/cad.20224\",\n    \"journal\": \"New Directions for Child and Adolescent Development\",\n    \"year\": \"2017\",\n    \"abstract\": \"We present results from early learning programs in six African countries: Ethiopia, Kenya, Liberia, Malawi, Tanzania, and Uganda. In partnership with ministries of education, RTI International has worked within government systems to support the ...\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://pmc.ncbi.nlm.nih.gov/articles/PMC5814861/pdf/CAD-2017-25.pdf\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://pmc.ncbi.nlm.nih.gov/articles/PMC5814861/\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 505,
+              "endIndex": 749,
+              "uri": "https://pubmed.ncbi.nlm.nih.gov/29243385/"
+            }
+          ]
+        },
+        "avgLogprobs": -1.828539877747878e-05
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2944,
+      "candidatesTokenCount": 390,
+      "totalTokenCount": 3334,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2944
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 390
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "-5xSaPDBJLqFsbQPqNrRqAQ"
+  }
+}

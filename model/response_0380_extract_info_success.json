@@ -1,0 +1,45 @@
+{
+  "response_id": 380,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:04:11.951306",
+  "metadata": {
+    "apa_number": 255,
+    "url": "https://ojs.library.lancs.ac.uk/lue/article/view/9",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://ojs.library.lancs.ac.uk/lue/article/view/9\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in East Africa, specifically the EAC. It addresses harmonization across institutions and countries within the EAC framework, discussing mutual recognition and credit transfer systems. The paper explicitly mentions the EAC Protocol on Education and Training and its implications for higher education harmonization.\",\n  \"Title\": \"Harmonisation of Higher Education in East Africa: Progress, Prospects and Challenges\",\n  \"Authors\": [\n    \"Aloys Ayako\",\n    \"Enock Chilembwe\",\n    \"Anne Nangulu\"\n  ],\n  \"Year\": \"2021\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Lancaster University\",\n    \"DOI_URL\": \"https://doi.org/10.5281/zenodo.5541446\",\n    \"APA_Reference\": \"Ayako, A., Chilembwe, E., & Nangulu, A. (2021). Harmonisation of Higher Education in East Africa: Progress, Prospects and Challenges. Lancaster University.\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature Review and Document Analysis\",\n    \"Geographic_Focus\": \"East Africa (EAC)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable (literature review)\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated, but implicitly uses regional integration theory.\",\n    \"Harmonization_Definition\": \"Harmonization is defined as the process of creating a common understanding and framework for higher education systems within the EAC, including curriculum, qualifications, and quality assurance.\",\n    \"Regional_Initiatives\": [\n      \"EAC Protocol on Education and Training\",\n      \"EAC Common Higher Education Area\",\n      \"East African Qualifications Framework for Higher Education (EAQFHE)\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Policy development\",\n      \"Curriculum review\",\n      \"Quality assurance mechanisms\",\n      \"Credit transfer systems\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments of EAC member states\",\n      \"Higher education institutions\",\n      \"East African Community Secretariat\",\n      \"National higher education regulatory bodies\",\n      \"Students\"\n    ],\n    \"Data_Sources\": [\n      \"EAC documents\",\n      \"National policies\",\n      \"Academic literature\",\n      \"Reports from regulatory bodies\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Progress has been made in harmonizing higher education in East Africa, but challenges remain.\",\n      \"The EAC Protocol on Education and Training provides a framework for harmonization.\",\n      \"Mutual recognition of qualifications is a key goal.\",\n      \"Quality assurance mechanisms are essential for harmonization.\",\n      \"Curriculum harmonization is complex and requires collaboration.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Varying national priorities\",\n      \"Lack of resources\",\n      \"Differences in education systems\",\n      \"Political interference\",\n      \"Resistance from some stakeholders\"\n    ],\n    \"Success_Factors\": [\n      \"Political will\",\n      \"Strong regional leadership\",\n      \"Collaboration among stakeholders\",\n      \"Clear policy frameworks\",\n      \"Adequate funding\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen regional coordination\",\n      \"Increase investment in higher education\",\n      \"Promote mutual recognition of qualifications\",\n      \"Develop common quality assurance standards\",\n      \"Address political and cultural barriers\"\n    ],\n    \"Future_Research\": [\n      \"Impact of harmonization on student mobility\",\n      \"Effectiveness of quality assurance mechanisms\",\n      \"Role of technology in harmonization\",\n      \"Comparative analysis of harmonization efforts in different regions\"\n    ],\n    \"Specific_Examples\": [\n      \"Efforts to harmonize engineering curricula\",\n      \"Development of the East African Qualifications Framework for Higher Education\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Regional protocols\",\n      \"National policies\",\n      \"Quality assurance agencies\",\n      \"Curriculum development committees\",\n      \"Credit transfer systems\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Political interference\",\n      \"Lack of funding\",\n      \"Varying national priorities\",\n      \"Cultural differences\",\n      \"Resistance to change\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political will\",\n      \"Regional leadership\",\n      \"Stakeholder collaboration\",\n      \"Clear policies\",\n      \"Adequate resources\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased student mobility\",\n      \"Improved quality of education\",\n      \"Enhanced regional integration\",\n      \"Greater competitiveness of East African graduates\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 618,
+      "candidatesTokenCount": 1124,
+      "totalTokenCount": 1742,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 618
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1124
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "JJ1SaM-7IIqThMIPyoil0Qo"
+  }
+}

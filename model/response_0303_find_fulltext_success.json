@@ -1,0 +1,64 @@
+{
+  "response_id": 303,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:57:06.283024",
+  "metadata": {
+    "url": "https://link.springer.com/10.1007/s10734-023-01000-4",
+    "final_url": "https://link.springer.com/article/10.1007/s10734-023-01000-4",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"‘The unofficial curriculum is where the real teaching takes place’: faculty experiences of decolonising the curriculum in Africa\",\n    \"authors\": [\n      \"Liisa Laakso\",\n      \"Kajsa Hallberg Adu\"\n    ],\n    \"doi\": \"10.1007/s10734-023-01000-4\",\n    \"journal\": \"Higher Education\",\n    \"year\": \"2023\",\n    \"abstract\": \"This paper analyses faculty experiences tackling global knowledge asymmetries by examining the decolonisation of higher education in Africa in the aftermath of the 2015 ‘Rhodes Must Fall’ student uprising. An overview of the literature reveals a rich debate on defining ‘decolonisation’, starting from a critique of Eurocentrism to propositions of alternate epistemologies. These debates are dominated by the Global North and South Africa and their experiences of curriculum reform. Our focus is on the experiences of political scientists in Botswana, Ghana, Kenya, and Zimbabwe. These countries share the same Anglophone political science traditions but represent different political trajectories that constitute a significant condition for the discipline. The 26 political scientists we interviewed acted toward increasing local content and perspectives in their teaching, as promoted in the official strategies of the universities. They noted that what was happening in lecture halls was most important. The academic decolonisation debate appeared overambitious or even as patronising to them in their own political context. National politics affected the thematic focus of the discipline both as far as research topics and students’ employment opportunities were concerned. Although university bureaucracies were slow to respond to proposed curricula changes, new programmes were approved if there was a market-based demand for them. International programs tended to be approved fastest. Political economy of higher education plays a role: dependency on foreign funding, limited national resources to conduct research and produce publications vis-à-vis international competition, and national quality assurance standards appeared to be most critical constraints for decolonising the curriculum.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://link.springer.com/content/pdf/10.1007/s10734-023-01000-4.pdf\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://link.springer.com/article/10.1007/s10734-023-01000-4\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": true,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 97,
+              "endIndex": 223,
+              "uri": "https://intervention.ng/28096/"
+            },
+            {
+              "startIndex": 389,
+              "endIndex": 524,
+              "uri": "https://paperity.org/p/303008216/the-unofficial-curriculum-is-where-the-real-teaching-takes-place-faculty-experiences-of"
+            },
+            {
+              "startIndex": 413,
+              "endIndex": 2205
+            }
+          ]
+        },
+        "avgLogprobs": -0.0010309856193803518
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2771,
+      "candidatesTokenCount": 643,
+      "totalTokenCount": 3414,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2771
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 643
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "fptSaNrtIqiUsbQPmK3KkQI"
+  }
+}

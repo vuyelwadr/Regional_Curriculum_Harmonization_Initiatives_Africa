@@ -1,0 +1,45 @@
+{
+  "response_id": 136,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:40:08.429539",
+  "metadata": {
+    "apa_number": 94,
+    "url": "https://cultureandvalues.org/index.php/JCV/article/download/153/82",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://cultureandvalues.org/index.php/JCV/article/download/153/82\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper discusses regional curriculum harmonization initiatives in Africa, specifically focusing on the East African Community (EAC) and the SADC frameworks. It addresses harmonization across institutions and countries, mentioning cross-border education and mutual recognition of qualifications. The paper explicitly discusses regional frameworks for higher education.\",\n  \"Title\": \"Harmonization of Higher Education Curricula in Africa: A Focus on the East African Community\",\n  \"Authors\": [\n    \"Pamela Abbott\",\n    \"Godfrey Telli\"\n  ],\n  \"Year\": \"2013\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Journal of Culture and Values\",\n    \"DOI_URL\": \"https://cultureandvalues.org/index.php/JCV/article/view/153\",\n    \"APA_Reference\": \"Abbott, P., & Telli, G. (2013). Harmonization of Higher Education Curricula in Africa: A Focus on the East African Community. Journal of Culture and Values, 1(1), 1-16. Retrieved from https://cultureandvalues.org/index.php/JCV/article/view/153\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature Review and Case Study\",\n    \"Geographic_Focus\": \"East African Community (EAC)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable (literature review)\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated\",\n    \"Harmonization_Definition\": \"Harmonization is defined as a process of aligning curricula to facilitate comparability and mobility of students and graduates within the EAC region.\",\n    \"Regional_Initiatives\": [\n      \"East African Community (EAC) Common Higher Education Area\",\n      \"SADC Protocol on Education and Training\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Curriculum review and development\",\n      \"Development of quality assurance mechanisms\",\n      \"Establishment of credit transfer systems\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments\",\n      \"Universities\",\n      \"Regional bodies (EAC Secretariat)\",\n      \"Students\"\n    ],\n    \"Data_Sources\": [\n      \"Policy documents\",\n      \"Academic literature\",\n      \"Reports from regional organizations\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Harmonization efforts in the EAC are progressing but face challenges.\",\n      \"Curriculum harmonization can enhance the quality and relevance of higher education.\",\n      \"Regional integration is facilitated by harmonized education systems.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of political will\",\n      \"Varying national priorities\",\n      \"Resistance from some universities\",\n      \"Funding constraints\"\n    ],\n    \"Success_Factors\": [\n      \"Strong regional leadership\",\n      \"Commitment from governments\",\n      \"Involvement of key stakeholders\",\n      \"Availability of resources\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen regional coordination mechanisms\",\n      \"Increase investment in higher education\",\n      \"Promote stakeholder engagement\",\n      \"Develop clear quality assurance frameworks\"\n    ],\n    \"Future_Research\": [\n      \"Impact of harmonization on student mobility\",\n      \"Effectiveness of different harmonization approaches\",\n      \"Role of technology in facilitating harmonization\"\n    ],\n    \"Specific_Examples\": [\n      \"Harmonization of engineering curricula in the EAC\",\n      \"Development of a regional qualifications framework\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Regional policies\",\n      \"Curriculum development workshops\",\n      \"Quality assurance agencies\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Political differences\",\n      \"Resource constraints\",\n      \"Cultural differences\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political commitment\",\n      \"Stakeholder collaboration\",\n      \"Adequate funding\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased student mobility\",\n      \"Improved quality of education\",\n      \"Enhanced regional integration\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 622,
+      "candidatesTokenCount": 1002,
+      "totalTokenCount": 1624,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 622
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1002
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "gZdSaO7-KrPQhMIP372DoQ0"
+  }
+}

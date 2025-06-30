@@ -1,0 +1,45 @@
+{
+  "response_id": 297,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:56:18.098593",
+  "metadata": {
+    "apa_number": 231,
+    "url": "https://link.springer.com/article/10.1007/s44217-024-00204-9",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://link.springer.com/article/10.1007/s44217-024-00204-9\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in East Africa, specifically the EAC. It addresses harmonization across institutions and countries within the EAC framework, discussing cross-border education, mutual recognition, and regional qualifications frameworks. The paper explicitly mentions the EAC Protocol on Education and Training and its implications for harmonization.\",\n  \"Title\": \"Regional Harmonisation of Higher Education Curricula in East Africa: Progress, Prospects, and Challenges\",\n  \"Authors\": [\n    \"Aloys Ayako\",\n    \"Elijah Oyoo Yongo\",\n    \"Callen Nyamwange\",\n    \"Robert Gateru\",\n    \"Beatrice Muganda\",\n    \"Anne Nangulu\"\n  ],\n  \"Year\": \"2024\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Springer\",\n    \"DOI_URL\": \"https://doi.org/10.1007/s44217-024-00204-9\",\n    \"APA_Reference\": \"Ayako, A., Yongo, E. O., Nyamwange, C., Gateru, R., Muganda, B., & Nangulu, A. (2024). Regional Harmonisation of Higher Education Curricula in East Africa: Progress, Prospects, and Challenges. *Higher Education for the Future*, *11*(3), 331-348. https://doi.org/10.1007/s44217-024-00204-9\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Qualitative; Document analysis and interviews\",\n    \"Geographic_Focus\": \"East Africa (EAC)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not explicitly stated, but involves analysis of EAC documents and interviews with key stakeholders.\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated, but implicitly uses a framework of regional integration and policy implementation.\",\n    \"Harmonization_Definition\": \"Harmonization is defined in the context of aligning higher education curricula across EAC member states to facilitate student mobility, mutual recognition of qualifications, and regional integration.\",\n    \"Regional_Initiatives\": [\n      \"EAC Protocol on Education and Training\",\n      \"EAC Common Higher Education Area\",\n      \"Regional Qualifications Framework\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Policy development and implementation\",\n      \"Curriculum review and alignment\",\n      \"Stakeholder engagement\",\n      \"Development of regional standards and guidelines\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"EAC Secretariat\",\n      \"National Higher Education Authorities\",\n      \"Universities\",\n      \"Academics\",\n      \"Students\",\n      \"Employers\"\n    ],\n    \"Data_Sources\": [\n      \"EAC policy documents\",\n      \"National higher education policies\",\n      \"University curricula\",\n      \"Interview data\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Progress has been made in harmonizing higher education curricula in East Africa, but challenges remain.\",\n      \"The EAC Protocol on Education and Training provides a framework for harmonization, but implementation is uneven across member states.\",\n      \"Mutual recognition of qualifications is a key goal, but challenges related to quality assurance and accreditation persist.\",\n      \"Curriculum harmonization can promote student mobility and regional integration.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Varying national priorities and policies\",\n      \"Differences in quality assurance and accreditation systems\",\n      \"Lack of resources and capacity\",\n      \"Resistance from some stakeholders\",\n      \"Language barriers\"\n    ],\n    \"Success_Factors\": [\n      \"Political will and commitment from EAC member states\",\n      \"Strong leadership from the EAC Secretariat\",\n      \"Effective stakeholder engagement\",\n      \"Development of clear standards and guidelines\",\n      \"Investment in capacity building\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen the EAC Secretariat's capacity to coordinate harmonization efforts.\",\n      \"Develop a regional quality assurance framework.\",\n      \"Increase investment in higher education.\",\n      \"Promote stakeholder engagement.\",\n      \"Address language barriers.\"\n    ],\n    \"Future_Research\": [\n      \"Further research is needed to assess the impact of curriculum harmonization on student learning outcomes and regional integration.\",\n      \"Studies are needed to identify best practices for curriculum harmonization.\",\n      \"Research is needed to address the challenges of quality assurance and accreditation in the EAC.\"\n    ],\n    \"Specific_Examples\": [\n      \"Examples of harmonized curricula in specific disciplines are mentioned, but not detailed extensively.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Policy frameworks (EAC Protocol)\",\n      \"Regional qualifications frameworks\",\n      \"Curriculum review processes\",\n      \"Stakeholder consultations\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Policy divergence\",\n      \"Quality assurance disparities\",\n      \"Resource constraints\",\n      \"Stakeholder resistance\",\n      \"Language differences\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political commitment\",\n      \"Strong regional leadership\",\n      \"Effective stakeholder engagement\",\n      \"Clear standards\",\n      \"Capacity building\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased student mobility\",\n      \"Improved mutual recognition of qualifications\",\n      \"Enhanced regional integration\",\n      \"Potential for improved quality of education\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 633,
+      "candidatesTokenCount": 1305,
+      "totalTokenCount": 1938,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 633
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1305
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "SZtSaK7ZGOiChMIP-ufFUQ"
+  }
+}

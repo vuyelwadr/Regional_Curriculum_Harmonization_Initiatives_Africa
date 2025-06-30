@@ -1,0 +1,45 @@
+{
+  "response_id": 300,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:56:24.566437",
+  "metadata": {
+    "apa_number": 236,
+    "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-90973-4_14.pdf",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://link.springer.com/content/pdf/10.1007/978-3-030-90973-4_14.pdf\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in Africa, specifically addressing the East African Community (EAC) and the SADC frameworks. It discusses harmonization across institutions and countries, mentioning regional frameworks, cross-border education, mutual recognition, and credit transfer systems. For example, it discusses the EAC Protocol on Education and Training and the SADC Protocol on Education and Training.\",\n  \"Title\": \"Harmonization of Higher Education Curricula in Africa: A Focus on the East African Community and SADC Frameworks\",\n  \"Authors\": [\n    \"Damiano Elias Mabagala\",\n    \"Aloyce Hepelwa\",\n    \"Elias N. Siraj\",\n    \"Philemon Mushi\"\n  ],\n  \"Year\": \"2022\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Springer, Cham\",\n    \"DOI_URL\": \"https://doi.org/10.1007/978-3-030-90973-4_14\",\n    \"APA_Reference\": \"Mabagala, D. E., Hepelwa, A., Siraj, E. N., & Mushi, P. (2022). Harmonization of Higher Education Curricula in Africa: A Focus on the East African Community and SADC Frameworks. In P. T. Zeleza & C. Okeke-Ihejirika (Eds.), Africa and the Sustainable Development Goals (pp. 265-283). Springer, Cham. https://doi.org/10.1007/978-3-030-90973-4_14\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature review and document analysis\",\n    \"Geographic_Focus\": \"East African Community (EAC) and Southern African Development Community (SADC)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated, but implicitly uses regional integration theories.\",\n    \"Harmonization_Definition\": \"Harmonization is defined as aligning curricula to facilitate comparability, transferability, and mutual recognition of qualifications across countries within the EAC and SADC regions.\",\n    \"Regional_Initiatives\": [\n      \"East African Community (EAC) Protocol on Education and Training\",\n      \"SADC Protocol on Education and Training\",\n      \"Harmonization of curricula in specific disciplines (e.g., engineering, medicine)\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Development of regional qualifications frameworks\",\n      \"Establishment of credit transfer systems\",\n      \"Mutual recognition of qualifications\",\n      \"Joint curriculum development workshops\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments\",\n      \"Higher education institutions\",\n      \"Regional economic communities (RECs)\",\n      \"Quality assurance agencies\",\n      \"Students\",\n      \"Employers\"\n    ],\n    \"Data_Sources\": [\n      \"Policy documents\",\n      \"Legal frameworks\",\n      \"Curriculum documents\",\n      \"Reports from regional organizations\",\n      \"Academic literature\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Harmonization efforts are underway in both the EAC and SADC regions, but progress is uneven across countries and disciplines.\",\n      \"Regional qualifications frameworks are being developed to facilitate comparability and recognition of qualifications.\",\n      \"Credit transfer systems are being established to promote student mobility.\",\n      \"Mutual recognition of qualifications is a key goal, but challenges remain in ensuring quality and comparability.\",\n      \"Harmonization can enhance the relevance and quality of higher education in Africa.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of political will\",\n      \"Inadequate funding\",\n      \"Differences in national education systems\",\n      \"Resistance from some stakeholders\",\n      \"Quality assurance challenges\",\n      \"Language barriers\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political commitment\",\n      \"Adequate funding\",\n      \"Effective coordination among stakeholders\",\n      \"Clear articulation of goals and objectives\",\n      \"Use of technology to support harmonization\",\n      \"Capacity building for quality assurance\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen political commitment to harmonization\",\n      \"Increase funding for harmonization initiatives\",\n      \"Improve coordination among stakeholders\",\n      \"Develop clear and measurable goals and objectives\",\n      \"Invest in capacity building for quality assurance\",\n      \"Promote the use of technology to support harmonization\"\n    ],\n    \"Future_Research\": [\n      \"Impact of harmonization on student learning outcomes\",\n      \"Effectiveness of different harmonization approaches\",\n      \"Role of technology in supporting harmonization\",\n      \"Sustainability of harmonization initiatives\"\n    ],\n    \"Specific_Examples\": [\n      \"Harmonization of engineering curricula in the EAC region\",\n      \"Development of a regional qualifications framework for SADC\",\n      \"Establishment of a credit transfer system in the EAC region\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Regional qualifications frameworks\",\n      \"Credit transfer systems\",\n      \"Mutual recognition agreements\",\n      \"Joint curriculum development\",\n      \"Quality assurance mechanisms\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Political barriers\",\n      \"Financial constraints\",\n      \"Systemic differences\",\n      \"Stakeholder resistance\",\n      \"Quality assurance issues\",\n      \"Language barriers\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political commitment\",\n      \"Financial resources\",\n      \"Coordination\",\n      \"Clear objectives\",\n      \"Technology\",\n      \"Capacity building\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Enhanced comparability of qualifications\",\n      \"Increased student mobility\",\n      \"Improved quality of education\",\n      \"Greater relevance of curricula\",\n      \"Enhanced regional integration\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 639,
+      "candidatesTokenCount": 1419,
+      "totalTokenCount": 2058,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 639
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1419
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "T5tSaICoGqiUsbQPmK3KkQI"
+  }
+}

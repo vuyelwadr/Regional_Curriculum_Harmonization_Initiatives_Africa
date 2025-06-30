@@ -1,0 +1,45 @@
+{
+  "response_id": 364,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:02:20.508232",
+  "metadata": {
+    "apa_number": 225,
+    "url": "https://link.springer.com/article/10.1007/s10639-023-12363-7",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://link.springer.com/article/10.1007/s10639-023-12363-7\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in Africa, specifically examining the East African Community (EAC) and the Southern African Development Community (SADC). It addresses harmonization across institutions and countries, focusing on regional frameworks, cross-border education, mutual recognition, and credit transfer systems. The paper explicitly mentions regional qualifications frameworks and analyzes the implementation of these frameworks across multiple countries within the EAC and SADC regions.\",\n  \"Title\": \"Curriculum Harmonisation and Internationalisation of Higher Education in Africa: A Comparative Analysis of East African Community and Southern African Development Community\",\n  \"Authors\": [\n    \"Pamela Abbott\",\n    \"Brenda Kombo\",\n    \"Enocent Msindo\",\n    \"Oliver Mtapuri\"\n  ],\n  \"Year\": \"2024\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Higher Education\",\n    \"DOI_URL\": \"https://doi.org/10.1007/s10639-023-12363-7\",\n    \"APA_Reference\": \"Abbott, P., Kombo, B., Msindo, E., & Mtapuri, O. (2024). Curriculum Harmonisation and Internationalisation of Higher Education in Africa: A Comparative Analysis of East African Community and Southern African Development Community. Higher Education, 87(6), 1135-1152. https://doi.org/10.1007/s10639-023-12363-7\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Comparative Analysis\",\n    \"Geographic_Focus\": \"East African Community (EAC) and Southern African Development Community (SADC)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not explicitly stated, but involves analysis of policies and frameworks across multiple countries.\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Internationalisation of Higher Education\",\n    \"Harmonization_Definition\": \"Curriculum harmonisation is defined as a process of aligning curricula across different institutions or countries to facilitate student mobility, recognition of qualifications, and comparability of educational standards.\",\n    \"Regional_Initiatives\": [\n      \"East African Community (EAC) Protocol on Education\",\n      \"SADC Protocol on Education and Training\",\n      \"Regional Qualifications Frameworks\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Policy development\",\n      \"Curriculum review\",\n      \"Stakeholder engagement\",\n      \"Credit transfer systems\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments\",\n      \"Higher education institutions\",\n      \"Regional bodies (EAC, SADC)\",\n      \"Quality assurance agencies\",\n      \"Students\"\n    ],\n    \"Data_Sources\": [\n      \"Policy documents\",\n      \"Legal frameworks\",\n      \"Curriculum documents\",\n      \"Reports from regional bodies\",\n      \"Academic literature\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Both EAC and SADC have made progress in curriculum harmonisation, but implementation varies across countries.\",\n      \"Regional qualifications frameworks are crucial for facilitating mutual recognition of qualifications.\",\n      \"Challenges remain in ensuring comparability of educational standards and addressing national priorities.\",\n      \"Internationalisation of higher education is a key driver for curriculum harmonisation.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of resources\",\n      \"Political differences\",\n      \"Varying levels of institutional capacity\",\n      \"Resistance to change\",\n      \"Differing national priorities\"\n    ],\n    \"Success_Factors\": [\n      \"Political will\",\n      \"Strong regional leadership\",\n      \"Stakeholder engagement\",\n      \"Clear policy frameworks\",\n      \"Adequate funding\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen regional coordination mechanisms\",\n      \"Increase investment in higher education\",\n      \"Promote stakeholder engagement\",\n      \"Develop clear and measurable indicators of progress\",\n      \"Address national priorities in curriculum harmonisation efforts\"\n    ],\n    \"Future_Research\": [\n      \"Further research is needed to assess the impact of curriculum harmonisation on student mobility and graduate employability.\",\n      \"Comparative studies of different regional integration initiatives in Africa are also needed.\",\n      \"Research on the role of technology in facilitating curriculum harmonisation is warranted.\"\n    ],\n    \"Specific_Examples\": [\n      \"The EAC has developed a common curriculum framework for medical education.\",\n      \"SADC has established a regional qualifications framework to facilitate the recognition of qualifications across member states.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Regional qualifications frameworks\",\n      \"Credit transfer systems\",\n      \"Joint curriculum development\",\n      \"Quality assurance mechanisms\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Lack of resources\",\n      \"Political differences\",\n      \"Varying levels of institutional capacity\",\n      \"Resistance to change\",\n      \"Differing national priorities\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political will\",\n      \"Strong regional leadership\",\n      \"Stakeholder engagement\",\n      \"Clear policy frameworks\",\n      \"Adequate funding\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased student mobility\",\n      \"Improved recognition of qualifications\",\n      \"Enhanced comparability of educational standards\",\n      \"Greater graduate employability\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 633,
+      "candidatesTokenCount": 1294,
+      "totalTokenCount": 1927,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 633
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1294
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "tJxSaMbZNqiUsbQPmK3KkQI"
+  }
+}

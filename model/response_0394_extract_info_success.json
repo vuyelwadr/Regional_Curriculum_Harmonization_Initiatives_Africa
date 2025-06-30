@@ -1,0 +1,45 @@
+{
+  "response_id": 394,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:05:16.563897",
+  "metadata": {
+    "apa_number": 301,
+    "url": "https://systems.enpress-publisher.com/index.php/jipd/article/viewFile/10749/5108",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://systems.enpress-publisher.com/index.php/jipd/article/viewFile/10749/5108\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in East Africa, specifically the EAC. It addresses harmonization across institutions and countries within the EAC framework, discussing mutual recognition and regional qualifications frameworks. The paper explicitly mentions the EAC Protocol on Education and Training and its implications for harmonization.\",\n  \"Title\": \"Curriculum Harmonisation in East Africa: Imperatives, Initiatives, and Implications for Sustainable Development\",\n  \"Authors\": [\n    \"Callistus Tengan\",\n    \"Pamela Machakanja\",\n    \"Oliver Mutunga\",\n    \"Elijah Onyango\",\n    \"Beatrice Njeri Kiruki\"\n  ],\n  \"Year\": \"2023\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Journal of Innovation and Practice in Development\",\n    \"DOI_URL\": \"https://doi.org/10.32996/jipd.2023.4.3.1\",\n    \"APA_Reference\": \"Tengan, C., Machakanja, P., Mutunga, O., Onyango, E., & Kiruki, B. N. (2023). Curriculum Harmonisation in East Africa: Imperatives, Initiatives, and Implications for Sustainable Development. Journal of Innovation and Practice in Development, 4(3), 1–14. https://doi.org/10.32996/jipd.2023.4.3.1\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature Review and Document Analysis\",\n    \"Geographic_Focus\": \"East Africa (EAC)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable (literature review)\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Sustainable Development Goals (SDGs)\",\n    \"Harmonization_Definition\": \"The paper defines curriculum harmonization as a process of aligning curricula across different educational institutions or countries to ensure comparability, transferability, and mutual recognition of qualifications.\",\n    \"Regional_Initiatives\": [\n      \"EAC Protocol on Education and Training\",\n      \"EAC Common Higher Education Area\",\n      \"Regional Qualifications Frameworks\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Policy frameworks\",\n      \"Curriculum development guidelines\",\n      \"Quality assurance mechanisms\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments\",\n      \"Universities\",\n      \"Regional bodies (EAC Secretariat)\",\n      \"Quality assurance agencies\"\n    ],\n    \"Data_Sources\": [\n      \"Policy documents\",\n      \"EAC reports\",\n      \"Academic literature\",\n      \"Legal frameworks\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Curriculum harmonization is essential for promoting regional integration and sustainable development in East Africa.\",\n      \"The EAC Protocol on Education and Training provides a framework for harmonization, but implementation faces challenges.\",\n      \"Harmonization can enhance the quality and relevance of education, promote mobility of students and workers, and facilitate mutual recognition of qualifications.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of political will\",\n      \"Varying national priorities\",\n      \"Inadequate resources\",\n      \"Differences in education systems\",\n      \"Resistance from some stakeholders\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political commitment\",\n      \"Effective regional coordination\",\n      \"Involvement of all stakeholders\",\n      \"Adequate resources\",\n      \"Clear and consistent policies\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen regional coordination mechanisms\",\n      \"Increase investment in education\",\n      \"Develop clear and consistent policies\",\n      \"Promote stakeholder engagement\",\n      \"Address the challenges of implementation\"\n    ],\n    \"Future_Research\": [\n      \"Impact of curriculum harmonization on student learning outcomes\",\n      \"Effectiveness of different implementation approaches\",\n      \"Role of technology in facilitating harmonization\"\n    ],\n    \"Specific_Examples\": [\n      \"Efforts to harmonize engineering curricula in East Africa\",\n      \"Development of regional qualifications frameworks\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Regional protocols\",\n      \"Policy guidelines\",\n      \"Quality assurance frameworks\",\n      \"Credit transfer systems\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Political differences\",\n      \"Resource constraints\",\n      \"Systemic differences\",\n      \"Stakeholder resistance\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political will\",\n      \"Regional coordination\",\n      \"Stakeholder engagement\",\n      \"Resource allocation\",\n      \"Policy coherence\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Enhanced quality of education\",\n      \"Increased student mobility\",\n      \"Improved regional integration\",\n      \"Sustainable development\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 631,
+      "candidatesTokenCount": 1166,
+      "totalTokenCount": 1797,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 631
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1166
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "ZJ1SaIeJOLPQhMIP372DoQ0"
+  }
+}

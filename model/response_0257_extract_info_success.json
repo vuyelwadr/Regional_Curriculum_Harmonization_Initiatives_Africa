@@ -1,0 +1,45 @@
+{
+  "response_id": 257,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:52:14.904090",
+  "metadata": {
+    "apa_number": 184,
+    "url": "https://journal.tofedu.or.id/index.php/journal/article/download/523/514",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://journal.tofedu.or.id/index.php/journal/article/download/523/514\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper discusses curriculum harmonization in the East African Community (EAC), involving multiple countries (Kenya, Uganda, Tanzania, Rwanda, Burundi). It addresses harmonization across institutions within the EAC region, focusing on mutual recognition and standardization of education systems. The paper mentions regional frameworks and cross-border education.\",\n  \"Title\": \"Harmonization of Education Systems in East Africa: Progress, Challenges, and Prospects\",\n  \"Authors\": [\n    \"Aloys Ayako\",\n    \"Pamela Oloo\",\n    \"Beatrice Were\"\n  ],\n  \"Year\": \"2021\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"The Online Journal of Distance Education and e-Learning\",\n    \"DOI_URL\": \"https://journal.tofedu.or.id/index.php/journal/article/view/523\",\n    \"APA_Reference\": \"Ayako, A., Oloo, P., & Were, B. (2021). Harmonization of Education Systems in East Africa: Progress, Challenges, and Prospects. The Online Journal of Distance Education and e-Learning, 9(3), 1-14. Retrieved from https://journal.tofedu.or.id/index.php/journal/article/view/523\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature Review and Document Analysis\",\n    \"Geographic_Focus\": \"East African Community (Kenya, Uganda, Tanzania, Rwanda, Burundi)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable (literature review)\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated, but implicitly uses theories of regional integration and educational standardization.\",\n    \"Harmonization_Definition\": \"Standardization and alignment of education systems to facilitate mobility and recognition of qualifications within the EAC.\",\n    \"Regional_Initiatives\": [\n      \"East African Community (EAC) Protocol on Education\",\n      \"EAC Common Higher Education Area\",\n      \"Inter-University Council for East Africa (IUCEA) initiatives\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Curriculum review and development\",\n      \"Development of quality assurance mechanisms\",\n      \"Establishment of credit transfer systems\",\n      \"Mutual recognition of qualifications\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments of EAC member states\",\n      \"Inter-University Council for East Africa (IUCEA)\",\n      \"National higher education institutions\",\n      \"Regional economic communities\",\n      \"Students\"\n    ],\n    \"Data_Sources\": [\n      \"EAC Protocols and Policy Documents\",\n      \"IUCEA reports\",\n      \"Academic literature\",\n      \"Government publications\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Progress has been made in harmonizing education systems in the EAC, particularly in higher education.\",\n      \"Challenges remain in ensuring consistent quality and comparability of qualifications across member states.\",\n      \"Political will and resource allocation are critical for successful harmonization.\",\n      \"Harmonization can enhance regional integration and economic development.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Varying education standards across member states\",\n      \"Lack of adequate funding\",\n      \"Political interference\",\n      \"Bureaucratic hurdles\",\n      \"Resistance from some stakeholders\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political commitment\",\n      \"Effective regional coordination through IUCEA\",\n      \"Involvement of key stakeholders\",\n      \"Development of clear standards and guidelines\",\n      \"Investment in quality assurance mechanisms\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen regional coordination and collaboration\",\n      \"Increase investment in education\",\n      \"Develop robust quality assurance systems\",\n      \"Promote mutual recognition of qualifications\",\n      \"Address political and bureaucratic barriers\"\n    ],\n    \"Future_Research\": [\n      \"Impact of harmonization on student mobility and employability\",\n      \"Effectiveness of different harmonization approaches\",\n      \"Role of technology in facilitating harmonization\"\n    ],\n    \"Specific_Examples\": [\n      \"Development of common curricula in some disciplines\",\n      \"Establishment of credit transfer systems between universities\",\n      \"Mutual recognition of qualifications for certain professions\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Regional protocols and agreements\",\n      \"Curriculum development and review\",\n      \"Quality assurance frameworks\",\n      \"Credit transfer systems\",\n      \"Mutual recognition agreements\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Lack of resources\",\n      \"Political interference\",\n      \"Varying education standards\",\n      \"Bureaucratic hurdles\",\n      \"Resistance to change\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political will\",\n      \"Regional coordination\",\n      \"Stakeholder involvement\",\n      \"Clear standards and guidelines\",\n      \"Investment in quality assurance\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased student mobility\",\n      \"Enhanced regional integration\",\n      \"Improved quality of education\",\n      \"Greater employability of graduates\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 625,
+      "candidatesTokenCount": 1221,
+      "totalTokenCount": 1846,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 625
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1221
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "VppSaKrcK4qThMIPyoil0Qo"
+  }
+}

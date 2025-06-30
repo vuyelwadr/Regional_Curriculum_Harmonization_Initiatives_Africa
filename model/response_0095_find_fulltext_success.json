@@ -1,0 +1,46 @@
+{
+  "response_id": 95,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:36:09.140260",
+  "metadata": {
+    "url": "https://crlljournal.org/index.php/crll/article/view/43",
+    "final_url": "https://crlljournal.org/index.php/crll/article/view/43",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"The  Views on EU Union Values and Media Literacy among Teachers and Students in Türkiye: A Field Study under the Jean Monnet EU4ALL Project\",\n    \"authors\": [\n      \"İbrahim AYDIN\",\n      \"Mehmet TOKGÖZ\"\n    ],\n    \"doi\": \"10.62601/crll.v3i1.43\",\n    \"journal\": \"CONTEMPORARY RESEARCH IN LANGUAGE AND LINGUISTICS (ISSN: 2980-2253)\",\n    \"year\": \"2025\",\n    \"abstract\": \"This research is based on a field study conducted throughout Konya within the scope of the Jean Monnet “EU4ALL – EU for All” Project. The aim of the research is to determine the knowledge levels, attitudes and educational needs of teachers and students on European Union (EU) values, media literacy, digital awareness, sustainability and cultural diversity. In the study, a quantitative research method was adopted and survey forms with a 5-point Likert-type scale were used. As of 2025, there is a total of 36,439 teachers and 543,379 students in Konya province, and data were collected with 535 teachers and 1,322 students selected from this population using the simple random sampling method. The survey data were collected in a digital environment and analyzed with frequency and percentage distributions. The research findings show that the vast majority of teachers have positive attitudes towards the EU's democratic principles, human rights, environmental policies and the Erasmus+ program. However, it is understood that the need for materials and competence in media literacy and digital pedagogical practices continues. It was determined that the level of knowledge about the EU is relatively low and media literacy awareness is more developed in terms of students. In particular, there is a serious lack of knowledge among students about EU institutions and the membership process. The research results indicate that teacher training, curriculum-based content and interactive materials for students should be developed for the integration of EU values, digital literacy and sustainability themes into the education system. In this respect, the study draws attention to the role of education in Turkey's EU harmonization process and offers guiding suggestions to policy makers.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://crlljournal.org/index.php/crll/article/download/43/33\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -5.2095600742371284e-06
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2951,
+      "candidatesTokenCount": 619,
+      "totalTokenCount": 3570,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2951
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 619
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "lZZSaMGZK_6ShMIPm7P8iAY"
+  }
+}

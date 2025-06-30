@@ -1,0 +1,46 @@
+{
+  "response_id": 185,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:45:11.260627",
+  "metadata": {
+    "url": "https://ijlter.org/index.php/ijlter/article/view/11932",
+    "final_url": "https://ijlter.org/index.php/ijlter/article/view/11932",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Decolonising Sound: The Scholarship of Teaching and Learning for 21st-Century Music Students in South Africa\",\n    \"authors\": [\n      \"Sakhiseni Joseph Yende\",\n      \"Zolile Celiwe Sinenhlanhla Xulu\"\n    ],\n    \"doi\": \"10.26803/ijlter.23.12.4\",\n    \"journal\": \"International Journal of Learning, Teaching and Educational Research\",\n    \"year\": \"2025\",\n    \"abstract\": \"South Africa’s education system, including its music curriculum, has historically been shaped by Western classical traditions, a legacy of colonial influence. Following the end of apartheid in the 1990s, efforts to decolonise higher education gained momentum, with scholars advocating for the inclusion of indigenous African musical traditions. These challenges reflect the lingering effects of colonialism on education. This article examines the importance of decolonising sound within the Scholarship of Teaching and Learning (SoTL) for 21st-century South African music students. It highlights the critical role of indigenous African music in addressing historical imbalances, reshaping music education, and ensuring cultural relevance. Using qualitative research and content analysis, the study analyses a sample of 30 articles. Thematic analysis and a triangulation approach were employed to enhance accuracy and eliminate bias. Findings indicate a growing acknowledgment of African music’s value in education, but progress is hindered by resistance to change, limited resources, and insufficient educator training. The article underscores the necessity of collaborative efforts among educators, policymakers, communities, and students to develop a more inclusive and equitable music education system. This article concludes by pointing out that integrating indigenous music into the curriculum and promoting student-centred learning are vital steps toward aligning South African music education with its diverse cultural heritage. This approach not only enriches the learning experience but also empowers future musicians, ensuring they are rooted in the nation’s rich and multifaceted identity.   https://doi.org/10.26803/ijlter.23.12.4    \"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://ijlter.org/index.php/ijlter/article/download/11932/pdf\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.0031646888817536546
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2853,
+      "candidatesTokenCount": 586,
+      "totalTokenCount": 3439,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2853
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 586
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "s5hSaIGcKpbrqsMPiOTvsQI"
+  }
+}

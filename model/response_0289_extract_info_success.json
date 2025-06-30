@@ -1,0 +1,45 @@
+{
+  "response_id": 289,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:55:22.174717",
+  "metadata": {
+    "apa_number": 215,
+    "url": "https://kicd.ac.ke/wp-content/uploads/2017/11/DraftHarmonisedCurriculumStructureandFrameworkforPrimaryEducation070814.pdf",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://kicd.ac.ke/wp-content/uploads/2017/11/DraftHarmonisedCurriculumStructureandFrameworkforPrimaryEducation070814.pdf\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The document outlines a harmonized curriculum structure and framework for primary education, explicitly mentioning the East African Community (EAC) and aiming for regional harmonization. It focuses on cross-border education by creating a common framework across multiple countries within the EAC.\",\n  \"Title\": \"Draft Harmonised Curriculum Structure and Framework for Primary Education\",\n  \"Authors\": [],\n  \"Year\": \"2014\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Kenya Institute of Curriculum Development (KICD)\",\n    \"DOI_URL\": \"https://kicd.ac.ke/wp-content/uploads/2017/11/DraftHarmonisedCurriculumStructureandFrameworkforPrimaryEducation070814.pdf\",\n    \"APA_Reference\": \"Kenya Institute of Curriculum Development. (2014). Draft Harmonised Curriculum Structure and Framework for Primary Education. KICD.\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Policy Document/Framework\",\n    \"Geographic_Focus\": \"East African Community (EAC)\",\n    \"Educational_Level\": \"Primary Education\",\n    \"Sample_Size\": \"N/A\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Competency-Based Education\",\n    \"Harmonization_Definition\": \"Creating a common curriculum structure and framework to facilitate cross-border education and comparability of educational standards within the EAC.\",\n    \"Regional_Initiatives\": [\n      \"East African Community (EAC) Harmonization of Curriculum\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Developing a common curriculum framework\",\n      \"Defining learning areas and competencies\",\n      \"Establishing assessment standards\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Ministries of Education\",\n      \"Curriculum developers\",\n      \"Teachers\",\n      \"Assessment bodies\"\n    ],\n    \"Data_Sources\": [\n      \"Existing national curricula\",\n      \"Regional education policies\",\n      \"Consultations with stakeholders\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"The document proposes a harmonized curriculum structure and framework for primary education in the EAC region.\",\n      \"It identifies key learning areas and competencies to be included in the harmonized curriculum.\",\n      \"It outlines assessment standards and procedures for evaluating student learning.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Differences in national curricula\",\n      \"Varying levels of teacher training\",\n      \"Resource constraints\"\n    ],\n    \"Success_Factors\": [\n      \"Political will and commitment from EAC member states\",\n      \"Collaboration among curriculum developers\",\n      \"Adequate funding and resources\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen collaboration among EAC member states\",\n      \"Provide adequate training and support for teachers\",\n      \"Allocate sufficient resources for curriculum implementation\"\n    ],\n    \"Future_Research\": [],\n    \"Specific_Examples\": [\n      \"Specific learning areas such as Languages, Mathematics, Science, and Social Studies are identified for harmonization.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Curriculum Framework Development\",\n      \"Stakeholder Consultations\",\n      \"Teacher Training Programs\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Curriculum Differences\",\n      \"Resource Constraints\",\n      \"Teacher Capacity\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political Commitment\",\n      \"Regional Collaboration\",\n      \"Resource Allocation\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Improved Cross-Border Education\",\n      \"Enhanced Comparability of Standards\",\n      \"Increased Student Mobility\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 638,
+      "candidatesTokenCount": 914,
+      "totalTokenCount": 1552,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 638
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 914
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "FJtSaIzTI5brqsMPiOTvsQI"
+  }
+}

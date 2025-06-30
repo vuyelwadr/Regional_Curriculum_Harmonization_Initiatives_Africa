@@ -1,0 +1,46 @@
+{
+  "response_id": 247,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:51:15.231203",
+  "metadata": {
+    "url": "https://journal.arimbi.or.id/index.php/Maeswara/article/view/1615",
+    "final_url": "https://journal.arimbi.or.id/index.php/Maeswara/article/view/1615",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Kepuasan Mahasiswa terhadap Pelayanan Administrasi Akademik Prodi Pendidikan Keagamaan Katolik (PKK) STPKat Santo Fransiskus Asisi Semarang Tahun Akademik 2023/2024\",\n    \"authors\": [\n      \"Uli Lutvianingsih\"\n    ],\n    \"doi\": \"10.61132/maeswara.v3i1.1615\",\n    \"journal\": \"Maeswara : Jurnal Riset Ilmu Manajemen dan Kewirausahaan\",\n    \"year\": \"2025\",\n    \"abstract\": \"This research aims to analyze the level of student satisfaction with academic administration services at the Catholic Religious Education Study Program (PKK) STPKat Santo Fransiskus Assisi Semarang in the 2024/2025 Academic Year. Effective and efficient academic administration services are an important factor in supporting the smooth teaching and learning process and improving the overall quality of education. The research method used is descriptive quantitative with a survey approach. Data was collected through a questionnaire distributed to active students of the PKK Study Program. The variables studied include speed of service, accuracy, attitude of officers, ease of procedures, and supporting facilities. The research results show that in general students feel quite satisfied with the academic administration services provided. Aspects of officer attitude and correct information received the highest satisfaction scores, while aspects of ease of procedures and supporting facilities still require improvement. It is hoped that these findings can provide input for the management of the PKK Study Program to improve the quality of academic administration services, so as to create a more conducive academic environment and support student achievement.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://journal.arimbi.or.id/index.php/Maeswara/article/download/1615/1837\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.0005694951778976719
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2770,
+      "candidatesTokenCount": 493,
+      "totalTokenCount": 3263,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2770
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 493
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "IJpSaNqjGbPQhMIP372DoQ0"
+  }
+}

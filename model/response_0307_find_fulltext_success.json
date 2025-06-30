@@ -1,0 +1,46 @@
+{
+  "response_id": 307,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:57:14.503293",
+  "metadata": {
+    "url": "https://link.springer.com/book/10.1007/978-3-031-68286-5",
+    "final_url": "https://link.springer.com/book/10.1007/978-3-031-68286-5",
+    "attempt": 3,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Education and Curriculum Development of Africa Vol. 1\",\n    \"authors\": [],\n    \"doi\": \"10.1007/978-3-031-68286-5\",\n    \"journal\": null,\n    \"year\": null,\n    \"abstract\": \"This book focuses on the conceptualization of Indigenous Knowledge and Curriculum, the possibilities of Indigenization/Africanization of African Education\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://link.springer.com/book/10.1007/978-3-031-68286-5\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": true,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -9.453692195187527e-05
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3455,
+      "candidatesTokenCount": 251,
+      "totalTokenCount": 3706,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3455
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 251
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "iJtSaNaKLOiChMIP-ufFUQ"
+  }
+}

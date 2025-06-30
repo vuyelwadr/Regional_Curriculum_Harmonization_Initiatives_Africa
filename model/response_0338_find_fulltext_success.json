@@ -1,0 +1,58 @@
+{
+  "response_id": 338,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:00:11.579030",
+  "metadata": {
+    "url": "https://link.springer.com/10.1007/s41297-023-00200-3",
+    "final_url": "https://link.springer.com/article/10.1007/s41297-023-00200-3",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Decolonial insights for transforming the higher education curriculum in South Africa\",\n    \"authors\": [\n      \"Govender, Logan\",\n      \"Naidoo, Devika\"\n    ],\n    \"doi\": \"10.1007/s41297-023-00200-3\",\n    \"journal\": \"Curriculum Perspectives\",\n    \"year\": \"2023\",\n    \"abstract\": \"While there have been several calls for decolonising the curriculum in South Africa, more needs to be done at the level of policy development and especially its implementation. The curriculum decolonisation impetus gained a few years back has abated somewhat, and there is a need to reinstate its significance amidst other imperatives we face in the current troubling times. There appears to be a reluctance to continue the decolonising journey, not least of all because of the continuing dominance of European hegemony in almost all facets of the lives of decolonised people, especially evident in the education sector, and specifically through the curriculum. The paper argues that without the decolonisation of the predominantly Eurocentric curriculum, the achievement of justice for the colonised remains elusive. This entails focusing\\u00a0the decolonisation debate from the objectification of the colonised to centring the African being, a reconceptualisation of epistemology as pluriversal and greater visibility of the colonised and coloniality as pre-conditions for decolonising the curriculum. The article reviews the South African response to decolonial insights and considers their implications for higher education curriculum development and practice. It identifies changing attitudes of, and ownership by, academic staff as a key challenge in the implementation of a decolonised curriculum and concludes with tabulating the implication of key concepts of decolonial theory for the curriculum.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://link.springer.com/content/pdf/10.1007/s41297-023-00200-3.pdf\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://link.springer.com/article/10.1007/s41297-023-00200-3\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 375,
+              "endIndex": 1215
+            },
+            {
+              "startIndex": 1224,
+              "endIndex": 1876
+            }
+          ]
+        },
+        "avgLogprobs": -0.0005151187123950824
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2775,
+      "candidatesTokenCount": 601,
+      "totalTokenCount": 3376,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2775
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 601
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "OJxSaN3GI4qThMIPyoil0Qo"
+  }
+}

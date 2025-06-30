@@ -1,0 +1,45 @@
+{
+  "response_id": 302,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:57:05.464560",
+  "metadata": {
+    "apa_number": 199,
+    "url": "https://journals.lww.com/aosopen/fulltext/2022/03000/an_online,_modular_curriculum_enhances_surgical.32.aspx",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://journals.lww.com/aosopen/fulltext/2022/03000/an_online,_modular_curriculum_enhances_surgical.32.aspx\",\n  \"MATCHES_CRITERIA\": false,\n  \"CRITERIA_MATCH_EXPLANATION\": \"This paper focuses on the development and implementation of an online surgical curriculum at a single institution (University of Zambia) and does not address regional curriculum harmonization initiatives involving multiple African countries or regions. It does not mention regional frameworks, cross-border education, mutual recognition, credit transfer systems, or regional qualifications frameworks.\",\n  \"Title\": \"An Online, Modular Curriculum Enhances Surgical Training in Resource-Limited Settings: A Prospective Cohort Study\",\n  \"Authors\": [\n    \"Katelyn E. Fassihi\",\n    \"Mwiza Chanda\",\n    \"Vishu D. Kumar\",\n    \"Sitali Hamazakaza\",\n    \"Chipepo Kankasa\",\n    \"Thierry M. Kitenge\",\n    \"Gillian Hsieh\",\n    \"Susan Pitt\",\n    \"Elizabeth Krebs\",\n    \"Catherine Gooding\",\n    \"Miriam K. Bryant\",\n    \"Jessica P. Simons\"\n  ],\n  \"Year\": \"2022\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 640,
+      "candidatesTokenCount": 288,
+      "totalTokenCount": 928,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 640
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 288
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "fptSaP77POiChMIP-ufFUQ"
+  }
+}

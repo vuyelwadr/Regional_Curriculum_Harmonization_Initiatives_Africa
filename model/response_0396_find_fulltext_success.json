@@ -1,0 +1,87 @@
+{
+  "response_id": 396,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:05:18.162491",
+  "metadata": {
+    "url": "https://rgsa.openaccesspublications.org/rgsa/article/view/5748",
+    "final_url": "https://rgsa.openaccesspublications.org/rgsa/article/view/5748",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Domesticating the Global War on Terrorism in West Africa: Implications for Sub-Regional Security \",\n    \"authors\": [\n      \"Felix C. Chidozie\",\n      \"Goddy U. Osimen\",\n      \"Oluwamurewa A. Newo\",\n      \"Joy Bhadmus\"\n    ],\n    \"doi\": \"10.24857/rgsa.v18n7-131\",\n    \"journal\": \"Revista de Gestão Social e Ambiental\",\n    \"year\": \"2024\",\n    \"abstract\": \"Objective: The objective of this study is to the recent incidences of terror attacks in the West African sub-region that have only overwhelmed national governments concerned. Using the case studies of Burkina Faso, Mali, Nigeria, and Niger, the paper interrogates the recent scourge of terrorism in these countries within the context of sub-regional security.\\n \\nTheoretical Framework: The structural conflict theory, which argues that conflict is built into the systems and structures of society, is employed in the work.  This is based on the radical transformative agenda promoted by globalization and accentuated by the violent intra-state conflicts in Africa, especially following the restructuring of the international security architecture after the end of the Cold War in 1989. \\n \\nMethod: The methodology adopted for this research utilizes the qualitative research design using the case study approach. Secondary data is engaged for this study, alongside thematic analysis for the harmonization of data.\\n \\nResults and Discussion: The study discovered that the activities of domestic terror groups is hinged on the unresolved rhetoric of globalization. The study concludes that until there are institutional measures to strengthen the fragile politico-economic structures hurriedly erected after prolonged dictatorships in the countries concerned, the solution to the threat of terrorism will remain a tantalizing mirage. It canvasses for the creation of a civil-military alliance in the war on terror, and the strengthening of democratic institutions to bring about good governance which will make states better equipped to curb terrorism.\\n \\nResearch Implications: The practical and theoretical implications of this research are discussed, providing insights into how the results can be applied or influence practices in the fields of national security, strategic studies and even institutional democracy. These implications could encompass the protection of lives and property within the state, protection of the state’s territorial integrity and the consolidation of democracy by state governments.\\n \\nOriginality/Value: This study contributes to the literature by highlighting the fragilitiy of democracy in West African states as a consequence of prolonged terrorist attacks that are yet to be adequately catered to by civilian governments. The relevance and value of this research are evidenced by it practical applicability across the fields of policy and strategic studies, and political science.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://rgsa.openaccesspublications.org/rgsa/article/download/5748/3108\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://rgsa.openaccesspublications.org/rgsa/article/view/5748\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 451,
+              "endIndex": 806,
+              "uri": "https://www.researchgate.net/publication/381605379_DOMESTICATING_THE_GLOBAL_WAR_ON_TERRORISM_IN_WEST_AFRICA_IMPLICATIONS_FOR_SUB-REGIONAL_SECURITY"
+            },
+            {
+              "startIndex": 827,
+              "endIndex": 964,
+              "uri": "https://www.researchgate.net/publication/381605379_DOMESTICATING_THE_GLOBAL_WAR_ON_TERRORISM_IN_WEST_AFRICA_IMPLICATIONS_FOR_SUB-REGIONAL_SECURITY"
+            },
+            {
+              "startIndex": 976,
+              "endIndex": 1237,
+              "uri": "https://www.researchgate.net/publication/381605379_DOMESTICATING_THE_GLOBAL_WAR_ON_TERRORISM_IN_WEST_AFRICA_IMPLICATIONS_FOR_SUB-REGIONAL_SECURITY"
+            },
+            {
+              "startIndex": 1251,
+              "endIndex": 1462,
+              "uri": "https://www.researchgate.net/publication/381605379_DOMESTICATING_THE_GLOBAL_WAR_ON_TERRORISM_IN_WEST_AFRICA_IMPLICATIONS_FOR_SUB-REGIONAL_SECURITY"
+            },
+            {
+              "startIndex": 1478,
+              "endIndex": 2094
+            },
+            {
+              "startIndex": 2131,
+              "endIndex": 2295,
+              "uri": "https://rgsa.openaccesspublications.org/rgsa/article/view/6206"
+            },
+            {
+              "startIndex": 2177,
+              "endIndex": 2565
+            },
+            {
+              "startIndex": 2583,
+              "endIndex": 2965
+            }
+          ]
+        },
+        "avgLogprobs": -0.0009474635277826761
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2745,
+      "candidatesTokenCount": 776,
+      "totalTokenCount": 3521,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2745
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 776
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "ap1SaLbRC5brqsMPiOTvsQI"
+  }
+}

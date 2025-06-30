@@ -1,0 +1,46 @@
+{
+  "response_id": 403,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:06:12.363670",
+  "metadata": {
+    "url": "https://spm-online.com/jrep/index.php/journal/article/view/46",
+    "final_url": "https://spm-online.com/jrep/index.php/journal/article/view/46",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Imperatives for Higher Education Community Engagement in SADC: A Systematic Review\",\n    \"authors\": [\n      \"Christopher Mutseekwa\",\n      \"Pinias Chikuvadze\",\n      \"Claretah Makuvire\"\n    ],\n    \"doi\": \"10.70232/jrep.v2i2.46\",\n    \"journal\": \"Journal of Research in Education and Pedagogy\",\n    \"year\": \"2025\",\n    \"abstract\": \"Higher education is increasingly anticipated to engross local and transnational societies. In African higher education spaces, local higher education community engagements involving collaborative partnerships are beginning to gain momentum, while transnational ones are limited. This is despite a call from growing scholarship for ‘boundary-spanning’ approaches in higher education community engagement to co-create blended social spaces where countries can join forces to advance common aspirations. This systematic review examined the provisions of the Southern African Development Community (SADC) Protocol on Education and Training to support transnational higher education community engagement. Following the PRISMA 2020 statement, the study analysed articles published in Science Direct, Google, and Google Scholar from 1996 to 2024 to explore the imperatives for higher education community engagement in SADC. The review selected papers grounded on relevance to the study focus, availability, and article type. Restricted articles and those with a focus on K-12 community engagement were generally left out. The final synthesis included 70 articles. Data generated were analysed according to the deductive-inductive content analysis approach. The findings of the review show that the SADC Protocol (1997) provided for principles such as sustainability, cooperation, academic freedom, equity, and quality education as a basis for the establishment of regional centers for specialization and excellence, effective accountability systems, cutting-edge research and collaboration, and the harmonization of the SADC education system. Further findings reveal that the diversity in conceptualization, and lag in community engagement scholarship by some member states posed a challenge to the regional collaboration aspirations endeavored by the Protocol (1997). The study findings underscore the need for SADC countries to rekindle and strengthen regional collaboration initiatives to bolster the scholarship of community engagement in higher education.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://spm-online.com/jrep/index.php/journal/article/download/46/34\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://spm-online.com/jrep/index.php/journal/article/view/46\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.0009576852902525031
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2531,
+      "candidatesTokenCount": 669,
+      "totalTokenCount": 3200,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2531
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 669
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "oJ1SaLaCKsWUsbQP-d_MIQ"
+  }
+}

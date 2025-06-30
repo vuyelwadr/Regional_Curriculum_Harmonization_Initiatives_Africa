@@ -1,0 +1,64 @@
+{
+  "response_id": 11,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:28:03.562436",
+  "metadata": {
+    "url": "http://link.springer.com/10.1007/978-94-6300-956-0",
+    "final_url": "https://link.springer.com/book/10.1007/978-94-6300-956-0",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Regionalization of African Higher Education\",\n    \"authors\": [],\n    \"doi\": \"10.1007/978-94-6300-956-0\",\n    \"journal\": \"SpringerLink\",\n    \"year\": null,\n    \"abstract\": \"Growth in the scope, scale and importance of higher education regionalization should not be underestimated or ignored. Africa – like Asia, Europe and Latin America – is promoting deeper cooperation among higher education bodies and institutions across the continent and focusing more attention on Pan-African and sub-regional harmonization of policies and programmes.\\nThis is the first book which brings together diverse scholars and policy experts to examine key aspects and challenges of African higher education regionalization. Chapters examine the progress and prospects of core regionalization issues and strategies such as academic mobility, quality assurance, recognition of qualifications, research centres and networks, curriculum and competencies, and regional academic programmes. Other chapters discuss important themes such as the relationship between regionalization, internationalization and Africanization; historical antecedents and perspectives; an analytical model to understand functional, organizational and political approaches to Africa’s higher education regionalization; and the influence of the Bologna process on the African Union’s Strategy for the Harmonization of Higher Education Programmes. Together these chapters provide a comprehensive overview of efforts by the African Union; sub-regional higher education associations such as IUCEA, SARUA and CAMES; Pan-African organizations and actors; key research networks and centres of excellence; and the involvement – or dependence – on external actors and funders, especially from Europe.\\nFundamentally, the book asks the question whether higher education regionalization in Africa is more rhetoric than reality. It discusses the progress to date on specific themes; identifies historical, political, sustainability and funding challenges; and concludes that while the impacts of regionalization efforts have not been fully realized there is cautious optimism for the future.\"\n  },\n  \"fulltext_links\": [],\n  \"repository_indicators\": [],\n  \"paywall_detected\": true,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 267,
+              "endIndex": 632,
+              "uri": "http://www.springer.com/us/book/9789463009560"
+            },
+            {
+              "startIndex": 641,
+              "endIndex": 1834
+            },
+            {
+              "startIndex": 1854,
+              "endIndex": 2224,
+              "uri": "http://www.springer.com/us/book/9789463009560"
+            }
+          ]
+        },
+        "avgLogprobs": -2.237899758888089e-05
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3078,
+      "candidatesTokenCount": 478,
+      "totalTokenCount": 3556,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3078
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 478
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "sJRSaKK3KuiChMIP-ufFUQ"
+  }
+}

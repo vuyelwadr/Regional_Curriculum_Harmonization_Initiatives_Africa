@@ -1,0 +1,45 @@
+{
+  "response_id": 126,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:39:09.725451",
+  "metadata": {
+    "apa_number": 84,
+    "url": "https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-024-05264-x",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-024-05264-x\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper discusses regional curriculum harmonization initiatives in medical education across multiple African countries, specifically focusing on the East African Community (EAC) and the West African region. It addresses harmonization across institutions and countries, mentioning regional frameworks and mutual recognition of qualifications.\",\n  \"Title\": \"Competency-based medical education in East and West Africa: a scoping review\",\n  \"Authors\": [\n    \"Susan R. Horton\",\n    \"Nazish Imran\",\n    \"James Orbinsky\",\n    \"Alfred Papali\",\n    \"Peter Hodkinson\",\n    \"David Evans\",\n    \"Sarah Howie\",\n    \"Andrew J. Hale\"\n  ],\n  \"Year\": \"2024\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"BMC Medical Education\",\n    \"DOI_URL\": \"https://doi.org/10.1186/s12909-024-05264-x\",\n    \"APA_Reference\": \"Horton, S. R., Imran, N., Orbinsky, J., Papali, A., Hodkinson, P., Evans, D., Howie, S., & Hale, A. J. (2024). Competency-based medical education in East and West Africa: a scoping review. BMC Medical Education, 24(1), 393. https://doi.org/10.1186/s12909-024-05264-x\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Scoping Review\",\n    \"Geographic_Focus\": \"East Africa (EAC) and West Africa\",\n    \"Educational_Level\": \"Medical Education (Undergraduate and Postgraduate)\",\n    \"Sample_Size\": \"101 articles\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Competency-Based Medical Education (CBME)\",\n    \"Harmonization_Definition\": \"Harmonization is implied through the adoption and adaptation of CBME frameworks across different countries and institutions to ensure comparable standards and outcomes.\",\n    \"Regional_Initiatives\": [\n      \"East African Community (EAC) initiatives\",\n      \"West African regional efforts\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Curriculum development and adaptation\",\n      \"Faculty training\",\n      \"Assessment strategies\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Medical schools\",\n      \"Regulatory bodies\",\n      \"Healthcare professionals\",\n      \"Students\"\n    ],\n    \"Data_Sources\": [\n      \"Academic databases (e.g., PubMed, Scopus, Web of Science)\",\n      \"Grey literature\",\n      \"Reports from regional organizations\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"CBME is being implemented in East and West Africa, but there is variability in the extent and nature of implementation.\",\n      \"There is a need for more rigorous evaluation of CBME programs.\",\n      \"Contextual adaptation is crucial for successful implementation.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Limited resources\",\n      \"Lack of faculty training\",\n      \"Inadequate infrastructure\",\n      \"Resistance to change\"\n    ],\n    \"Success_Factors\": [\n      \"Strong leadership\",\n      \"Collaboration among institutions\",\n      \"Contextual adaptation\",\n      \"Faculty development\"\n    ],\n    \"Recommendations\": [\n      \"Invest in faculty development\",\n      \"Strengthen collaboration among institutions\",\n      \"Conduct rigorous evaluations of CBME programs\",\n      \"Adapt CBME frameworks to local contexts\"\n    ],\n    \"Future_Research\": [\n      \"Longitudinal studies to assess the impact of CBME on patient outcomes\",\n      \"Qualitative studies to explore the experiences of students and faculty\",\n      \"Comparative studies to examine the effectiveness of different CBME models\"\n    ],\n    \"Specific_Examples\": [\n      \"Examples of CBME implementation in specific medical schools in East and West Africa are discussed in the included studies.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Curriculum mapping\",\n      \"Faculty training workshops\",\n      \"Development of assessment tools\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Resource constraints\",\n      \"Faculty resistance\",\n      \"Lack of standardized assessment methods\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Strong institutional support\",\n      \"Dedicated faculty champions\",\n      \"Collaborative partnerships\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Improved student learning outcomes\",\n      \"Enhanced clinical competence\",\n      \"Better alignment of medical education with healthcare needs\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 638,
+      "candidatesTokenCount": 1136,
+      "totalTokenCount": 1774,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 638
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1136
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "RZdSaO6eLbqFsbQPqNrRqAQ"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "response_id": 53,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:32:06.967326",
+  "metadata": {
+    "url": "http://naukaru.ru/en/nauka/article/49839/view",
+    "final_url": "https://naukaru.ru/en/nauka/article/49839/view",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Increasing the Prestige of the Audit Profession in the Context of Harmonization of National and International Standards of Education and Professional Activity\",\n    \"authors\": [\n      \"Kazakova Nataliya\"\n    ],\n    \"doi\": \"10.12737/1998-0701-2022-8-3-25-32\",\n    \"journal\": \"Auditor\",\n    \"year\": \"2022\",\n    \"abstract\": null\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://naukaru.ru/en/storage/download/88903\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.0014399915206723098
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2511,
+      "candidatesTokenCount": 246,
+      "totalTokenCount": 2757,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2511
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 246
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "pZVSaJfGE6iUsbQPmK3KkQI"
+  }
+}

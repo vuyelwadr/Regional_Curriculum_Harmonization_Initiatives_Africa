@@ -1,0 +1,45 @@
+{
+  "response_id": 30,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:29:19.716465",
+  "metadata": {
+    "apa_number": 33,
+    "url": "https://scielo.org.za/scielo.php?script=sci_arttext&pid=S2077-49072015000100007",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://scielo.org.za/scielo.php?script=sci_arttext&pid=S2077-49072015000100007\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in Southern Africa, specifically the SADC region. It addresses harmonization across institutions and countries, discussing regional frameworks and cross-border education. The paper mentions the need for mutual recognition of qualifications and credit transfer systems within the SADC region.\",\n  \"Title\": \"Harmonisation of higher education in Southern Africa: reflections on selected cases\",\n  \"Authors\": [\n    \"Damtew Teferra\"\n  ],\n  \"Year\": \"2015\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"South African Journal of Higher Education\",\n    \"DOI_URL\": \"https://doi.org/10.20853/30-1-477\",\n    \"APA_Reference\": \"Teferra, D. (2015). Harmonisation of higher education in Southern Africa: reflections on selected cases. *South African Journal of Higher Education*, *30*(1), 180-197. https://doi.org/10.20853/30-1-477\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Case study\",\n    \"Geographic_Focus\": \"Southern Africa (SADC region)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not explicitly stated, but based on selected cases within SADC\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated, but implicitly uses a framework of regional integration and higher education development.\",\n    \"Harmonization_Definition\": \"Harmonization is viewed as a process of creating comparable standards and qualifications across different higher education systems within the SADC region to facilitate mobility and recognition.\",\n    \"Regional_Initiatives\": [\n      \"SADC Protocol on Education and Training\",\n      \"SADC Regional Qualifications Framework (SADC-RQF)\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Development of regional qualifications frameworks\",\n      \"Establishment of quality assurance mechanisms\",\n      \"Promotion of credit transfer systems\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments\",\n      \"Higher Education Institutions\",\n      \"Regional Organizations (SADC Secretariat)\",\n      \"Quality Assurance Agencies\"\n    ],\n    \"Data_Sources\": [\n      \"Policy documents\",\n      \"Reports\",\n      \"Literature review\",\n      \"Case studies of specific initiatives\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Harmonization efforts in Southern Africa are underway but face challenges related to varying national priorities and capacities.\",\n      \"The SADC Protocol on Education and Training provides a framework for regional cooperation in higher education.\",\n      \"The development of the SADC-RQF is a key step towards facilitating mutual recognition of qualifications.\",\n      \"Quality assurance mechanisms are essential for ensuring the credibility of harmonized qualifications.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of resources and capacity in some member states\",\n      \"Divergent national priorities and policies\",\n      \"Resistance to change from some institutions\",\n      \"Coordination challenges among different stakeholders\"\n    ],\n    \"Success_Factors\": [\n      \"Political will and commitment from governments\",\n      \"Strong leadership from regional organizations\",\n      \"Collaboration among higher education institutions\",\n      \"Effective quality assurance mechanisms\"\n    ],\n    \"Recommendations\": [\n      \"Strengthening national capacity for quality assurance\",\n      \"Promoting greater collaboration among stakeholders\",\n      \"Increasing investment in higher education\",\n      \"Developing clear and transparent mechanisms for credit transfer and recognition of qualifications\"\n    ],\n    \"Future_Research\": [\n      \"Further research is needed to assess the impact of harmonization efforts on student mobility and graduate employability.\",\n      \"More research is needed on the challenges and opportunities of implementing the SADC-RQF.\"\n    ],\n    \"Specific_Examples\": [\n      \"Examples of specific initiatives and programs aimed at promoting harmonization in different fields of study.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Regional Qualifications Frameworks\",\n      \"Quality Assurance Agencies\",\n      \"Credit Transfer Systems\",\n      \"Policy Frameworks (SADC Protocol)\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Resource constraints\",\n      \"Policy divergence\",\n      \"Coordination challenges\",\n      \"Resistance to change\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political commitment\",\n      \"Regional leadership\",\n      \"Institutional collaboration\",\n      \"Effective quality assurance\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased student mobility\",\n      \"Improved graduate employability\",\n      \"Enhanced regional integration\",\n      \"Greater recognition of qualifications\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 643,
+      "candidatesTokenCount": 1158,
+      "totalTokenCount": 1801,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 643
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1158
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "95RSaM3mI7PQhMIP372DoQ0"
+  }
+}

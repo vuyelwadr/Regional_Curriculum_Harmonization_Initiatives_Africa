@@ -1,0 +1,81 @@
+{
+  "response_id": 116,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:38:10.964714",
+  "metadata": {
+    "url": "https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-024-05264-x",
+    "final_url": "https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-024-05264-x",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Assessment approaches in undergraduate health professions education: towards the development of feasible assessment approaches for low-resource settings\",\n    \"authors\": [],\n    \"doi\": \"10.1186/s12909-024-05264-x\",\n    \"journal\": \"BMC Medical Education\",\n    \"year\": \"2024\",\n    \"abstract\": \"Feasible and effective assessment approaches to measuring competency in health sciences are vital in competency-based education. Educational programmes for health professions in low- and middle-income countries are increasingly adopting competency-based education as a strategy for training health professionals. Importantly, the organisation of assessments and assessment approaches must align with the available resources and still result in the fidelity of implementation. A review of existing assessment approaches, frameworks, models, and methods is essential for the development of feasible and effective assessment approaches in low-resource settings. Published literature was sourced from 13 electronic databases. The inclusion criteria were literature published in English between 2000 and 2022 about assessment approaches to measuring competency in health science professions. Specific data relating to the aims of each study, its location, population, research design, assessment approaches (including the outcome of implementing such approaches), frameworks, models, and methods were extracted from the included literature. The data were analysed through a multi-step process that integrated quantitative and qualitative approaches. Many articles were from the United States and Australia and reported on the development of assessment models. Most of the articles included undergraduate medical or nursing students. A variety of models, theories, and frameworks were reported and included the Ideal model, Predictive Learning Assessment model, Amalgamated Student Assessment in Practice (ASAP) model, Leadership Outcome Assessment (LOA) model, Reporter-Interpreter-Manager-Educator (RIME) framework, the Quarter model, and the model which incorporates four assessment methods which are Triple Jump Test, Essay incorporating critical thinking questions, Multistation Integrated Practical Examination, and Multiple Choice Questions (TEMM) model. Additional models and frameworks that were used include the Entrustable Professional Activities framework, the System of Assessment framework, the Reporter-Interpreter-Manager-Educator (RIME) framework, the Clinical Reasoning framework (which is embedded in the Amalgamated Student Assessment in Practice (ASAP) model), Earl’s Model of Learning, an assessment framework based on the Bayer–Fetzer Kalamazoo Consensus Statement, Bloom's taxonomy, the Canadian Medical Education Directions for Specialists (CanMEDS) Framework, the Accreditation Council for Graduate Medical Education (ACGME) framework, the Dreyfus Developmental Framework, and Miller's Pyramid. An analysis of the assessment approaches, frameworks, models, and methods applied in health professions education lays the foundation for the development of feasible and effective assessment approaches in low-resource settings that integrate competency-based education. This study did not involve any clinical intervention. Therefore, trial registration was not required.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-024-05264-x\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 96,
+              "endIndex": 242,
+              "uri": "https://bmcmededuc.biomedcentral.com/articles?searchType=journalSearch&sort=PubDate&page=6"
+            },
+            {
+              "startIndex": 388,
+              "endIndex": 1041
+            },
+            {
+              "startIndex": 1047,
+              "endIndex": 1624
+            },
+            {
+              "startIndex": 1633,
+              "endIndex": 2305
+            },
+            {
+              "startIndex": 2193,
+              "endIndex": 2996
+            },
+            {
+              "startIndex": 3003,
+              "endIndex": 3265,
+              "uri": "https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-024-05264-x"
+            },
+            {
+              "startIndex": 3157,
+              "endIndex": 3368,
+              "uri": "https://typeset.io/authors/champion-n-nyoni-1zhtypf1ph?papers_page=7"
+            }
+          ]
+        },
+        "avgLogprobs": -7.532655938226196e-05
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2130,
+      "candidatesTokenCount": 761,
+      "totalTokenCount": 2891,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2130
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 761
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "DpdSaKCELP6ShMIPm7P8iAY"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "response_id": 456,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:10:27.401998",
+  "metadata": {
+    "url": "https://www.academia.edu/31335455/Paper_Title_Cultural_and_Linguistic_Dilemmas_in_African_Development_Trajectory_1",
+    "final_url": "https://www.academia.edu/31335455/Paper_Title_Cultural_and_Linguistic_Dilemmas_in_African_Development_Trajectory_1",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Paper Title: Cultural and Linguistic Dilemmas in African Development Trajectory 1\",\n    \"authors\": [\n      \"Ibraheem O Muheeb\"\n    ],\n    \"doi\": null,\n    \"journal\": null,\n    \"year\": \"2017\",\n    \"abstract\": \"The English and the French revolutions, the success stories of Islam, Christianity, colonialism and imperialism and the Asian breakthroughs had latent and manifest implications for cultural and linguistic advancement. These epochs weighed heavily on Africa in same manner different phases of exclusive development initiatives. The subjugation and relegation of African culture impedes the nurturing of African ideologies, creativity, values, spirituality and social capital. Sign writing and the development of instructional materials like games and simulations in local languages were truncated. Tourism and creative industry suffer, as a critical mass was alienated from thinking without overriding preference for the external. African languages face threats of extinction following declining use in homes with preferences for foreign languages for transaction and instruction. This undermines the internalization of development initiatives and negates the mental, linguistic and cultural development of critical mass. Development thrives on regional groupings, integration, common market and free movement of goods and services with globalization and increasingly borderless world. The paper uses qualitative method including participant-observer and case study analysis. Systems theory constitutes the theoretical framework. It acknowledges striking imbalance between potentials and ends of development initiatives in Africa. It underscores the interplay of culture, integration, inclusive growth and development. Culture-based development initiative would bolster productivity and industry, employment opportunities, the deepening of home-market, enduring value-chain businesses, comparative advantage, commerce and favourable balance of trade on higher export ratio against import. Literature and the media should draw from local languages with harmonized orthographies and cross-boarder appeal to enhance public interest beyond legislation.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://www.academia.edu/31335455/Paper_Title_Cultural_and_Linguistic_Dilemmas_in_African_Development_Trajectory_1\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [\n    \"academia\"\n  ],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 1172,
+              "endIndex": 1306,
+              "uri": "https://www.adonis-abbey.com/edition_menu.php?edition_id=156"
+            }
+          ]
+        },
+        "avgLogprobs": -0.0017284199373045965
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2758,
+      "candidatesTokenCount": 536,
+      "totalTokenCount": 3294,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2758
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 536
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "oJ5SaKf9Ef6ShMIPm7P8iAY"
+  }
+}

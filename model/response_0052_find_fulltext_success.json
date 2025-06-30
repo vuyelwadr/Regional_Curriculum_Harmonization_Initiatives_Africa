@@ -1,0 +1,55 @@
+{
+  "response_id": 52,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:32:04.075512",
+  "metadata": {
+    "url": "http://journal.unj.ac.id/unj/index.php/jpud/article/view/20244",
+    "final_url": "https://journal.unj.ac.id/unj/index.php/jpud/article/view/20244",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Parents’ Perception: Early Childhood Social Behaviour During Physical Distancing in the Covid-19 Pandemic\",\n    \"authors\": [\n      \"Luluk Ekyana\",\n      \"Mohammad Fauziddin\",\n      \"Nurul Arifiyanti\"\n    ],\n    \"doi\": null,\n    \"journal\": \"JPUD - Jurnal Pendidikan Usia Dini\",\n    \"year\": \"2021\",\n    \"abstract\": \"During physical distancing, children do not meet their peers to play or talk together. Peer relationships have a crucial influence on all child development, especially for social skills or behaviour during early childhood. This study aims to determine changes in children's social behaviour during physical distancing during the Covid-19 pandemic. This research method is a descriptive quantitative study designed with the percentage value was used as a score for measuring the results of parental observations of children concerning the child's social behaviour instrument. Quota sampling (150 parents) was used to reach participants from various cities in Indonesia to see cultural differences. Data on children's social behaviour was obtained using the Preschool and Kindergarten Behaviour Scale (PKBS) tests. The data were then analysed using descriptive statistics. The results show that there are changes in children's social behaviour during physical distancing. Children who are less independent (58.9%) are the biggest decline in social behaviour reported by parents, while the one who changes the least is cleaning up the mess that has been made (38.7%). The implication of the results of this study is that parents should continue to pay attention to their children's social behaviour by providing opportunities for children to interact with peers in the house while still paying attention to health protocols.\\nKeywords:\\u00a0 Early Childhood, Social Behaviour, Physical Distancing\"\n  },\n  \"fulltext_links\": [],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"low\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 410,
+              "endIndex": 663,
+              "uri": "https://xjournals.com/collections/journals/TableofContent?qt=8zwS6suh6JRl7x9/Nl3hERVgBV0s3O3v2xkphoNz37ZuqECnq2k+y3dbNpu9ic9dTGT+mB47w1ywZ8L6Dh+atg=="
+            }
+          ]
+        },
+        "avgLogprobs": -0.0027939954347777785
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3180,
+      "candidatesTokenCount": 456,
+      "totalTokenCount": 3636,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3180
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 456
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "oZVSaL-2BLqFsbQPqNrRqAQ"
+  }
+}

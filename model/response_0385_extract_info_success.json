@@ -1,0 +1,45 @@
+{
+  "response_id": 385,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:04:16.009310",
+  "metadata": {
+    "apa_number": 276,
+    "url": "https://pressto.amu.edu.pl/index.php/ppuam/article/download/37493/32279",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://pressto.amu.edu.pl/index.php/ppuam/article/download/37493/32279\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in East Africa, specifically the EAC. It addresses harmonization across institutions and countries within the EAC framework, discussing mutual recognition and cross-border education. The paper mentions the EAC Protocol on Education and Training, which aims to harmonize education systems in the region.\",\n  \"Title\": \"Regional Integration in East Africa: Harmonisation of Higher Education Systems and Programmes\",\n  \"Authors\": [\n    \"Pamela Abbott\",\n    \"Geoffrey Bakulumpagi\",\n    \"James Ocita\"\n  ],\n  \"Year\": \"2023\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Perspectives in Politics and Public Administration\",\n    \"DOI_URL\": \"https://doi.org/10.14746/ppuam.2023.26.4.1\",\n    \"APA_Reference\": \"Abbott, P., Bakulumpagi, G., & Ocita, J. (2023). Regional Integration in East Africa: Harmonisation of Higher Education Systems and Programmes. Perspectives in Politics and Public Administration, 26(4), 1-17. https://doi.org/10.14746/ppuam.2023.26.4.1\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Qualitative; Document analysis and literature review\",\n    \"Geographic_Focus\": \"East African Community (EAC)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Regional Integration Theory\",\n    \"Harmonization_Definition\": \"Harmonisation is defined as the process of creating common standards and regulations across different countries to facilitate the free movement of people, goods, and services, including education.\",\n    \"Regional_Initiatives\": [\n      \"EAC Protocol on Education and Training\",\n      \"EAC Common Higher Education Area\",\n      \"Inter-University Council for East Africa (IUCEA)\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Policy development\",\n      \"Curriculum review\",\n      \"Quality assurance mechanisms\",\n      \"Mutual recognition of qualifications\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments\",\n      \"Universities\",\n      \"IUCEA\",\n      \"Students\",\n      \"Employers\"\n    ],\n    \"Data_Sources\": [\n      \"EAC documents\",\n      \"IUCEA reports\",\n      \"Academic literature\",\n      \"Policy documents\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Harmonisation of higher education is crucial for regional integration in East Africa.\",\n      \"The EAC Protocol on Education and Training provides a framework for harmonisation.\",\n      \"Progress in harmonisation has been slow due to various challenges.\",\n      \"The IUCEA plays a key role in coordinating harmonisation efforts.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of political will\",\n      \"Varying national priorities\",\n      \"Inadequate funding\",\n      \"Differences in education systems\",\n      \"Bureaucratic hurdles\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political commitment\",\n      \"Effective coordination mechanisms\",\n      \"Adequate funding\",\n      \"Stakeholder engagement\",\n      \"Clear harmonisation goals\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen political commitment to harmonisation.\",\n      \"Improve coordination among stakeholders.\",\n      \"Increase funding for harmonisation initiatives.\",\n      \"Address differences in education systems.\",\n      \"Streamline bureaucratic processes.\"\n    ],\n    \"Future_Research\": [\n      \"Impact of harmonisation on student mobility and employability.\",\n      \"Effectiveness of different harmonisation approaches.\",\n      \"Role of technology in facilitating harmonisation.\",\n      \"Comparative analysis of harmonisation efforts in different regions.\"\n    ],\n    \"Specific_Examples\": [\n      \"Harmonisation of engineering curricula in EAC universities.\",\n      \"Development of a regional qualifications framework.\",\n      \"Establishment of a credit transfer system.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Policy frameworks\",\n      \"Curriculum development\",\n      \"Quality assurance\",\n      \"Credit transfer systems\",\n      \"Qualifications frameworks\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Political will\",\n      \"Funding\",\n      \"System differences\",\n      \"Bureaucracy\",\n      \"National priorities\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political commitment\",\n      \"Coordination\",\n      \"Funding\",\n      \"Stakeholder engagement\",\n      \"Clear goals\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Student mobility\",\n      \"Employability\",\n      \"Regional integration\",\n      \"Economic development\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 630,
+      "candidatesTokenCount": 1165,
+      "totalTokenCount": 1795,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 630
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1165
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "KJ1SaImIF5rnqsMPzonmkA0"
+  }
+}

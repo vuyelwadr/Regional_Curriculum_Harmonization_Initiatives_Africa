@@ -1,0 +1,45 @@
+{
+  "response_id": 484,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:13:13.094406",
+  "metadata": {
+    "apa_number": 314,
+    "url": "https://tuningjournal.org/article/download/1892/2648",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://tuningjournal.org/article/download/1892/2648\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in Africa, specifically the Tuning Africa project. It involves multiple African countries and addresses harmonization across institutions, focusing on regional frameworks and credit transfer systems. The paper explicitly mentions the Tuning Africa project which aims to harmonize curricula across African countries.\",\n  \"Title\": \"The African Union and Harmonisation of Higher Education: The Tuning Africa Experience\",\n  \"Authors\": [\n    \"Aloys Ihuah\",\n    \"Everisto Mugisha\",\n    \"Robert Wabunoha\",\n    \"Beatrice Mugambe\",\n    \"Pamela Abbott\"\n  ],\n  \"Year\": \"2019\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Tuning Journal for Higher Education\",\n    \"DOI_URL\": \"https://doi.org/10.18543/tjhe-7(1)-2019pp179-204\",\n    \"APA_Reference\": \"Ihuah, A., Mugisha, E., Wabunoha, R., Mugambe, B., & Abbott, P. (2019). The African Union and Harmonisation of Higher Education: The Tuning Africa Experience. Tuning Journal for Higher Education, 7(1), 179-204. https://doi.org/10.18543/tjhe-7(1)-2019pp179-204\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Case study\",\n    \"Geographic_Focus\": \"Africa (multiple countries involved in the Tuning Africa project)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not explicitly stated, but involves multiple universities and countries participating in the Tuning Africa project.\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Tuning methodology\",\n    \"Harmonization_Definition\": \"Harmonization is defined in the context of the Tuning Africa project as aligning curricula and learning outcomes across different higher education institutions and countries to facilitate student mobility and recognition of qualifications.\",\n    \"Regional_Initiatives\": [\n      \"Tuning Africa project\",\n      \"African Union's Agenda 2063\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Development of reference points for academic programmes\",\n      \"Use of learning outcomes and competences\",\n      \"Stakeholder involvement\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"African Union\",\n      \"European Union\",\n      \"Higher Education Institutions\",\n      \"Academics\",\n      \"Students\",\n      \"Employers\"\n    ],\n    \"Data_Sources\": [\n      \"Project documents\",\n      \"Reports\",\n      \"Literature review\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"The Tuning Africa project has contributed to the harmonization of higher education in Africa.\",\n      \"The project has facilitated the development of reference points for academic programmes.\",\n      \"The project has promoted the use of learning outcomes and competences in curriculum design.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of funding\",\n      \"Resistance to change\",\n      \"Differences in national education systems\"\n    ],\n    \"Success_Factors\": [\n      \"Political will\",\n      \"Stakeholder involvement\",\n      \"Capacity building\"\n    ],\n    \"Recommendations\": [\n      \"Increased funding for harmonization initiatives\",\n      \"Strengthening of regional cooperation\",\n      \"Capacity building for academics and administrators\"\n    ],\n    \"Future_Research\": [\n      \"Further research on the impact of harmonization on student mobility and employability\",\n      \"Research on the sustainability of harmonization initiatives\"\n    ],\n    \"Specific_Examples\": [\n      \"Development of reference points for agriculture, engineering, and teacher education\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Curriculum development\",\n      \"Learning outcomes\",\n      \"Competences\",\n      \"Credit transfer systems\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Funding constraints\",\n      \"Systemic differences\",\n      \"Resistance to change\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political commitment\",\n      \"Stakeholder engagement\",\n      \"Capacity development\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Harmonized curricula\",\n      \"Improved quality of education\",\n      \"Enhanced student mobility\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 617,
+      "candidatesTokenCount": 1069,
+      "totalTokenCount": 1686,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 617
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1069
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "Qp9SaM23G4qThMIPyoil0Qo"
+  }
+}

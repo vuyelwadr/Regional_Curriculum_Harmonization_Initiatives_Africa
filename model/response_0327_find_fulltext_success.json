@@ -1,0 +1,55 @@
+{
+  "response_id": 327,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:59:10.543820",
+  "metadata": {
+    "url": "https://link.springer.com/chapter/10.1007/978-3-319-27258-0_1",
+    "final_url": "https://link.springer.com/chapter/10.1007/978-3-319-27258-0_1",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Issues for Quality Enhancement and Harmonization of Education in East Africa\",\n    \"authors\": [\n      \"Mohamed, Mussa\",\n      \"Halai, Anjum\",\n      \"Karuku, Simon\"\n    ],\n    \"doi\": \"10.1007/978-3-319-27258-0_1\",\n    \"journal\": \"Mathematics Education in East Africa\",\n    \"year\": \"2016\",\n    \"abstract\": \"This chapter provides a description of the historical and political development of the current mass education system in East Africa. It goes on to provide a comparative analysis of the structure of the school education system in the East African countries, Kenya,...\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://link.springer.com/content/pdf/10.1007/978-3-319-27258-0_1.pdf\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://link.springer.com/chapter/10.1007/978-3-319-27258-0_1\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": true,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 401,
+              "endIndex": 663,
+              "uri": "https://www.researchgate.net/publication/321530648_Mathematics_Education_in_East_Africa_Towards_Harmonization_and_Enhancement_of_Education_Quality"
+            }
+          ]
+        },
+        "avgLogprobs": -5.8328742499178557e-05
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3138,
+      "candidatesTokenCount": 386,
+      "totalTokenCount": 3524,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3138
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 386
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "_JtSaOXzGaiUsbQPmK3KkQI"
+  }
+}

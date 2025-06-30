@@ -1,0 +1,45 @@
+{
+  "response_id": 178,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:44:22.304940",
+  "metadata": {
+    "apa_number": 124,
+    "url": "https://ejournals.bc.edu/index.php/ihe/article/download/8534/7668",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://ejournals.bc.edu/index.php/ihe/article/download/8534/7668\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in Africa, specifically the East African Community (EAC). It addresses harmonization across institutions and countries within the EAC, discussing regional frameworks, cross-border education, mutual recognition, and credit transfer systems. The paper mentions the EAC Protocol on Education and Training, which aims to harmonize education systems across member states.\",\n  \"Title\": \"Regionalization of Higher Education in East Africa: Progress, Prospects, and Challenges\",\n  \"Authors\": [\n    \"Aloys Ayako\",\n    \"Daniel Otieno\",\n    \"Elijah Oyoo Yongo\"\n  ],\n  \"Year\": \"2018\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"International Higher Education\",\n    \"DOI_URL\": \"https://ejournals.bc.edu/index.php/ihe/article/view/8534\",\n    \"APA_Reference\": \"Ayako, A., Otieno, D., & Yongo, E. O. (2018). Regionalization of Higher Education in East Africa: Progress, Prospects, and Challenges. International Higher Education, (94), 18-20.\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature Review and Analysis\",\n    \"Geographic_Focus\": \"East African Community (EAC)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Regional Integration Theory\",\n    \"Harmonization_Definition\": \"Harmonization is defined as the process of aligning education systems, curricula, and qualifications across the EAC member states to facilitate student mobility, mutual recognition of qualifications, and cross-border education.\",\n    \"Regional_Initiatives\": [\n      \"EAC Protocol on Education and Training\",\n      \"East African Qualifications Framework for Higher Education (EAQFHE)\",\n      \"EAC Credit Accumulation and Transfer System (CATS)\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Policy development\",\n      \"Curriculum review and alignment\",\n      \"Establishment of regional quality assurance mechanisms\",\n      \"Development of credit transfer systems\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"EAC Secretariat\",\n      \"National governments\",\n      \"Higher education institutions\",\n      \"Regional quality assurance bodies\",\n      \"Students\"\n    ],\n    \"Data_Sources\": [\n      \"EAC documents\",\n      \"Policy documents\",\n      \"Academic literature\",\n      \"Reports from regional organizations\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Progress has been made in regionalizing higher education in the EAC, but challenges remain.\",\n      \"The EAC Protocol on Education and Training provides a framework for harmonization.\",\n      \"The EAQFHE and CATS are important tools for facilitating student mobility and mutual recognition of qualifications.\",\n      \"Implementation is uneven across member states.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of political will\",\n      \"Inadequate funding\",\n      \"Differences in national education systems\",\n      \"Resistance from some stakeholders\",\n      \"Capacity constraints\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political commitment\",\n      \"Effective regional coordination\",\n      \"Involvement of key stakeholders\",\n      \"Adequate funding\",\n      \"Capacity building\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen political commitment to regional integration.\",\n      \"Increase funding for regional education initiatives.\",\n      \"Enhance regional coordination and collaboration.\",\n      \"Build capacity in member states.\",\n      \"Address the challenges of implementation.\"\n    ],\n    \"Future_Research\": [\n      \"Further research is needed to assess the impact of regionalization on student mobility, quality of education, and economic development.\",\n      \"Studies are needed to examine the effectiveness of the EAQFHE and CATS.\",\n      \"Research should explore the challenges and opportunities of harmonizing curricula and qualifications across different disciplines.\"\n    ],\n    \"Specific_Examples\": [\n      \"The establishment of the Inter-University Council for East Africa (IUCEA) as a regional coordinating body.\",\n      \"The development of the EAQFHE as a framework for recognizing qualifications across the EAC.\",\n      \"Efforts to harmonize curricula in specific disciplines, such as engineering and medicine.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Regional protocols and agreements\",\n      \"Regional coordinating bodies (e.g., IUCEA)\",\n      \"Harmonized curricula and qualifications frameworks\",\n      \"Credit transfer systems\",\n      \"Quality assurance mechanisms\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Political barriers\",\n      \"Financial constraints\",\n      \"Systemic differences\",\n      \"Stakeholder resistance\",\n      \"Capacity limitations\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political will\",\n      \"Regional coordination\",\n      \"Stakeholder engagement\",\n      \"Financial investment\",\n      \"Capacity building\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased student mobility\",\n      \"Enhanced mutual recognition of qualifications\",\n      \"Improved quality of education\",\n      \"Economic development\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 625,
+      "candidatesTokenCount": 1232,
+      "totalTokenCount": 1857,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 625
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1232
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "fphSaJuHCrPQhMIP372DoQ0"
+  }
+}

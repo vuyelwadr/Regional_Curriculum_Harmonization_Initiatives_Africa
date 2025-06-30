@@ -1,0 +1,59 @@
+{
+  "response_id": 485,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:13:17.316361",
+  "metadata": {
+    "url": "https://unisapressjournals.co.za/index.php/JLSD/article/view/14528",
+    "final_url": "https://unisapressjournals.co.za/index.php/JLSD/article/view/14528",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"“Breaking Bread, Breaking Barriers”: An Ecological systems theoretical analysis of Food Insecurity in South African Higher Education Institutions\",\n    \"authors\": [\n      \"James Ojochenemi David\"\n    ],\n    \"doi\": \"10.25159/2520-9515/14528\",\n    \"journal\": \"Journal of Law, Society and Development\",\n    \"year\": \"2024\",\n    \"abstract\": \"Food insecurity is an increasingly pressing issue in South Africa, affecting higher education institutions. The country’s prevalent poverty and unemployment rates, exacerbated by the economic impact of the COVID-19 pandemic, have led to reduced funding for higher education institutions. As a result, students’ well-being is compromised, with many experiencing hunger and difficulties in their academic progress. While existing literature addresses food insecurity in South African higher education institutions, a comprehensive understanding from a systems theoretical perspective is lacking. This study applies Bronfenbrenner’s ecological systems theory, a multi-level analysis framework, to examine the complexities of food insecurity in South African higher education institutions. The analysis explores the microsystem, mesosystem, exosystem, macrosystem, and chronosystem dimensions of food insecurity as a multidimensional challenge requiring holistic response strategies. Drawing on scholarly literature, news articles, and reports from governmental and non-governmental organisations, this qualitative research sheds light on the multifaceted nature of food insecurity challenges in higher education institutions, with a specific focus on student development. Insights from Bronfenbrenner’s ecological systems theory enhance the understanding of the barriers to student well-being and academic success and underscore the need for targeted interventions. The findings contribute to the literature on food insecurity as a complex problem and guide policy decisions, interventions, and initiatives.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://unisapressjournals.co.za/index.php/JLSD/article/download/14528/7649\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 97,
+              "endIndex": 235,
+              "uri": "https://ouci.dntb.gov.ua/en/?backlinks_to=10.1016/j.geoforum.2023.103678"
+            },
+            {
+              "startIndex": 433,
+              "endIndex": 2031
+            }
+          ]
+        },
+        "avgLogprobs": -0.0009476650792818803
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2824,
+      "candidatesTokenCount": 520,
+      "totalTokenCount": 3344,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2824
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 520
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "Sp9SaOHbC6iUsbQPmK3KkQI"
+  }
+}

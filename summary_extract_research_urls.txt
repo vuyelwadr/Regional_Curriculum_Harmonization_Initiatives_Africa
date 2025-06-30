@@ -1,0 +1,869 @@
+URL EXTRACTION SUMMARY REPORT
+================================================================================
+
+Generated on: 2025-06-18 12:25:53
+FILES PROCESSED:
+----------------------------------------
+  - research_gemini.txt
+  - research_grok.txt
+  - research_other.txt
+  - research_perplexity.txt
+  - research_scira.txt
+
+Total files: 5
+
+OVERALL STATISTICS:
+----------------------------------------
+Total URLs found (with duplicates): 761
+Total unique URLs: 561
+URLs appearing in multiple sections: 169
+
+PER-SECTION STATISTICS:
+----------------------------------------
+Gemini:
+  - Total URLs: 108
+  - File: research_gemini.txt
+
+Grok:
+  - Total URLs: 28
+  - File: research_grok.txt
+
+Other:
+  - Total URLs: 162
+  - File: research_other.txt
+
+Perplexity:
+  - Total URLs: 370
+  - File: research_perplexity.txt
+
+Scira:
+  - Total URLs: 93
+  - File: research_scira.txt
+
+DOMAIN ANALYSIS:
+----------------------------------------
+Total unique domains: 285
+
+All domains by URL count:
+  semanticscholar.org: 32 URLs
+  link.springer.com: 24 URLs
+  researchgate.net: 23 URLs
+  tandfonline.com: 22 URLs
+  mdpi.com: 12 URLs
+  files.eric.ed.gov: 11 URLs
+  emerald.com: 11 URLs
+  pmc.ncbi.nlm.nih.gov: 10 URLs
+  frontiersin.org: 9 URLs
+  au.int: 8 URLs
+  noyam.org: 8 URLs
+  tuningjournal.org: 7 URLs
+  academic.oup.com: 7 URLs
+  sadc.int: 7 URLs
+  unicef.org: 7 URLs
+  bmcmededuc.biomedcentral.com: 6 URLs
+  academia.edu: 6 URLs
+  scielo.org.za: 5 URLs
+  journals.sagepub.com: 5 URLs
+  ejournals.bc.edu: 4 URLs
+  documents1.worldbank.org: 4 URLs
+  unesco.org: 4 URLs
+  doi.org: 3 URLs
+  dx.plos.org: 3 URLs
+  education-au.org: 3 URLs
+  esdev.org: 3 URLs
+  preview1.nbatesting.co.za: 3 URLs
+  rsisinternational.org: 3 URLs
+  unisapressjournals.co.za: 3 URLs
+  wjarr.com: 3 URLs
+  adeanet.org: 3 URLs
+  ajol.info: 3 URLs
+  eac.int: 3 URLs
+  ijfmr.com: 3 URLs
+  linkedin.com: 3 URLs
+  universityworldnews.com: 3 URLs
+  dspace.unza.zm: 2 URLs
+  services.igi-global.com: 2 URLs
+  ccsenet.org: 2 URLs
+  moe.go.tz: 2 URLs
+  ssrn.com: 2 URLs
+  acqf.africa: 2 URLs
+  acuass.org: 2 URLs
+  api.taylorfrancis.com: 2 URLs
+  blog.aau.org: 2 URLs
+  bmchealthservres.biomedcentral.com: 2 URLs
+  cultureandvalues.org: 2 URLs
+  curriculumstudies.org: 2 URLs
+  documents.worldbank.org: 2 URLs
+  eric.ed.gov: 2 URLs
+  gh.bmj.com: 2 URLs
+  haqaa.aau.org: 2 URLs
+  haqaa3.obreal.org: 2 URLs
+  ijlter.org: 2 URLs
+  journal.lib.uoguelph.ca: 2 URLs
+  journal.stitmadani.ac.id: 2 URLs
+  journals.dut.ac.za: 2 URLs
+  journals.lww.com: 2 URLs
+  journals.scholarpublishing.org: 2 URLs
+  kicd.ac.ke: 2 URLs
+  papers.academic-conferences.org: 2 URLs
+  pmejournal.org: 2 URLs
+  pubs.ufs.ac.za: 2 URLs
+  scholar.kyobobook.co.kr: 2 URLs
+  systems.enpress-publisher.com: 2 URLs
+  teachertaskforce.org: 2 URLs
+  unesdoc.unesco.org: 2 URLs
+  utppublishing.com: 2 URLs
+  ecowas.int: 2 URLs
+  enqa.eu: 2 URLs
+  sciencedirect.com: 2 URLs
+  scirp.org: 2 URLs
+  stratfordjournals.com: 2 URLs
+  worldbank.org: 2 URLs
+  article.sapub.org: 1 URLs
+  dergipark.org.tr: 1 URLs
+  dl.dropbox.com: 1 URLs
+  ejournal.ukm.my: 1 URLs
+  gjournals.org: 1 URLs
+  ijdra.com: 1 URLs
+  journal.unj.ac.id: 1 URLs
+  jovacet.ac.za: 1 URLs
+  naukaru.ru: 1 URLs
+  ojs.spiruharet.ro: 1 URLs
+  perlinguam.journals.ac.za: 1 URLs
+  thesai.org: 1 URLs
+  ajhpe.org.za: 1 URLs
+  cabidigitallibrary.org: 1 URLs
+  educationthatpaysforitself.com: 1 URLs
+  jstor.org: 1 URLs
+  scholink.org: 1 URLs
+  sciedu.ca: 1 URLs
+  sciedupress.com: 1 URLs
+  scielo.br: 1 URLs
+  scientiasocialis.lt: 1 URLs
+  sejongjul.org: 1 URLs
+  unish.net: 1 URLs
+  aacrjournals.org: 1 URLs
+  african.business: 1 URLs
+  africanpact.org: 1 URLs
+  africanscholarpub.com: 1 URLs
+  afriqan.aau.org: 1 URLs
+  ajates-scholarly.com: 1 URLs
+  american-archivist.kglmeridian.com: 1 URLs
+  aplu-prod.s3.amazonaws.com: 1 URLs
+  archive.uneca.org: 1 URLs
+  archive.unu.edu: 1 URLs
+  arxiv.org: 1 URLs
+  ascopubs.org: 1 URLs
+  ashpublications.org: 1 URLs
+  axiompublishers.scholasticahq.com: 1 URLs
+  bera-journals.onlinelibrary.wiley.com: 1 URLs
+  bostonsciencepublishing.us: 1 URLs
+  brill.com: 1 URLs
+  carijournals.org: 1 URLs
+  cgspace.cgiar.org: 1 URLs
+  conf.ul.ac.za: 1 URLs
+  crlljournal.org: 1 URLs
+  curationis.org.za: 1 URLs
+  deeplearningindaba.com: 1 URLs
+  digitalcommons.pepperdine.edu: 1 URLs
+  ditadsresearchcenter.com: 1 URLs
+  dl.acm.org: 1 URLs
+  e-journal.uniflor.ac.id: 1 URLs
+  ecosocc.au.int: 1 URLs
+  ej-med.org: 1 URLs
+  ejournal.iainu-kebumen.ac.id: 1 URLs
+  ejournal.insuriponorogo.ac.id: 1 URLs
+  ejournal.staimnglawak.ac.id: 1 URLs
+  ejournal.upi.edu: 1 URLs
+  esp.as-pub.com: 1 URLs
+  essa-africa.org: 1 URLs
+  fepbl.com: 1 URLs
+  futurity-education.com: 1 URLs
+  g20.org: 1 URLs
+  ghrp.biomedcentral.com: 1 URLs
+  globalhealthsynapse.com: 1 URLs
+  guides.lib.utexas.edu: 1 URLs
+  guni-call4action.triplomobile.com: 1 URLs
+  ictforum.adeanet.org: 1 URLs
+  idpjournal.biomedcentral.com: 1 URLs
+  ieeexplore.ieee.org: 1 URLs
+  ijble.com: 1 URLs
+  ijci.net: 1 URLs
+  ijpe.eu: 1 URLs
+  ijqa.zu.edu.jo: 1 URLs
+  ijsra.net: 1 URLs
+  insightsimaging.springeropen.com: 1 URLs
+  international-partnerships.ec.europa.eu: 1 URLs
+  japendi.publikasiindonesia.id: 1 URLs
+  jcope.uobaghdad.edu.iq: 1 URLs
+  jecs.pl: 1 URLs
+  jeilt.org: 1 URLs
+  jelle.lgu.edu.pk: 1 URLs
+  jhrlmc.com: 1 URLs
+  jisrmsse.szabist.edu.pk: 1 URLs
+  jle.hse.ru: 1 URLs
+  jodac.org: 1 URLs
+  journal-laaroiba.com: 1 URLs
+  journal.arimbi.or.id: 1 URLs
+  journal.tofedu.or.id: 1 URLs
+  journal.uinsgd.ac.id: 1 URLs
+  journal.unnes.ac.id: 1 URLs
+  journalajess.com: 1 URLs
+  journalijecc.com: 1 URLs
+  journaljsrr.com: 1 URLs
+  journals.assaf.org.za: 1 URLs
+  journals.christuniversity.in: 1 URLs
+  journals.co.za: 1 URLs
+  journals.eanso.org: 1 URLs
+  journals.glotanjournals.com: 1 URLs
+  journals.innovareacademics.in: 1 URLs
+  journals.iuiu.ac.ug: 1 URLs
+  journals.out.ac.tz: 1 URLs
+  journals.plos.org: 1 URLs
+  journals.ufs.ac.za: 1 URLs
+  jriiejournal.com: 1 URLs
+  juku.um.edu.my: 1 URLs
+  jurnal.unimed.ac.id: 1 URLs
+  knepublishing.com: 1 URLs
+  latia.ageditor.uy: 1 URLs
+  lghor.alzahra.ac.ir: 1 URLs
+  lib.ku.edu: 1 URLs
+  lida.hse.ru: 1 URLs
+  luedconf.pubpub.org: 1 URLs
+  malque.pub: 1 URLs
+  mastercardfdn.org: 1 URLs
+  muse.jhu.edu: 1 URLs
+  my.chartered.college: 1 URLs
+  oecs.int: 1 URLs
+  ojs.library.lancs.ac.uk: 1 URLs
+  openscholar.dut.ac.za: 1 URLs
+  papers.ssrn.com: 1 URLs
+  pau-au.africa: 1 URLs
+  peerj.com: 1 URLs
+  phsreda.com: 1 URLs
+  posthumanism.co.uk: 1 URLs
+  pressto.amu.edu.pl: 1 URLs
+  publications.drdo.gov.in: 1 URLs
+  pubmed.ncbi.nlm.nih.gov: 1 URLs
+  pure.uj.ac.za: 1 URLs
+  researchinnovationjournal.com: 1 URLs
+  revistacaribena.com: 1 URLs
+  rgsa.openaccesspublications.org: 1 URLs
+  rightforeducation.org: 1 URLs
+  riojournal.com: 1 URLs
+  riseprogramme.org: 1 URLs
+  royalsocietypublishing.org: 1 URLs
+  safrap.wordpress.com: 1 URLs
+  science.iea.gov.ua: 1 URLs
+  spm-online.com: 1 URLs
+  staging.tvcnews.tv: 1 URLs
+  taapublications.com: 1 URLs
+  thedecisionlab.com: 1 URLs
+  thejournal.org.za: 1 URLs
+  thesanafrican.com: 1 URLs
+  trt.global: 1 URLs
+  uis.unesco.org: 1 URLs
+  utafitionline.com: 1 URLs
+  uwispace.sta.uwi.edu: 1 URLs
+  vestnik-bist.ru: 1 URLs
+  wenr.wes.org: 1 URLs
+  aau.org: 1 URLs
+  acerwc.africa: 1 URLs
+  africanresearchers.org: 1 URLs
+  appliedclinicaltrialsonline.com: 1 URLs
+  arso-oran.org: 1 URLs
+  biometricupdate.com: 1 URLs
+  brookings.edu: 1 URLs
+  cgdev.org: 1 URLs
+  cirsci.org: 1 URLs
+  comesa.int: 1 URLs
+  degruyter.com: 1 URLs
+  dlsu.edu.ph: 1 URLs
+  dovepress.com: 1 URLs
+  eala.org: 1 URLs
+  etf.europa.eu: 1 URLs
+  europarl.europa.eu: 1 URLs
+  fhi360.org: 1 URLs
+  fhsu.edu: 1 URLs
+  gcedclearinghouse.org: 1 URLs
+  granthaalayahpublication.org: 1 URLs
+  haeavustuksia.fi: 1 URLs
+  ibe.unesco.org: 1 URLs
+  igi-global.com: 1 URLs
+  iicba.unesco.org: 1 URLs
+  ijem.com: 1 URLs
+  ijhpm.com: 1 URLs
+  ilomata.org: 1 URLs
+  inasp.info: 1 URLs
+  insidehighered.com: 1 URLs
+  irejournals.com: 1 URLs
+  ituc-africa.org: 1 URLs
+  iucea.org: 1 URLs
+  jiecr.org: 1 URLs
+  jipp.unram.ac.id: 1 URLs
+  jpub.org: 1 URLs
+  jstage.jst.go.jp: 1 URLs
+  jutajournals.co.za: 1 URLs
+  kenyanews.go.ke: 1 URLs
+  kenyans.co.ke: 1 URLs
+  medra.org: 1 URLs
+  multiresearchjournal.com: 1 URLs
+  nacosti.go.ke: 1 URLs
+  nepad.org: 1 URLs
+  nepjol.info: 1 URLs
+  newtimes.co.rw: 1 URLs
+  paradigmpress.org: 1 URLs
+  prb.org: 1 URLs
+  pulp.up.ac.za: 1 URLs
+  questjournals.org: 1 URLs
+  sajournalofeducation.co.za: 1 URLs
+  sciencepublishinggroup.com: 1 URLs
+  scribd.com: 1 URLs
+  springer.com: 1 URLs
+  ssbfnet.com: 1 URLs
+  taylorfrancis.com: 1 URLs
+  thesierraleonetelegraph.com: 1 URLs
+  thieme-connect.com: 1 URLs
+  umalusi.org.za: 1 URLs
+  upjournals.co.za: 1 URLs
+  usls.edu.ph: 1 URLs
+  wahooas.org: 1 URLs
+  wathi.org: 1 URLs
+  www3.alibris-static.com: 1 URLs
+
+
+URLs APPEARING IN MULTIPLE SECTIONS:
+----------------------------------------
+Total: 169 URLs
+
+1. https://preview1.nbatesting.co.za/sites/default/files/2024-01/2009.Hoosen%20et%20al.Harmonization%20of%20HE.pdf
+   Appears in: Gemini, Other, Perplexity, Scira
+
+2. https://haqaa3.obreal.org/wp-content/uploads/2023/12/Chapter-9-1.pdf
+   Appears in: Gemini, Other, Perplexity, Scira
+
+3. https://www.eac.int/education/technical-and-vocational-education-and-training
+   Appears in: Gemini, Other, Perplexity, Scira
+
+4. https://link.springer.com/chapter/10.1007/978-3-319-27258-0_2
+   Appears in: Grok, Other, Perplexity, Scira
+
+5. https://www.researchgate.net/publication/378676523_Harmonization_of_Higher_Education_for_Sustainable_Development_Southern_Africa_Development_Community_Experiences
+   Appears in: Gemini, Other, Scira
+
+6. https://au.int/en/directorates/education
+   Appears in: Gemini, Other, Perplexity
+
+7. https://www.enqa.eu/projects/harmonisation-quality-assurance-and-accreditation-in-africa-haqaa-3/
+   Appears in: Gemini, Other, Scira
+
+8. https://esdev.org/aligning-african-education-with-employment-reimagining-curricula-for-socio-economic-transformation/
+   Appears in: Gemini, Other, Perplexity
+
+9. https://spm-online.com/jrep/index.php/journal/article/view/46
+   Appears in: Gemini, Other, Perplexity
+
+10. https://www.mdpi.com/2071-1050/16/7/2657
+   Appears in: Gemini, Other, Scira
+
+11. https://dspace.unza.zm/bitstreams/02c82f36-12a5-4b23-924b-a7a8a74e91f2/download
+   Appears in: Gemini, Other, Perplexity
+
+12. https://acuass.org/wp-content/uploads/2021/10/ACa-journal-4.pdf
+   Appears in: Gemini, Other, Perplexity
+
+13. https://documents1.worldbank.org/curated/en/715441468008715604/pdf/655060WP0Proce0toward0harmonization.pdf
+   Appears in: Gemini, Other, Perplexity
+
+14. https://www.tandfonline.com/doi/full/10.1080/17400201.2025.2494506
+   Appears in: Gemini, Other, Perplexity
+
+15. https://teachertaskforce.org/sites/default/files/2020-09/Continental%20Teacher%20Qualification%20Framework_EN.pdf
+   Appears in: Gemini, Other, Perplexity
+
+16. https://noyam.org/ehass2024534/
+   Appears in: Gemini, Other, Perplexity
+
+17. https://www.researchgate.net/publication/346974917_Strategic_Harmonization_of_Higher_Education_Systems_in_Africa_The_Dominance_of_Cross-State_Organizations_Government_Treaties_and_International_Conferences_in_Higher_Education_Accreditation_and_Quality
+   Appears in: Gemini, Grok, Scira
+
+18. https://ojs.library.lancs.ac.uk/lue/article/view/9
+   Appears in: Grok, Other, Perplexity
+
+19. https://tuningjournal.org/article/view/1415/1735
+   Appears in: Grok, Other, Perplexity
+
+20. https://acqf.africa/resources/mapping-study/school-curriculum-mapping-report-mapping-curriculum-frameworks-and-practices-in-africa-creating-baseline-evidence-2022/@@display-file/file/School%20Curriculum%20Mapping%20report%202022_EN_WEB.pdf
+   Appears in: Other, Perplexity, Scira
+
+21. https://files.eric.ed.gov/fulltext/EJ1245141.pdf
+   Appears in: Other, Perplexity, Scira
+
+22. https://noyam.org/?sdm_process_download=1&download_id=10929
+   Appears in: Other, Perplexity, Scira
+
+23. https://www.scirp.org/journal/paperinformation?paperid=45204
+   Appears in: Other, Perplexity, Scira
+
+24. https://systems.enpress-publisher.com/index.php/jipd/article/viewFile/10749/5108
+   Appears in: Other, Perplexity, Scira
+
+25. https://teachertaskforce.org/sites/default/files/2024-05/2024_Mitchell-et-al_Teacher-professional-development-in-Africa_EN.pdf
+   Appears in: Other, Perplexity, Scira
+
+26. https://tuningjournal.org/article/view/1892
+   Appears in: Other, Perplexity, Scira
+
+27. https://www.unicef.org/innocenti/media/10126/file/UNICEF-Innocenti-Improving-Education-Africa-Brief-2024.pdf
+   Appears in: Other, Perplexity, Scira
+
+28. https://pmc.ncbi.nlm.nih.gov/articles/PMC11270597/
+   Appears in: Gemini, Scira
+
+29. https://www.researchgate.net/publication/372204782_Curriculum_reform_in_African_higher_education_solving_society's_problems_and_meeting_its_needs
+   Appears in: Gemini, Scira
+
+30. https://www.researchgate.net/publication/387370534_Curriculum_harmonization_with_ESSENTIA_CURRICULUM_An_approach_applied_to_the_education_system_at_the_University_of_Narino
+   Appears in: Gemini, Scira
+
+31. https://noyam.org/ehass20234108/
+   Appears in: Gemini, Perplexity
+
+32. https://www.dovepress.com/opportunities-and-challenges-for-implementation-of-harmonized-competen-peer-reviewed-fulltext-article-AMEP
+   Appears in: Gemini, Perplexity
+
+33. https://www.academia.edu/download/100381268/2648.pdf
+   Appears in: Grok, Other
+
+34. https://api.taylorfrancis.com/content/chapters/edit/download?identifierName=doi&identifierValue=10.4324/9781003143840-43&type=chapterpdf
+   Appears in: Grok, Other
+
+35. https://gh.bmj.com/content/8/1/e010892
+   Appears in: Grok, Other
+
+36. https://academic.oup.com/jamia/article-abstract/28/9/1843/6307173
+   Appears in: Grok, Other
+
+37. https://www.jstage.jst.go.jp/article/africaeducation/11/0/11_26/_article/-char/ja/
+   Appears in: Grok, Other
+
+38. https://link.springer.com/chapter/10.1007/978-3-030-90973-4_14
+   Appears in: Grok, Other
+
+39. https://www.taylorfrancis.com/chapters/edit/10.4324/9781003011224-9/african-higher-education-bologna-process-sintayehu-kassaye-alemu
+   Appears in: Grok, Other
+
+40. https://eric.ed.gov/?id=EJ1279859
+   Appears in: Grok, Other
+
+41. https://journals.sagepub.com/doi/abs/10.1177/1474904120951061
+   Appears in: Grok, Other
+
+42. https://www.academia.edu/download/104118595/58895.pdf
+   Appears in: Grok, Other
+
+43. https://www.frontiersin.org/articles/10.3389/fvets.2024.1357855/full
+   Appears in: Grok, Other
+
+44. https://link.springer.com/article/10.1186/s12960-022-00735-y
+   Appears in: Grok, Other
+
+45. https://pmc.ncbi.nlm.nih.gov/articles/PMC9362365/
+   Appears in: Grok, Scira
+
+46. https://link.springer.com/chapter/10.1007/978-3-319-27258-0_1
+   Appears in: Grok, Scira
+
+47. https://www.tandfonline.com/doi/pdf/10.1080/19317611.2024.2353624
+   Appears in: Other, Scira
+
+48. https://www.sciencedirect.com/science/article/pii/S2405844024059772
+   Appears in: Other, Scira
+
+49. https://www.academia.edu/66133570/A_regional_exploration_of_pathways_toward_harmonization_of_math_and_science_curriculum_in_the_East_African_Community
+   Appears in: Other, Perplexity
+
+50. https://acuass.org/wp-content/uploads/2021/08/Competency-Based-Curriculum-Webinars-Revised-Report-August-2021.pdf
+   Appears in: Other, Perplexity
+
+51. https://dl.acm.org/doi/10.1145/3227609.3227654
+   Appears in: Other, Perplexity
+
+52. https://www.academia.edu/49088540/Pan_African_Health_Informatics_Association_HELINA_
+   Appears in: Other, Scira
+
+53. https://www.africanresearchers.org/tag/curriculum-harmonization-africa/
+   Appears in: Other, Perplexity
+
+54. https://afriqan.aau.org/wp-content/uploads/2016/04/Meeting-on-Regional-Harmonization-of-Higher-Education-for-Africa.pdf
+   Appears in: Other, Perplexity
+
+55. https://au.int/en/pressreleases/20190830/recs-dialogue-implementation-tvet-africa
+   Appears in: Other, Perplexity
+
+56. https://au.int/en/pressreleases/20231201/africa-tvet-regulators-conference-strengthening-digital-transformation-and
+   Appears in: Other, Perplexity
+
+57. https://www3.alibris-static.com/regionalization-of-higher-education-in-africa-the-operationalization-of-the-african-union-higher-education-harmonization-strategy-volume-73/isbn/9783643907769_l.jpg
+   Appears in: Other, Scira
+
+58. https://au.int/sites/default/files/newsevents/workingdocuments/37841-wd-teacher_development_summary_en.pdf
+   Appears in: Other, Perplexity
+
+59. https://www.ajol.info/index.php/ajessr/article/view/292051/274876
+   Appears in: Other, Perplexity
+
+60. https://www.linkedin.com/pulse/harmonizing-africas-cultural-essence-global-education-akubude-phd-
+   Appears in: Other, Scira
+
+61. https://lghor.alzahra.ac.ir/article_7097_0b30b38f51ffac78f3850754ad814d20.pdf?lang=fa
+   Appears in: Other, Perplexity
+
+62. https://www.tandfonline.com/doi/full/10.1080/17508487.2023.2233572
+   Appears in: Other, Scira
+
+63. https://ashpublications.org/blood/article/144/Supplement%201/616/531387/Efficacy-of-a-Concise-Training-Curriculum-for-the
+   Appears in: Other, Perplexity
+
+64. https://www.academia.edu/62657206/Case_studies_of_curriculum_innovations_in_Western_Africa
+   Appears in: Other, Scira
+
+65. https://cgspace.cgiar.org/items/bdb3fdd2-b80d-4f70-93d6-080ba56dd7e9
+   Appears in: Other, Perplexity
+
+66. https://link.springer.com/content/pdf/10.1186/s12961-024-01256-x.pdf
+   Appears in: Other, Scira
+
+67. https://www.universityworldnews.com/post.php?story=202410231959374
+   Appears in: Other, Scira
+
+68. https://www.comesa.int/wp-content/uploads/2022/03/4Final-MTSP-2021-2025-English-Reviewed-2_feb.pdf
+   Appears in: Other, Perplexity
+
+69. https://www.researchgate.net/publication/379608139_The_Future_of_Higher_Education_in_Africa_-A_Summary_of_Conference_Subthemes
+   Appears in: Other, Scira
+
+70. https://cultureandvalues.org/index.php/JCV/article/download/278/136
+   Appears in: Other, Perplexity
+
+71. https://curationis.org.za/index.php/curationis/article/view/1906/2565
+   Appears in: Other, Perplexity
+
+72. https://curriculumstudies.org/index.php/CS/article/view/273
+   Appears in: Other, Perplexity
+
+73. https://curriculumstudies.org/index.php/CS/article/view/139
+   Appears in: Other, Perplexity
+
+74. https://deeplearningindaba.com/2025/african-datasets
+   Appears in: Other, Scira
+
+75. https://www.dlsu.edu.ph/wp-content/uploads/pdf/research/journals/apssr/2019-June-vol19-2/13-the-harmonization-process-and-implementation-of-higher-education-in-asean.pdf
+   Appears in: Other, Perplexity
+
+76. https://link.springer.com/10.1007/s41297-023-00200-3
+   Appears in: Other, Perplexity
+
+77. https://www.eac.int/press-releases/138-education,-science-technology-news/1545-eac-partner-states-working-to-harmonise-education-systems-and-curricula-in-the-region
+   Appears in: Other, Perplexity
+
+78. https://www.eac.int/education
+   Appears in: Other, Scira
+
+79. https://www.ecowas.int/ecowas-holds-a-technical-meeting-on-the-harmonization-of-mathematics-curricula/
+   Appears in: Other, Perplexity
+
+80. https://www.ecowas.int/virtual-meeting-of-ecowas-experts-ministers-of-education-on-the-establishment-of-the-ecowas-education-agency-30th-may-to-1st-june-2023/
+   Appears in: Other, Perplexity
+
+81. https://www.researchgate.net/publication/361381402_Education_funding_and_learning_outcomes_in_Sub-Saharan_Africa_A_review_of_reviews
+   Appears in: Other, Scira
+
+82. https://www.researchgate.net/profile/Ahmed_Elamrani4/publication/313845337_Agricultural_Sciences_Tuning_an_Harmonisation_of_Higher_Education_the_Africa_Experience/links/58aa814eaca27206d9b9880e/Agricultural-Sciences-Tuning-an-Harmonisation-of-Higher-Education-the-Africa-Experience.pdf
+   Appears in: Other, Scira
+
+83. https://files.eric.ed.gov/fulltext/EJ1300927.pdf
+   Appears in: Other, Perplexity
+
+84. https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1132167/pdf
+   Appears in: Other, Perplexity
+
+85. https://haqaa.aau.org/wp-content/uploads/2018/07/HAQAA_Review-Methodology_pilots_02-July.pdf
+   Appears in: Other, Perplexity
+
+86. https://haqaa3.obreal.org/discussing-recognition-harmonisation-and-new-approaches-to-teaching-and-learning-in-african-higher-education/
+   Appears in: Other, Perplexity
+
+87. https://jle.hse.ru/article/view/11644
+   Appears in: Other, Perplexity
+
+88. https://ieeexplore.ieee.org/document/9245191/
+   Appears in: Other, Perplexity
+
+89. https://www.igi-global.com/chapter/implications-for-harmonization-of-higher-education-minimum-bodies-of-knowledge-in-the-sadc-region/319487
+   Appears in: Other, Perplexity
+
+90. https://ijci.net/index.php/IJCI/article/view/1448/735
+   Appears in: Other, Perplexity
+
+91. https://journals.innovareacademics.in/index.php/ijoe/article/view/48581
+   Appears in: Other, Perplexity
+
+92. https://www.insidehighered.com/blogs/world-view/harmonization-and-tuning-integrating-african-higher-education-space
+   Appears in: Other, Scira
+
+93. https://www.ijem.com/a-meta-systematic-review-of-the-conceptual-methodological-and-reporting-quality-of-systematic-reviews-of-research-on-educational-leadership-and-management-in-africa
+   Appears in: Other, Perplexity
+
+94. https://jhrlmc.com/index.php/home/article/view/844
+   Appears in: Other, Perplexity
+
+95. https://journal.uinsgd.ac.id/index.php/idajhs/article/view/35120
+   Appears in: Other, Perplexity
+
+96. https://www.tandfonline.com/doi/pdf/10.1080/2331186X.2025.2476299
+   Appears in: Other, Scira
+
+97. https://www.kenyanews.go.ke/tvet-authorities-from-eac-to-harmonize-curriculum-qualifications-and-occupational-standards/
+   Appears in: Other, Perplexity
+
+98. https://www.linkedin.com/pulse/unlocking-potential-african-education-rise-curriculum-sally-kimangu
+   Appears in: Other, Perplexity
+
+99. https://knepublishing.com/index.php/KnE-Social/article/view/10007
+   Appears in: Other, Perplexity
+
+100. https://luedconf.pubpub.org/pub/26fulfjz
+   Appears in: Other, Perplexity
+
+101. https://mastercardfdn.org/wp-content/uploads/2019/03/SEA-Curriculum-Assessment-NQFs-FINAL-Feb-2019-1.pdf
+   Appears in: Other, Perplexity
+
+102. https://www.medra.org/servlet/aliasResolver?alias=iospressISBN&isbn=978-1-61499-511-1&spage=511&doi=10.3233/978-1-61499-512-8-511
+   Appears in: Other, Perplexity
+
+103. https://www.tandfonline.com/doi/full/10.1080/18146627.2024.2400250
+   Appears in: Other, Perplexity
+
+104. https://link.springer.com/article/10.1007/s41297-023-00223-w
+   Appears in: Other, Scira
+
+105. https://www.nacosti.go.ke/nacosti/Docs/Downloads/1%20%20%20%20%2016th%20SCESTCS%20REPORT%20OF%20THE%20SESSION%20OF%20THE%20PSs.pdf
+   Appears in: Other, Perplexity
+
+106. https://www.newtimes.co.rw/article/58965/curriculum-harmonization-in-eac-is-a-big-challenge
+   Appears in: Other, Perplexity
+
+107. https://www.researchgate.net/publication/315049617_Towards_a_Harmonized_Curriculum_in_East_Africa_A_Comparative_Perspective_of_the_Intended_Secondary_School_Mathematics_Curriculum_in_Kenya_Rwanda_Tanzania_and_Uganda
+   Appears in: Other, Scira
+
+108. https://oecs.int/en/our-work/knowledge/library/primary-school-la
+   Appears in: Other, Perplexity
+
+109. https://www.researchgate.net/publication/325492208_Harmonization_of_higher_education_in_Africa_and_Europe_Policy_convergence_at_supranational_level
+   Appears in: Other, Scira
+
+110. https://academic.oup.com/jae/article/30/1/13/5999001
+   Appears in: Other, Perplexity
+
+111. https://academic.oup.com/oxford-law-pro/book/57728/chapter/470502541
+   Appears in: Other, Perplexity
+
+112. https://www.researchgate.net/publication/351053479_Pan_African_Health_Informatics_Association_HELINA/fulltext/6081a8598ea909241e1a9904/Pan-African-Health-Informatics-Association-HELINA.pdf
+   Appears in: Other, Scira
+
+113. https://peerj.com/preprints/1093v1
+   Appears in: Other, Perplexity
+
+114. https://journals.plos.org/globalpublichealth/article?id=10.1371%2Fjournal.pgph.0001296
+   Appears in: Other, Perplexity
+
+115. https://dx.plos.org/10.1371/journal.pgph.0001296
+   Appears in: Other, Perplexity
+
+116. https://pmc.ncbi.nlm.nih.gov/articles/PMC10132525/
+   Appears in: Other, Perplexity
+
+117. https://pmc.ncbi.nlm.nih.gov/articles/PMC9884881/
+   Appears in: Other, Perplexity
+
+118. https://pmejournal.org/articles/10.1007/S40037-019-0523-4
+   Appears in: Other, Perplexity
+
+119. https://pressto.amu.edu.pl/index.php/ppuam/article/view/37493
+   Appears in: Other, Perplexity
+
+120. https://pubmed.ncbi.nlm.nih.gov/36622865/
+   Appears in: Other, Perplexity
+
+121. https://rgsa.openaccesspublications.org/rgsa/article/view/5748
+   Appears in: Other, Perplexity
+
+122. https://www.sadc.int/sites/default/files/2022-09/EN%20Annual%20Report%202021-22%20FINAL.pdf
+   Appears in: Other, Perplexity
+
+123. https://www.sadc.int/sites/default/files/2022-07/SADC_Member_States_Education_Sector_Response_to_Covid_19.pdf
+   Appears in: Other, Perplexity
+
+124. https://www.sadc.int/sites/default/files/2022-07/SADC_Qualifications_Reognition_Manual_Final.pdf
+   Appears in: Other, Perplexity
+
+125. https://www.sadc.int/sites/default/files/2022-07/Regional_ODL_Strategic_Plan_2022_2030.pdf
+   Appears in: Other, Perplexity
+
+126. https://www.sadc.int/sites/default/files/2022-07/SADCQF_review%20implem%20report_FINAL3%2023052022_Secretariat_EN.pdf
+   Appears in: Other, Perplexity
+
+127. https://www.sadc.int/pillars/education-skills-development
+   Appears in: Other, Perplexity
+
+128. https://www.sadc.int/file/2754/download?token=-Eo3cFQS
+   Appears in: Other, Perplexity
+
+129. http://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S2077-49072015000100007
+   Appears in: Other, Perplexity
+
+130. https://www.scribd.com/document/711757995/Exploringthegrowthofinclusivecurriculumasystematicreviewofscholarandpractitionerperspectives2
+   Appears in: Other, Perplexity
+
+131. http://www.sejongjul.org/archive/view_article?doi=10.22425/jul.2025.26.1.133
+   Appears in: Other, Perplexity
+
+132. https://www.semanticscholar.org/paper/0b176dd5dba1f5136d8d1e647269679f68991a1d
+   Appears in: Other, Perplexity
+
+133. https://www.semanticscholar.org/paper/2cf85e21abcea133f752e366445ac122e0eb0355
+   Appears in: Other, Perplexity
+
+134. https://www.semanticscholar.org/paper/e83bc41c9d453ab305010dda7879859c84560b83
+   Appears in: Other, Perplexity
+
+135. https://www.semanticscholar.org/paper/adfa1b0e080133fbc328ce43d76490ed9e3133bf
+   Appears in: Other, Perplexity
+
+136. https://www.semanticscholar.org/paper/a60a1dbe42d35f617e4e616c3c24aeea81320cc2
+   Appears in: Other, Perplexity
+
+137. https://www.semanticscholar.org/paper/7db6f0bf786cc6b9ae1a1f82d62a37d730966f5c
+   Appears in: Other, Perplexity
+
+138. https://www.semanticscholar.org/paper/6a03beae31d38b4a6d7589a6b8d6025abece09bd
+   Appears in: Other, Perplexity
+
+139. https://bera-journals.onlinelibrary.wiley.com/doi/10.1002/curj.301
+   Appears in: Other, Perplexity
+
+140. https://www.tandfonline.com/doi/full/10.1080/2331186X.2024.2415749?scroll=top&needAccess=true
+   Appears in: Other, Scira
+
+141. https://link.springer.com/10.1007/978-3-319-27258-0_5
+   Appears in: Other, Perplexity
+
+142. https://link.springer.com/chapter/10.1007/978-3-031-53322-8_11
+   Appears in: Other, Perplexity
+
+143. https://link.springer.com/article/10.1007/s40290-025-00554-1
+   Appears in: Other, Perplexity
+
+144. http://link.springer.com/10.1007/978-94-6300-956-0
+   Appears in: Other, Perplexity
+
+145. https://link.springer.com/10.1007/978-3-031-68286-5
+   Appears in: Other, Perplexity
+
+146. https://www.stratfordjournals.com/journals/index.php/journal-of-education/article/download/1014/1269
+   Appears in: Other, Perplexity
+
+147. https://www.researchgate.net/publication/366579287_The_Imperatives_of_Academic_Collaboration_in_Africa_Asia_and_Latin_America
+   Appears in: Other, Scira
+
+148. https://thedecisionlab.com/insights/education/innovating-for-africas-future
+   Appears in: Other, Scira
+
+149. https://tuningjournal.org/article/view/1415
+   Appears in: Other, Perplexity
+
+150. https://tuningjournal.org/article/download/1415/1725/
+   Appears in: Other, Perplexity
+
+151. https://tuningjournal.org/article/view/1600
+   Appears in: Other, Perplexity
+
+152. https://staging.tvcnews.tv/ecowas-to-commence-harmonisation-of-school-curriculum-in-2021/
+   Appears in: Other, Perplexity
+
+153. https://www.umalusi.org.za/docs/research/2015/harmonization.pdf
+   Appears in: Other, Perplexity
+
+154. https://archive.uneca.org/oria/pages/comesa-harmonisation-sectoral-policies
+   Appears in: Other, Perplexity
+
+155. https://unesdoc.unesco.org/ark:/48223/pf0000114437
+   Appears in: Other, Perplexity
+
+156. http://www.unish.net/module/downFile.jsp?fileSaveNm=05-2025-00004-%EC%B5%9C%EC%A2%85.pdf
+   Appears in: Other, Perplexity
+
+157. https://unisapressjournals.co.za/index.php/CILSA/article/view/15912
+   Appears in: Other, Perplexity
+
+158. https://pure.uj.ac.za/en/publications/decolonising-the-african-union-regional-higher-education-policy-a
+   Appears in: Other, Perplexity
+
+159. https://www.universityworldnews.com/post.php?story=20110602170806940
+   Appears in: Other, Scira
+
+160. https://www.universityworldnews.com/post.php?story=20120907100207652
+   Appears in: Other, Scira
+
+161. https://archive.unu.edu/africa/files/UNU_RevitalizingHigherEducation.pdf
+   Appears in: Other, Perplexity
+
+162. http://dspace.unza.zm/handle/123456789/5920
+   Appears in: Other, Perplexity
+
+163. https://uwispace.sta.uwi.edu/bitstreams/a24b4289-55b4-4fa6-af22-469abe3d4ae7/download
+   Appears in: Other, Perplexity
+
+164. https://www.sciencedirect.com/science/article/pii/S2949761223000482
+   Appears in: Other, Scira
+
+165. https://www.wathi.org/wathinotes-systemes-educatifs/barriers-and-challenges-affecting-quality-education-in-sub-saharan-africa-by-2030-mdpi-open-access-journal-2024/
+   Appears in: Other, Perplexity
+
+166. https://www.wahooas.org/web-ooas/sites/default/files/publications/1849/harmonized-curriculum-doctor-pharmacy-degree-training-ecowas-region.pdf
+   Appears in: Other, Scira
+
+167. https://documents.worldbank.org/curated/en/715441468008715604/pdf/655060WP0Proce0toward0harmonization.pdf
+   Appears in: Other, Perplexity
+
+168. https://documents.worldbank.org/en/publication/documents-reports/documentdetail/507641468002107985/a-regional-exploration-of-pathways-toward-harmonization-of-math-science-curriculum-in-the-east-african-community
+   Appears in: Other, Perplexity
+
+169. https://www.worldbank.org/en/news/press-release/2020/03/26/harmonizing-and-improving-statistics-in-west-africa
+   Appears in: Other, Scira
+
+
+URL PATTERNS ANALYSIS:
+----------------------------------------
+PDF URLs: 91
+Article URLs: 182
+DOI URLs: 54
+
+
+OUTPUT FILES CREATED:
+----------------------------------------
+1. /Users/ruwodda/Documents/Personal/tmp/gr2a/paper5/researchCombined/urls.txt
+   - Contains all URLs organized by section
+2. /Users/ruwodda/Documents/Personal/tmp/gr2a/paper5/researchCombined/urls_combined.txt
+   - Contains all unique URLs combined and numbered
+3. /Users/ruwodda/Documents/Personal/tmp/gr2a/paper5/researchCombined/summary_extract_research_urls.txt
+   - This comprehensive summary report
+
+This summary outlines the initial data gathering phase for the scoping review.
+
+Purpose: To programmatically collect a broad set of URLs and metadata for academic papers related to education and curriculum in Africa. This formed the initial, unfiltered data pool.
+
+Method: The `extract_research_urls.py` script was likely designed to query various online academic sources and aggregators (e.g., Google Scholar, Springer, Scielo, institutional repositories) using a wide range of keywords.
+
+Output: The process generated a list of potential research papers. The `total_papers_analyzed` count of 561, as recorded in `paper_information.json`, represents the total number of unique documents identified in this initial phase before screening and filtering.

@@ -1,0 +1,45 @@
+{
+  "response_id": 229,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:49:19.932444",
+  "metadata": {
+    "apa_number": 135,
+    "url": "https://files.eric.ed.gov/fulltext/EJ1053933.pdf",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://files.eric.ed.gov/fulltext/EJ1053933.pdf\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in Africa, specifically examining the Tuning Africa project which involves multiple African countries and aims to harmonize higher education curricula across institutions. It discusses regional frameworks, cross-border education, and mutual recognition of qualifications. The paper explicitly mentions the Tuning Africa project as a regional initiative.\",\n  \"Title\": \"Tuning Africa: A Reference Point for the Development of Harmonized Curricula in Africa\",\n  \"Authors\": [\n    \"Peter Okebukola\"\n  ],\n  \"Year\": \"2014\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Journal of Education for International Development\",\n    \"DOI_URL\": null,\n    \"APA_Reference\": \"Okebukola, P. (2014). Tuning Africa: A Reference Point for the Development of Harmonized Curricula in Africa. Journal of Education for International Development, 7(1), 1-19.\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature Review and Project Description\",\n    \"Geographic_Focus\": \"Africa (multiple countries involved in the Tuning Africa project)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable (literature review and project description)\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Tuning Methodology\",\n    \"Harmonization_Definition\": \"Harmonization is defined within the context of the Tuning Africa project, focusing on developing comparable and compatible curricula across African higher education institutions.\",\n    \"Regional_Initiatives\": [\n      \"Tuning Africa Project\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Curriculum development based on learning outcomes\",\n      \"Development of reference points\",\n      \"Stakeholder consultation\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Academics\",\n      \"Employers\",\n      \"Students\",\n      \"Quality Assurance Agencies\"\n    ],\n    \"Data_Sources\": [\n      \"Project documents\",\n      \"Literature on Tuning methodology\",\n      \"Reports from Tuning Africa workshops\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"The Tuning Africa project provides a useful framework for harmonizing curricula in African higher education.\",\n      \"The project has facilitated the development of reference points for various subject areas.\",\n      \"Stakeholder involvement is crucial for successful curriculum harmonization.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Resistance to change\",\n      \"Lack of resources\",\n      \"Differences in educational systems\"\n    ],\n    \"Success_Factors\": [\n      \"Strong leadership\",\n      \"Stakeholder engagement\",\n      \"Clear objectives\"\n    ],\n    \"Recommendations\": [\n      \"Further investment in curriculum harmonization initiatives\",\n      \"Capacity building for academics\",\n      \"Development of quality assurance mechanisms\"\n    ],\n    \"Future_Research\": [\n      \"Impact assessment of harmonized curricula\",\n      \"Comparative studies of different harmonization approaches\"\n    ],\n    \"Specific_Examples\": [\n      \"Examples of reference points developed for specific subject areas (e.g., agriculture, engineering)\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Workshops\",\n      \"Curriculum development projects\",\n      \"Stakeholder consultations\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Resistance to change\",\n      \"Lack of resources\",\n      \"Differences in educational systems\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Strong leadership\",\n      \"Stakeholder engagement\",\n      \"Clear objectives\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Development of harmonized curricula\",\n      \"Improved quality of education\",\n      \"Enhanced mobility of students and graduates\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 620,
+      "candidatesTokenCount": 914,
+      "totalTokenCount": 1534,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 620
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 914
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "qZlSaJiDN4qThMIPyoil0Qo"
+  }
+}

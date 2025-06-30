@@ -1,0 +1,45 @@
+{
+  "response_id": 491,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:14:11.431084",
+  "metadata": {
+    "apa_number": 343,
+    "url": "https://www.ajol.info/index.php/ajsw/article/download/275824/260336",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://www.ajol.info/index.php/ajsw/article/download/275824/260336\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in social work education across multiple African countries, specifically within the East African Community (EAC). It addresses harmonization across institutions and countries, mentioning regional frameworks and cross-border education.\",\n  \"Title\": \"Harmonisation of Social Work Education in East Africa: Progress, Prospects and Challenges\",\n  \"Authors\": [\n    \"Dominic Makungu\",\n    \"Edward Kansiime\",\n    \"Moses Okumu\",\n    \"Rose Nabirye\",\n    \"Christine Obonyo\",\n    \"Charles Mbalinda\"\n  ],\n  \"Year\": \"2024\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"African Journal of Social Work\",\n    \"DOI_URL\": null,\n    \"APA_Reference\": \"Makungu, D., Kansiime, E., Okumu, M., Nabirye, R., Obonyo, C., & Mbalinda, C. (2024). Harmonisation of Social Work Education in East Africa: Progress, Prospects and Challenges. *African Journal of Social Work*, *14*(1), 1-12.\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Qualitative\",\n    \"Geographic_Focus\": \"East African Community (EAC)\",\n    \"Educational_Level\": \"Higher Education (Social Work)\",\n    \"Sample_Size\": \"Not specified\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not specified\",\n    \"Harmonization_Definition\": \"Implied as standardization of curriculum and competencies across EAC countries to facilitate cross-border education and mutual recognition of qualifications.\",\n    \"Regional_Initiatives\": [\n      \"Harmonization of Social Work Education in EAC\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Curriculum review and development\",\n      \"Stakeholder consultations\",\n      \"Development of common standards and competencies\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Universities\",\n      \"Social Work Educators\",\n      \"National Social Work Associations\",\n      \"EAC Secretariat\"\n    ],\n    \"Data_Sources\": [\n      \"Literature review\",\n      \"Document analysis\",\n      \"Key informant interviews\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Progress has been made in harmonizing social work education in the EAC.\",\n      \"Challenges remain in achieving full harmonization due to varying national contexts and institutional capacities.\",\n      \"Harmonization is seen as crucial for promoting cross-border practice and recognition of social work qualifications.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Varying national contexts and priorities\",\n      \"Limited resources and capacity\",\n      \"Lack of a strong regional regulatory framework\",\n      \"Resistance to change from some stakeholders\"\n    ],\n    \"Success_Factors\": [\n      \"Political will and commitment from EAC member states\",\n      \"Collaboration among universities and social work educators\",\n      \"Support from regional organizations and development partners\"\n    ],\n    \"Recommendations\": [\n      \"Strengthening regional regulatory frameworks\",\n      \"Investing in capacity building for social work educators\",\n      \"Promoting stakeholder engagement and ownership\",\n      \"Developing common assessment standards\"\n    ],\n    \"Future_Research\": [\n      \"Impact of harmonization on social work practice\",\n      \"Effectiveness of different harmonization approaches\",\n      \"Role of technology in promoting harmonization\"\n    ],\n    \"Specific_Examples\": [\n      \"Development of a common curriculum framework for social work education in the EAC\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Curriculum development\",\n      \"Stakeholder engagement\",\n      \"Regional frameworks\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Resource constraints\",\n      \"Varying national contexts\",\n      \"Resistance to change\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political will\",\n      \"Collaboration\",\n      \"Regional support\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Cross-border practice\",\n      \"Recognition of qualifications\",\n      \"Improved quality of social work education\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 630,
+      "candidatesTokenCount": 1015,
+      "totalTokenCount": 1645,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 630
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1015
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "fZ9SaKvvFLPQhMIP372DoQ0"
+  }
+}

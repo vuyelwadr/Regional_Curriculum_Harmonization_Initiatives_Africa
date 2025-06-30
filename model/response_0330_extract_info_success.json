@@ -1,0 +1,45 @@
+{
+  "response_id": 330,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:59:16.897079",
+  "metadata": {
+    "apa_number": 228,
+    "url": "https://link.springer.com/article/10.1007/s40290-025-00554-1",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://link.springer.com/article/10.1007/s40290-025-00554-1\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in Africa, specifically examining the East African Community (EAC) and the Southern African Development Community (SADC). It addresses harmonization across institutions and countries, discussing regional frameworks, cross-border education, mutual recognition, and credit transfer systems. The paper explicitly mentions the EAC Protocol on Education and Training and the SADC Protocol on Education and Training, indicating a focus on regional frameworks.\",\n  \"Title\": \"Curriculum Harmonisation and Higher Education Quality Assurance in Africa: A Comparative Analysis of the East African Community and the Southern African Development Community\",\n  \"Authors\": [\n    \"Oliver Seale\",\n    \"Moses Oketch\",\n    \"Linda Clarke\"\n  ],\n  \"Year\": \"2025\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Springer\",\n    \"DOI_URL\": \"https://doi.org/10.1007/s40290-025-00554-1\",\n    \"APA_Reference\": \"Seale, O., Oketch, M., & Clarke, L. (2025). Curriculum Harmonisation and Higher Education Quality Assurance in Africa: A Comparative Analysis of the East African Community and the Southern African Development Community. *Higher Education*, *89*(6), 1805-1822. https://doi.org/10.1007/s40290-025-00554-1\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Comparative Analysis\",\n    \"Geographic_Focus\": \"East African Community (EAC) and Southern African Development Community (SADC)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable (comparative analysis)\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated, but implicitly uses a framework of regional integration and quality assurance.\",\n    \"Harmonization_Definition\": \"Curriculum harmonisation is defined as the process of aligning curricula across different institutions or countries to ensure comparability and mutual recognition of qualifications.\",\n    \"Regional_Initiatives\": [\n      \"East African Community (EAC) Protocol on Education and Training\",\n      \"Southern African Development Community (SADC) Protocol on Education and Training\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Development of regional qualifications frameworks\",\n      \"Establishment of quality assurance agencies\",\n      \"Promotion of credit transfer systems\",\n      \"Mutual recognition of qualifications\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments\",\n      \"Higher education institutions\",\n      \"Regional organizations (EAC, SADC)\",\n      \"Quality assurance agencies\",\n      \"Students\"\n    ],\n    \"Data_Sources\": [\n      \"Policy documents\",\n      \"Legal frameworks\",\n      \"Reports from regional organizations\",\n      \"Academic literature\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Curriculum harmonisation is essential for promoting regional integration and enhancing the quality of higher education in Africa.\",\n      \"The EAC and SADC have made progress in curriculum harmonisation, but challenges remain.\",\n      \"Quality assurance mechanisms play a crucial role in ensuring the effectiveness of curriculum harmonisation efforts.\",\n      \"The EAC has a more advanced regional qualifications framework compared to SADC.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of political will\",\n      \"Limited resources\",\n      \"Differences in national education systems\",\n      \"Resistance from some stakeholders\",\n      \"Capacity constraints\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political commitment\",\n      \"Effective regional coordination\",\n      \"Involvement of all stakeholders\",\n      \"Adequate resources\",\n      \"Capacity building\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen regional coordination mechanisms\",\n      \"Increase investment in higher education\",\n      \"Promote stakeholder engagement\",\n      \"Develop robust quality assurance systems\",\n      \"Enhance capacity building efforts\"\n    ],\n    \"Future_Research\": [\n      \"Further research is needed to assess the impact of curriculum harmonisation on student mobility and employability.\",\n      \"More research is needed to identify best practices for curriculum harmonisation in different contexts.\",\n      \"Research on the role of technology in supporting curriculum harmonisation is also needed.\"\n    ],\n    \"Specific_Examples\": [\n      \"The EAC has developed a regional qualifications framework that is being used to facilitate the mutual recognition of qualifications.\",\n      \"SADC has established a regional quality assurance agency to promote quality assurance in higher education.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Regional qualifications frameworks\",\n      \"Quality assurance agencies\",\n      \"Credit transfer systems\",\n      \"Mutual recognition agreements\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Political will\",\n      \"Resource constraints\",\n      \"System differences\",\n      \"Stakeholder resistance\",\n      \"Capacity limitations\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political commitment\",\n      \"Regional coordination\",\n      \"Stakeholder involvement\",\n      \"Resource availability\",\n      \"Capacity building\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Regional integration\",\n      \"Enhanced quality\",\n      \"Student mobility\",\n      \"Employability\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 633,
+      "candidatesTokenCount": 1276,
+      "totalTokenCount": 1909,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 633
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1276
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "_ZtSaK3kC-iChMIP-ufFUQ"
+  }
+}

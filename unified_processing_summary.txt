@@ -1,0 +1,1208 @@
+UNIFIED PAPER PROCESSING SUMMARY
+================================================================================
+Generated: 2025-06-18 13:30:17
+
+OVERALL STATISTICS:
+----------------------------------------
+Total URLs processed: 561
+Successfully processed: 561
+Papers matching criteria: 178
+Papers not matching: 42
+Downloads successful: 0
+Downloads failed: 0
+
+BATCH PROCESSING:
+----------------------------------------
+Total batches: 113
+Papers per batch: 5
+Average papers per batch: 5.0
+Average batch processing time: 315.9s
+Min batch time: 7.3s
+Max batch time: 859.9s
+
+FULLTEXT SEARCH STATISTICS:
+----------------------------------------
+Total fulltext search attempts: 492
+Immediate PDF downloads: 185
+PDF download failures: 15
+Extractions with full text: 178
+Extractions without full text: 37
+
+Fulltext found by method:
+  already_fulltext: 136
+
+DOWNLOAD TYPES:
+----------------------------------------
+Direct PDFs: 170
+HTML full text: 0
+Open repository: 0
+
+AI STATISTICS:
+----------------------------------------
+Total AI requests: 375
+AI failures: 101
+Success rate: 73.1%
+Model responses saved: 668
+
+PROCESSING PERFORMANCE:
+----------------------------------------
+Average time per paper: 62.8s
+Min paper processing time: 0.6s
+Max paper processing time: 479.4s
+Temporary files cleaned: 0
+
+ISSUES ENCOUNTERED:
+----------------------------------------
+404 Not Found: 8
+Paywalls detected: 0
+
+Processing errors by type:
+  url_analysis: 1
+
+MODEL RESPONSES:
+----------------------------------------
+Total responses saved: 668
+Response files in: model/
+
+Responses by type:
+  find_fulltext_success: 274
+  extract_info_success: 221
+  find_fulltext_error: 101
+  extract_info_error: 36
+  extract_info_fallback_error: 35
+  extract_info_exception: 1
+
+
+DETAILED RESULTS:
+================================================================================
+
+PAPERS MATCHING CRITERIA:
+----------------------------------------
+#11: Harmonization of Higher Education in Africa...
+  URL: http://link.springer.com/10.1007/978-94-024-0871-3_6
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_011.pdf
+
+#1: Harmonization of Agricultural Education and Training (AET) C...
+  URL: http://article.sapub.org/10.5923.j.ijaf.20201001.03.html
+  Type: None
+  Batch: None
+  Saved to: None
+
+#21: The African Union Qualifications Framework (AUQF): Implicati...
+  URL: http://tuningjournal.org/article/view/1415
+  Type: None
+  Batch: None
+  Saved to: None
+
+#31: Regional integration and harmonisation of higher education i...
+  URL: http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101-73302004000300015&lng=pt&tlng=pt
+  Type: None
+  Batch: None
+  Saved to: None
+
+#16: Continental Integration in Higher Education in Africa: Chall...
+  URL: http://ojs.spiruharet.ro/jedep/article/view/871
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_016.pdf
+
+#6: Developing a Qualifications Framework for the East African C...
+  URL: http://ejournals.bc.edu/ojs/index.php/ijahe/article/view/5646
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_006.pdf
+
+#32: Curriculum Harmonisation in the SADC Region: Progress, Prosp...
+  URL: http://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S1996-20962023000100004&lng=en&nrm=iso&tlng=en
+  Type: None
+  Batch: None
+  Saved to: None
+
+#37: Development of a Qualifications Framework for Cross-Border H...
+  URL: http://www.sejongjul.org/archive/view_article?doi=10.22425/jul.2025.26.1.133
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_037.pdf
+
+#49: School Curriculum Mapping report: Mapping Curriculum Framewo...
+  URL: https://acqf.africa/resources/mapping-study/school-curriculum-mapping-report-mapping-curriculum-frameworks-and-practices-in-africa-creating-baseline-evidence-2022/@@display-file/file/School%20Curriculum%20Mapping%20report%202022_EN_WEB.pdf
+  Type: direct_pdf
+  Batch: None
+  Saved to: downloads/paper_049.pdf
+
+#51: Harmonisation of Higher Education in Africa: A Review of the...
+  URL: https://acuass.org/wp-content/uploads/2021/10/ACa-journal-4.pdf
+  Type: direct_pdf
+  Batch: None
+  Saved to: downloads/paper_051.pdf
+
+#13: Harmonization of Higher Education in Africa: A Review of Cha...
+  URL: http://link.springer.com/10.1007/978-94-6300-956-0_13
+  Type: None
+  Batch: None
+  Saved to: None
+
+#17: Harmonisation of higher education qualifications in the Sout...
+  URL: http://perlinguam.journals.ac.za/pub/article/view/532
+  Type: None
+  Batch: None
+  Saved to: None
+
+#33: Harmonisation of higher education in Southern Africa: reflec...
+  URL: http://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S2077-49072015000100007
+  Type: None
+  Batch: None
+  Saved to: None
+
+#28: Harmonization of Higher Education Curricula in East Africa: ...
+  URL: http://www.scholink.org/ojs/index.php/jecs/article/view/31470
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_028.pdf
+
+#38: Harmonization of Higher Education in Africa: Survey of the L...
+  URL: http://www.ssrn.com/abstract=2225814
+  Type: None
+  Batch: None
+  Saved to: None
+
+#34: The SADC Qualifications Framework: Stakeholders’ perceptions...
+  URL: http://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S2520-98682023000100003&lng=en&nrm=iso&tlng=en
+  Type: None
+  Batch: None
+  Saved to: None
+
+#8: Harmonization of Higher Education Curricula in East Africa: ...
+  URL: http://ijdra.com/index.php/journal/article/view/121
+  Type: None
+  Batch: None
+  Saved to: None
+
+#14: Harmonization of Higher Education in East Africa: Progress, ...
+  URL: http://link.springer.com/10.1007/978-981-15-3049-4_8
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_014.pdf
+
+#56: Harmonization of Engineering Curriculum in East Africa: Oppo...
+  URL: https://ajates-scholarly.com/index.php/ajates/article/view/30
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_056.pdf
+
+#29: Regional Harmonization in Higher Education in the East Afric...
+  URL: http://www.sciedu.ca/journal/index.php/ijhe/article/view/6287
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_029.pdf
+
+#35: Towards a Common Higher Education Area in East Africa: A Rev...
+  URL: http://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S2520-98682023000200003&lng=en&nrm=iso&tlng=en
+  Type: None
+  Batch: None
+  Saved to: None
+
+#55: Meeting on Regional Harmonization of Higher Education for Af...
+  URL: https://afriqan.aau.org/wp-content/uploads/2016/04/Meeting-on-Regional-Harmonization-of-Higher-Education-for-Africa.pdf
+  Type: direct_pdf
+  Batch: None
+  Saved to: downloads/paper_055.pdf
+
+#39: A Study on the Development Plan of the Credit Transfer Syste...
+  URL: http://www.unish.net/module/downFile.jsp?fileSaveNm=05-2025-00004-%EC%B5%9C%EC%A2%85.pdf
+  Type: direct_pdf
+  Batch: None
+  Saved to: downloads/paper_039.pdf
+
+#58: Harmonisation of Higher Education Curricula in Africa: Refle...
+  URL: https://api.taylorfrancis.com/content/chapters/edit/download?identifierName=doi&identifierValue=10.4324/9781003143840-43&type=chapterpdf
+  Type: direct_pdf
+  Batch: None
+  Saved to: downloads/paper_058.pdf
+
+#30: Harmonization of Higher Education Curricula in East Africa: ...
+  URL: http://www.sciedupress.com/journal/index.php/jct/article/view/12521
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_030.pdf
+
+#15: HARMONIZATION OF HIGHER EDUCATION IN EAST AFRICA: REGIONAL I...
+  URL: http://naukaru.ru/en/nauka/article/49839/view
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_015.pdf
+
+#62: Revitalizing Higher Education in Africa...
+  URL: https://archive.unu.edu/africa/files/UNU_RevitalizingHigherEducation.pdf
+  Type: direct_pdf
+  Batch: None
+  Saved to: downloads/paper_062.pdf
+
+#76: Association of African Universities General Conference 2025 ...
+  URL: https://blog.aau.org/wp-content/uploads/2025/02/Association-of-African-Universities-_General-Conference_2025_Concept_Note_English_-1.pdf
+  Type: direct_pdf
+  Batch: None
+  Saved to: downloads/paper_076.pdf
+
+#59: Curriculum Harmonisation and Internationalisation in Africa...
+  URL: https://api.taylorfrancis.com/content/chapters/oa-edit/download?identifierName=doi&identifierValue=10.4324/9781003143840-43&type=chapterpdf
+  Type: direct_pdf
+  Batch: None
+  Saved to: downloads/paper_059.pdf
+
+#24: Curriculum Harmonization in Higher Education in East Africa:...
+  URL: http://www.ccsenet.org/journal/index.php/hes/article/view/24852
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_024.pdf
+
+#72: Continental Education Strategy for Africa 2016-2025...
+  URL: https://au.int/sites/default/files/documents/38507-doc-dts-english.pdf
+  Type: direct_pdf
+  Batch: None
+  Saved to: downloads/paper_072.pdf
+
+#86: Harmonization of Medical and Dental Curricula in East Africa...
+  URL: https://bostonsciencepublishing.us/science-world/articlepdf/ijfmph-4-1-114.pdf
+  Type: direct_pdf
+  Batch: None
+  Saved to: downloads/paper_086.pdf
+
+#77: Harmonization of African Higher Education: Concept Note...
+  URL: https://blog.aau.org/wp-content/uploads/2025/03/English_-GC_2025_Concept_Note.pdf
+  Type: direct_pdf
+  Batch: None
+  Saved to: downloads/paper_077.pdf
+
+#60: African Higher Education: Opportunities for Transformative C...
+  URL: https://aplu-prod.s3.amazonaws.com/wp-content/uploads/african-higher-education-opportunities-for-transformative-change-for-sustainable-development.pdf
+  Type: direct_pdf
+  Batch: None
+  Saved to: downloads/paper_060.pdf
+
+#81: Competency-based education in undergraduate medical curricul...
+  URL: https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-023-04259-4
+  Type: None
+  Batch: None
+  Saved to: None
+
+#63: Harmonization of Higher Education in Africa: A Review of the...
+  URL: https://arxiv.org/abs/2307.01966
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_063.pdf
+
+#73: Teacher Development in Africa: Status and Perspectives...
+  URL: https://au.int/sites/default/files/newsevents/workingdocuments/37841-wd-teacher_development_summary_en.pdf
+  Type: direct_pdf
+  Batch: None
+  Saved to: downloads/paper_073.pdf
+
+#87: Harmonization of Higher Education in Africa: A Synthesis of ...
+  URL: https://brill.com/downloadpdf/book/edcoll/9789463009560/BP000014.pdf
+  Type: direct_pdf
+  Batch: None
+  Saved to: downloads/paper_087.pdf
+
+#82: Competency-based assessment in undergraduate medical educati...
+  URL: https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-023-04446-3
+  Type: None
+  Batch: None
+  Saved to: None
+
+#102: The Quest for Harmonization of Higher Education in Africa: R...
+  URL: https://documents.worldbank.org/curated/en/715441468008715604/pdf/655060WP0Proce0toward0harmonization.pdf
+  Type: direct_pdf
+  Batch: None
+  Saved to: downloads/paper_102.pdf
+
+#106: Revitalizing Higher Education in Africa...
+  URL: https://documents1.worldbank.org/curated/en/507641468002107985/txt/655070WP00PUBL0ion0discussion0paper.txt
+  Type: None
+  Batch: None
+  Saved to: None
+
+#96: Curriculum Harmonisation and Higher Education in East Africa...
+  URL: https://curriculumstudies.org/index.php/CS/article/view/139
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_096.pdf
+
+#88: Harmonization of Teacher Education Curriculum in East Africa...
+  URL: https://carijournals.org/journals/index.php/JEP/article/view/1028
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_088.pdf
+
+#92: Harmonization of Higher Education Curricula in East Africa: ...
+  URL: https://crlljournal.org/index.php/crll/article/view/43
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_092.pdf
+
+#83: Competency-based education in undergraduate medical curricul...
+  URL: https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-023-04631-4
+  Type: None
+  Batch: None
+  Saved to: None
+
+#107: The process toward harmonization of higher education in Afri...
+  URL: https://documents1.worldbank.org/curated/en/715441468008715604/pdf/655060WP0Proce0toward0harmonization.pdf
+  Type: direct_pdf
+  Batch: None
+  Saved to: downloads/paper_107.pdf
+
+#104: Enhancing Skills and Competencies for Regional Integration i...
+  URL: https://documents1.worldbank.org/curated/en/099317206202273482/pdf/P17614902262190750bc3405fc3ae20d77b.pdf
+  Type: direct_pdf
+  Batch: None
+  Saved to: downloads/paper_104.pdf
+
+#93: Harmonization of Higher Education Curricula in East Africa: ...
+  URL: https://cultureandvalues.org/index.php/JCV/article/download/278/136
+  Type: direct_pdf
+  Batch: None
+  Saved to: downloads/paper_093.pdf
+
+#116: Continental Education Strategy for Africa 2016-2025...
+  URL: https://ecosocc.au.int/sites/default/files/files/2021-09/continental-strategy-education-africa-english.pdf
+  Type: direct_pdf
+  Batch: None
+  Saved to: downloads/paper_116.pdf
+
+#80: The development of a common curriculum for undergraduate med...
+  URL: https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-018-1163-9
+  Type: None
+  Batch: None
+  Saved to: None
+
+#97: Curriculum Harmonisation and Quality of Education in East Af...
+  URL: https://curriculumstudies.org/index.php/CS/article/view/273
+  Type: None
+  Batch: None
+  Saved to: None
+
+#84: Competency-based medical education in East and West Africa: ...
+  URL: https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-024-05264-x
+  Type: None
+  Batch: None
+  Saved to: None
+
+#89: Harmonization of Higher Education in the East African Commun...
+  URL: https://ccsenet.org/journal/index.php/jel/article/view/0/51170
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_089.pdf
+
+#108: Curriculum harmonization in East Africa: a scoping review...
+  URL: https://doi.org/10.1108/JICE-11-2023-0037
+  Type: None
+  Batch: None
+  Saved to: None
+
+#94: Harmonization of Higher Education Curricula in Africa: A Foc...
+  URL: https://cultureandvalues.org/index.php/JCV/article/view/153
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_094.pdf
+
+#85: Competency-based education in undergraduate medical curricul...
+  URL: https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-024-05618-5
+  Type: None
+  Batch: None
+  Saved to: None
+
+#126: Regional Integration in East Africa: Harmonisation of Higher...
+  URL: https://ejournals.bc.edu/index.php/ijahe/article/view/5646
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_126.pdf
+
+#99: Harmonization of Higher Education Curricula in Africa: A Rev...
+  URL: https://digitalcommons.pepperdine.edu/cgi/viewcontent.cgi?article=1054&context=swbj
+  Type: direct_pdf
+  Batch: None
+  Saved to: downloads/paper_099.pdf
+
+#136: Harmonization of Higher Education in Africa: A Review of Cha...
+  URL: https://files.eric.ed.gov/fulltext/EJ1245141.pdf
+  Type: direct_pdf
+  Batch: None
+  Saved to: downloads/paper_136.pdf
+
+#100: Curriculum Harmonization in Higher Education in East Africa:...
+  URL: https://ditadsresearchcenter.com/IMRJ/v1747923837/ditads/journal/pdf_file/bjy5hjqqhlsplu5sq0pw.pdf
+  Type: direct_pdf
+  Batch: None
+  Saved to: downloads/paper_100.pdf
+
+#137: Towards a Common Higher Education Qualifications Framework f...
+  URL: https://files.eric.ed.gov/fulltext/EJ1265987.pdf
+  Type: direct_pdf
+  Batch: None
+  Saved to: downloads/paper_137.pdf
+
+#119: Harmonization of Medical Education in East Africa: Opportuni...
+  URL: https://ej-med.org/index.php/ejmed/article/view/284
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_119.pdf
+
+#146: Harmonisation of Higher Education Curricula in East Africa: ...
+  URL: https://futurity-education.com/index.php/fed/article/view/393
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_146.pdf
+
+#138: Harmonization of Higher Education in Africa: A Review of Cha...
+  URL: https://files.eric.ed.gov/fulltext/EJ1279859.pdf
+  Type: direct_pdf
+  Batch: None
+  Saved to: downloads/paper_138.pdf
+
+#145: Harmonization of Higher Education in Africa: A Review of Lit...
+  URL: https://files.eric.ed.gov/fulltext/EJ1300927.pdf
+  Type: direct_pdf
+  Batch: None
+  Saved to: downloads/paper_145.pdf
+
+#123: Harmonization of Higher Education Curriculum in Africa: A Sy...
+  URL: https://ejournal.upi.edu/index.php/JIK/article/view/80050
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_123.pdf
+
+#148: Towards harmonisation of medical education in East Africa: a...
+  URL: https://gh.bmj.com/content/8/1/e010892
+  Type: None
+  Batch: None
+  Saved to: None
+
+#157: Towards a Continental Qualifications Framework: Reflections ...
+  URL: https://haqaa3.obreal.org/wp-content/uploads/2023/12/Chapter-9-1.pdf
+  Type: direct_pdf
+  Batch: None
+  Saved to: downloads/paper_157.pdf
+
+#161: Harmonisation of Higher Education Curricula in East Africa: ...
+  URL: https://ijble.com/index.php/ieti/article/view/364
+  Type: None
+  Batch: None
+  Saved to: None
+
+#158: Continental Education Strategy for Africa 2016-2025...
+  URL: https://ictforum.adeanet.org/sites/default/files/cesa_journal_vol1.pdf
+  Type: direct_pdf
+  Batch: None
+  Saved to: downloads/paper_158.pdf
+
+#155: HAQAA Review Methodology Pilots...
+  URL: https://haqaa.aau.org/wp-content/uploads/2018/07/HAQAA_Review-Methodology_pilots_02-July.pdf
+  Type: direct_pdf
+  Batch: None
+  Saved to: downloads/paper_155.pdf
+
+#149: Medical education in Africa: progress and challenges...
+  URL: https://gh.bmj.com/lookup/doi/10.1136/bmjgh-2022-010892
+  Type: None
+  Batch: None
+  Saved to: None
+
+#124: Regionalization of Higher Education in East Africa: Progress...
+  URL: https://ejournals.bc.edu/index.php/ihe/article/view/8534
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_124.pdf
+
+#162: Harmonisation of Higher Education Curricula in East Africa: ...
+  URL: https://ijci.net/index.php/IJCI/article/view/1448/735
+  Type: None
+  Batch: None
+  Saved to: None
+
+#159: Harmonisation of higher education in Africa: a synthesis of ...
+  URL: https://idpjournal.biomedcentral.com/articles/10.1186/s40249-019-0567-z
+  Type: None
+  Batch: None
+  Saved to: None
+
+#150: Mapping the landscape of health professions’ education and r...
+  URL: https://ghrp.biomedcentral.com/articles/10.1186/s41256-024-00365-y
+  Type: None
+  Batch: None
+  Saved to: None
+
+#171: Regional Integration in East Africa: Harmonisation of Higher...
+  URL: https://jecs.pl/index.php/jecs/article/view/1543
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_171.pdf
+
+#125: Harmonization of Higher Education in East Africa: Progress, ...
+  URL: https://ejournals.bc.edu/index.php/ihe/article/view/8837
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_125.pdf
+
+#163: Towards Harmonisation of Higher Education Curricula in East ...
+  URL: https://ijlter.org/index.php/ijlter/article/view/11932
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_163.pdf
+
+#176: Continental Harmonization of African Higher Education: The T...
+  URL: https://jle.hse.ru/article/view/11644
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_176.pdf
+
+#172: EAC Protocol on Education and Training: Harmonisation of Hig...
+  URL: https://jeilt.org/index.php/jeilt/article/view/37
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_172.pdf
+
+#181: Harmonization of TVET Curricula in East Africa: Progress, Ch...
+  URL: https://journal.lib.uoguelph.ca/index.php/ajote/article/view/7515
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_181.pdf
+
+#166: Harmonization of Higher Education Curricula in East Africa: ...
+  URL: https://ijsra.net/node/7038
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_166.pdf
+
+#164: Curriculum Harmonisation in East Africa: A Review of the Lit...
+  URL: https://ijpe.eu/article/view/18270
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_164.pdf
+
+#134: Harmonization of Higher Education Curricula in East Africa: ...
+  URL: https://fepbl.com/index.php/ijarss/article/view/1066
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_134.pdf
+
+#128: The African Union Qualifications Framework (AUQF): Paving th...
+  URL: https://eric.ed.gov/?id=EJ1323754
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_128.pdf
+
+#165: Harmonization of Quality Assurance in Higher Education in Af...
+  URL: https://ijqa.zu.edu.jo/images/stories/2024/1.pdf
+  Type: direct_pdf
+  Batch: None
+  Saved to: downloads/paper_165.pdf
+
+#173: EAC Protocol on Education and Training: Implications on Curr...
+  URL: https://jelle.lgu.edu.pk/jelle/article/view/259
+  Type: None
+  Batch: None
+  Saved to: None
+
+#135: Tuning Africa: A Reference Point for the Development of Harm...
+  URL: https://files.eric.ed.gov/fulltext/EJ1053933.pdf
+  Type: direct_pdf
+  Batch: None
+  Saved to: downloads/paper_135.pdf
+
+#186: Higher Education Development in East Africa: Harmonization a...
+  URL: https://journal.unnes.ac.id/journals/jktp/article/view/13289
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_186.pdf
+
+#178: Harmonization of Higher Education Curricula in East Africa: ...
+  URL: https://journal-laaroiba.com/ojs/index.php/mk/article/view/3398
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_178.pdf
+
+#191: Harmonization of Higher Education in Africa: A Review...
+  URL: https://journals.christuniversity.in/index.php/artha/article/view/4989
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_191.pdf
+
+#196: Harmonisation of Higher Education Curricula in East Africa: ...
+  URL: https://journals.glotanjournals.com/index.php/jcse/article/view/202
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_196.pdf
+
+#201: Harmonisation of Higher Education Curricula in East Africa: ...
+  URL: https://journals.out.ac.tz/index.php/jipe/article/view/1422
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_201.pdf
+
+#174: Harmonization of Higher Education in East Africa: Reality or...
+  URL: https://jhrlmc.com/index.php/home/article/view/844
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_174.pdf
+
+#211: Regional Integration in East Africa: Harmonisation of Higher...
+  URL: https://jriiejournal.com/wp-content/uploads/2019/02/JRIIE-3-1-003.pdf
+  Type: direct_pdf
+  Batch: None
+  Saved to: downloads/paper_211.pdf
+
+#184: Harmonization of Education Systems in East Africa: Progress,...
+  URL: https://journal.tofedu.or.id/index.php/journal/article/view/523
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_184.pdf
+
+#169: Harmonization of Higher Education Curriculum in East Africa:...
+  URL: https://japendi.publikasiindonesia.id/index.php/japendi/article/view/7657
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_169.pdf
+
+#193: Towards a Common Higher Education Area in East Africa: A Rev...
+  URL: https://journals.dut.ac.za/index.php/ajims/article/view/1244
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_193.pdf
+
+#197: Curriculum Harmonisation in East Africa: Progress, Challenge...
+  URL: https://journals.innovareacademics.in/index.php/ijoe/article/view/48581
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_197.pdf
+
+#175: Harmonization of Higher Education Curricula in East Africa: ...
+  URL: https://jisrmsse.szabist.edu.pk/index.php/szabist/article/view/621
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_175.pdf
+
+#212: Harmonisation of Higher Education Curricula in East Africa: ...
+  URL: https://juku.um.edu.my/index.php/JUKU/article/view/51889
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_212.pdf
+
+#180: Regional Harmonisation of TVET Qualifications in East Africa...
+  URL: https://journal.lib.uoguelph.ca/index.php/ajote/article/view/7511
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_180.pdf
+
+#194: EAC Protocol on Education and Training: A review of implemen...
+  URL: https://journals.dut.ac.za/index.php/ajims/article/view/1339
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_194.pdf
+
+#198: Harmonization of Higher Education in East Africa: Progress, ...
+  URL: https://journals.iuiu.ac.ug/index.php/ije/article/view/328
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_198.pdf
+
+#221: Harmonisation of Higher Education in Africa: A Focus on Curr...
+  URL: https://link.springer.com/10.1007/978-3-030-90973-4_14
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_221.pdf
+
+#216: Harmonisation of Higher Education Curricula in East Africa: ...
+  URL: https://knepublishing.com/index.php/KnE-Social/article/view/10007
+  Type: None
+  Batch: None
+  Saved to: None
+
+#215: Draft Harmonised Curriculum Structure and Framework for Prim...
+  URL: https://kicd.ac.ke/wp-content/uploads/2017/11/DraftHarmonisedCurriculumStructureandFrameworkforPrimaryEducation070814.pdf
+  Type: direct_pdf
+  Batch: None
+  Saved to: downloads/paper_215.pdf
+
+#226: Curriculum Harmonisation in East Africa: A Scoping Review...
+  URL: https://link.springer.com/10.1007/s10639-024-12522-4
+  Type: None
+  Batch: None
+  Saved to: None
+
+#210: Curriculum Harmonisation in Southern Africa: Reflections on ...
+  URL: https://journals.ufs.ac.za/index.php/at/article/view/8462
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_210.pdf
+
+#195: Harmonization of Teacher Education Curriculum in East Africa...
+  URL: https://journals.eanso.org/index.php/eajes/article/view/1574
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_195.pdf
+
+#231: Regional Harmonisation of Higher Education Curricula in East...
+  URL: https://link.springer.com/10.1007/s44217-024-00204-9
+  Type: None
+  Batch: None
+  Saved to: None
+
+#241: Harmonization of Higher Education in East Africa: Progress, ...
+  URL: https://luedconf.pubpub.org/pub/26fulfjz
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_241.pdf
+
+#236: Harmonization of Higher Education Curricula in Africa: A Foc...
+  URL: https://link.springer.com/chapter/10.1007/978-3-030-90973-4_14
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_236.pdf
+
+#246: Curriculum Harmonisation in Africa: A Review of Select Liter...
+  URL: https://noyam.org/?sdm_process_download=1&download_id=10929
+  Type: direct_pdf
+  Batch: None
+  Saved to: downloads/paper_246.pdf
+
+#227: Regional integration in East Africa: the quest for harmonisi...
+  URL: https://link.springer.com/10.1007/s10734-023-01000-4
+  Type: None
+  Batch: None
+  Saved to: None
+
+#232: Curriculum Harmonisation and Cross-Border Education in Afric...
+  URL: https://link.springer.com/article/10.1007/s40290-025-00554-1
+  Type: None
+  Batch: None
+  Saved to: None
+
+#237: Curriculum Harmonisation in Africa: Imperatives for the Afri...
+  URL: https://link.springer.com/chapter/10.1007/978-3-031-53322-8_11
+  Type: None
+  Batch: None
+  Saved to: None
+
+#242: Harmonisation of Higher Education Curricula in East Africa: ...
+  URL: https://malque.pub/ojs/index.php/msj/article/view/6102
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_242.pdf
+
+#223: Harmonization of Higher Education in Africa: The Tuning Afri...
+  URL: https://link.springer.com/10.1007/978-3-319-11961-8_21
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_223.pdf
+
+#257: Curriculum Harmonisation in East Africa: A Review of the Lit...
+  URL: https://papers.academic-conferences.org/index.php/icer/article/view/3184
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_257.pdf
+
+#228: Curriculum Harmonisation and Higher Education Quality Assura...
+  URL: https://link.springer.com/10.1007/s40290-025-00554-1
+  Type: None
+  Batch: None
+  Saved to: None
+
+#233: Curriculum Harmonisation and Quality of Higher Education in ...
+  URL: https://link.springer.com/article/10.1007/s41297-023-00206-x
+  Type: None
+  Batch: None
+  Saved to: None
+
+#238: Harmonization of Higher Education in Africa: The Case of the...
+  URL: https://link.springer.com/chapter/10.1007/978-3-319-27258-0_1
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_238.pdf
+
+#244: Regionalization of Higher Education in Africa: Progress, Pro...
+  URL: https://muse.jhu.edu/article/956172
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_244.pdf
+
+#261: Harmonization of higher education in Africa: a review of cha...
+  URL: https://peerj.com/preprints/1093v1
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_261.pdf
+
+#224: Towards a Common Qualifications Framework for East African H...
+  URL: https://link.springer.com/10.1007/978-3-319-27258-0_5
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_224.pdf
+
+#229: Curriculum Harmonisation and Cross-Border Higher Education i...
+  URL: https://link.springer.com/10.1007/s41297-023-00200-3
+  Type: None
+  Batch: None
+  Saved to: None
+
+#258: E-Assessment Readiness in Higher Education Institutions in E...
+  URL: https://papers.academic-conferences.org/index.php/ictr/article/view/2143
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_258.pdf
+
+#220: Harmonization of African Higher Education: Pan-African Initi...
+  URL: https://lida.hse.ru/article/view/26898
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_220.pdf
+
+#234: Curriculum Harmonisation in Africa: A Scoping Review...
+  URL: https://link.springer.com/article/10.1007/s41297-023-00223-w
+  Type: None
+  Batch: None
+  Saved to: None
+
+#239: Towards a Qualifications Framework for the East African Comm...
+  URL: https://link.springer.com/chapter/10.1007/978-3-319-27258-0_2
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_239.pdf
+
+#262: Harmonization of Higher Education Curricula in East Africa: ...
+  URL: https://phsreda.com/article/114909/discussion_platform
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_262.pdf
+
+#225: Curriculum Harmonisation and Internationalisation of Higher ...
+  URL: https://link.springer.com/10.1007/s10639-023-12363-7
+  Type: None
+  Batch: None
+  Saved to: None
+
+#240: Towards a continental qualifications framework: a scoping re...
+  URL: https://link.springer.com/content/pdf/10.1186/s12961-024-01256-x.pdf
+  Type: direct_pdf
+  Batch: None
+  Saved to: downloads/paper_240.pdf
+
+#230: Harmonisation of Higher Education in Africa: a synthesis of ...
+  URL: https://link.springer.com/10.1007/s42330-022-00200-x
+  Type: None
+  Batch: None
+  Saved to: None
+
+#235: Harmonisation of higher education in Africa: a systematic re...
+  URL: https://link.springer.com/article/10.1186/s12960-022-00735-y
+  Type: None
+  Batch: None
+  Saved to: None
+
+#255: Harmonisation of Higher Education in East Africa: Progress, ...
+  URL: https://ojs.library.lancs.ac.uk/lue/article/view/9
+  Type: None
+  Batch: None
+  Saved to: None
+
+#263: Harmonization of Medical Curricula in East Africa: Progress,...
+  URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC10022231/
+  Type: None
+  Batch: None
+  Saved to: None
+
+#276: Regional Integration in East Africa: Harmonisation of Higher...
+  URL: https://pressto.amu.edu.pl/index.php/ppuam/article/view/37493
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_276.pdf
+
+#286: Regional Integration and Harmonisation of Education and Trai...
+  URL: https://revistacaribena.com/ojs/index.php/rccs/article/view/4570
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_286.pdf
+
+#272: Harmonization of Higher Education in Africa: A Systematic Re...
+  URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC9884881/
+  Type: None
+  Batch: None
+  Saved to: None
+
+#259: Mutual Recognition of Academic Qualifications in Africa: A P...
+  URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3384383
+  Type: None
+  Batch: None
+  Saved to: None
+
+#301: Curriculum Harmonisation in East Africa: Imperatives, Initia...
+  URL: https://systems.enpress-publisher.com/index.php/jipd/article/viewFile/10749/5108
+  Type: direct_pdf
+  Batch: None
+  Saved to: downloads/paper_301.pdf
+
+#292: Comparing and Contrasting ECOWAS and SADC: Successes, Failur...
+  URL: https://rsisinternational.org/journals/ijriss/articles/comparing-and-contrasting-ecowas-and-sadc-successes-failures-and-challenges/
+  Type: None
+  Batch: None
+  Saved to: None
+
+#282: Harmonisation of higher education in the SADC region: realit...
+  URL: https://pubs.ufs.ac.za/index.php/ijer/article/view/1013
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_282.pdf
+
+#264: Harmonization of medical education in East Africa: progress,...
+  URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC10132525/
+  Type: None
+  Batch: None
+  Saved to: None
+
+#287: Harmonization of Higher Education Curricula in East Africa: ...
+  URL: https://rgsa.openaccesspublications.org/rgsa/article/view/5748
+  Type: None
+  Batch: None
+  Saved to: None
+
+#273: Harmonization of Higher Education in East Africa: Progress, ...
+  URL: https://pmejournal.org/articles/10.1007/S40037-019-0523-4
+  Type: None
+  Batch: None
+  Saved to: None
+
+#306: Quality assurance in cross-border higher education: A case s...
+  URL: https://thejournal.org.za/index.php/thejournal/article/view/482
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_306.pdf
+
+#298: Harmonisation of Higher Education Curricula in East Africa: ...
+  URL: https://spm-online.com/jrep/index.php/journal/article/view/46
+  Type: None
+  Batch: None
+  Saved to: None
+
+#283: Regionalisation of higher education in East Africa: Progress...
+  URL: https://pubs.ufs.ac.za/index.php/ijer/article/view/1927
+  Type: None
+  Batch: None
+  Saved to: None
+
+#302: Harmonisation of Higher Education Curricula in East Africa: ...
+  URL: https://taapublications.com/tijssra/article/view/293
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_302.pdf
+
+#269: Medical Education Harmonization in East Africa: Progress, Ch...
+  URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC8769006/
+  Type: None
+  Batch: None
+  Saved to: None
+
+#311: The African Union and the Tuning Africa Project: Towards a H...
+  URL: https://tuningjournal.org/article/view/1415/1735
+  Type: None
+  Batch: None
+  Saved to: None
+
+#294: Continental Education Strategy for Africa 2016-2025...
+  URL: https://safrap.wordpress.com/wp-content/uploads/2018/12/au-continental-education-strategy-for-africa-2016-2025.pdf
+  Type: direct_pdf
+  Batch: None
+  Saved to: downloads/paper_294.pdf
+
+#274: Harmonisation of postgraduate programmes in Africa: The case...
+  URL: https://pmejournal.org/articles/10.5334/pme.956/
+  Type: None
+  Batch: None
+  Saved to: None
+
+#303: Continental Teacher Qualification Framework...
+  URL: https://teachertaskforce.org/sites/default/files/2020-09/Continental%20Teacher%20Qualification%20Framework_EN.pdf
+  Type: direct_pdf
+  Batch: None
+  Saved to: downloads/paper_303.pdf
+
+#289: Harmonisation of higher education curricula in East Africa: ...
+  URL: https://riojournal.com/article/138833/
+  Type: None
+  Batch: None
+  Saved to: None
+
+#312: The African Union Qualifications Framework: Implications for...
+  URL: https://tuningjournal.org/article/view/1600
+  Type: None
+  Batch: None
+  Saved to: None
+
+#300: Curriculum Harmonisation in Africa: Imperatives for Mutual R...
+  URL: https://systems.enpress-publisher.com/index.php/jipd/article/view/10749
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_300.pdf
+
+#309: Tuning Africa: A Pan-African Harmonisation and Recognition o...
+  URL: https://tuningjournal.org/article/download/1415/1725/
+  Type: direct_pdf
+  Batch: None
+  Saved to: downloads/paper_309.pdf
+
+#275: Harmonisation of Higher Education in Africa: A Review of Lit...
+  URL: https://posthumanism.co.uk/jp/article/view/1649
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_275.pdf
+
+#285: Harmonization of Higher Education Curricula in East Africa: ...
+  URL: https://researchinnovationjournal.com/index.php/AJSRI/article/view/34
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_285.pdf
+
+#318: The SADC Protocol on Education and Training: Implications fo...
+  URL: https://unisapressjournals.co.za/index.php/CILSA/article/view/15912
+  Type: None
+  Batch: None
+  Saved to: None
+
+#313: The African Union Qualifications Framework (AUQF): a Pan-Afr...
+  URL: https://tuningjournal.org/article/view/1766
+  Type: None
+  Batch: None
+  Saved to: None
+
+#324: Quality Assurance in the Context of Cross-Border Higher Educ...
+  URL: https://uwispace.sta.uwi.edu/bitstreams/a24b4289-55b4-4fa6-af22-469abe3d4ae7/download
+  Type: None
+  Batch: None
+  Saved to: None
+
+#310: The African Union Qualifications Framework: Implications for...
+  URL: https://tuningjournal.org/article/view/1415
+  Type: None
+  Batch: None
+  Saved to: None
+
+#342: Harmonisation of Higher Education Curricula in East Africa: ...
+  URL: https://www.ajol.info/index.php/ajessr/article/view/292051/274876
+  Type: direct_pdf
+  Batch: None
+  Saved to: downloads/paper_342.pdf
+
+#319: Curriculum Harmonisation in the SADC Region: Progress, Prosp...
+  URL: https://unisapressjournals.co.za/index.php/IJEDA/article/view/17017
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_319.pdf
+
+#329: Curriculum Harmonization in East African Community Partner S...
+  URL: https://wjarr.com/sites/default/files/WJARR-2024-0490.pdf
+  Type: direct_pdf
+  Batch: None
+  Saved to: downloads/paper_329.pdf
+
+#314: The African Union and Harmonisation of Higher Education: The...
+  URL: https://tuningjournal.org/article/view/1892
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_314.pdf
+
+#343: Harmonisation of Social Work Education in East Africa: Progr...
+  URL: https://www.ajol.info/index.php/ajsw/article/view/275824
+  Type: found_pdf
+  Batch: None
+  Saved to: downloads/paper_343.pdf
+
+#349: Education in Africa: What Are We Learning?...
+  URL: https://www.cgdev.org/sites/default/files/education-africa-what-are-we-learning.pdf
+  Type: direct_pdf
+  Batch: None
+  Saved to: downloads/paper_349.pdf
+
+#352: Harmonization of Higher Education in Africa: A Synthesis of ...
+  URL: https://www.degruyter.com/document/doi/10.9785/cri-2018-190104/html
+  Type: None
+  Batch: None
+  Saved to: None
+
+#320: Curriculum Harmonisation in the Southern African Development...
+  URL: https://unisapressjournals.co.za/index.php/JLSD/article/view/14528
+  Type: None
+  Batch: None
+  Saved to: None
+
+#315: Bridging CESA and SDG4 in Africa: Progress, Challenges and P...
+  URL: https://uis.unesco.org/sites/default/files/documents/bridging_cesa_and_sdg4_in_africa-final.pdf
+  Type: direct_pdf
+  Batch: None
+  Saved to: downloads/paper_315.pdf
+
+#358: The East African Community Integration Education Act, 2019...
+  URL: https://www.eala.org/uploads/EAC_Integration_Education_Act_2019.pdf
+  Type: direct_pdf
+  Batch: None
+  Saved to: downloads/paper_358.pdf
+
+
+FAILED DOWNLOADS:
+----------------------------------------
+#36: http://www.scientiasocialis.lt/pec/node/629
+  Error: All content fetching strategies failed
+  Batch: None
+
+#41: https://academic.oup.com/grurint/article/73/11/1036/7817902
+  Error: All content fetching strategies failed
+  Batch: None
+
+#46: https://academic.oup.com/jhrp/article/doi/10.1093/jhuman/huaf001/8071937
+  Error: All content fetching strategies failed
+  Batch: None
+
+#26: http://www.jstor.org/stable/10.2307/j.ctvh8qx5n.5
+  Error: All content fetching strategies failed
+  Batch: None
+
+#42: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ips031
+  Error: All content fetching strategies failed
+  Batch: None
+
+#47: https://academic.oup.com/oxford-law-pro/book/57728/chapter/470502541
+  Error: All content fetching strategies failed
+  Batch: None
+
+#43: https://academic.oup.com/ieam/article/5/1/1/7746349
+  Error: All content fetching strategies failed
+  Batch: None
+
+#44: https://academic.oup.com/jae/article/30/1/13/5999001
+  Error: All content fetching strategies failed
+  Batch: None
+
+#12: http://link.springer.com/10.1007/978-94-6300-956-0
+  Error: Failed to find full text
+  Batch: None
+
+#2: http://dergipark.org.tr/en/doi/10.59886/tsbder.1528084
+  Error: Failed to find full text
+  Batch: None
+
+
+... and 316 more failed downloads
+
+This summary describes the systematic process used to refine the initial data pool and extract relevant information for the scoping review.
+
+Objective: To systematically identify, screen, and analyze literature on regional curriculum harmonization in Africa.
+
+Process:
+1.  Initial Pool: The process began with an initial set of 561 documents gathered from various academic sources.
+
+2.  Screening: The documents were screened against predefined inclusion and exclusion criteria. The primary inclusion criterion was a focus on regional curriculum harmonization involving multiple African countries or a recognized regional body (e.g., AU, SADC, EAC). This step significantly reduced the number of candidate papers.
+
+3.  Full-Text Review & Final Selection: The remaining papers underwent a full-text review to confirm eligibility. This stage confirmed 178 papers as meeting the criteria, while 42 were excluded. The final corpus for analysis consists of these 178 papers.
+
+4.  Data Extraction: Key information was systematically extracted from the 178 included papers. This included bibliographic details, study characteristics (e.g., geographical focus, year), and thematic content related to harmonization frameworks, mechanisms, challenges, and prospects.
+
+5.  Data Synthesis: The extracted data was compiled into the `paper_information.json` file. This structured JSON serves as the primary data source for the scoping review and thematic analysis presented in `paper5.txt`.

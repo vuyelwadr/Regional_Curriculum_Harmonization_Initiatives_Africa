@@ -1,0 +1,79 @@
+{
+  "response_id": 363,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:02:19.934986",
+  "metadata": {
+    "url": "https://link.springer.com/article/10.1186/s12960-022-00735-y",
+    "final_url": "https://link.springer.com/article/10.1186/s12960-022-00735-y",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"An overview of health workforce education and accreditation in Africa: implications for scaling-up capacity and quality\",\n    \"authors\": [],\n    \"doi\": \"10.1186/s12960-022-00735-y\",\n    \"journal\": \"Human Resources for Health\",\n    \"year\": \"2022\",\n    \"abstract\": \"For countries to achieve universal health coverage, they need to have well-functioning and resilient health systems. Achieving this requires a sufficient number of qualified health workers and this necessitates the importance of investments in producing and regulating health workers. It is projected that by 2030, Africa would need additional 6.1 million doctors, nurses, and midwives. However, based on the current trajectory, only 3.1 million would be trained and ready for service delivery. To reduce current shortages of the health workforce, Africa needs to educate and train 3.0 million additional health workers by 2030. This study was conducted to describe the distribution and ownership of the health training institutions, production of health workers, and the availability of accreditation mechanisms for training programmes in the WHO African Region. A cross-sectional study was conducted using a standardized questionnaire from January 2018 to April 2019. All the 47 countries in the Region were invited to complete a structured questionnaire based on available secondary information from health sector reports, annual HRH reports, country health workforce profiles, and HRH observatories and registries. Data from 43 countries in the World Health Organization African Region in 2018 show that there were 4001 health training institutions with 410, 1469 and 2122 being medical, health sciences, and nursing and midwifery schools, respectively, and 2221, 1359 and 421 institutions owned by the public, private for-profit and private not-for-profit sectors, respectively. A total of 148 357 health workers were produced in Region with 40% (59, 829) being nurses and midwives, 19% (28, 604) other health workers, and 14% (20 470) physicians. Overall, 31 countries (79%) in the Region have an accreditation framework for the health training institutions and seven countries do not have any accreditation mechanism. To achieve universal health coverage, matching of competencies with population needs, as well as increasing capacities for health worker production to align with demand (numbers and skill-mix) for improved service delivery should be prioritized, as this would improve the availability of skilled health workforce in the Region.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://human-resources-health.biomedcentral.com/counter/pdf/10.1186/s12960-022-00735-y\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://link.springer.com/articles/10.1186/s12960-022-00735-y\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 360,
+              "endIndex": 1215
+            },
+            {
+              "startIndex": 1224,
+              "endIndex": 1569,
+              "uri": "https://human-resources-health.biomedcentral.com/articles/10.1186/s12960-022-00735-y"
+            },
+            {
+              "startIndex": 1579,
+              "endIndex": 1956,
+              "uri": "https://human-resources-health.biomedcentral.com/articles/10.1186/s12960-022-00735-y"
+            },
+            {
+              "startIndex": 1959,
+              "endIndex": 2095,
+              "uri": "https://human-resources-health.biomedcentral.com/articles/10.1186/s12960-022-00735-y"
+            },
+            {
+              "startIndex": 2096,
+              "endIndex": 2283,
+              "uri": "https://human-resources-health.biomedcentral.com/articles/10.1186/s12960-022-00735-y"
+            },
+            {
+              "startIndex": 2285,
+              "endIndex": 2622,
+              "uri": "https://human-resources-health.biomedcentral.com/articles/10.1186/s12960-022-00735-y"
+            }
+          ]
+        },
+        "avgLogprobs": -0.00019608190585541755
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2592,
+      "candidatesTokenCount": 807,
+      "totalTokenCount": 3399,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2592
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 807
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "t5xSaPjXKouZhMIPlvTuyQY"
+  }
+}

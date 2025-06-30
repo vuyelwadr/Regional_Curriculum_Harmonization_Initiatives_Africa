@@ -1,0 +1,54 @@
+{
+  "response_id": 469,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:12:08.598029",
+  "metadata": {
+    "url": "https://wjarr.com/content/womens-empowerment-african-societies-strategies-and-lessons-u-s-social-policy",
+    "final_url": "https://wjarr.com/content/womens-empowerment-african-societies-strategies-and-lessons-u-s-social-policy",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Women's empowerment in African societies: Strategies and lessons for U. S. social policy\",\n    \"authors\": [\n      \"Beatrice Adedayo Okunade\",\n      \"Foluke Eyitayo Adediran\",\n      \"Bukola A, Odulaja\",\n      \"Ololade Elizabeth Adewusi\",\n      \"Rosita Eberechukwu Daraojimba\"\n    ],\n    \"doi\": null,\n    \"journal\": \"World Journal of Advanced Research and Reviews\",\n    \"year\": \"2024\",\n    \"abstract\": \"This scholarly investigation delves into the realm of women's empowerment in African societies, aiming to extract pivotal strategies and lessons to inform and enhance U.S. social policy. The study is anchored in the objective of dissecting the multifaceted concept of women's empowerment within a global context, with a particular focus on the unique dynamics present in African societies. It seeks to understand how these insights can be effectively transposed to the U.S. policy landscape, thereby enriching and diversifying approaches to gender equality and empowerment. Employing a rigorous methodology, the study conducted an extensive literature review and thematic analysis, focusing on peer-reviewed articles that shed light on the intricacies of women's empowerment in African contexts. This approach facilitated a comprehensive understanding of the subject, ensuring the relevance and quality of the sources. The study's methodology was characterized by a systematic search strategy, stringent inclusion and exclusion criteria, and a nuanced thematic analysis of empowerment strategies. The key findings reveal education, economic participation, and political inclusion as critical strategies for women's empowerment, proven effective in African contexts. These strategies, along with the identification of significant research gaps, particularly in understanding cultural influences on empowerment, form the cornerstone of the study's contributions. Conclusively, the study advocates for a holistic, culturally sensitive approach to women's empowerment in U.S. social policy, drawing inspiration from the resilience and diversity of African models. The recommendations emphasize the need for inclusive, comprehensive strategies that resonate with the unique challenges and opportunities presented in different cultural contexts. This study not only fulfills its aim and objectives but also paves the way for future research and policy development, ensuring a continued and enriched journey towards gender equality and empowerment.\"\n  },\n  \"fulltext_links\": [],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 497,
+              "endIndex": 2537
+            }
+          ]
+        },
+        "avgLogprobs": -0.0010577818189842114
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2427,
+      "candidatesTokenCount": 552,
+      "totalTokenCount": 2979,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2427
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 552
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "BZ9SaNz2HKiUsbQPmK3KkQI"
+  }
+}

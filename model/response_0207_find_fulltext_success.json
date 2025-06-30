@@ -1,0 +1,64 @@
+{
+  "response_id": 207,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:47:16.433741",
+  "metadata": {
+    "url": "https://fepbl.com/index.php/ijarss/article/view/1066",
+    "final_url": "https://fepbl.com/index.php/ijarss/article/view/1066",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"CONCEPTUALIZING E-GOVERNMENT INITIATIVES: LESSONS LEARNED FROM AFRICA-US COLLABORATIONS IN DIGITAL GOVERNANCE\",\n    \"authors\": [\n      \"Temitayo Oluwaseun Jejeniwa\",\n      \"Noluthando Zamanjomane Mhlongo \",\n      \"Titilola Olaide Jejeniwa\"\n    ],\n    \"doi\": \"10.51594/ijarss.v6i4.1066\",\n    \"journal\": \"International Journal of Applied Research in Social Sciences\",\n    \"year\": \"2024\",\n    \"abstract\": \"This review paper explores the dynamics, challenges, and successes of Africa-US collaborations in e-Government, highlighting the significant impact of digital governance initiatives on improving public service delivery and governance. Through an examination of theoretical frameworks, key concepts, and contextual differences, the paper synthesizes lessons learned and best practices from these international collaborations. It identifies critical success factors, including leadership, stakeholder engagement, and capacity building, while also addressing common challenges such as the digital divide and technological infrastructure. Emerging trends such as artificial intelligence, blockchain, and digital identity systems offer new avenues for future collaborations. The paper concludes with recommendations for strengthening these partnerships, emphasizing the importance of technology transfer, policy harmonization, and sustainable development goals alignment.\\nKeywords: E-Government, Digital Governance, Africa-Us Collaborations, Technology Transfer, Digital Divide, Emerging Technologies.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://fepbl.com/index.php/ijarss/article/download/1066/1289\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 86,
+              "endIndex": 378,
+              "uri": "https://m.booksci.cn/literature/140654985.htm"
+            },
+            {
+              "startIndex": 498,
+              "endIndex": 1410
+            },
+            {
+              "startIndex": 1347,
+              "endIndex": 1591,
+              "uri": "https://m.booksci.cn/literature/140654985.htm"
+            }
+          ]
+        },
+        "avgLogprobs": -0.002147659527516998
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2902,
+      "candidatesTokenCount": 452,
+      "totalTokenCount": 3354,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2902
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 452
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "MZlSaNKiMZbrqsMPiOTvsQI"
+  }
+}

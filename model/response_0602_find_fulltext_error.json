@@ -1,0 +1,15 @@
+{
+  "response_id": 602,
+  "type": "find_fulltext_error",
+  "timestamp": "2025-06-18T13:22:25.191774",
+  "metadata": {
+    "url": "https://www.multiresearchjournal.com/arclist/list-2024.4.4/id-3134",
+    "final_url": "https://www.multiresearchjournal.com/arclist/list-2024.4.4/id-3134",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "status_code": 429,
+    "error": "{\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.\",\n    \"status\": \"RESOURCE_EXHAUSTED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.QuotaFailure\",\n        \"violations\": [\n          {\n            \"quotaMetric\": \"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\n            \"quotaId\": \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\n            \"quotaDimensions\": {\n              \"location\": \"global\",\n              \"model\": \"gemini-2.0-flash-exp\"\n            },\n            \"quotaValue\": \"500\"\n          }\n        ]\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.Help\",\n        \"links\": [\n          {\n            \"description\": \"Learn more about Gemini API quotas\",\n            \"url\": \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n          }\n        ]\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.RetryInfo\",\n        \"retryDelay\": \"34s\"\n      }\n    ]\n  }\n}\n"
+  }
+}

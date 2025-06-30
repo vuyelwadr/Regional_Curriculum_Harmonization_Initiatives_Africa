@@ -1,0 +1,46 @@
+{
+  "response_id": 435,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:09:07.481226",
+  "metadata": {
+    "url": "https://scholar.kyobobook.co.kr/article/detail/4010070058540",
+    "final_url": "https://scholar.kyobobook.co.kr/article/detail/4010070058540",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"2020년부터 2024년까지 실행연구 방법이 적용된 국내 영유아 교육 연구 동향 분석\",\n    \"authors\": [\n      \"조성웅\",\n      \"송지윤\"\n    ],\n    \"doi\": \"10.22251/jlcci.2024.24.20.1025\",\n    \"journal\": \"학습자중심교과교육연구\",\n    \"year\": \"2024\",\n    \"abstract\": \"목적 본 연구에서는 실행연구 방법이 적용된 국내 영유아 교육 연구 동향을 분석하였다.\\n방법 2020년부터 2024년 5월까지 실행연구 방법이 적용된 국내 학술논문 76편을 분석하였다.\\n결과 분석결과 전문적 차원의 연구가 주를 이루었으며 연구주제 키워드로 교육과정 변화적용 영역, 교육활동 영역, 교사 전문성 영역이 주로 나타났다. 연구 구성원은 공동 실행연구가 높게 나타났으며 실행연구 방법은 질적 연구가 가장 높게 나타났다.\\n결론 향후 실행연구가 연구가 편향되지 않고 실천적 지식 형성에 기여할 수 있도록 실행연구를 장려하고 현장 교사에게 공유될 필요가 있다. 또한 연구방법에 있어 다양성을 모색하여 실행연구의 확장이 필요하다.\"\n  },\n  \"fulltext_links\": [],\n  \"repository_indicators\": [],\n  \"paywall_detected\": true,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -2.82898439433087e-05
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3698,
+      "candidatesTokenCount": 440,
+      "totalTokenCount": 4138,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3698
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 440
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "UZ5SaL_3EYqThMIPyoil0Qo"
+  }
+}

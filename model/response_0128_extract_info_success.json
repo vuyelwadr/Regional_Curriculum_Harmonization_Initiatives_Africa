@@ -1,0 +1,45 @@
+{
+  "response_id": 128,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:39:12.038247",
+  "metadata": {
+    "apa_number": 89,
+    "url": "https://ccsenet.org/journal/index.php/jel/article/download/0/0/51170/55541",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://ccsenet.org/journal/index.php/jel/article/download/0/0/51170/55541\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in East Africa, specifically the EAC. It addresses harmonization across institutions and countries within the EAC framework, mentioning mutual recognition and regional qualifications frameworks. The paper discusses the harmonization of higher education in the East African Community (EAC).\",\n  \"Title\": \"Harmonization of Higher Education in the East African Community: Progress, Challenges and Prospects\",\n  \"Authors\": [\n    \"Ndiku, J. M.\",\n    \"Ndayambaje, I.\",\n    \"Najjuma, R.\"\n  ],\n  \"Year\": \"2013\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Canadian Center of Science and Education\",\n    \"DOI_URL\": \"https://doi.org/10.5539/jel.v2n2p102\",\n    \"APA_Reference\": \"Ndiku, J. M., Ndayambaje, I., & Najjuma, R. (2013). Harmonization of Higher Education in the East African Community: Progress, Challenges and Prospects. Journal of Education and Learning, 2(2), 102-112. https://doi.org/10.5539/jel.v2n2p102\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature review and document analysis\",\n    \"Geographic_Focus\": \"East African Community (EAC)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated\",\n    \"Harmonization_Definition\": \"Harmonization is defined as the process of creating a common understanding and agreement on standards, policies, and procedures in higher education across the EAC member states.\",\n    \"Regional_Initiatives\": [\n      \"East African Community (EAC) Protocol on Education\",\n      \"EAC Common Higher Education Area\",\n      \"EAC Qualifications Framework\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Policy development\",\n      \"Curriculum review\",\n      \"Quality assurance mechanisms\",\n      \"Credit transfer systems\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments of EAC member states\",\n      \"Higher education institutions\",\n      \"EAC Secretariat\",\n      \"National councils for higher education\"\n    ],\n    \"Data_Sources\": [\n      \"EAC documents\",\n      \"Policy documents\",\n      \"Academic literature\",\n      \"Reports from EAC institutions\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Progress has been made in harmonizing higher education in the EAC, but challenges remain.\",\n      \"The EAC Protocol on Education provides a framework for harmonization.\",\n      \"Mutual recognition of qualifications is a key goal.\",\n      \"Quality assurance mechanisms are essential for harmonization.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of political will\",\n      \"Varying levels of development among member states\",\n      \"Inadequate funding\",\n      \"Resistance from some institutions\",\n      \"Differences in education systems\"\n    ],\n    \"Success_Factors\": [\n      \"Political commitment\",\n      \"Strong leadership\",\n      \"Collaboration among stakeholders\",\n      \"Adequate funding\",\n      \"Clear goals and objectives\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen political commitment\",\n      \"Increase funding for harmonization efforts\",\n      \"Promote collaboration among stakeholders\",\n      \"Develop clear goals and objectives\",\n      \"Address the challenges of varying levels of development\"\n    ],\n    \"Future_Research\": [\n      \"Further research is needed to assess the impact of harmonization on student mobility and academic quality.\",\n      \"Research on the effectiveness of different harmonization approaches is also needed.\"\n    ],\n    \"Specific_Examples\": [\n      \"The establishment of the East African Qualifications Framework is an example of a regional initiative.\",\n      \"Efforts to harmonize curricula in specific disciplines are underway.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Policy frameworks\",\n      \"Regional qualifications frameworks\",\n      \"Credit transfer systems\",\n      \"Quality assurance agencies\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Political barriers\",\n      \"Financial constraints\",\n      \"Institutional resistance\",\n      \"Varying education standards\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political will\",\n      \"Stakeholder collaboration\",\n      \"Adequate funding\",\n      \"Clear objectives\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased student mobility\",\n      \"Improved academic quality\",\n      \"Enhanced regional integration\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 632,
+      "candidatesTokenCount": 1140,
+      "totalTokenCount": 1772,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 632
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1140
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "SJdSaNLMIYuZhMIPlvTuyQY"
+  }
+}

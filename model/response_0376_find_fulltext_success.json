@@ -1,0 +1,55 @@
+{
+  "response_id": 376,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:03:19.225784",
+  "metadata": {
+    "url": "https://noyam.org/ehass2024534/",
+    "final_url": "https://noyam.org/ehass2024534/",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Harmonization of Higher Education for Sustainable Development: Southern Africa Development Community Experiences\",\n    \"authors\": [\n      \"Pinias Chikuvadze\",\n      \"Samuel Mugijima\"\n    ],\n    \"doi\": null,\n    \"journal\": \"Noyam Journals\",\n    \"year\": \"2024\",\n    \"abstract\": \"This study called for inclusion of the qualitative content analysis in an attempt to explore higher education collaboration or partnerships within SADC. Using the AJOL, Scopus, DHTE, DOAJ, Web of Science, and Google Scholar, 60 articles were purposively selected for this review.\"\n  },\n  \"fulltext_links\": [],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 373,
+              "endIndex": 662,
+              "uri": "https://www.researchgate.net/institution/Africa-University2"
+            }
+          ]
+        },
+        "avgLogprobs": -0.00285989126643619
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3145,
+      "candidatesTokenCount": 222,
+      "totalTokenCount": 3367,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3145
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 222
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "9ZxSaLaVN7PQhMIP372DoQ0"
+  }
+}

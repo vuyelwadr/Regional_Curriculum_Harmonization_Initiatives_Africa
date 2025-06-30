@@ -1,0 +1,45 @@
+{
+  "response_id": 494,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:14:16.249213",
+  "metadata": {
+    "apa_number": 320,
+    "url": "https://unisapressjournals.co.za/index.php/JLSD/article/view/14528",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://unisapressjournals.co.za/index.php/JLSD/article/view/14528\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in the SADC region, involving multiple African countries. It addresses harmonization across institutions and countries, specifically focusing on the SADC Protocol on Education and Training and the SADC Qualifications Framework. The paper discusses cross-border education and mutual recognition of qualifications within the region.\",\n  \"Title\": \"Curriculum Harmonisation in the Southern African Development Community (SADC) Region: Progress, Prospects and Challenges\",\n  \"Authors\": [\n    \"Mothusi Bapaki\",\n    \"Vuyisile Msila\"\n  ],\n  \"Year\": \"2023\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"UNISA Press Journals\",\n    \"DOI_URL\": \"https://doi.org/10.31920/2634-3607/2023/v23n1a6\",\n    \"APA_Reference\": \"Bapaki, M., & Msila, V. (2023). Curriculum Harmonisation in the Southern African Development Community (SADC) Region: Progress, Prospects and Challenges. Journal of Leadership and Social Development, 23(1), 84-98. https://doi.org/10.31920/2634-3607/2023/v23n1a6\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature Review and Document Analysis\",\n    \"Geographic_Focus\": \"Southern African Development Community (SADC) Region\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable (literature review)\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated, but implicitly draws on theories of regional integration and policy implementation.\",\n    \"Harmonization_Definition\": \"Curriculum harmonization is defined as a process of aligning curricula across different countries or institutions to ensure comparability and mutual recognition of qualifications.\",\n    \"Regional_Initiatives\": [\n      \"SADC Protocol on Education and Training\",\n      \"SADC Qualifications Framework (SADCQF)\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Policy development\",\n      \"Framework development\",\n      \"Stakeholder engagement\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"SADC Secretariat\",\n      \"Member States\",\n      \"Higher Education Institutions\",\n      \"Quality Assurance Agencies\",\n      \"Employers\"\n    ],\n    \"Data_Sources\": [\n      \"SADC documents\",\n      \"Policy documents\",\n      \"Academic literature\",\n      \"Reports\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Progress has been made in developing regional frameworks for curriculum harmonization in the SADC region.\",\n      \"Challenges remain in implementing these frameworks due to varying national contexts and priorities.\",\n      \"Stakeholder engagement is crucial for successful curriculum harmonization.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Varying national contexts and priorities\",\n      \"Lack of resources\",\n      \"Limited stakeholder engagement\",\n      \"Resistance to change\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political will\",\n      \"Effective stakeholder engagement\",\n      \"Adequate resources\",\n      \"Clear and consistent policies\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen stakeholder engagement\",\n      \"Provide adequate resources\",\n      \"Develop clear and consistent policies\",\n      \"Promote mutual recognition of qualifications\"\n    ],\n    \"Future_Research\": [\n      \"Further research is needed to assess the impact of curriculum harmonization on student mobility and employability.\",\n      \"Research is needed to explore the role of technology in facilitating curriculum harmonization.\"\n    ],\n    \"Specific_Examples\": [\n      \"The SADC Qualifications Framework (SADCQF) is an example of a regional initiative aimed at promoting curriculum harmonization.\",\n      \"Efforts to harmonize curricula in specific fields, such as engineering and medicine, are underway in the SADC region.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Policy frameworks\",\n      \"Qualifications frameworks\",\n      \"Quality assurance mechanisms\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"National sovereignty\",\n      \"Resource constraints\",\n      \"Capacity gaps\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political commitment\",\n      \"Stakeholder collaboration\",\n      \"Technical expertise\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased student mobility\",\n      \"Improved quality of education\",\n      \"Enhanced employability\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 624,
+      "candidatesTokenCount": 1115,
+      "totalTokenCount": 1739,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 624
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1115
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "gZ9SaJrHEMWUsbQP-d_MIQ"
+  }
+}

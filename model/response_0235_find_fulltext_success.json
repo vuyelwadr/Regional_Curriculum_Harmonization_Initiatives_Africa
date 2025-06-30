@@ -1,0 +1,59 @@
+{
+  "response_id": 235,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:50:11.625519",
+  "metadata": {
+    "url": "https://journals.out.ac.tz/index.php/jipe/article/view/1422",
+    "final_url": "https://journals.out.ac.tz/index.php/jipe/article/view/1422",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Barriers hindering Effective Engagement in Online Assessment for Teacher Education in Tanzania: Perspectives from two Teachers’ Colleges\",\n    \"authors\": [\n      \"Aines Chasubuta\",\n      \"Placidius Ndibalema\"\n    ],\n    \"doi\": \"10.61538/jipe.v16i.1422\",\n    \"journal\": \"JOURNAL OF ISSUES AND PRACTICE IN EDUCATION\",\n    \"year\": \"2024\",\n    \"abstract\": \"The recent shift to online distance learning in education institutions has prompted the implementation of online assessment. However, the effectiveness of online assessment in most countries, particularly sub-Saharan Teacher Colleges, remains in a critical dilemma as their adoption of technology is still at an infancy stage. Evidence about tutors and student-teachers from sub-Saharan Africa using available virtual platforms such as Learning Management System (LMS) to conduct effective online assessment is scarcely available. This paper addresses how tutors and student-teachers face challenges of integrating online assessment into their teaching through LMS as well as how they benefit from it. The paper is based on a study that employed a qualitative approach where the phenomenological design was adopted to gain lived experiences from participants on the use of LMS for online assessment. 15 tutors from two colleges were interviewed with the expectation that they would have rich information about the implementation of online assessment through LMS. Findings indicated that both tutors and student-teachers faced multiple barriers which compromised their ability to engage in online assessment. Such barriers are categorized into policy issues, resource-related challenges, online teaching and learning services and instructor-related challenges. Despite the challenges, participants perceived online assessment to have significant impact towards learning. Participants also expressed that online assessment is essential for learning in the digital age and thus, suggested the need to strengthen their capacity to improve their engagement. This study recommends that Teacher Colleges should invest in technological systems that enhance online assessment. To accelerate learning transformation in Teacher Colleges, awareness in online learning is vital. To increase student-teachers’ engagement in online assessment through LMS, it is necessary to make curriculum reforms to ensure effective e-learning. Future research may focus on generating evidence about practices in different contexts.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://journals.out.ac.tz/index.php/jipe/article/download/1422/974\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 87,
+              "endIndex": 288,
+              "uri": "https://m.booksci.cn/literature_d516283.htm"
+            },
+            {
+              "startIndex": 449,
+              "endIndex": 2546
+            }
+          ]
+        },
+        "avgLogprobs": -0.0007441421015923765
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2755,
+      "candidatesTokenCount": 595,
+      "totalTokenCount": 3350,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2755
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 595
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "4JlSaKnrCOiChMIP-ufFUQ"
+  }
+}

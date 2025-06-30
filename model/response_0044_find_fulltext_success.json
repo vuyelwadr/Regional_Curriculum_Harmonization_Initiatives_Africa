@@ -1,0 +1,54 @@
+{
+  "response_id": 44,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:31:08.041259",
+  "metadata": {
+    "url": "http://www.sciedu.ca/journal/index.php/ijhe/article/view/6287",
+    "final_url": "https://www.sciedu.ca/journal/index.php/ijhe/article/view/6287",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Regional Higher Education Reform Initiatives in Africa: a comparative Analysis with Bologna Process\",\n    \"authors\": [\n      \"Emnet Tadesse Woldegiorgis\",\n      \"Petronella Jonck\",\n      \"Anne Goujon\"\n    ],\n    \"doi\": \"10.5430/ijhe.v4n1p241\",\n    \"journal\": \"International Journal of Higher Education\",\n    \"year\": \"2014\",\n    \"abstract\": \"The Bologna process of Europe has been identified as a pioneer of higher education regional cooperation. To address the challenges of African higher education, policy makers are recommending regional cooperation taking the Bologna Process as a model. Thus, the African Union Commission (AUC) has followed suit by developing a higher education harmonization strategic document in 2007. Since higher education reforms are context specific, the question arises how the policy of harmonization of higher education systems in Africa can be implemented fostering greater regional integration, taking the context of African higher education systems into consideration? This research focuses on the reform issues which are proposed by the AUC in the harmonization process in a comparative manner with the Bologna Process.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://www.sciedu.ca/journal/index.php/ijhe/article/download/6287/3883\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 436,
+              "endIndex": 1247
+            }
+          ]
+        },
+        "avgLogprobs": -0.00037938746757411237
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2963,
+      "candidatesTokenCount": 397,
+      "totalTokenCount": 3360,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2963
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 397
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "aZVSaMzdE7PQhMIP372DoQ0"
+  }
+}

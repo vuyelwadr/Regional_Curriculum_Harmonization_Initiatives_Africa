@@ -1,0 +1,45 @@
+{
+  "response_id": 324,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:59:06.053029",
+  "metadata": {
+    "apa_number": 218,
+    "url": "https://lghor.alzahra.ac.ir/article_7097_0b30b38f51ffac78f3850754ad814d20.pdf?lang=fa",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://lghor.alzahra.ac.ir/article_7097_0b30b38f51ffac78f3850754ad814d20.pdf?lang=fa\",\n  \"MATCHES_CRITERIA\": false,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper appears to focus on higher education in Iran, specifically the challenges and opportunities of internationalization. While it mentions international cooperation and the need for curriculum development to meet international standards, it does not focus on regional curriculum harmonization initiatives involving multiple African countries or regions. The paper does not address harmonization across institutions/countries in Africa, regional frameworks, cross-border education, mutual recognition, credit transfer systems, or regional qualifications frameworks within an African context.\",\n  \"Title\": \"Challenges and Opportunities of Internationalization of Higher Education in Iran\",\n  \"Authors\": [\n    \"Fatemeh Sadat Javadi Yeganeh\",\n    \"Ali Asghar Pour عزتi\",\n    \"Mohammad Reza Sarmadi\",\n    \"Mohammad Bagher Ghorbani\"\n  ],\n  \"Year\": \"2022\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 653,
+      "candidatesTokenCount": 263,
+      "totalTokenCount": 916,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 653
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 263
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "-JtSaJ8Uluuqww-I5O-xAg"
+  }
+}

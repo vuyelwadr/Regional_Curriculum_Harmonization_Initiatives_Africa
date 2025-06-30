@@ -1,0 +1,45 @@
+{
+  "response_id": 409,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:06:24.996319",
+  "metadata": {
+    "apa_number": 306,
+    "url": "https://thejournal.org.za/index.php/thejournal/article/download/482/866",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://thejournal.org.za/index.php/thejournal/article/download/482/866\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives within the Southern African Development Community (SADC) region, involving multiple African countries. It addresses harmonization across institutions and countries, specifically focusing on the SADC Protocol on Education and Training and the development of a regional qualifications framework. The paper discusses cross-border education and mutual recognition of qualifications within the SADC region.\",\n  \"Title\": \"Quality assurance in cross-border higher education: A case study of the SADC region\",\n  \"Authors\": [\n    \"Stanley Mukhola\",\n    \"Narend Baijnath\"\n  ],\n  \"Year\": \"2017\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"The Independent Journal of Teaching and Learning\",\n    \"DOI_URL\": \"https://thejournal.org.za/index.php/thejournal/article/view/482\",\n    \"APA_Reference\": \"Mukhola, S., & Baijnath, N. (2017). Quality assurance in cross-border higher education: A case study of the SADC region. *The Independent Journal of Teaching and Learning*, *12*(1), 130-143.\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Case Study\",\n    \"Geographic_Focus\": \"Southern African Development Community (SADC) region\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not explicitly stated, but focuses on the SADC region and its member states.\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Quality Assurance frameworks in Higher Education\",\n    \"Harmonization_Definition\": \"Harmonization is implied through the discussion of mutual recognition of qualifications, credit transfer, and the development of a regional qualifications framework within the SADC region.\",\n    \"Regional_Initiatives\": [\n      \"SADC Protocol on Education and Training\",\n      \"Development of a SADC Qualifications Framework\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Development of regional policies and frameworks\",\n      \"Mutual recognition agreements\",\n      \"Quality assurance mechanisms\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"SADC Secretariat\",\n      \"National governments\",\n      \"Higher education institutions\",\n      \"Quality assurance agencies\"\n    ],\n    \"Data_Sources\": [\n      \"Policy documents\",\n      \"Literature review\",\n      \"Case study analysis\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"The SADC Protocol on Education and Training aims to promote regional integration and harmonization of education systems.\",\n      \"The development of a SADC Qualifications Framework is crucial for facilitating cross-border recognition of qualifications.\",\n      \"Quality assurance mechanisms are essential for ensuring the credibility and comparability of higher education programs across the region.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Varying levels of development and capacity among SADC member states.\",\n      \"Lack of harmonization in quality assurance standards and practices.\",\n      \"Political and economic barriers to regional integration.\"\n    ],\n    \"Success_Factors\": [\n      \"Political will and commitment from SADC member states.\",\n      \"Collaboration and coordination among stakeholders.\",\n      \"Development of clear and transparent quality assurance frameworks.\"\n    ],\n    \"Recommendations\": [\n      \"Strengthening regional quality assurance mechanisms.\",\n      \"Promoting mutual recognition of qualifications.\",\n      \"Investing in capacity building and infrastructure development.\"\n    ],\n    \"Future_Research\": [\n      \"Further research is needed to assess the impact of regional harmonization initiatives on student mobility and graduate employability.\"\n    ],\n    \"Specific_Examples\": [\n      \"The paper discusses the development of a SADC Qualifications Framework as a specific example of regional harmonization efforts.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Regional policies and frameworks\",\n      \"Mutual recognition agreements\",\n      \"Quality assurance mechanisms\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Varying levels of development\",\n      \"Lack of harmonization in quality assurance standards\",\n      \"Political and economic barriers\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political will\",\n      \"Collaboration\",\n      \"Transparent quality assurance frameworks\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Regional integration\",\n      \"Cross-border recognition of qualifications\",\n      \"Student mobility\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 624,
+      "candidatesTokenCount": 1066,
+      "totalTokenCount": 1690,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 624
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1066
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "qp1SaLquAYqThMIPyoil0Qo"
+  }
+}

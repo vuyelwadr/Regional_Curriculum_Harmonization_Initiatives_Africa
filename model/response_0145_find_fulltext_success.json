@@ -1,0 +1,54 @@
+{
+  "response_id": 145,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:41:09.654991",
+  "metadata": {
+    "url": "https://ej-med.org/index.php/ejmed/article/view/284",
+    "final_url": "https://ej-med.org/index.php/ejmed/article/view/284",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Status of Curriculum Mapping of Undergraduate Medical Programmes in South Africa\",\n    \"authors\": [\n      \"Gerda C. Botha\",\n      \"Adegoke O. Adefolalu\"\n    ],\n    \"doi\": \"10.24018/ejmed.2020.2.3.284\",\n    \"journal\": \"European Journal of Medical and Health Sciences\",\n    \"year\": \"2020\",\n    \"abstract\": \"Curriculum mapping in medical education allows for quick determination whether the curriculum meets the required standards and if its contents are aligned with the learning outcomes. This ensures the curriculum stays relevant, producing graduates capable of addressing the health needs of the institution’s host community. The status of curriculum mapping of the undergraduate medical programmes in South African medical schools was not documented in the literature at the time of this research. This study aimed to describe the current status of curriculum mapping of undergraduate medical programmes in South Africa. A qualitative study was conducted among the academic managers from all the eight medical schools in 2015. Semi-structured interviews were used to collect data from fourteen participants who were purposefully sampled, and data analysis was done by inductive thematic analysis after coding and verbatim transcriptions. None of the medical schools had a fully developed mapping platform, however they all possessed various guides and matrices that contained components of their curricula which were mainly used for accreditation purposes. In addition, they all had strategies in place for reviewing their curricula, although some of the institutions were at different stages of developing their own mapping platforms. The challenges described by the institutions as barriers to curriculum review appeared to be related to lack of a proper curriculum mapping process. In conclusion, curriculum mapping was in infancy stage at the time of this research in South Africa, the medical schools that were in the process or about to develop electronic mapping platforms had no uniform outcome framework. Future research on the features of the mapping platforms developed by all the institutions is highly recommended.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://ej-med.org/index.php/ejmed/article/download/284/167\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 401,
+              "endIndex": 2223
+            }
+          ]
+        },
+        "avgLogprobs": -4.644471198699003e-05
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2756,
+      "candidatesTokenCount": 551,
+      "totalTokenCount": 3307,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2756
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 551
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "wpdSaOG7FLPQhMIP372DoQ0"
+  }
+}

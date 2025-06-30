@@ -1,0 +1,72 @@
+{
+  "response_id": 205,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:47:10.802938",
+  "metadata": {
+    "url": "https://ijpe.eu/article/view/18270",
+    "final_url": "https://ijpe.eu/article/view/18270",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Parent involvement in teacher education in South Africa\",\n    \"authors\": [\n      \"Eleanor M. Lemmer\"\n    ],\n    \"doi\": \"10.54195/ijpe.18270\",\n    \"journal\": \"International Journal about Parents in Education\",\n    \"year\": \"2007\",\n    \"abstract\": \"Parent involvement in South African schools has been primarily limited to financing schools and parent volunteering. Legislation extended the right to parents and the community to participate in the school’s governing structures.\\u00a0 This creates a framework for formal parent involvement but home-school partnerships should not be limited to this practice. A comprehensive model of partnership can provide a broader view of family, community and school relations. In order to prepare teachers to implement effective school, family and community partnerships, a Certificate in Parent Involvement was introduced at the University of South Africa through distance education.\\u00a0 The curriculum is designed around the Epstein model of family, community and school partnerships. A brief review is given of the theory underlying the Epstein model and the typology comprising six types of parent and community involvement. A qualitative inquiry explored the implementation of this model in a small sample of schools. A document analysis was made of assignments written by teachers as part of their course work.\\u00a0 Rich data (personal accounts corroborated by supporting material) was elicited by the assignment which required teachers to describe the implementation of one type of parent involvement in their school.\\u00a0 Findings show how teachers adapted the model in pre-primary, primary and high schools in diverse communities in South Africa. Teachers created family friendly environments for parent encounters; used various strategies to communicate with the home; employed an expanded view of parent and community; introduced innovative volunteering; and illustrated positive results for teachers, learners and parents.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://ijpe.eu/article/download/18270/19883\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 342,
+              "endIndex": 566,
+              "uri": "https://www.researchgate.net/scientific-contributions/2048528952_Eleanor_Lemmer"
+            },
+            {
+              "startIndex": 578,
+              "endIndex": 1011
+            },
+            {
+              "startIndex": 1023,
+              "endIndex": 1448
+            },
+            {
+              "startIndex": 1457,
+              "endIndex": 1660,
+              "uri": "https://www.researchgate.net/scientific-contributions/2048528952_Eleanor_Lemmer"
+            },
+            {
+              "startIndex": 1666,
+              "endIndex": 2067
+            }
+          ]
+        },
+        "avgLogprobs": -7.10409570792815e-05
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2590,
+      "candidatesTokenCount": 521,
+      "totalTokenCount": 3111,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2590
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 521
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "K5lSaP_-MoqThMIPyoil0Qo"
+  }
+}

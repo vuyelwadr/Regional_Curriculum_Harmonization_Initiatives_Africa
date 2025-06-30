@@ -1,0 +1,55 @@
+{
+  "response_id": 107,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:37:10.908616",
+  "metadata": {
+    "url": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/507641468002107985/a-regional-exploration-of-pathways-toward-harmonization-of-math-science-curriculum-in-the-east-african-community",
+    "final_url": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/507641468002107985/a-regional-exploration-of-pathways-toward-harmonization-of-math-science-curriculum-in-the-east-african-community",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"A regional exploration of pathways toward harmonization of math & science curriculum in the East African Community\",\n    \"authors\": [\n      \"Farley,Sara Elizabeth\",\n      \"Rose,Amanda Lilley\",\n      \"Cavazzini,Miguel Frederico\",\n      \"Gerard,Andrew\",\n      \"Golubski,Christina\",\n      \"Robinson,Andrew James\",\n      \"Wang, Serena\"\n    ],\n    \"doi\": null,\n    \"journal\": \"World Bank Documents & Reports\",\n    \"year\": null,\n    \"abstract\": \"Prior to the breakup of the old East African Community (EAC) in 1977, the East African countries shared a harmonized education system. However, after 1977, the countries .\"\n  },\n  \"fulltext_links\": [],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"medium\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 536,
+              "endIndex": 699,
+              "uri": "https://search.worldbank.org/api/v2/wds?format=xml&fl=display_title,lang&guid=507641468002107985&apilang=fr"
+            }
+          ]
+        },
+        "avgLogprobs": -0.003730764150619507
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3290,
+      "candidatesTokenCount": 250,
+      "totalTokenCount": 3540,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3290
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 250
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "1ZZSaKDWBuiChMIP-ufFUQ"
+  }
+}

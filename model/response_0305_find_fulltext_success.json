@@ -1,0 +1,60 @@
+{
+  "response_id": 305,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:57:09.726955",
+  "metadata": {
+    "url": "https://noyam.org/erats20241072/",
+    "final_url": "https://noyam.org/erats20241072/",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Decoloniality in Theology Today: The Quest to Liberate United Theological College’s Curriculum from Foreign God Talk\",\n    \"authors\": [\n      \"Martin Mujinga\"\n    ],\n    \"doi\": \"10.38159/erats.20241072\",\n    \"journal\": \"Noyam Journals\",\n    \"year\": \"2024\",\n    \"abstract\": \"Using a decolonial framework and qualitative research methodology, the paper challenged the institution to decolonise its curriculum by liberating it from armchair theories of foreign God talk.\"\n  },\n  \"fulltext_links\": [],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 87,
+              "endIndex": 224,
+              "uri": "https://m.booksci.cn/literature_d332821.htm"
+            },
+            {
+              "startIndex": 370,
+              "endIndex": 561,
+              "uri": "https://www.researchgate.net/publication/382120572_Decoloniality_in_Theology_Today_The_Quest_to_Liberate_United_Theological_College's_Curriculum_from_Foreign_God_Talk"
+            }
+          ]
+        },
+        "avgLogprobs": -0.001182515156660841
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3235,
+      "candidatesTokenCount": 213,
+      "totalTokenCount": 3448,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3235
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 213
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "hJtSaKrPDOiChMIP-ufFUQ"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "response_id": 366,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:02:25.231014",
+  "metadata": {
+    "apa_number": 240,
+    "url": "https://link.springer.com/content/pdf/10.1186/s12961-024-01256-x.pdf",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://link.springer.com/content/pdf/10.1186/s12961-024-01256-x.pdf\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in Africa, specifically addressing cross-border education and mutual recognition of qualifications within the context of the African Continental Qualifications Framework (ACQF). It discusses harmonization across multiple countries and institutions, aligning with the research criteria. The paper mentions regional frameworks and credit transfer systems.\",\n  \"Title\": \"Towards a continental qualifications framework: a scoping review of national qualifications frameworks development in Africa\",\n  \"Authors\": [\n    \"Moses Oketch\",\n    \"Daniel Otieno\",\n    \"Moses Onyango\",\n    \"Jacob Wambua\",\n    \"Edward K. Kirumira\",\n    \"Beatrice Muganda\",\n    \"Linda Otiato\",\n    \"Anne Njeri\",\n    \"Eunice Fundi\",\n    \"Patience Mutheu\",\n    \"Moses Ngware\"\n  ],\n  \"Year\": \"2024\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"International Journal for Equity in Health\",\n    \"DOI_URL\": \"https://doi.org/10.1186/s12961-024-01256-x\",\n    \"APA_Reference\": \"Oketch, M., Otieno, D., Onyango, M., Wambua, J., Kirumira, E. K., Muganda, B., Otiato, L., Njeri, A., Fundi, E., Mutheu, P., & Ngware, M. (2024). Towards a continental qualifications framework: a scoping review of national qualifications frameworks development in Africa. International Journal for Equity in Health, 23(1), Article 122. https://doi.org/10.1186/s12961-024-01256-x\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Scoping Review\",\n    \"Geographic_Focus\": \"Africa\",\n    \"Educational_Level\": \"Higher Education and TVET\",\n    \"Sample_Size\": \"Not applicable for scoping review\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated, but implicitly uses the concept of qualifications frameworks and their role in facilitating mobility and recognition.\",\n    \"Harmonization_Definition\": \"Harmonization is implicitly defined through the discussion of qualifications frameworks and their role in facilitating comparability and recognition of qualifications across different countries.\",\n    \"Regional_Initiatives\": [\n      \"African Continental Qualifications Framework (ACQF)\",\n      \"National Qualifications Frameworks (NQFs)\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Development of National Qualifications Frameworks\",\n      \"Alignment of NQFs with the ACQF\",\n      \"Policy development and implementation\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments\",\n      \"Educational institutions\",\n      \"Regional bodies (e.g., African Union)\",\n      \"Employers\",\n      \"Quality assurance agencies\"\n    ],\n    \"Data_Sources\": [\n      \"Published literature\",\n      \"Policy documents\",\n      \"Reports from international organizations\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"The development of NQFs in Africa is uneven, with some countries making more progress than others.\",\n      \"Alignment of NQFs with the ACQF is crucial for facilitating mobility and recognition of qualifications.\",\n      \"There is a need for greater investment in quality assurance and capacity building to support the effective implementation of NQFs.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of resources\",\n      \"Weak institutional capacity\",\n      \"Political instability\",\n      \"Resistance to change\",\n      \"Limited stakeholder engagement\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political will\",\n      \"Effective leadership\",\n      \"Collaboration among stakeholders\",\n      \"Adequate resources\",\n      \"Clear and transparent processes\"\n    ],\n    \"Recommendations\": [\n      \"Invest in capacity building for NQF development and implementation.\",\n      \"Strengthen quality assurance mechanisms.\",\n      \"Promote stakeholder engagement.\",\n      \"Align NQFs with the ACQF.\",\n      \"Address the challenges of resource constraints and political instability.\"\n    ],\n    \"Future_Research\": [\n      \"Further research is needed to evaluate the impact of NQFs on mobility and recognition of qualifications.\",\n      \"Research is also needed to identify best practices for NQF development and implementation.\"\n    ],\n    \"Specific_Examples\": [\n      \"Examples of countries that have made progress in developing NQFs are provided in the paper.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Policy development\",\n      \"Capacity building\",\n      \"Quality assurance\",\n      \"Stakeholder engagement\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Resource constraints\",\n      \"Political instability\",\n      \"Weak institutional capacity\",\n      \"Resistance to change\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Strong political will\",\n      \"Effective leadership\",\n      \"Collaboration among stakeholders\",\n      \"Adequate resources\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased mobility\",\n      \"Improved recognition of qualifications\",\n      \"Enhanced quality of education and training\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 637,
+      "candidatesTokenCount": 1277,
+      "totalTokenCount": 1914,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 637
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1277
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "uZxSaLOvJLPQhMIP372DoQ0"
+  }
+}

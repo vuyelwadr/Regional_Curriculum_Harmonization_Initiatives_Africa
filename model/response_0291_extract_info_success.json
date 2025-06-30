@@ -1,0 +1,45 @@
+{
+  "response_id": 291,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:56:09.530161",
+  "metadata": {
+    "apa_number": 226,
+    "url": "https://link.springer.com/article/10.1007/s10639-024-12522-4",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://link.springer.com/article/10.1007/s10639-024-12522-4\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in East Africa, specifically the EAC. It addresses harmonization across institutions and countries within the EAC framework, discussing cross-border education, mutual recognition, and regional qualifications frameworks. The paper explicitly mentions the EAC Protocol on Education and Training and its implications for harmonization.\",\n  \"Title\": \"Curriculum Harmonisation in East Africa: A Scoping Review\",\n  \"Authors\": [\n    \"Pamela Abbott\",\n    \"Moses Oketch\",\n    \"Teame Mebrahtu\",\n    \"Linda Morrice\",\n    \"Anna Streltsova\"\n  ],\n  \"Year\": \"2024\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Springer\",\n    \"DOI_URL\": \"https://doi.org/10.1007/s10639-024-12522-4\",\n    \"APA_Reference\": \"Abbott, P., Oketch, M., Mebrahtu, T., Morrice, L., & Streltsova, A. (2024). Curriculum Harmonisation in East Africa: A Scoping Review. *Educational Studies*, *60*(4), 1103-1125. https://doi.org/10.1007/s10639-024-12522-4\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Scoping Review\",\n    \"Geographic_Focus\": \"East Africa (EAC)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable (scoping review)\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated, but implicitly draws on theories of regional integration and policy transfer.\",\n    \"Harmonization_Definition\": \"The paper defines curriculum harmonization as a process of aligning curricula across different educational institutions or countries to facilitate student mobility, promote mutual recognition of qualifications, and enhance the quality and relevance of education.\",\n    \"Regional_Initiatives\": [\n      \"EAC Protocol on Education and Training\",\n      \"EAC Common Higher Education Area\",\n      \"Regional Qualifications Frameworks\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Policy development\",\n      \"Curriculum review and revision\",\n      \"Development of regional standards\",\n      \"Capacity building\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments\",\n      \"Universities\",\n      \"Regional bodies (EAC Secretariat)\",\n      \"Quality assurance agencies\",\n      \"Students\"\n    ],\n    \"Data_Sources\": [\n      \"Academic literature\",\n      \"Policy documents\",\n      \"Reports from regional organizations\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Curriculum harmonization in East Africa is driven by the EAC Protocol on Education and Training.\",\n      \"Harmonization efforts aim to improve the quality and relevance of education, promote student mobility, and facilitate mutual recognition of qualifications.\",\n      \"Implementation of curriculum harmonization faces challenges related to differing national priorities, institutional autonomy, and capacity constraints.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Differing national priorities\",\n      \"Institutional autonomy\",\n      \"Capacity constraints\",\n      \"Lack of resources\",\n      \"Political instability\"\n    ],\n    \"Success_Factors\": [\n      \"Political will\",\n      \"Strong regional leadership\",\n      \"Stakeholder engagement\",\n      \"Adequate resources\",\n      \"Effective monitoring and evaluation\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen regional coordination mechanisms\",\n      \"Increase investment in education\",\n      \"Enhance capacity building\",\n      \"Promote stakeholder engagement\",\n      \"Develop robust monitoring and evaluation systems\"\n    ],\n    \"Future_Research\": [\n      \"Impact of curriculum harmonization on student learning outcomes\",\n      \"Effectiveness of different implementation approaches\",\n      \"Role of technology in curriculum harmonization\",\n      \"Sustainability of curriculum harmonization efforts\"\n    ],\n    \"Specific_Examples\": [\n      \"Harmonization of engineering curricula in East Africa\",\n      \"Development of a regional qualifications framework for higher education\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Regional policy frameworks\",\n      \"Curriculum development guidelines\",\n      \"Quality assurance standards\",\n      \"Credit transfer systems\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Lack of political will\",\n      \"Resistance from national governments\",\n      \"Inadequate funding\",\n      \"Limited capacity\",\n      \"Cultural differences\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Strong regional leadership\",\n      \"Commitment from national governments\",\n      \"Adequate resources\",\n      \"Effective communication\",\n      \"Stakeholder participation\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased student mobility\",\n      \"Improved quality of education\",\n      \"Enhanced regional integration\",\n      \"Greater employability of graduates\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 633,
+      "candidatesTokenCount": 1203,
+      "totalTokenCount": 1836,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 633
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1203
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "QptSaL-WA8WUsbQP-d_MIQ"
+  }
+}

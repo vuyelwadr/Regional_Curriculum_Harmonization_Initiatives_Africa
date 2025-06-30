@@ -1,0 +1,54 @@
+{
+  "response_id": 208,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:47:18.539300",
+  "metadata": {
+    "url": "http://dx.doi.org/10.18543/tjhe-9(1)-2021pp103-126",
+    "final_url": "https://tuningjournal.org/article/view/1892",
+    "attempt": 2,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Harmonisation of higher education in Africa: 20 years after the Bologna Process\",\n    \"authors\": [\n      \"Abebaw Yirga Adamu\"\n    ],\n    \"doi\": \"10.18543/tjhe-9(1)-2021pp103-126\",\n    \"journal\": \"Tuning Journal for Higher Education\",\n    \"year\": \"2021\",\n    \"abstract\": \"It has been 20 years since the Bologna Process has been realized, and the present paper examines efforts made to harmonise higher education in Africa. Similar to other continents, the higher education reform in Africa is inspired by the Bologna Process. This is clearly reflected in the African Union strategy for harmonisation of higher education and different reforms and harmonisation initiatives. The reforms in African higher education are directly and indirectly influenced by the European Union which is also the main financer and technical partner in the development and implementation of higher education harmonisation in Africa. There are different factors that affect the institutionalisation and sustainability of harmonisation initiatives in Africa. Some of the major factors include lack of strong and genuine cooperation among African HEIs, lack of nations’ political commitment to higher reforms, and lack of contextualisation in adopting reforms and strategies. Although the effort to harmonise African higher education is commendable, it is important to look for innovative strategies and reforms which are mainly based on the actual challenges that Africa is facing and the ultimate goal it envisions to achieve. Africa also needs to earnestly ‘conainise’ (continentalise, nationalise and institutionalise) reforms and harmonisation strategies adopted from elsewhere.\\nReceived: 18 October 2020Accepted: 9 September 2021\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://tuningjournal.org/article/download/1892/2648\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://tuningjournal.org/article/view/1892/2711\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 343,
+              "endIndex": 1745
+            }
+          ]
+        },
+        "avgLogprobs": -0.0002877664190154892
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2787,
+      "candidatesTokenCount": 555,
+      "totalTokenCount": 3342,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2787
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 555
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "M5lSaM2vCprnqsMPzonmkA0"
+  }
+}

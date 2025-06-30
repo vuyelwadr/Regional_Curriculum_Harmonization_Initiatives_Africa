@@ -1,0 +1,54 @@
+{
+  "response_id": 138,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:40:12.539712",
+  "metadata": {
+    "url": "https://ejournal.staimnglawak.ac.id/index.php/educatio/article/view/1429",
+    "final_url": "https://ejournal.staimnglawak.ac.id/index.php/educatio/article/view/1429",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Conceptual Changes in South African Higher Education: Embracing Student-Centred Approaches Amidst Challenges\",\n    \"authors\": [\n      \"Taurayi Stephen Nyagope\"\n    ],\n    \"doi\": \"10.29138/educatio.v9i1.1429\",\n    \"journal\": \"EDUCATIO : Journal of Education\",\n    \"year\": \"2024\",\n    \"abstract\": \"This study critically examines the evolving nature of higher education in South Africa, focusing on the implementation of student-centred learning approaches. Key elements include the challenges posed by massification, the decolonisation of the curriculum, and the integration of technology. The expanding student population necessitates innovative teaching methods to maintain high educational standards. The shift towards student-centred learning fosters active participation, critical thinking, and differentiated instruction, facilitated by technology, which enables inclusive virtual classrooms. A strategic analysis of 15 scholarly articles underscores the transition to interactive, learner-centred methods aimed at enhancing deep learning and student engagement. The discussion highlights the pivotal role of technology in creating effective learning environments, utilizing tools such as virtual reality and open online courses, while acknowledging challenges like high costs and dropout rates. In the South African context, the adaptation of educational strategies to local conditions, including the use of mobile technology and culturally relevant curricula, is explored. The paper advocates for a dynamic, pragmatic, and learner-focused educational paradigm, crucial for addressing the contemporary challenges in higher education.\\n&nbsp;\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://ejournal.staimnglawak.ac.id/index.php/educatio/article/download/1429/500\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 391,
+              "endIndex": 1731
+            }
+          ]
+        },
+        "avgLogprobs": -0.0004003720898782053
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2919,
+      "candidatesTokenCount": 465,
+      "totalTokenCount": 3384,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2919
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 465
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "iZdSaLfnGKiUsbQPmK3KkQI"
+  }
+}

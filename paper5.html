@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scoping Review of Regional Curriculum Harmonization Initiatives in Africa</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@3.9.1/dist/chart.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Inter', sans-serif; }
+        .chart-container { position: relative; width: 100%; max-width: 600px; margin-left: auto; margin-right: auto; height: 350px; max-height: 400px; }
+        @media (max-width: 768px) { .chart-container { height: 300px; } }
+        .prisma-box { border: 2px solid #D1D5DB; padding: 1rem; text-align: center; border-radius: 0.5rem; background-color: white; box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1); }
+        .prisma-arrow { position: relative; height: 3rem; width: 2px; background-color: #6B7280; margin: 0 auto; }
+        .prisma-arrow::after { content: ''; position: absolute; bottom: 0; left: 50%; transform: translateX(-50%); width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-top: 12px solid #6B7280; }
+        .network-node { border-radius: 50%; display: flex; align-items: center; justify-content: center; text-align: center; color: white; padding: 1rem; transition: transform 0.3s ease, box-shadow 0.3s ease; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1); }
+        .network-node:hover { transform: scale(1.05); box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1); }
+    </style>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        'au-green': '#00A86B',
+                        'accent-orange': '#F97316',
+                        'dark-blue': '#1E3A8A',
+                        'medium-blue': '#3B82F6',
+                        'light-blue': '#60A5FA',
+                        'pale-blue': '#93C5FD',
+                        'base-gray': '#1F2937',
+                        'sub-gray': '#6B7280',
+                    }
+                }
+            }
+        }
+    </script>
+</head>
+<body class="bg-gray-50 text-base-gray">
+
+    <header class="bg-white/80 backdrop-blur-lg sticky top-0 z-40 shadow-sm">
+        <nav class="container mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex items-center justify-between h-16">
+                <div class="flex-shrink-0">
+                    <h1 class="text-lg font-bold text-au-green">Curriculum Harmonization in Africa</h1>
+                </div>
+                <div class="hidden md:block">
+                    <div class="ml-10 flex items-baseline space-x-4">
+                        <a href="#overview" class="text-sub-gray hover:text-base-gray px-3 py-2 rounded-md text-sm font-medium">Overview</a>
+                        <a href="#methodology" class="text-sub-gray hover:text-base-gray px-3 py-2 rounded-md text-sm font-medium">Methodology</a>
+                        <a href="#dashboard" class="text-sub-gray hover:text-base-gray px-3 py-2 rounded-md text-sm font-medium">Dashboard</a>
+                        <a href="#themes" class="text-sub-gray hover:text-base-gray px-3 py-2 rounded-md text-sm font-medium">Themes</a>
+                        <a href="#gaps" class="text-sub-gray hover:text-base-gray px-3 py-2 rounded-md text-sm font-medium">Future Directions</a>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <main class="container mx-auto px-4 sm:px-6 lg:px-8 py-8 md:py-12">
+        
+        <section id="overview" class="text-center mb-16">
+            <h2 class="text-3xl md:text-4xl font-bold text-base-gray mb-4">A Scoping Review of Regional Curriculum Harmonization</h2>
+            <p class="max-w-3xl mx-auto text-lg text-sub-gray mb-6">This interactive dashboard presents key findings from a comprehensive scoping review on curriculum harmonization in Africa. The review systematically analyzes <span class="font-bold text-au-green">178 peer-reviewed articles and reports</span> published between <span class="font-semibold text-dark-blue">2009 and 2025</span>, revealing a dynamic and rapidly maturing field. Explore the data to understand the trends, focus areas, and future directions for educational policy across the continent.</p>
+        </section>
+
+        <section id="methodology" class="mb-16">
+            <h3 class="text-2xl md:text-3xl font-bold text-center text-base-gray mb-8">Study Selection Process</h3>
+            <p class="text-center text-sub-gray max-w-2xl mx-auto mb-12">The review followed the Joanna Briggs Institute (JBI) scoping methodology. From an initial pool of 561 documents identified through programmatic searches, 178 studies were selected for final analysis based on pre-defined inclusion criteria.</p>
+            <div class="max-w-md mx-auto">
+                <div class="prisma-box">
+                    <h4 class="font-semibold text-base-gray">Identification</h4>
+                    <p class="text-sub-gray">Initial pool of <span class="font-bold">561</span> documents identified</p>
+                </div>
+                <div class="prisma-arrow"></div>
+                <div class="prisma-box">
+                    <h4 class="font-semibold text-base-gray">Screening & Eligibility</h4>
+                     <p class="text-sub-gray"><span class="font-bold">561</span> full-text articles assessed for eligibility</p>
+                </div>
+                <div class="prisma-arrow"></div>
+                <div class="flex items-center">
+                    <div class="prisma-box flex-1">
+                        <h4 class="font-semibold text-base-gray">Eligibility Assessment</h4>
+                        <p class="text-sub-gray">All articles screened against inclusion criteria</p>
+                    </div>
+                    <div class="w-8 h-px bg-sub-gray mx-2"></div>
+                    <div class="prisma-box flex-1 bg-red-50 border-red-200">
+                        <h4 class="font-semibold text-red-800">Excluded (n=383)</h4>
+                        <p class="text-xs text-red-700">Did not meet criteria: wrong scope, single-country focus, non-research, outside timeframe.</p>
+                    </div>
+                </div>
+                <div class="prisma-arrow"></div>
+                 <div class="prisma-box bg-green-50 border-green-200">
+                    <h4 class="font-semibold text-au-green">Included</h4>
+                     <p class="text-sub-gray">Studies included in scoping review <span class="font-bold">(n = 178)</span></p>
+                </div>
+            </div>
+        </section>
+        
+        <section id="dashboard" class="mb-16">
+            <h3 class="text-2xl md:text-3xl font-bold text-center text-base-gray mb-8">Key Findings Dashboard</h3>
+            <p class="text-center text-sub-gray max-w-2xl mx-auto mb-12">The following visualizations provide a quantitative summary of the 178 included studies. We explored publication trends over time, the primary focus across educational levels, and the geographic distribution of research across African regions.</p>
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12">
+                
+                <div class="bg-white p-6 rounded-lg shadow-md">
+                    <h4 class="text-xl font-semibold mb-1 text-center">Temporal Distribution of Publications</h4>
+                    <p class="text-sm text-sub-gray text-center mb-4">(2009 - 2025)</p>
+                    <div class="chart-container">
+                        <canvas id="temporalChart"></canvas>
+                    </div>
+                </div>
+
+                <div class="bg-white p-6 rounded-lg shadow-md">
+                    <h4 class="text-xl font-semibold mb-1 text-center">Distribution Across Educational Levels</h4>
+                     <p class="text-sm text-sub-gray text-center mb-4">(n=178)</p>
+                    <div class="chart-container">
+                        <canvas id="educationChart"></canvas>
+                    </div>
+                </div>
+                
+                <div class="bg-white p-6 rounded-lg shadow-md lg:col-span-2">
+                    <h4 class="text-xl font-semibold mb-4 text-center">Geographic Distribution of Research</h4>
+                    <p class="text-center text-sub-gray max-w-2xl mx-auto mb-6">Research is heavily concentrated on the East African Community (EAC). The color intensity of the cards reflects the volume of research for each region.</p>
+                    <div class="flex flex-wrap justify-center gap-4 text-white text-center">
+                        <div class="p-4 rounded-lg flex-grow min-w-[150px]" style="background-color: #1E3A8A;">
+                            <h5 class="font-bold text-lg">East African Community (EAC)</h5>
+                            <p class="text-2xl font-bold">79 <span class="text-base font-normal">(44.4%)</span></p>
+                        </div>
+                         <div class="p-4 rounded-lg flex-grow min-w-[150px]" style="background-color: #2563EB;">
+                            <h5 class="font-bold text-lg">SADC Region</h5>
+                            <p class="text-2xl font-bold">28 <span class="text-base font-normal">(15.7%)</span></p>
+                        </div>
+                        <div class="p-4 rounded-lg flex-grow min-w-[150px]" style="background-color: #3B82F6;">
+                            <h5 class="font-bold text-lg">Pan-African/Continental</h5>
+                            <p class="text-2xl font-bold">26 <span class="text-base font-normal">(14.6%)</span></p>
+                        </div>
+                        <div class="p-4 rounded-lg flex-grow min-w-[150px]" style="background-color: #60A5FA;">
+                            <h5 class="font-bold text-lg">Multiple Regions / Comparative</h5>
+                            <p class="text-2xl font-bold">24 <span class="text-base font-normal">(13.5%)</span></p>
+                        </div>
+                         <div class="p-4 rounded-lg flex-grow min-w-[150px]" style="background-color: #93C5FD; color:#1F2937;">
+                            <h5 class="font-bold text-lg">ECOWAS Region</h5>
+                            <p class="text-2xl font-bold">21 <span class="text-base font-normal">(11.8%)</span></p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+
+        <section id="themes" class="mb-16">
+            <div class="bg-white p-6 md:p-10 rounded-lg shadow-md">
+                <h3 class="text-2xl md:text-3xl font-bold text-center text-base-gray mb-8">Thematic Landscape</h3>
+                <p class="text-center text-sub-gray max-w-3xl mx-auto mb-12">The analysis of 178 articles identified four major research themes. The diagram below shows these themes interacting with the central concept. Research focuses heavily on describing <span class="font-semibold text-dark-blue">Implementation Mechanisms</span> (68% of papers) and <span class="font-semibold text-medium-blue">Challenges</span> (63%), while the critical area of <span class="font-semibold text-pale-blue text-base-gray">Outcomes & Impacts</span> (42%) remains significantly less developed.</p>
+                <div class="relative w-full h-[550px] md:h-[450px] flex items-center justify-center">
+                    <!-- Central Node -->
+                    <div class="network-node absolute z-10" style="background-color: #00A86B; width: 180px; height: 180px; font-size: 1.1rem;">
+                        <span class="font-bold">Curriculum<br>Harmonization<br>Research</span>
+                    </div>
+                    <!-- Thematic Nodes -->
+                    <div class="network-node absolute" style="background-color: #1E3A8A; width: 160px; height: 160px; top: 10%; left: 50%; transform: translate(-50%, -50%);">
+                        <span>Implementation & Frameworks (68%)</span>
+                    </div>
+                    <div class="network-node absolute" style="background-color: #3B82F6; width: 150px; height: 150px; top: 50%; right: 20%; transform: translate(50%, -50%);">
+                        <span>Challenges & Barriers (63%)</span>
+                    </div>
+                    <div class="network-node absolute" style="background-color: #60A5FA; width: 140px; height: 140px; bottom: 10%; left: 50%; transform: translate(-50%, 50%);">
+                        <span>Success Factors & Enablers (55%)</span>
+                    </div>
+                    <div class="network-node absolute" style="background-color: #93C5FD; color:#1F2937; width: 120px; height: 120px; top: 50%; left: 20%; transform: translate(-50%, -50%);">
+                        <span class="text-sm">Outcomes & Impacts (42%)</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <section id="gaps" class="mb-16">
+            <h3 class="text-2xl md:text-3xl font-bold text-center text-base-gray mb-12">Future Directions: Research Gaps & Priorities</h3>
+            <p class="text-center text-sub-gray max-w-3xl mx-auto mb-12">This review identified significant gaps in the literature that point to clear priorities for future research. The tables below summarize key regional initiatives documented in the literature, the methodological approaches used, and the most critical areas needing further investigation to support evidence-informed policy.</p>
+            <div class="space-y-12">
+                <div>
+                    <h4 class="text-xl font-semibold mb-4">Table 1: Summary of Key Regional Harmonization Initiatives</h4>
+                    <div class="overflow-x-auto bg-white rounded-lg shadow-md">
+                        <table class="w-full text-sm text-left text-sub-gray">
+                            <thead class="text-xs text-base-gray uppercase bg-gray-100">
+                                <tr>
+                                    <th scope="col" class="px-4 py-3">Initiative/Framework</th>
+                                    <th scope="col" class="px-4 py-3">Region</th>
+                                    <th scope="col" class="px-4 py-3">Primary Focus</th>
+                                    <th scope="col" class="px-4 py-3">Key Features / Approach</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr class="bg-white border-b"><td class="px-4 py-4 font-medium text-base-gray">AU Harmonisation Strategy (HAQAA/PAQAF)</td><td class="px-4 py-4">Continental</td><td class="px-4 py-4">Higher Ed. Quality Assurance</td><td class="px-4 py-4">Continental policy via Arusha/Addis Conventions, PAQAF standards, and HAQAA initiative.</td></tr>
+                                <tr class="bg-gray-50 border-b"><td class="px-4 py-4 font-medium text-base-gray">EAC Protocol on Education and Training</td><td class="px-4 py-4">East Africa</td><td class="px-4 py-4">Higher Ed, TVET, Health</td><td class="px-4 py-4">Systematic, policy-led alignment via its formal Protocol; most researched model.</td></tr>
+                                <tr class="bg-white border-b"><td class="px-4 py-4 font-medium text-base-gray">ECOWAS Sector-Specific Initiatives</td><td class="px-4 py-4">West Africa</td><td class="px-4 py-4">Professional Training (Health)</td><td class="px-4 py-4">Sector-based standardization; success in harmonizing health professional curricula.</td></tr>
+                                <tr class="bg-gray-50"><td class="px-4 py-4 font-medium text-base-gray">SADC Protocol & Qualifications Framework</td><td class="px-4 py-4">Southern Africa</td><td class="px-4 py-4">Higher Ed. & TVET</td><td class="px-4 py-4">Decentralized, framework-guided model relying heavily on institutional collaboration.</td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <div>
+                    <h4 class="text-xl font-semibold mb-4">Table 2: Research Methodological Approaches (n=178)</h4>
+                     <div class="overflow-x-auto bg-white rounded-lg shadow-md">
+                        <table class="w-full text-sm text-left text-sub-gray">
+                            <thead class="text-xs text-base-gray uppercase bg-gray-100">
+                                <tr><th scope="col" class="px-4 py-3">Method Type</th><th scope="col" class="px-4 py-3">Number of Studies</th><th scope="col" class="px-4 py-3">Percentage</th><th scope="col" class="px-4 py-3">Primary Use Case</th></tr>
+                            </thead>
+                            <tbody>
+                                <tr class="bg-white border-b"><td class="px-4 py-4 font-medium text-base-gray">Literature Review / Conceptual / Policy Analysis</td><td class="px-4 py-4">95</td><td class="px-4 py-4">53.4%</td><td class="px-4 py-4">Describing policies, frameworks, and theoretical concepts.</td></tr>
+                                <tr class="bg-gray-50 border-b"><td class="px-4 py-4 font-medium text-base-gray">Qualitative (Case Study, Interviews)</td><td class="px-4 py-4">58</td><td class="px-4 py-4">32.6%</td><td class="px-4 py-4">Exploring implementation processes and stakeholder views.</td></tr>
+                                <tr class="bg-white border-b"><td class="px-4 py-4 font-medium text-base-gray">Mixed Methods</td><td class="px-4 py-4">14</td><td class="px-4 py-4">7.9%</td><td class="px-4 py-4">Combining surveys with qualitative data for deeper insights.</td></tr>
+                                <tr class="bg-gray-50"><td class="px-4 py-4 font-medium text-base-gray">Quantitative</td><td class="px-4 py-4">11</td><td class="px-4 py-4">6.2%</td><td class="px-4 py-4">Surveys and statistical analysis (least common).</td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                 <div>
+                    <h4 class="text-xl font-semibold mb-4">Table 3: Priority Research Gaps</h4>
+                     <div class="overflow-x-auto bg-white rounded-lg shadow-md">
+                        <table class="w-full text-sm text-left text-sub-gray">
+                            <thead class="text-xs text-base-gray uppercase bg-gray-100">
+                                <tr><th scope="col" class="px-4 py-3">Research Gap</th><th scope="col" class="px-4 py-3">Description of Gap</th><th scope="col" class="px-4 py-3">Recommended Action</th></tr>
+                            </thead>
+                            <tbody>
+                                <tr class="bg-white border-b"><td class="px-4 py-4 font-medium text-base-gray">Longitudinal Impact Studies</td><td class="px-4 py-4">Critical lack of studies tracking initiatives over time to assess impact on mobility, employability, and institutional change.</td><td class="px-4 py-4">Conduct multi-year studies to measure long-term outcomes and ROI.</td></tr>
+                                <tr class="bg-gray-50 border-b"><td class="px-4 py-4 font-medium text-base-gray">Stakeholder Perspectives</td><td class="px-4 py-4">The voices of students, academic staff, and employers are significantly underrepresented in the literature.</td><td class="px-4 py-4">Prioritize qualitative and survey-based research capturing grassroots perspectives.</td></tr>
+                                <tr class="bg-white border-b"><td class="px-4 py-4 font-medium text-base-gray">Rigorous Comparative Analysis</td><td class="px-4 py-4">Few studies systematically compare different regional models (e.g., EAC vs. SADC) to identify transferable lessons.</td><td class="px-4 py-4">Fund cross-regional comparative studies using standardized metrics.</td></tr>
+                                <tr class="bg-gray-50 border-b"><td class="px-4 py-4 font-medium text-base-gray">Economic & Cost-Benefit Analysis</td><td class="px-4 py-4">The economic dimensions, including cost-benefit analyses of implementation, are virtually unexplored.</td><td class="px-4 py-4">Integrate economic modeling and cost-benefit analysis into evaluations.</td></tr>
+                                <tr class="bg-white"><td class="px-4 py-4 font-medium text-base-gray">Integrating Decolonization</td><td class="px-4 py-4">Limited research on how frameworks can promote epistemic diversity and integrate African knowledge systems.</td><td class="px-4 py-4">Fund research on developing harmonization models that actively advance decolonization.</td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </main>
+    
+    <footer class="bg-base-gray text-white">
+        <div class="container mx-auto py-8 px-4 sm:px-6 lg:px-8">
+            <div class="max-w-4xl mx-auto bg-gray-800 p-6 rounded-lg">
+                <h4 class="text-xl font-bold text-center mb-4">Data Verification (N=178)</h4>
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm">
+                    <div>
+                        <h5 class="font-semibold text-au-green mb-2">Temporal Distribution</h5>
+                        <ul class="list-disc list-inside">
+                            <li>2009-2016: 19</li>
+                            <li>2017-2019: 34</li>
+                            <li>2020-2022: 84</li>
+                            <li>2023-2025: 41</li>
+                        </ul>
+                        <p class="mt-2 font-semibold border-t border-gray-600 pt-1">Total: 19+34+84+41 = 178</p>
+                    </div>
+                    <div>
+                        <h5 class="font-semibold text-au-green mb-2">Geographic Distribution</h5>
+                        <ul class="list-disc list-inside">
+                            <li>East African Community (EAC): 79</li>
+                            <li>SADC Region: 28</li>
+                            <li>Pan-African/Continental: 26</li>
+                            <li>Multiple Regions / Comparative: 24</li>
+                            <li>ECOWAS Region: 21</li>
+                        </ul>
+                        <p class="mt-2 font-semibold border-t border-gray-600 pt-1">Total: 79+28+26+24+21 = 178</p>
+                    </div>
+                    <div>
+                        <h5 class="font-semibold text-au-green mb-2">Educational Level Distribution</h5>
+                        <ul class="list-disc list-inside">
+                            <li>Higher Education: 114</li>
+                            <li>TVET: 28</li>
+                            <li>All/Cross-level: 19</li>
+                            <li>Basic/School Education: 17</li>
+                        </ul>
+                        <p class="mt-2 font-semibold border-t border-gray-600 pt-1">Total: 114+28+19+17 = 178</p>
+                    </div>
+                    <div>
+                        <h5 class="font-semibold text-au-green mb-2">Methodological Distribution</h5>
+                        <ul class="list-disc list-inside">
+                            <li>Literature/Conceptual/Policy: 95</li>
+                            <li>Qualitative: 58</li>
+                            <li>Mixed Methods: 14</li>
+                            <li>Quantitative: 11</li>
+                        </ul>
+                        <p class="mt-2 font-semibold border-t border-gray-600 pt-1">Total: 95+58+14+11 = 178</p>
+                    </div>
+                </div>
+            </div>
+            <p class="text-center text-sm text-sub-gray mt-6">Interactive Dashboard for the Scoping Review of Regional Curriculum Harmonization Initiatives in Africa.</p>
+        </div>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            Chart.register(ChartDataLabels);
+            Chart.defaults.font.family = "'Inter', sans-serif";
+
+            // Data sourced directly from the provided research paper.
+            const createTemporalChart = () => {
+                const ctx = document.getElementById('temporalChart').getContext('2d');
+                const temporalData = {
+                    labels: ['2009-16', '2017-19', '2020-22', '2023-25'],
+                    datasets: [{
+                        label: 'Number of Articles',
+                        data: [19, 34, 84, 41],
+                        backgroundColor: ['#93C5FD', '#60A5FA', '#3B82F6', '#1E3A8A'],
+                        borderColor: '#1E3A8A',
+                        borderWidth: 1
+                    }]
+                };
+
+                new Chart(ctx, {
+                    type: 'bar',
+                    data: temporalData,
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        plugins: {
+                            legend: { display: false },
+                            tooltip: { callbacks: { label: (c) => `${c.dataset.label}: ${c.raw}` } },
+                            title: { display: false },
+                            datalabels: { anchor: 'end', align: 'top', color: '#1F2937', font: { weight: 'bold' } }
+                        },
+                        scales: { y: { beginAtZero: true, title: { display: true, text: 'Number of Articles' } }, x: { title: { display: false } } }
+                    }
+                });
+            };
+
+            const createEducationChart = () => {
+                const ctx = document.getElementById('educationChart').getContext('2d');
+                // Data from the paper's analysis of 178 articles.
+                const educationData = {
+                    labels: ['Higher Ed (64.0%)', 'TVET (15.7%)', 'All/Cross-level (10.7%)', 'Basic/School (9.6%)'],
+                    datasets: [{
+                        label: 'Articles',
+                        data: [114, 28, 19, 17],
+                        backgroundColor: ['#1E3A8A', '#3B82F6', '#60A5FA', '#93C5FD'],
+                        hoverOffset: 4
+                    }]
+                };
+
+                new Chart(ctx, {
+                    type: 'doughnut',
+                    data: educationData,
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        plugins: {
+                            legend: { position: 'top', labels: { boxWidth: 12 } },
+                            tooltip: {
+                                callbacks: {
+                                    label: (c) => ` ${c.label.split('(')[0].trim()}: ${c.raw} articles`
+                                }
+                            },
+                            title: { display: false },
+                            datalabels: {
+                                color: '#fff', 
+                                font: { weight: 'bold', size: 14 },
+                                formatter: (value) => value > 15 ? value : '' // Hide label for small segments
+                            }
+                        }
+                    }
+                });
+            };
+
+            createTemporalChart();
+            createEducationChart();
+        });
+    </script>
+</body>
+</html>

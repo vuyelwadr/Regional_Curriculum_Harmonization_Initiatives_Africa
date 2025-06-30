@@ -1,0 +1,55 @@
+{
+  "response_id": 19,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:28:13.387962",
+  "metadata": {
+    "url": "http://link.springer.com/10.1007/978-94-6300-956-0_13",
+    "final_url": "https://link.springer.com/chapter/10.1007/978-94-6300-956-0_13",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Achieving African Higher Education Regionalization\",\n    \"authors\": [\n      \"Woldegiorgis, Emnet Tadesse\",\n      \"Knight, Jane\"\n    ],\n    \"doi\": \"10.1007/978-94-6300-956-0_13\",\n    \"journal\": \"Regionalization of African Higher Education\",\n    \"year\": \"2017\",\n    \"abstract\": \"Even though regionalization of higher education in Africa has been underway for several years and was given a boost with the development of the African Union Strategy for the Harmonization of Higher Education Programmes (AU-HEP) in 2007, the process has been slow and...\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://link.springer.com/content/pdf/10.1007/978-94-6300-956-0_13.pdf\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://link.springer.com/chapter/10.1007/978-94-6300-956-0_13\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 373,
+              "endIndex": 640,
+              "uri": "https://www.researchgate.net/publication/316177073_Achieving_African_Higher_Education_Regionalization"
+            }
+          ]
+        },
+        "avgLogprobs": -0.0007121270269993931
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3236,
+      "candidatesTokenCount": 391,
+      "totalTokenCount": 3627,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3236
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 391
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "upRSaOO3OIqThMIPyoil0Qo"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "response_id": 188,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:45:19.505415",
+  "metadata": {
+    "apa_number": 150,
+    "url": "https://ghrp.biomedcentral.com/articles/10.1186/s41256-024-00365-y",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://ghrp.biomedcentral.com/articles/10.1186/s41256-024-00365-y\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in East Africa, specifically the East African Community (EAC). It addresses harmonization across institutions and countries within the EAC, discussing regional frameworks, cross-border education, mutual recognition, and credit transfer systems. The paper explicitly mentions the EAC Qualifications Framework.\",\n  \"Title\": \"Mapping the landscape of health professions’ education and regulation in East Africa: a scoping review\",\n  \"Authors\": [\n    \"Juliet Nabyonga-Orem\",\n    \"Pammla Petrucka\",\n    \"Joyce Kebengue\",\n    \"Rosemary Mukimba\",\n    \"Gyaviira N. Musoke\",\n    \"Jean-Marie Vianney Habarugira\",\n    \"Godfrey Biemba\",\n    \"Nazarius Mbona Tumwesigye\",\n    \"Alfredo Fort\"\n  ],\n  \"Year\": \"2024\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Globalization and Health\",\n    \"DOI_URL\": \"https://doi.org/10.1186/s41256-024-00365-y\",\n    \"APA_Reference\": \"Nabyonga-Orem, J., Petrucka, P., Kebengue, J., Mukimba, R., Musoke, G. N., Habarugira, J.-M. V., Biemba, G., Tumwesigye, N. M., & Fort, A. (2024). Mapping the landscape of health professions’ education and regulation in East Africa: a scoping review. *Globalization and Health*, *20*(1), Article 73. https://doi.org/10.1186/s41256-024-00365-y\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Scoping Review\",\n    \"Geographic_Focus\": \"East Africa (Burundi, Kenya, Rwanda, South Sudan, Tanzania, Uganda)\",\n    \"Educational_Level\": \"Health Professions Education\",\n    \"Sample_Size\": \"Not applicable for a scoping review\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated\",\n    \"Harmonization_Definition\": \"Implied through discussion of mutual recognition, accreditation, and qualifications frameworks.\",\n    \"Regional_Initiatives\": [\n      \"East African Community (EAC) Qualifications Framework\",\n      \"Mutual Recognition Agreements (MRAs)\",\n      \"Accreditation of health training institutions\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Development of regional standards\",\n      \"Harmonization of curricula\",\n      \"Establishment of regulatory bodies\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"National Medical Councils\",\n      \"Ministries of Health\",\n      \"Universities\",\n      \"Regional bodies (EAC Secretariat)\",\n      \"Professional associations\"\n    ],\n    \"Data_Sources\": [\n      \"Published literature\",\n      \"Grey literature\",\n      \"Reports from EAC Partner States\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Varied levels of harmonization across EAC Partner States\",\n      \"Existence of regional frameworks for accreditation and mutual recognition\",\n      \"Challenges in implementation due to differing national regulations and resources\",\n      \"Need for stronger regional coordination and collaboration\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Differing national regulations\",\n      \"Limited resources\",\n      \"Lack of political will\",\n      \"Weak enforcement mechanisms\"\n    ],\n    \"Success_Factors\": [\n      \"Political commitment\",\n      \"Strong regional leadership\",\n      \"Active participation of stakeholders\",\n      \"Availability of resources\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen regional coordination mechanisms\",\n      \"Increase investment in health professions education\",\n      \"Harmonize national regulations\",\n      \"Promote mutual recognition of qualifications\"\n    ],\n    \"Future_Research\": [\n      \"Impact of harmonization on quality of healthcare\",\n      \"Effectiveness of different implementation approaches\",\n      \"Sustainability of regional initiatives\"\n    ],\n    \"Specific_Examples\": [\n      \"EAC Protocol on Establishment of a Common Market\",\n      \"Efforts to harmonize curricula for medical doctors and nurses\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Regional qualifications frameworks\",\n      \"Mutual recognition agreements\",\n      \"Accreditation processes\",\n      \"Harmonized curricula\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Lack of resources\",\n      \"Differing national regulations\",\n      \"Weak enforcement\",\n      \"Political barriers\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political commitment\",\n      \"Strong regional leadership\",\n      \"Stakeholder engagement\",\n      \"Resource availability\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Improved quality of health professions education\",\n      \"Increased mobility of health professionals\",\n      \"Enhanced regional integration\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 636,
+      "candidatesTokenCount": 1205,
+      "totalTokenCount": 1841,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 636
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1205
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "t5hSaMKuJZrnqsMPzonmkA0"
+  }
+}

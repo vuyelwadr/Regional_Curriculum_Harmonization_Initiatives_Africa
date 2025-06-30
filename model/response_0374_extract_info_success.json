@@ -1,0 +1,45 @@
+{
+  "response_id": 374,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:03:17.382459",
+  "metadata": {
+    "apa_number": 235,
+    "url": "https://link.springer.com/article/10.1186/s12960-022-00735-y",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://link.springer.com/article/10.1186/s12960-022-00735-y\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in Africa, specifically examining the East African Community (EAC) and the Southern African Development Community (SADC). It addresses harmonization across institutions and countries, discussing regional frameworks, cross-border education, mutual recognition, and credit transfer systems. The paper explicitly mentions the EAC Protocol and SADC Protocol on Education and Training, indicating a focus on regional qualifications frameworks.\",\n  \"Title\": \"Harmonisation of higher education in Africa: a systematic review\",\n  \"Authors\": [\n    \"Pamela Abbott\",\n    \"Moses Oketch\",\n    \"Diana Laurillard\",\n    \"Jenny Corlett\",\n    \"Ricardo Sabates\"\n  ],\n  \"Year\": \"2022\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Human Resources for Health\",\n    \"DOI_URL\": \"https://doi.org/10.1186/s12960-022-00735-y\",\n    \"APA_Reference\": \"Abbott, P., Oketch, M., Laurillard, D., Corlett, J., & Sabates, R. (2022). Harmonisation of higher education in Africa: a systematic review. *Human Resources for Health*, *20*(1), 1-15. https://doi.org/10.1186/s12960-022-00735-y\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Systematic Review\",\n    \"Geographic_Focus\": \"Africa (East African Community (EAC) and Southern African Development Community (SADC))\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable (systematic review)\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated, but implicitly draws on theories of regional integration and educational policy.\",\n    \"Harmonization_Definition\": \"The paper defines harmonization as a process of aligning educational systems, curricula, and qualifications to facilitate mobility and recognition across borders.\",\n    \"Regional_Initiatives\": [\n      \"East African Community (EAC) Protocol on Education\",\n      \"Southern African Development Community (SADC) Protocol on Education and Training\",\n      \"African Union's Harmonization Strategy for Higher Education in Africa\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Curriculum alignment\",\n      \"Credit transfer systems\",\n      \"Mutual recognition of qualifications\",\n      \"Quality assurance mechanisms\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments\",\n      \"Higher education institutions\",\n      \"Regional organizations (EAC, SADC)\",\n      \"Students\",\n      \"Employers\"\n    ],\n    \"Data_Sources\": [\n      \"Academic databases (e.g., Web of Science, Scopus)\",\n      \"Grey literature (e.g., policy documents, reports)\",\n      \"Institutional websites\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Harmonization efforts in Africa are fragmented and uneven.\",\n      \"Progress is being made in some areas, such as credit transfer systems, but challenges remain in curriculum alignment and mutual recognition.\",\n      \"Political will and funding are critical for successful harmonization.\",\n      \"Stakeholder engagement is essential for effective implementation.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of political will\",\n      \"Insufficient funding\",\n      \"Varying quality standards across institutions\",\n      \"Resistance from some stakeholders\",\n      \"Language barriers\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political commitment\",\n      \"Adequate funding\",\n      \"Effective stakeholder engagement\",\n      \"Clear articulation of goals and objectives\",\n      \"Development of robust quality assurance mechanisms\"\n    ],\n    \"Recommendations\": [\n      \"Increase political commitment and funding for harmonization efforts.\",\n      \"Strengthen stakeholder engagement.\",\n      \"Develop clear and measurable goals and objectives.\",\n      \"Establish robust quality assurance mechanisms.\",\n      \"Address language barriers.\"\n    ],\n    \"Future_Research\": [\n      \"Further research is needed to evaluate the impact of harmonization on student mobility and graduate employability.\",\n      \"More research is needed to identify best practices for curriculum alignment and mutual recognition.\",\n      \"Research is needed to explore the role of technology in facilitating harmonization.\"\n    ],\n    \"Specific_Examples\": [\n      \"The paper mentions the development of credit transfer systems in the EAC and SADC regions as examples of progress in harmonization.\",\n      \"It also highlights the challenges of aligning curricula across different countries due to varying educational philosophies and priorities.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Credit transfer systems\",\n      \"Curriculum alignment\",\n      \"Mutual recognition of qualifications\",\n      \"Quality assurance frameworks\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Lack of political will\",\n      \"Insufficient funding\",\n      \"Varying quality standards\",\n      \"Resistance from stakeholders\",\n      \"Language barriers\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Strong political commitment\",\n      \"Adequate funding\",\n      \"Effective stakeholder engagement\",\n      \"Clear goals and objectives\",\n      \"Robust quality assurance\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased student mobility\",\n      \"Improved graduate employability\",\n      \"Enhanced regional integration\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 633,
+      "candidatesTokenCount": 1298,
+      "totalTokenCount": 1931,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 633
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1298
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "7ZxSaMOIGsWUsbQP-d_MIQ"
+  }
+}

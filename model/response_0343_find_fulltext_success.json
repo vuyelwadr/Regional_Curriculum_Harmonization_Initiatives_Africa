@@ -1,0 +1,46 @@
+{
+  "response_id": 343,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:00:19.019138",
+  "metadata": {
+    "url": "https://lida.hse.ru/article/view/26898",
+    "final_url": "https://lida.hse.ru/article/view/26898",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"A Comparative Perspective on the Future of Law in a Time of Artificial Intelligence\",\n    \"authors\": [\n      \"Steve Cornelius\"\n    ],\n    \"doi\": \"10.17323/2713-2749.2025.1.4.27\",\n    \"journal\": \"Legal Issues in the Digital Age\",\n    \"year\": \"2025\",\n    \"abstract\": \"The article explores the impact of AI on legal systems globally. It highlights how technology, particularly AI, disrupts social order and power dynamics, necessitating legal adaptations. The document categorizes global AI regulatory responses into four types: no response, reliance on existing tech regulations, fragmented solutions, and unified approaches. The European Union (EU) has adopted a unified approach with the Artificial Intelligence Act (AIA), aiming to harmonize AI rules, address risks, and stimulate AI development. The United States employs a piecemeal approach with the National Artificial Intelligence Act of 2020 and various state laws and executive orders. Australia lacks specific AI legislation, but it has an AI Action Plan focusing on economic benefits and talent development. South Africa’s National AI Policy Framework emphasizes economic transformation and social equity. The African Union’s Continental AI Strategy aims for socio-economic transformation while addressing AI risks. Canada has a Voluntary Code of Conduct and a proposed Artificial Intelligence and Data Act (AIDA). The document critiques current AI regulations for incomplete definitions and a lack of focus on the broader societal purpose of AI. It stresses the need for regulations to consider ethical dimensions and societal impacts. The document concludes that AI regulation must balance innovation with social order, human dignity, and safety, emphasizing the urgent need to address AI’s energy and water consumption to prevent potential global instability.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://lida.hse.ru/article/download/26898/22360\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.0002966752642544157
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2694,
+      "candidatesTokenCount": 513,
+      "totalTokenCount": 3207,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2694
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 513
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "QJxSaJm6EbPQhMIP372DoQ0"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "response_id": 103,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:37:08.534487",
+  "metadata": {
+    "apa_number": 96,
+    "url": "https://curriculumstudies.org/index.php/CS/article/download/139/77",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://curriculumstudies.org/index.php/CS/article/download/139/77\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in East Africa, specifically the EAC. It addresses harmonization across institutions and countries within the EAC framework, discussing cross-border education and mutual recognition of qualifications. The paper mentions the EAC Protocol on Education and Training, which aims to harmonize education systems in the region.\",\n  \"Title\": \"Curriculum Harmonisation and Higher Education in East Africa: A Synthesis of Stakeholders’ Perspectives\",\n  \"Authors\": [\n    \"Callistus Tengan\",\n    \"Pamela Abbott\",\n    \"Paul Trowler\"\n  ],\n  \"Year\": \"2019\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Journal of Curriculum Studies Research\",\n    \"DOI_URL\": \"https://doi.org/10.46303/jcsr.2019.7\",\n    \"APA_Reference\": \"Tengan, C., Abbott, P., & Trowler, P. (2019). Curriculum Harmonisation and Higher Education in East Africa: A Synthesis of Stakeholders’ Perspectives. Journal of Curriculum Studies Research, 1(1), 54–73. https://doi.org/10.46303/jcsr.2019.7\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Qualitative; Stakeholder perspectives\",\n    \"Geographic_Focus\": \"East Africa (EAC: Uganda, Tanzania, Kenya, Rwanda, Burundi)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not explicitly stated, but involves interviews with stakeholders from multiple EAC countries.\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated, but draws on stakeholder theory and institutional theory.\",\n    \"Harmonization_Definition\": \"Harmonization is defined as a process of aligning curricula across different institutions and countries to facilitate student mobility, promote regional integration, and ensure quality and relevance of education.\",\n    \"Regional_Initiatives\": [\n      \"EAC Protocol on Education and Training\",\n      \"EAC Common Higher Education Area\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Curriculum review and development\",\n      \"Development of regional qualifications frameworks\",\n      \"Establishment of quality assurance mechanisms\",\n      \"Stakeholder engagement\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Academics\",\n      \"University administrators\",\n      \"Government officials\",\n      \"Employers\",\n      \"Students\"\n    ],\n    \"Data_Sources\": [\n      \"Interviews\",\n      \"Policy documents\",\n      \"Literature review\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Curriculum harmonization is seen as a key driver of regional integration in East Africa.\",\n      \"Stakeholders have different perspectives on the goals and processes of curriculum harmonization.\",\n      \"Challenges to harmonization include differences in national education systems, lack of resources, and resistance from some stakeholders.\",\n      \"Harmonization can improve the quality and relevance of higher education in the region.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Differences in national education systems\",\n      \"Lack of resources\",\n      \"Resistance from some stakeholders\",\n      \"Bureaucratic hurdles\",\n      \"Language barriers\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political will\",\n      \"Effective stakeholder engagement\",\n      \"Adequate resources\",\n      \"Clear goals and objectives\",\n      \"Flexible and adaptable approaches\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen stakeholder engagement\",\n      \"Provide adequate resources\",\n      \"Develop clear goals and objectives\",\n      \"Adopt flexible and adaptable approaches\",\n      \"Address differences in national education systems\"\n    ],\n    \"Future_Research\": [\n      \"Impact of curriculum harmonization on student learning outcomes\",\n      \"Effectiveness of different implementation approaches\",\n      \"Role of technology in curriculum harmonization\",\n      \"Longitudinal studies of curriculum harmonization initiatives\"\n    ],\n    \"Specific_Examples\": [\n      \"Harmonization of engineering curricula in the EAC\",\n      \"Development of a regional qualifications framework for higher education\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Curriculum review and development\",\n      \"Development of regional qualifications frameworks\",\n      \"Establishment of quality assurance mechanisms\",\n      \"Stakeholder engagement\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Differences in national education systems\",\n      \"Lack of resources\",\n      \"Resistance from some stakeholders\",\n      \"Bureaucratic hurdles\",\n      \"Language barriers\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Strong political will\",\n      \"Effective stakeholder engagement\",\n      \"Adequate resources\",\n      \"Clear goals and objectives\",\n      \"Flexible and adaptable approaches\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Improved quality and relevance of higher education\",\n      \"Increased student mobility\",\n      \"Enhanced regional integration\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 620,
+      "candidatesTokenCount": 1176,
+      "totalTokenCount": 1796,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 620
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1176
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "zJZSaOeoNpuTgLUPkueNoQ4"
+  }
+}

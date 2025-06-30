@@ -1,0 +1,45 @@
+{
+  "response_id": 86,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:35:11.507248",
+  "metadata": {
+    "apa_number": 73,
+    "url": "https://au.int/sites/default/files/newsevents/workingdocuments/37841-wd-teacher_development_summary_en.pdf",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://au.int/sites/default/files/newsevents/workingdocuments/37841-wd-teacher_development_summary_en.pdf\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The document discusses regional frameworks for teacher development across multiple African countries, specifically mentioning the African Union's Continental Education Strategy for Africa (CESA 16-25) and its implications for harmonizing teacher education and qualifications. It addresses cross-border education and mutual recognition of qualifications within the context of regional integration.\",\n  \"Title\": \"Teacher Development in Africa: Status and Perspectives\",\n  \"Authors\": [\n    \"African Union\"\n  ],\n  \"Year\": \"Unknown\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"African Union\",\n    \"DOI_URL\": \"https://au.int/sites/default/files/newsevents/workingdocuments/37841-wd-teacher_development_summary_en.pdf\",\n    \"APA_Reference\": \"African Union. (n.d.). Teacher Development in Africa: Status and Perspectives. African Union.\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Policy Analysis/Review\",\n    \"Geographic_Focus\": \"Africa (Continental)\",\n    \"Educational_Level\": \"Teacher Education\",\n    \"Sample_Size\": \"Not Applicable\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Continental Education Strategy for Africa (CESA 16-25)\",\n    \"Harmonization_Definition\": \"Harmonization of teacher education and qualifications to facilitate mobility and quality assurance across African countries.\",\n    \"Regional_Initiatives\": [\n      \"Continental Education Strategy for Africa (CESA 16-25)\",\n      \"African Union initiatives for teacher development\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Policy development\",\n      \"Curriculum reform\",\n      \"Capacity building\",\n      \"Quality assurance mechanisms\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"African Union\",\n      \"Member States\",\n      \"Teacher training institutions\",\n      \"Regional economic communities (RECs)\"\n    ],\n    \"Data_Sources\": [\n      \"Policy documents\",\n      \"Reports\",\n      \"Literature review\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Need for improved teacher quality and quantity\",\n      \"Importance of harmonizing teacher education standards\",\n      \"Challenges in implementing teacher development policies\",\n      \"Opportunities for regional collaboration\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Inadequate funding\",\n      \"Lack of qualified teacher educators\",\n      \"Weak policy implementation\",\n      \"Disparities in teacher education systems across countries\"\n    ],\n    \"Success_Factors\": [\n      \"Political commitment\",\n      \"Regional collaboration\",\n      \"Effective policy frameworks\",\n      \"Investment in teacher education\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen teacher education programs\",\n      \"Promote regional harmonization of teacher qualifications\",\n      \"Increase investment in teacher development\",\n      \"Enhance policy implementation\"\n    ],\n    \"Future_Research\": [\n      \"Impact of teacher development programs on student learning outcomes\",\n      \"Effectiveness of regional harmonization initiatives\",\n      \"Role of technology in teacher education\"\n    ],\n    \"Specific_Examples\": [\n      \"Examples of successful teacher development programs in specific African countries\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Policy frameworks\",\n      \"Curriculum development\",\n      \"Teacher training programs\",\n      \"Quality assurance systems\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Funding constraints\",\n      \"Capacity gaps\",\n      \"Policy inconsistencies\",\n      \"Lack of coordination\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political will\",\n      \"Regional partnerships\",\n      \"Effective leadership\",\n      \"Resource mobilization\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Improved teacher quality\",\n      \"Enhanced student learning\",\n      \"Increased access to education\",\n      \"Regional integration\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 633,
+      "candidatesTokenCount": 971,
+      "totalTokenCount": 1604,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 633
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 971
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "WZZSaP30HIqThMIPyoil0Qo"
+  }
+}

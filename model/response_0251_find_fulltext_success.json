@@ -1,0 +1,54 @@
+{
+  "response_id": 251,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:52:06.672056",
+  "metadata": {
+    "url": "https://journals.assaf.org.za/index.php/ijtl/article/view/19250",
+    "final_url": "https://journals.assaf.org.za/index.php/ijtl/article/view/19250",
+    "attempt": 2,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Curriculum and practice to develop critical thinking competencies in first-year students\",\n    \"authors\": [\n      \"Heather Ann Goode\",\n      \"Geesje van den Berg\"\n    ],\n    \"doi\": \"10.17159/jg6bts60\",\n    \"journal\": \"The Independent Journal of Teaching and Learning\",\n    \"year\": \"2021\",\n    \"abstract\": \"Critical thinking competencies are not only seen as crucial for success in higher education, but also for future personal and workplace success. These competencies are commonly cited as a graduate attribute or goal of higher education, and resulting research has tended to focus on exploring and measuring the development of critical thinking competencies in students within higher education. However, few researchers have explored the curriculum and practice of academic staff within higher education in relation to their influence on developing critical thinking competencies in students, or how they theorise about the development of these competencies as part of their professional practice. Within the South African context, there is a perception of a decline in the development of critical thinking competencies within the secondary school system. This has informed policy imperatives to improve access and success in South African higher education through additional support for students, as well as through research into the first-year experience. Within a constructivist paradigm, and adopting a qualitative approach, this study takes the first year of higher education as its context in order to explore the curriculum, assessment, pedagogical and andragogical practices of academic staff designed to develop critical thinking competencies in first-year students. The aim is to explore how academic staff construct their theory and practice in order to contribute to the Scholarship of Teaching and Learning in South African Higher Education. Phenomenological case study research methods, which draw on data collection through semi-structured interviews and document analysis, enabled a better understanding of the lived experience of academic staff within private higher education. Academic staff, as research participants, were able to describe deliberate actions taken in their teaching practices to facilitate the development and assessment of critical thinking competencies. The findings revealed that academic staff – while having no coherent, well-articulated construction of critical thinking competencies – feel that such competencies are essential for academic and future life success. This not only affirmed previous research reviewed, but aligned to the inclusion of explicit and implicit references to critical thinking competencies found in the curriculum and assessment documents. Recommendations for professional development responded specifically to these findings.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://journals.assaf.org.za/index.php/ijtl/article/view/19250\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 390,
+              "endIndex": 2892
+            }
+          ]
+        },
+        "avgLogprobs": -8.272181032959971e-05
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2355,
+      "candidatesTokenCount": 634,
+      "totalTokenCount": 2989,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2355
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 634
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "U5pSaIW-AYuZhMIPlvTuyQY"
+  }
+}

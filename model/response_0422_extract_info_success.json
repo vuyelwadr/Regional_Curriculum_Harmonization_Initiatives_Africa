@@ -1,0 +1,45 @@
+{
+  "response_id": 422,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:07:31.628118",
+  "metadata": {
+    "apa_number": 311,
+    "url": "https://tuningjournal.org/article/view/1415/1735",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://tuningjournal.org/article/view/1415/1735\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in Africa, specifically the Tuning Africa project, which involves multiple African countries and regions. It addresses harmonization across institutions and countries, focusing on regional frameworks, credit transfer systems, and regional qualifications frameworks. The paper discusses the development of reference points for academic programmes and the establishment of a credit accumulation and transfer system.\",\n  \"Title\": \"The African Union and the Tuning Africa Project: Towards a Harmonised Higher Education System\",\n  \"Authors\": [\n    \"Peter Okebukola\",\n    \"Aloys Ihuah\",\n    \"Beatrice Njenga\",\n    \"Violet Makuku\",\n    \"Elizabeth Adebayo\"\n  ],\n  \"Year\": \"2020\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Tuning Journal for Higher Education\",\n    \"DOI_URL\": \"https://doi.org/10.18543/tjhe-8(1)-2020pp179-202\",\n    \"APA_Reference\": \"Okebukola, P., Ihuah, A., Njenga, B., Makuku, V., & Adebayo, E. (2020). The African Union and the Tuning Africa Project: Towards a Harmonised Higher Education System. Tuning Journal for Higher Education, 8(1), 179-202. https://doi.org/10.18543/tjhe-8(1)-2020pp179-202\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Document analysis and project evaluation\",\n    \"Geographic_Focus\": \"Multiple African countries (involved in the Tuning Africa project)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable (document analysis)\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Tuning methodology\",\n    \"Harmonization_Definition\": \"Harmonization is defined through the Tuning Africa project's efforts to develop reference points for academic programmes and establish a credit accumulation and transfer system.\",\n    \"Regional_Initiatives\": [\n      \"Tuning Africa project\",\n      \"African Union's Agenda 2063\",\n      \"Harmonization of African Higher Education Quality Assurance and Accreditation (HAQAA) initiative\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Curriculum development based on learning outcomes\",\n      \"Development of reference points for academic programmes\",\n      \"Establishment of a credit accumulation and transfer system\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"African Union\",\n      \"European Union\",\n      \"African universities\",\n      \"Academics\",\n      \"Students\",\n      \"Employers\"\n    ],\n    \"Data_Sources\": [\n      \"Project documents\",\n      \"Reports\",\n      \"Literature review\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"The Tuning Africa project has made significant progress in harmonizing higher education in Africa.\",\n      \"The project has contributed to the development of reference points for academic programmes and the establishment of a credit accumulation and transfer system.\",\n      \"The African Union's Agenda 2063 provides a framework for harmonizing higher education in Africa.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of funding\",\n      \"Resistance to change\",\n      \"Differences in national education systems\"\n    ],\n    \"Success_Factors\": [\n      \"Political will\",\n      \"Collaboration among stakeholders\",\n      \"Strong leadership\"\n    ],\n    \"Recommendations\": [\n      \"Increase funding for the Tuning Africa project.\",\n      \"Promote collaboration among stakeholders.\",\n      \"Strengthen leadership.\"\n    ],\n    \"Future_Research\": [\n      \"Further research is needed to evaluate the impact of the Tuning Africa project on student learning outcomes.\",\n      \"Research is needed to identify best practices for harmonizing higher education in Africa.\"\n    ],\n    \"Specific_Examples\": [\n      \"Development of reference points for agriculture, engineering, and medicine.\",\n      \"Establishment of a credit accumulation and transfer system.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Curriculum harmonization\",\n      \"Credit transfer systems\",\n      \"Quality assurance frameworks\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Funding constraints\",\n      \"Varying national education policies\",\n      \"Resistance to change\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political commitment\",\n      \"Stakeholder collaboration\",\n      \"Effective leadership\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Enhanced student mobility\",\n      \"Improved quality of education\",\n      \"Increased employability of graduates\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 617,
+      "candidatesTokenCount": 1133,
+      "totalTokenCount": 1750,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 617
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1133
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "651SaJzPL_6ShMIPm7P8iAY"
+  }
+}

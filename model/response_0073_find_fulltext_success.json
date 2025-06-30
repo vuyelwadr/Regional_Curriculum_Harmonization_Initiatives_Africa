@@ -1,0 +1,73 @@
+{
+  "response_id": 73,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:34:03.743201",
+  "metadata": {
+    "url": "https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-023-04259-4",
+    "final_url": "https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-023-04259-4",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"A systematic review of intellectual and developmental disability curriculum in international pre-graduate health professional education\",\n    \"authors\": [],\n    \"doi\": \"10.1186/s12909-023-04259-4\",\n    \"journal\": \"BMC Medical Education\",\n    \"year\": \"2023\",\n    \"abstract\": \"Despite the increasing global population of individuals with intellectual and developmental disabilities (IDD), this population remains especially vulnerable to health disparities through several factors such as a lack of access to sufficient medical care and poor determinants of health. To add, numerous studies have shown that healthcare professionals are still insufficiently prepared to support this population of patients. This review synthesizes the literature on current pre-graduate IDD training programs across healthcare professions with the goal of informing the creation of evidence-based curricula. Four major databases were searched for current pre-graduate IDD training interventions for healthcare professionals. The Preferred Reporting Items for Systematic Reviews and Meta-Analysis flow diagram and the Best Evidence Medical Educations systematic review guide were used to frame our collection and analysis. Of the 8601 studies screened, 32 studies were identified, with most studies involving medical students (50%). Of note, 35% of studies were interprofessional. Most interventions utilized multiple pedagogical methods with a majority including clinical experiences (63%) followed by theoretical teaching (59%). Kirkpatrick levels showed 9% were level 0, 6% were level 1, 31% were level 2A, 31% were level 2B, 19% were level 3, 3% were level 4A, and none were level 4B. There is a paucity of formally evaluated studies in pre-graduate health professional IDD education. As well, there are a lack of longitudinal learning opportunities and integration into formal curriculum. Strengths identified were the use of multimodal approaches to teaching, including interprofessional approaches to optimize team competencies.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://bmcmededuc.biomedcentral.com/counter/pdf/10.1186/s12909-023-04259-4\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-023-04259-4\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 96,
+              "endIndex": 229,
+              "uri": "https://0-bmcmededuc-biomedcentral-com.brum.beds.ac.uk/articles?searchType=journalSearch&sort=PubDate&page=28"
+            },
+            {
+              "startIndex": 371,
+              "endIndex": 984
+            },
+            {
+              "startIndex": 984,
+              "endIndex": 1298,
+              "uri": "https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-023-04259-4"
+            },
+            {
+              "startIndex": 1298,
+              "endIndex": 1757
+            },
+            {
+              "startIndex": 1764,
+              "endIndex": 2100,
+              "uri": "https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-023-04259-4"
+            }
+          ]
+        },
+        "avgLogprobs": -9.917923780672389e-05
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2529,
+      "candidatesTokenCount": 652,
+      "totalTokenCount": 3181,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2529
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 652
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "F5ZSaKrPOIqThMIPyoil0Qo"
+  }
+}

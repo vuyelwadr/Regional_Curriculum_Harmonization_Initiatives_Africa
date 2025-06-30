@@ -1,0 +1,54 @@
+{
+  "response_id": 114,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:38:08.415441",
+  "metadata": {
+    "url": "https://curriculumstudies.org/index.php/CS/article/view/273",
+    "final_url": "https://curriculumstudies.org/index.php/CS/article/view/273",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Integrating African Indigenous Education in the Curriculum: A Learning Curve for South Africa\",\n    \"authors\": [\n      \"Stewart Lee Kugara\",\n      \"Tsetselelane Decide Mdhluli\"\n    ],\n    \"doi\": \"10.46303/jcsr.2023.35\",\n    \"journal\": \"Journal of\\u00a0Curriculum Studies\\u00a0Research\",\n    \"year\": \"2023\",\n    \"abstract\": \"Even though Western education is indispensable and became a game changer, its adoption in the mainstream education system (curriculum) has substantially strained the passing of relevant skills, values, and knowledge to most African communities. The adoption of Western education was not tailored to the context, realities, and needs of most indigenous communities. The popular and accepted Western education has been applauded for preparing graduates who mostly look for employment, do not resonate with their realities and environment, and can barely create jobs with the acquired education. Unlike indigenous education, which prepared the young ones to face their immediate future realities and contribute to the development of the community, Western education seems far from equipping Africans to understand themselves and their surroundings. Grounded in the African Renaissance, this paper explores African indigenous education in a bid to draw lessons from it. To achieve this, a conceptual paper is framed from a review of literature on Google scholar, DHET accredited journals, Scopus, and other relevant credited sources. The paper does not seek to undermine the importance and value of Western education in the curriculum but advocates for the adoption of indigenous education to bring positive impact to African societies. Collaborative efforts are recommended for the revival, adoption, and continuation of indigenous education without looking at it as inferior.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://curriculumstudies.org/index.php/CS/article/download/273/95\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 420,
+              "endIndex": 1889
+            }
+          ]
+        },
+        "avgLogprobs": -0.0006427786350250244
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2819,
+      "candidatesTokenCount": 500,
+      "totalTokenCount": 3319,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2819
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 500
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "DZdSaKGEGaiUsbQPmK3KkQI"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "response_id": 191,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:46:04.710361",
+  "metadata": {
+    "apa_number": 113,
+    "url": "https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0001651",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0001651\",\n  \"MATCHES_CRITERIA\": false,\n  \"CRITERIA_MATCH_EXPLANATION\": \"This paper focuses on the impact of COVID-19 on medical education in Africa. While it mentions challenges and adaptations in medical education across the continent, it does not specifically address regional curriculum harmonization initiatives, cross-border education frameworks, or mutual recognition of qualifications. The focus is on the pandemic's impact rather than regional harmonization efforts.\",\n  \"Title\": \"The impact of COVID-19 on medical education in Africa: A systematic review\",\n  \"Authors\": [\n    \"Lesley Workman\",\n    \"Tanya Doherty\",\n    \"Andrew Ross\",\n    \"Hussein Talib\",\n    \"James A. Tumwine\",\n    \"Nazeeia Sayed\",\n    \"Robert Mash\"\n  ],\n  \"Year\": \"2023\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 634,
+      "candidatesTokenCount": 235,
+      "totalTokenCount": 869,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 634
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 235
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "6phSaNO2GIqThMIPyoil0Qo"
+  }
+}

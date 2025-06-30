@@ -1,0 +1,14 @@
+{
+  "response_id": 445,
+  "type": "extract_info_exception",
+  "timestamp": "2025-06-18T13:09:57.117477",
+  "metadata": {
+    "apa_number": 270,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9362365/",
+    "method": "url_analysis"
+  },
+  "content": {
+    "error": "Expecting value: line 781 column 23 (char 18381)",
+    "traceback": "Traceback (most recent call last):\n  File \"/Users/ruwodda/Documents/Personal/tmp/gr2a/paper5/researchCombined/unified_paper_processor.py\", line 1040, in analyze_paper_with_fulltext_and_fallback\n    analysis = json.loads(response_text.strip())\n  File \"/opt/homebrew/Cellar/python@3.13/3.13.2/Frameworks/Python.framework/Versions/3.13/lib/python3.13/json/__init__.py\", line 346, in loads\n    return _default_decoder.decode(s)\n           ~~~~~~~~~~~~~~~~~~~~~~~^^^\n  File \"/opt/homebrew/Cellar/python@3.13/3.13.2/Frameworks/Python.framework/Versions/3.13/lib/python3.13/json/decoder.py\", line 345, in decode\n    obj, end = self.raw_decode(s, idx=_w(s, 0).end())\n               ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/homebrew/Cellar/python@3.13/3.13.2/Frameworks/Python.framework/Versions/3.13/lib/python3.13/json/decoder.py\", line 363, in raw_decode\n    raise JSONDecodeError(\"Expecting value\", s, err.value) from None\njson.decoder.JSONDecodeError: Expecting value: line 781 column 23 (char 18381)\n"
+  }
+}

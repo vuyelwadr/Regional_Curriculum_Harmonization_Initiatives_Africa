@@ -1,0 +1,46 @@
+{
+  "response_id": 200,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:46:22.938945",
+  "metadata": {
+    "url": "https://ijsra.net/node/7038",
+    "final_url": "https://ijsra.net/content/integrating-mental-health-support-secondary-school-curriculum-sub-saharan-africa-challenges",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Integrating mental health support into secondary school curriculum in sub-Saharan Africa: Challenges and Opportunities\",\n    \"authors\": [\n      \"Emmanuel Dumbuya\"\n    ],\n    \"doi\": \"10.30574/ijsra.2024.13.2.2481\",\n    \"journal\": \"International Journal of Science and Research Archive\",\n    \"year\": \"2024\",\n    \"abstract\": \"Mental health issues are increasingly recognized as critical factors affecting adolescents' well-being and academic success. In Sub-Saharan Africa, secondary schools have the potential to play a pivotal role in addressing this challenge. However, efforts to integrate mental health support into school curriculums face several obstacles. This article explores the challenges and opportunities for embedding mental health initiatives into secondary education in the region, offering a framework for sustainable implementation.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://ijsra.net/sites/default/files/IJSRA-2024-2481.pdf\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.0024230418968776922
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2718,
+      "candidatesTokenCount": 331,
+      "totalTokenCount": 3049,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2718
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 331
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "_JhSaMrnLouZhMIPlvTuyQY"
+  }
+}

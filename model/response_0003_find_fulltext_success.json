@@ -1,0 +1,68 @@
+{
+  "response_id": 3,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:27:04.125948",
+  "metadata": {
+    "url": "http://article.sapub.org/10.5923.j.ijaf.20201001.03.html",
+    "final_url": "http://article.sapub.org/10.5923.j.ijaf.20201001.03.html",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Exploring Cocoa Farm Land Use in the West African Region\",\n    \"authors\": [\n      \"E. C. Merem\",\n      \"Y. A. Twumasi\",\n      \"J. Wesley\",\n      \"D. Olagbegi\",\n      \"M. Crisler\",\n      \"C. Romorno\",\n      \"M. Alsarari\",\n      \"P. Isokpehi\",\n      \"A. Hines\",\n      \"G. S. Ochai\",\n      \"E. Nwagboso\",\n      \"S. Fageir\",\n      \"S. Leggett\"\n    ],\n    \"doi\": \"10.5923/j.ijaf.20201001.03\",\n    \"journal\": \"International Journal of Agriculture and Forestry\",\n    \"year\": \"2020\",\n    \"abstract\": \"In the last several decades, many nations of the sub Saharan Africa region of West Africa, have remained in the forefront of cocoa production far higher than other areas of the globe. With that has come larger export earnings due to rising demands and the reliance on cocoa in the manufacture of various products driving consumer demands in markets at local, regional and international levels. In as much as current cocoa production practices are shaped partly by pressures from transactions in the marketplace and regulatory frameworks in the West African region and beyond. The growing activities of cocoa farming has in the past several years, left in its wake negative environmental liabilities that are now over stretching the capacity of natural areas in the zone. While there exists widespread use of agrochemicals to boost production along with the associated impacts of water pollution, in some places. The situation is now so critical that the expansion of cocoa plantations into vast forest landscapes known for their services as emission sinks, are now leading to ecosystem disturbances. Other risks from cocoa land use activities in West Africa involves the exposures to soil erosion, the flow of sediment loads onto local streams and the spreading of cocoa plant diseases which has emerged as a major issue to the detriment of communities and the surrounding ecology. Even at that, very little has been done in the literature to assess the environmental impacts of cocoa land use. Considering the economic relevance of cocoa produce in the West African region and the prevailing fiscal, policy, demographic, ecological and global factors shaping production, together with the negation in mainstream analysis. This paper will fill that void by analyzing cocoa land use in selected countries in the study area. Emphasis are on the issues, trends, factors, impacts and the role of institutions. In terms of methods, the paper uses secondary data analyzed with mix scale tools of GIS and descriptive statistics. Besides the preliminary results showing rising changes in land use indicators and degradation of the ecosystem from cocoa farming operations, the GIS mapping reveals the gradual spreading of risks along the cocoa producing areas of the West African region due to several socio-economic and environmental factors located within the larger farming structure. To mitigate the problems, the study proffered solutions ranging from education, ecosystem monitoring, conservation initiatives, the strengthening of policy and the design of a comprehensive regional land use index.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"http://www.sapub.org/global/showpaperpdf.aspx?doi=10.5923/j.ijaf.20201001.03\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 179,
+              "endIndex": 448,
+              "uri": "http://www.sapub.org/rss/1026.xml"
+            },
+            {
+              "startIndex": 206,
+              "endIndex": 481,
+              "uri": "https://m.booksci.cn/literature_d13804.htm"
+            },
+            {
+              "startIndex": 589,
+              "endIndex": 2532
+            },
+            {
+              "startIndex": 2432,
+              "endIndex": 3180
+            }
+          ]
+        },
+        "avgLogprobs": -2.3366115950371107e-06
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2200,
+      "candidatesTokenCount": 807,
+      "totalTokenCount": 3007,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2200
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 807
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "c5RSaMzoKaiUsbQPmK3KkQI"
+  }
+}

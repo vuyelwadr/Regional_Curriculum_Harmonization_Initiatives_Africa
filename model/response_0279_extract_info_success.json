@@ -1,0 +1,45 @@
+{
+  "response_id": 279,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:54:17.503783",
+  "metadata": {
+    "apa_number": 170,
+    "url": "https://jcope.uobaghdad.edu.iq/index.php/jcope/article/view/2222",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://jcope.uobaghdad.edu.iq/index.php/jcope/article/view/2222\",\n  \"MATCHES_CRITERIA\": false,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on curriculum development in Iraqi universities, specifically in the context of the Bologna Process. It does not address regional curriculum harmonization initiatives involving multiple African countries or regions. The focus is on national-level reforms within Iraq, not cross-border or regional harmonization efforts.\",\n  \"Title\": \"Curriculum Development According to Bologna Process Standards: An Analytical Study of the Opinions of Faculty Members of the University of Baghdad\",\n  \"Authors\": [\n    \"Hala Bahjat Abdul Wahab\",\n    \"Suhair Abdul Karim Al-Qaisi\"\n  ],\n  \"Year\": \"2022\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 626,
+      "candidatesTokenCount": 192,
+      "totalTokenCount": 818,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 626
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 192
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "15pSaNPGJ7qFsbQPqNrRqAQ"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "response_id": 91,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:36:03.145178",
+  "metadata": {
+    "url": "https://curriculumstudies.org/index.php/CS/article/view/139",
+    "final_url": "https://curriculumstudies.org/index.php/CS/article/view/139",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"The Role of Culture in Shaping the Curriculum of Higher Education in South Africa\",\n    \"authors\": [\n      \"Tsekelo Patrick Moremoholo\"\n    ],\n    \"doi\": \"10.46303/jcsr.2023.17\",\n    \"journal\": \"Journal of\\u00a0Curriculum Studies\\u00a0Research\",\n    \"year\": \"2023\",\n    \"abstract\": \"Over the past two decades, the South African higher education (HE) sector has highlighted the usefulness of a locally relevant curriculum that incorporates culture. There is also some research calling for the integration of culture and an emphasis on the Africanized curriculum. However, these related concepts (culture and Africanization) have yet to be sufficiently applied in the HE curriculum as part of the HE transformation drive. The present paper aims to present a review of the literature regarding the role of culture on curriculum transformation and the Africanization of academic material in the context of the HE sector in South Africa. The primary research method for this study is the review of the selected research findings containing issues related to culture and its role in curriculum transformation. The findings of this review reveal that the concepts of culture, and more specifically the Africanization of the localized curriculum (in the HE sector), are not yet adequately understood, even though progress has been made over the last two decades. The inheritance of colonial Eurocentric views is believed to be hindering this progress. Higher education can in this regard play a significant role in achieving the goal of a locally relevant curriculum.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://curriculumstudies.org/index.php/CS/article/download/139/77\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 378,
+              "endIndex": 1650
+            }
+          ]
+        },
+        "avgLogprobs": -0.00017815662754906548
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2838,
+      "candidatesTokenCount": 468,
+      "totalTokenCount": 3306,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2838
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 468
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "kJZSaPPBCrPQhMIP372DoQ0"
+  }
+}

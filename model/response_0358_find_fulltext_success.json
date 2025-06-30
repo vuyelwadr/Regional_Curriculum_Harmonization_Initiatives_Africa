@@ -1,0 +1,64 @@
+{
+  "response_id": 358,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:02:06.590166",
+  "metadata": {
+    "url": "https://link.springer.com/10.1007/s42330-022-00200-x",
+    "final_url": "https://link.springer.com/article/10.1007/s42330-022-00200-x",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Frameworks Supporting Socially Responsible Science Education: Opportunities, Challenges, and Implementation\",\n    \"authors\": [\n      \"Fuchs, Travis T.\",\n      \"Tan, Yuen Sze Michelle\"\n    ],\n    \"doi\": \"10.1007/s42330-022-00200-x\",\n    \"journal\": \"Canadian Journal of Science, Mathematics and Technology Education\",\n    \"year\": \"2022\",\n    \"abstract\": \"The world currently faces many globally connected and locally specific challenges that stimulate new ideas and expectations for science education. One response to these challenges has been development of visions for school science that seek to foster social responsibility in learners, encouraging them to take a critical stance towards products of science and technology while also empowering them to reduce potential harm these products have on individuals, societies, and environments. Recently, varying degrees of socially responsible science education have made their way into national and provincial curriculum documents; however, limited guidance on how to implement, critique, and adapt such visions to various contexts can stifle reform. In this article, we examined four frameworks which can support socially responsible science education, reviewed opportunities and challenges teachers feel are associated with their implementation, and used the review to provide recommendations for future interventions. We found teachers typically agree the frameworks benefit student learning by providing a context for students to use and learn science. They perceive system-level factors such as an aligned curriculum to be critical, where curricular content, competencies, and assessment requirements should reflect the aims and overall methods of the frameworks. Regardless of curricular alignment, concerns raised by teachers point to intervention strategies. They should include a focus on teachers\\u00e2\\u20ac\\u2122 context and practice, being sustained over a period that allows for deep exploration, while in collaboration with other educators or knowledgeable others. Directions for future research and policy are discussed.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://link.springer.com/content/pdf/10.1007/s42330-022-00200-x.pdf\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://link.springer.com/article/10.1007/s42330-022-00200-x\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 425,
+              "endIndex": 560,
+              "uri": "https://www.researchgate.net/publication/360078651_Frameworks_Supporting_Socially_Responsible_Science_Education_Opportunities_Challenges_and_Implementation"
+            },
+            {
+              "startIndex": 449,
+              "endIndex": 1950
+            },
+            {
+              "startIndex": 1970,
+              "endIndex": 2177,
+              "uri": "https://www.researchgate.net/publication/360078651_Frameworks_Supporting_Socially_Responsible_Science_Education_Opportunities_Challenges_and_Implementation"
+            }
+          ]
+        },
+        "avgLogprobs": -0.0016962196050065287
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2636,
+      "candidatesTokenCount": 623,
+      "totalTokenCount": 3259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2636
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 623
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "q5xSaPneCeiChMIP-ufFUQ"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "response_id": 433,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:08:31.018736",
+  "metadata": {
+    "apa_number": 289,
+    "url": "https://riojournal.com/article/138833/",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://riojournal.com/article/138833/\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in Africa, specifically the East African Community (EAC). It addresses harmonization across institutions and countries within the EAC region, discussing regional frameworks, cross-border education, mutual recognition, and credit transfer systems. The paper explicitly mentions the EAC Protocol on Education and Training and its implications for harmonizing higher education curricula.\",\n  \"Title\": \"Harmonisation of higher education curricula in East Africa: progress, challenges and prospects\",\n  \"Authors\": [\n    \"Aloys Ayako\",\n    \"Elijah Oyoo-Yimbo\",\n    \"Callen Nyamwange\",\n    \"Beatrice Were\",\n    \"Irene Cheptoo\"\n  ],\n  \"Year\": \"2024\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Research Ideas and Outcomes\",\n    \"DOI_URL\": \"https://doi.org/10.3897/rio.11.e138833\",\n    \"APA_Reference\": \"Ayako, A., Oyoo-Yimbo, E., Nyamwange, C., Were, B., & Cheptoo, I. (2024). Harmonisation of higher education curricula in East Africa: progress, challenges and prospects. Research Ideas and Outcomes, 11, e138833. https://doi.org/10.3897/rio.11.e138833\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature review and analysis of policy documents\",\n    \"Geographic_Focus\": \"East African Community (EAC)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated\",\n    \"Harmonization_Definition\": \"Harmonization is defined as the process of creating a common understanding and framework for higher education curricula across the EAC region, facilitating mobility and mutual recognition of qualifications.\",\n    \"Regional_Initiatives\": [\n      \"EAC Protocol on Education and Training\",\n      \"EAC Common Higher Education Area\",\n      \"East African Qualifications Framework for Higher Education (EAQFHE)\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Policy development\",\n      \"Curriculum review and alignment\",\n      \"Development of quality assurance mechanisms\",\n      \"Establishment of credit transfer systems\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments of EAC member states\",\n      \"Higher education institutions\",\n      \"Regional bodies (e.g., Inter-University Council for East Africa - IUCEA)\",\n      \"Quality assurance agencies\",\n      \"Students\"\n    ],\n    \"Data_Sources\": [\n      \"EAC Protocol on Education and Training\",\n      \"Policy documents\",\n      \"Academic literature\",\n      \"Reports from IUCEA and other regional bodies\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Progress has been made in developing regional frameworks for curriculum harmonization in the EAC.\",\n      \"Challenges remain in implementation due to varying national priorities and institutional capacities.\",\n      \"Mutual recognition of qualifications and credit transfer systems are crucial for enhancing student mobility.\",\n      \"Quality assurance mechanisms need to be strengthened to ensure comparability of educational standards.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Varying national priorities and regulations\",\n      \"Differences in institutional capacities and resources\",\n      \"Lack of awareness and understanding of regional frameworks\",\n      \"Resistance to change from some stakeholders\",\n      \"Inadequate funding\"\n    ],\n    \"Success_Factors\": [\n      \"Political will and commitment from EAC member states\",\n      \"Strong leadership from regional bodies like IUCEA\",\n      \"Collaboration and partnerships among higher education institutions\",\n      \"Stakeholder engagement and consultation\",\n      \"Development of clear and transparent quality assurance mechanisms\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen political commitment and resource allocation for curriculum harmonization.\",\n      \"Enhance capacity building for higher education institutions.\",\n      \"Promote awareness and understanding of regional frameworks.\",\n      \"Foster collaboration and partnerships among stakeholders.\",\n      \"Develop robust quality assurance mechanisms.\"\n    ],\n    \"Future_Research\": [\n      \"Further research is needed to assess the impact of curriculum harmonization on student mobility and graduate employability.\",\n      \"Studies are needed to evaluate the effectiveness of different implementation approaches.\",\n      \"Research should explore the role of technology in facilitating curriculum harmonization.\"\n    ],\n    \"Specific_Examples\": [\n      \"The development of the East African Qualifications Framework for Higher Education (EAQFHE) is a key example of regional harmonization efforts.\",\n      \"The establishment of credit transfer systems is facilitating student mobility within the EAC region.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Policy frameworks\",\n      \"Curriculum alignment\",\n      \"Quality assurance\",\n      \"Credit transfer systems\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"National priorities\",\n      \"Institutional capacity\",\n      \"Lack of awareness\",\n      \"Resistance to change\",\n      \"Funding constraints\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political will\",\n      \"Regional leadership\",\n      \"Collaboration\",\n      \"Stakeholder engagement\",\n      \"Quality assurance\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Student mobility\",\n      \"Mutual recognition of qualifications\",\n      \"Graduate employability\",\n      \"Regional integration\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 613,
+      "candidatesTokenCount": 1289,
+      "totalTokenCount": 1902,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 613
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1289
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "J55SaOmYDYuZhMIPlvTuyQY"
+  }
+}

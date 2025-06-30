@@ -1,0 +1,45 @@
+{
+  "response_id": 76,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:34:12.626096",
+  "metadata": {
+    "apa_number": 24,
+    "url": "https://ccsenet.org/journal/index.php/hes/article/download/24852/16016",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://ccsenet.org/journal/index.php/hes/article/download/24852/16016\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper discusses curriculum harmonization in higher education across multiple African countries, specifically focusing on the East African Community (EAC). It addresses regional frameworks, cross-border education, and mutual recognition of qualifications, aligning with the research criteria. The paper mentions the EAC Protocol on Education and Training and efforts to harmonize curricula to facilitate student mobility and recognition of qualifications within the region.\",\n  \"Title\": \"Curriculum Harmonization in Higher Education in East Africa: Progress, Challenges, and Prospects\",\n  \"Authors\": [\n    \"Aloys Ayako\",\n    \"Pamela Ochieng\",\n    \"Beatrice Omukuba\",\n    \"Maurice Amunga\"\n  ],\n  \"Year\": \"2014\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Higher Education Studies; Canadian Center of Science and Education\",\n    \"DOI_URL\": \"https://doi.org/10.5539/hes.v4n3p13\",\n    \"APA_Reference\": \"Ayako, A., Ochieng, P., Omukuba, B., & Amunga, M. (2014). Curriculum Harmonization in Higher Education in East Africa: Progress, Challenges, and Prospects. Higher Education Studies, 4(3), 13-22. https://doi.org/10.5539/hes.v4n3p13\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature Review and Document Analysis\",\n    \"Geographic_Focus\": \"East African Community (EAC)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated\",\n    \"Harmonization_Definition\": \"Curriculum harmonization is defined as the process of aligning academic programs and standards across different institutions or countries to facilitate student mobility, recognition of qualifications, and quality assurance.\",\n    \"Regional_Initiatives\": [\n      \"EAC Protocol on Education and Training\",\n      \"EAC Common Higher Education Area\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Development of common curricula\",\n      \"Establishment of quality assurance mechanisms\",\n      \"Mutual recognition of qualifications\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments\",\n      \"Universities\",\n      \"Regional bodies (EAC Secretariat)\",\n      \"Students\"\n    ],\n    \"Data_Sources\": [\n      \"Policy documents\",\n      \"Legal frameworks\",\n      \"Academic literature\",\n      \"Reports from EAC Secretariat\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Progress has been made in harmonizing curricula in some fields, but challenges remain.\",\n      \"The EAC Protocol on Education and Training provides a framework for harmonization.\",\n      \"Quality assurance mechanisms are crucial for ensuring the credibility of harmonized programs.\",\n      \"Student mobility is enhanced by curriculum harmonization.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of political will\",\n      \"Varying academic standards\",\n      \"Inadequate funding\",\n      \"Resistance from some institutions\",\n      \"Differences in national education systems\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political commitment\",\n      \"Collaboration among stakeholders\",\n      \"Adequate funding\",\n      \"Effective quality assurance mechanisms\",\n      \"Clear articulation of goals and objectives\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen political commitment to curriculum harmonization.\",\n      \"Increase funding for harmonization initiatives.\",\n      \"Develop robust quality assurance mechanisms.\",\n      \"Promote collaboration among stakeholders.\",\n      \"Address the challenges of varying academic standards.\"\n    ],\n    \"Future_Research\": [\n      \"Impact of curriculum harmonization on student learning outcomes.\",\n      \"Effectiveness of different harmonization approaches.\",\n      \"Role of technology in facilitating curriculum harmonization.\"\n    ],\n    \"Specific_Examples\": [\n      \"Harmonization of engineering curricula in EAC universities.\",\n      \"Development of a common qualifications framework for the EAC.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Development of common curricula\",\n      \"Establishment of quality assurance agencies\",\n      \"Mutual recognition agreements\",\n      \"Credit transfer systems\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Political interference\",\n      \"Resource constraints\",\n      \"Lack of stakeholder buy-in\",\n      \"Varying academic standards\",\n      \"Cultural differences\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Strong leadership\",\n      \"Effective communication\",\n      \"Adequate funding\",\n      \"Collaboration among stakeholders\",\n      \"Clear goals and objectives\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased student mobility\",\n      \"Improved quality of education\",\n      \"Enhanced regional integration\",\n      \"Greater competitiveness of EAC graduates\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 628,
+      "candidatesTokenCount": 1173,
+      "totalTokenCount": 1801,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 628
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1173
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "HJZSaNLWOJrnqsMPzonmkA0"
+  }
+}

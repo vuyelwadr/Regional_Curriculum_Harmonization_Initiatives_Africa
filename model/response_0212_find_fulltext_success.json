@@ -1,0 +1,99 @@
+{
+  "response_id": 212,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:48:05.457202",
+  "metadata": {
+    "url": "https://jefjournal.org.za/index.php/jef/article/view/540/1024",
+    "final_url": "https://jefjournal.org.za/index.php/jef/article/view/540/1024",
+    "attempt": 3,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Impacting accounting education using integrated information and communication technologies\",\n    \"authors\": [\n      \"Nazreen Dasoo\",\n      \"Marina Bornman\",\n      \"Raymond J. Rhodes\"\n    ],\n    \"doi\": \"10.4102/jef.v13i1.540\",\n    \"journal\": \"Journal of Economic and Financial Sciences\",\n    \"year\": \"2020\",\n    \"abstract\": \"Orientation: Computers, especially in the form of information and communication technologies (ICT), have changed the procedures through which bookkeeping and accounting are accomplished in business. Modern debates centre on the veracity and methodology of including of ICT in accounting education. This study assessed the impact of one method of integrating ICT in accounting education, as adopted by the University of Johannesburg (UJ) in one diploma offering. This method has been termed ‘subject integrated information and communication technologies’ (SIICT). Research purpose: The purpose of this study was to evaluate the impact that the integration of ICT into certain subjects (SIICT) has had on selected key role players of the diploma in Accounting. This section of the study evaluates this impact on the students by comparing the outcomes of two cohorts of students. Motivation for the study: In 2011, UJ replaced National Diploma offerings in Accounting with a new diploma in Accounting that integrated ICT into two core subjects. This impact study evaluated the integration, which used a theoretical model of integration that was untested in its application. Research approach/design and method: This case study, designed as an impact study, tested the impact of integrating ICT into the core modules of the diploma. Data collection was based on a mixed-method data collection model and included research questionnaires to the students, recorded observations of lecturers, interviews with lecturers and a document investigation. Main findings: The students were positively impacted through (1) completing their studies in a shorter time, (2) the time to obtain employment being shortened, (3) fewer students studying further and (4) experiencing a greater sense of work preparedness and confidence during interviews. Practical/managerial implications: The average time that students spend studying is shorter, freeing university resources and costing the student less money. Different methods of study are applied, and the students are more engaged as the subjects become more ‘real to life’. Contribution/value-add: Employers’ acceptance of the changes and the student comments reflect an earlier engagement with work at their place of employment.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://jefjournal.org.za/index.php/jef/article/view/540/1024\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 432,
+              "endIndex": 982
+            },
+            {
+              "startIndex": 1000,
+              "endIndex": 1287,
+              "uri": "https://jefjournal.org.za/index.php/jef/article/view/540/1056"
+            },
+            {
+              "startIndex": 1178,
+              "endIndex": 1437,
+              "uri": "https://ouci.dntb.gov.ua/en/works/7W08zjz4/"
+            },
+            {
+              "startIndex": 1322,
+              "endIndex": 1587,
+              "uri": "https://jefjournal.org.za/index.php/jef/article/view/540/1056"
+            },
+            {
+              "startIndex": 1473,
+              "endIndex": 1742,
+              "uri": "https://ouci.dntb.gov.ua/en/works/7W08zjz4/"
+            },
+            {
+              "startIndex": 1627,
+              "endIndex": 1958,
+              "uri": "https://jefjournal.org.za/index.php/jef/article/view/540/1056"
+            },
+            {
+              "startIndex": 1975,
+              "endIndex": 2246,
+              "uri": "https://jefjournal.org.za/index.php/jef/article/view/540/1056"
+            },
+            {
+              "startIndex": 2130,
+              "endIndex": 2391,
+              "uri": "https://ouci.dntb.gov.ua/en/works/7W08zjz4/"
+            },
+            {
+              "startIndex": 2406,
+              "endIndex": 2665,
+              "uri": "https://ouci.dntb.gov.ua/en/works/7W08zjz4/"
+            },
+            {
+              "startIndex": 2548,
+              "endIndex": 2689,
+              "uri": "https://jefjournal.org.za/index.php/jef/article/view/540/1056"
+            }
+          ]
+        },
+        "avgLogprobs": -0.0005383086204528808
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2602,
+      "candidatesTokenCount": 650,
+      "totalTokenCount": 3252,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2602
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 650
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "YZlSaJnSM7PQhMIP372DoQ0"
+  }
+}

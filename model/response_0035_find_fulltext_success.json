@@ -1,0 +1,46 @@
+{
+  "response_id": 35,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:30:07.714895",
+  "metadata": {
+    "url": "http://link.springer.com/10.1007/978-981-15-3049-4_8",
+    "final_url": "https://link.springer.com/chapter/10.1007/978-981-15-3049-4_8",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Cohesion Policy for Europe 2020\",\n    \"authors\": [\n      \"Paczoski, Andrzej\",\n      \"Abebe, Solomon T.\",\n      \"Cirella, Giuseppe T.\"\n    ],\n    \"doi\": \"10.1007/978-981-15-3049-4_8\",\n    \"journal\": \"Sustainable Human–Nature Relations\",\n    \"year\": \"2020\",\n    \"abstract\": \"CohesionPolicy policyCohesion policy is one of the more important elements of the European Union’sEuropean Union (EU) (EU) integrated processes. Evaluating this type of mechanism can show the efficiency of European policyPolicy convergence and its elimination...\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://link.springer.com/content/pdf/10.1007/978-981-15-3049-4_8.pdf\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://link.springer.com/chapter/10.1007/978-981-15-3049-4_8\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": true,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -4.887248461063092e-05
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3256,
+      "candidatesTokenCount": 390,
+      "totalTokenCount": 3646,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3256
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 390
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "LZVSaIWKC5brqsMPiOTvsQI"
+  }
+}

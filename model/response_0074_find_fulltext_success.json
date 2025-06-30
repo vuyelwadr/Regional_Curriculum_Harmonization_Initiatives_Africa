@@ -1,0 +1,54 @@
+{
+  "response_id": 74,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:34:08.434767",
+  "metadata": {
+    "url": "https://arxiv.org/abs/2307.01966",
+    "final_url": "https://arxiv.org/abs/2307.01966",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"African Union Convention on Cyber Security and Personal Data Protection: Challenges and Future Directions\",\n    \"authors\": [\n      \"Bouke, MA.\",\n      \"Abdullah, A.\",\n      \"ALshatebi, SH.\",\n      \"Atigh, H. El.\",\n      \"Cengiz, K.\"\n    ],\n    \"doi\": null,\n    \"journal\": null,\n    \"year\": \"2023\",\n    \"abstract\": \"This paper investigates the challenges and opportunities of implementing the African Union Convention on Cyber Security and Personal Data Protection (AUDPC) across Africa. Focusing on legal, regulatory, technical, infrastructural, capacity building, awareness, Harmonization, and cross-border cooperation challenges, the paper identifies key findings that highlight the diverse legal systems and traditions, the lack of comprehensive data protection laws, the need to balance national security and data privacy, the digital divide, cybersecurity threats, implications of emerging technologies on data privacy, limited resources for data protection authorities, and the need for capacity building in data privacy and protection. The paper also emphasizes the importance of Harmonization and cross-border cooperation in aligning data protection frameworks and collaborating with international partners and global organizations. To address these challenges and facilitate the successful implementation of the AUDPC, the paper proposes a set of recommendations, including strengthening legal and regulatory frameworks, enhancing technical and infrastructural capacities, fostering capacity-building and awareness initiatives, promoting Harmonization and cross-border cooperation, and engaging with global data protection trends and developments.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"http://arxiv.org/pdf/2307.01966\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [\n    \"arxiv\"\n  ],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 399,
+              "endIndex": 1742
+            }
+          ]
+        },
+        "avgLogprobs": -0.00021809189533509102
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2622,
+      "candidatesTokenCount": 457,
+      "totalTokenCount": 3079,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2622
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 457
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "HZZSaLr0H4qThMIPyoil0Qo"
+  }
+}

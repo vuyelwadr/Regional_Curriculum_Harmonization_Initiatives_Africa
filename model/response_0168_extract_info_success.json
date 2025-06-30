@@ -1,0 +1,45 @@
+{
+  "response_id": 168,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:43:20.702661",
+  "metadata": {
+    "apa_number": 157,
+    "url": "https://haqaa3.obreal.org/wp-content/uploads/2023/12/Chapter-9-1.pdf",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://haqaa3.obreal.org/wp-content/uploads/2023/12/Chapter-9-1.pdf\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"This paper focuses on regional curriculum harmonization initiatives in Africa, specifically addressing the harmonization of qualifications and quality assurance across borders. It discusses the African Continental Qualifications Framework (ACQF) and its role in facilitating mutual recognition and credit transfer systems across multiple African countries. The paper also mentions the need for harmonization to support cross-border education and mobility.\",\n  \"Title\": \"Towards a Continental Qualifications Framework: Reflections on the African Experience\",\n  \"Authors\": [\n    \"Rouaan Ismail\",\n    \"Nico Cloete\"\n  ],\n  \"Year\": \"2023\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"OBREAL Global Observatory\",\n    \"DOI_URL\": \"https://haqaa3.obreal.org/wp-content/uploads/2023/12/Chapter-9-1.pdf\",\n    \"APA_Reference\": \"Ismail, R., & Cloete, N. (2023). Towards a Continental Qualifications Framework: Reflections on the African Experience. OBREAL Global Observatory.\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Document Analysis/Conceptual Paper\",\n    \"Geographic_Focus\": \"Africa (Continental)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"N/A\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Qualifications Frameworks, Regional Integration\",\n    \"Harmonization_Definition\": \"Harmonization is defined in the context of developing a common understanding and comparability of qualifications across different countries and systems, facilitating mobility and recognition.\",\n    \"Regional_Initiatives\": [\n      \"African Continental Qualifications Framework (ACQF)\",\n      \"Arusha Convention\",\n      \"Addis Convention\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Development of a continental qualifications framework\",\n      \"Capacity building\",\n      \"Policy dialogue\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"African Union\",\n      \"Regional Economic Communities (RECs)\",\n      \"National Qualifications Authorities\",\n      \"Higher Education Institutions\",\n      \"Employers\"\n    ],\n    \"Data_Sources\": [\n      \"Policy documents\",\n      \"Framework documents\",\n      \"Literature review\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"The ACQF has the potential to facilitate mobility and recognition of qualifications across Africa.\",\n      \"Challenges remain in terms of implementation and ensuring buy-in from all stakeholders.\",\n      \"Capacity building and policy dialogue are crucial for successful implementation.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of resources\",\n      \"Varying levels of development across countries\",\n      \"Resistance to change\",\n      \"Complexity of qualifications systems\"\n    ],\n    \"Success_Factors\": [\n      \"Political will\",\n      \"Strong leadership\",\n      \"Collaboration among stakeholders\",\n      \"Capacity building\"\n    ],\n    \"Recommendations\": [\n      \"Invest in capacity building\",\n      \"Promote policy dialogue\",\n      \"Strengthen collaboration among stakeholders\",\n      \"Ensure adequate resources\"\n    ],\n    \"Future_Research\": [\n      \"Further research is needed to assess the impact of the ACQF on mobility and recognition of qualifications.\",\n      \"Research on effective implementation strategies is also needed.\"\n    ],\n    \"Specific_Examples\": [\n      \"The paper mentions the Arusha Convention and Addis Convention as relevant frameworks for recognition of qualifications.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Development of standards\",\n      \"Quality assurance\",\n      \"Credit transfer systems\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Political barriers\",\n      \"Technical barriers\",\n      \"Financial barriers\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Strong political commitment\",\n      \"Effective leadership\",\n      \"Stakeholder engagement\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased mobility\",\n      \"Improved recognition of qualifications\",\n      \"Enhanced quality of education\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 629,
+      "candidatesTokenCount": 991,
+      "totalTokenCount": 1620,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 629
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 991
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "QphSaITVBeiChMIP-ufFUQ"
+  }
+}

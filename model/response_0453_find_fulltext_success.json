@@ -1,0 +1,59 @@
+{
+  "response_id": 453,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:10:20.651887",
+  "metadata": {
+    "url": "https://tuningjournal.org/article/view/1766",
+    "final_url": "https://tuningjournal.org/article/view/1766",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Understanding the governance dynamics of a supranational university: The African pioneering model\",\n    \"authors\": [\n      \"Lazarus Nabaho\",\n      \"Wilberforce Turyasingura\",\n      \"Jessica Norah Aguti\",\n      \"Felix Adiburu Andama\"\n    ],\n    \"doi\": \"10.18543/tjhe-8(1)-2020pp27-52\",\n    \"journal\": \"Tuning Journal for Higher Education\",\n    \"year\": \"2020\",\n    \"abstract\": \"Since the 1990s, university governance has attracted the attention of scholars. However, most of the extant studies focus on the governance of national-level universities and use national regulatory frameworks. Therefore, there is a dearth of studies that hinge on the governance of supranational higher education institutions, such as the Pan African University (PAU), with the aid of regional regulatory frameworks. Consequently, little is known about the governance architecture of supranational universities, which are a post-2010 phenomenon. In view of the above, the article answers the following question: How is the Pan African University governed within a multi-layer environment? Using an interpretive lens, data was collected from the Revised Statute of the Pan African University, 2016. Content analysis was used to analyse the resultant data. The findings revealed that observance of the values of higher education, adoption of the steering-at-a-distance university governance model by the African Union Commission and of the shared governance arrangement, and merit-based selection of staff are the hallmarks of the PAU governance architecture. The governance model of the PAU resonates with the governance architecture of country-level universities in form rather than in substance. The notable variations in the substance include the partial adoption of the philosophy of ‘letting the managers manage’, the existence of multi-governance layers, lay domination of the University Senate, the presence of ‘universities’ in PAU governance arrangement, the existence of a ‘quasi-governance’ organ with external representation at the level of the Institute, and the continental outlook of the PAU Council. Therefore, it can be concluded that the missions of the universities and their context shape universities’ governance architecture.\\nReceived: 04 May 2020Accepted: 29 July 2020\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://tuningjournal.org/article/download/1766/2360\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://tuningjournal.org/article/view/1766/2370\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://tuningjournal.org/article/view/1766\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 448,
+              "endIndex": 586,
+              "uri": "https://tuningjournal.org/article/download/1766/2370?inline=1"
+            },
+            {
+              "startIndex": 472,
+              "endIndex": 2310
+            }
+          ]
+        },
+        "avgLogprobs": -0.0007383254219274052
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2771,
+      "candidatesTokenCount": 732,
+      "totalTokenCount": 3503,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2771
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 732
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "mJ5SaKybILqFsbQPqNrRqAQ"
+  }
+}

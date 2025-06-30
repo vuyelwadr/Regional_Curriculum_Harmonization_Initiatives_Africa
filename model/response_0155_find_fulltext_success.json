@@ -1,0 +1,46 @@
+{
+  "response_id": 155,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:42:11.834748",
+  "metadata": {
+    "url": "https://ejournal.upi.edu/index.php/JIK/article/view/80050",
+    "final_url": "https://ejournal.upi.edu/index.php/JIK/article/view/80050",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Cultural approach to ethical development: A family and school environment education perspective\",\n    \"authors\": [\n      \"Muhydeen Olaitan Abiola\",\n      \"Habibat Bolanle Abdulkareem\"\n    ],\n    \"doi\": \"10.17509/jik.v22i2.80050\",\n    \"journal\": \"Inovasi Kurikulum\",\n    \"year\": \"2025\",\n    \"abstract\": \"Ethical development is deeply rooted in cultural values, family structures, and educational experiences. Understanding how culture, family, and education intersect is essential to fostering a holistic ethical framework that aligns with societal needs. This study compares African and Western contexts to investigate how culturally specific family engagement and educational strategies influence ethical development in children. A systematic review methodology was used in this study to analyze 45 peer-reviewed articles (25 from African contexts and 20 from Western contexts) published between 2021 and 2025. The analysis identified common themes such as communal engagement, respect for elders, promotion of autonomy, and individual responsibility. Findings suggest that African cultures prioritize communal values and respect for elders, fostering empathy and collective responsibility. In contrast, Western cultures emphasize autonomy and self-expression, promoting critical thinking and personal moral judgment. Integrating traditional and universal values supports children’s moral growth, offering a holistic framework for navigating ethical challenges in a diverse world. Educators and policymakers must create ethical education that combines communal and individualistic values to respect cultural diversity and promote universal virtues.   Abstrak   Pengembangan etika berakar kuat pada nilai-nilai budaya, struktur keluarga, dan pengalaman pendidikan. Memahami budaya, keluarga, dan pendidikan saling bersinggungan sangat penting untuk membina kerangka etika yang menyeluruh yang sejalan dengan kebutuhan masyarakat. Studi ini menyelidiki keterlibatan keluarga dan strategi pendidikan yang spesifik secara budaya memengaruhi perkembangan etika pada anak-anak, dengan membandingkan konteks Afrika dan Barat. Metodologi tinjauan sistematis digunakan pada penelitian ini untuk menganalisis 45 artikel yang ditinjau sejawat (25 dari konteks Afrika dan 20 dari konteks Barat) yang diterbitkan antara tahun 2021 dan 2025. Analisis ini mengidentifikasi tema-tema umum seperti keterlibatan komunal, rasa hormat kepada orang yang lebih tua, promosi otonomi, dan tanggung jawab individu. Temuan menunjukkan bahwa budaya Afrika memprioritaskan nilai-nilai komunal dan rasa hormat kepada orang yang lebih tua, menumbuhkan empati dan tanggung jawab kolektif, sementara budaya Barat menekankan otonomi dan ekspresi diri, mempromosikan pemikiran kritis dan penilaian moral pribadi. Mengintegrasikan nilai-nilai tradisional dan universal mendukung pertumbuhan moral anak-anak, menawarkan kerangka kerja yang menyeluruh untuk menavigasi tantangan etika di dunia yang beragam. Para pendidik dan pembuat kebijakan mesti menciptakan pendidikan yang beretika yang memadukan nilai-nilai komunal dan individualistis untuk menghormati keberagaman budaya dan memajukan kebajikan universal.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://ejournal.upi.edu/index.php/JIK/article/download/80050/pdf_en\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.001537408852666953
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2684,
+      "candidatesTokenCount": 797,
+      "totalTokenCount": 3481,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2684
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 797
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "_5dSaMP3B4uZhMIPlvTuyQY"
+  }
+}

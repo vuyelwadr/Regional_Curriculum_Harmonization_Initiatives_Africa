@@ -1,0 +1,54 @@
+{
+  "response_id": 199,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:46:17.670692",
+  "metadata": {
+    "url": "https://eric.ed.gov/?id=EJ1323754",
+    "final_url": "https://eric.ed.gov/?id=EJ1323754",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Harmonisation of Higher Education in Africa: 20 Years after the Bologna Process.\",\n    \"authors\": [\n      \"Adamu, Abebaw Yirga\"\n    ],\n    \"doi\": \"10.18543/tjhe-9(1)-2021pp103-126\",\n    \"journal\": \"Tuning Journal for Higher Education\",\n    \"year\": \"2021\",\n    \"abstract\": \"It has been 20 years since the Bologna Process has been realized, and the present paper examines efforts made to harmonise higher education in Africa. Similar to other continents, the higher education reform in Africa is inspired by the Bologna Process. This is clearly reflected in the African Union strategy for harmonisation of higher education and different reforms and harmonisation initiatives. The reforms in African higher education are directly and indirectly influenced by the European Union which is also the main financer and technical partner in the development and implementation of higher education harmonisation in Africa. There are different factors that affect the institutionalisation and sustainability of harmonisation initiatives in Africa. Some of the major factors include lack of strong and genuine cooperation among African HEIs, lack of nations' political commitment to higher reforms, and lack of contextualisation in adopting reforms and strategies. Although the effort\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"http://dx.doi.org/10.18543/tjhe-9(1)-2021pp103-126\",\n      \"type\": \"doi_url\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": true,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 345,
+              "endIndex": 1364
+            }
+          ]
+        },
+        "avgLogprobs": -0.002192741103261431
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2650,
+      "candidatesTokenCount": 428,
+      "totalTokenCount": 3078,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2650
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 428
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "9phSaL7oHZbrqsMPiOTvsQI"
+  }
+}

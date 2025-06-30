@@ -1,0 +1,67 @@
+{
+  "response_id": 87,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:35:13.301203",
+  "metadata": {
+    "url": "https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-023-04446-3",
+    "final_url": "https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-023-04446-3",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"When theory beats practice: the implementation of competency-based education at healthcare workplaces\",\n    \"authors\": [],\n    \"doi\": \"10.1186/s12909-023-04446-3\",\n    \"journal\": \"BMC Medical Education\",\n    \"year\": \"2023\",\n    \"abstract\": \"Work-integrated learning constitutes a large part of current healthcare education. During the last decades, a competency-based educational (CBE) approach has been introduced to reduce the theory-practice gap and to promote continuous competency development. Different frameworks and models have been developed to support CBE implementation in practice. Although CBE is now well-established, implementation at healthcare workplaces remains complex and controversial. This study aims to explore how students, mentors, and educators from different healthcare disciplines perceive the implementation of CBE at the workplace. The six-step model of Embo et al. (2015) was used as a base: (1) competency selection, (2) formulating learning goals, (3) self-monitoring performance, (4) self-assessing competency development, (5) summative assessment of individual competencies, and (6) summative assessment of global professional competence. Three semi-structured focus group interviews were conducted with (1) five students, (2) five mentors, and (3) five educators. We recruited participants from six different educational programs: audiology, midwifery, nursing (associate degree and bachelor), occupational therapy, or speech therapy. We used thematic analysis combining an inductive and deductive approach. An overview of the predefined competencies was hard to find which complicated CBE implementation and resulted in a lack of consistency between the steps; e.g., the link between the selection of relevant competencies (step 1) and the formulation of learning goals based on these selected competencies (step 2) was absent. Furthermore, the analysis of the data helped identifying seven barriers for CBE implementation: (1) a gap between the educational program and the workplace, (2) a lacking overview of predefined competencies, (3) a major focus on technical competencies at the expense of generic competencies, (4) weak formulation of the learning goals, (5) obstacles related to reflection, (6) low feedback quality, and (7) perceived subjectivity of the assessment approach. The present barriers to CBE implementation lead to a fragmentation of current work-integrated learning. In this way, theory beats practice when it comes to CBE implementation as the theory of CBE is not effectively implemented. However, the identification of these barriers might help to find solutions to optimize CBE implementation. Future research seems critical to optimize CBE so that theory can meet practice and the opportunities of CBE optimize healthcare education.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://bmcmededuc.biomedcentral.com/counter/pdf/10.1186/s12909-023-04446-3\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-023-04446-3\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 337,
+              "endIndex": 1266
+            },
+            {
+              "startIndex": 1270,
+              "endIndex": 1640,
+              "uri": "https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-023-04446-3"
+            },
+            {
+              "startIndex": 1640,
+              "endIndex": 2410
+            },
+            {
+              "startIndex": 2419,
+              "endIndex": 2890
+            }
+          ]
+        },
+        "avgLogprobs": -1.5178778391312714e-05
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2395,
+      "candidatesTokenCount": 796,
+      "totalTokenCount": 3191,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2395
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 796
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "XJZSaJf0POiChMIP-ufFUQ"
+  }
+}

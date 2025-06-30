@@ -1,0 +1,54 @@
+{
+  "response_id": 372,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:03:15.747407",
+  "metadata": {
+    "url": "https://pressto.amu.edu.pl/index.php/ppuam/article/view/37493",
+    "final_url": "https://pressto.amu.edu.pl/index.php/ppuam/article/view/37493",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"African Legal Instruments as Regional Tools of Harmonization of International Environmental Law\",\n    \"authors\": [\n      \"Boubacar Sidi Diallo\"\n    ],\n    \"doi\": \"10.14746/ppuam.2022.14.04\",\n    \"journal\": \"Przegląd Prawniczy Uniwersytetu im. Adam Mickiewicza\",\n    \"year\": \"2022\",\n    \"abstract\": \"Environmental degradation in the world in general, and in Africa in particular, is occurring on a scale of increasing concern. The challenge for public policy is to change the relationship between people and their environment in order to reverse this trend. To this end, in an internal and an international context characterized by, on the one hand, the establishment of democracy and the rule of law and, on the other, by the globalization of environmental law following the Rio Conference (1992) in particular, the rule of law has naturally emerged as the key tool for these transformations. The aim of this article is to identify and analyze the African legal instruments and the actions of transformation in the relationship between the regional legal framework and international environment law, with the goal of the sustainability of natural resources and sustainable living environment as the key environmental issues in a fragile region. Africa is in the processes of decision making and adopting environmental protection methods as it embarks on a normative production process, with the aim of producing a law combining international standards and local norms and practices. The contemporary issues of environmental protection in Africa are analyzed in an interdisciplinary approach.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://pressto.amu.edu.pl/index.php/ppuam/article/download/37493/32279\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 394,
+              "endIndex": 1684
+            }
+          ]
+        },
+        "avgLogprobs": -0.0007749871045601468
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2743,
+      "candidatesTokenCount": 476,
+      "totalTokenCount": 3219,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2743
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 476
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "8ZxSaKPwDZrnqsMPzonmkA0"
+  }
+}

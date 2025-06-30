@@ -1,0 +1,59 @@
+{
+  "response_id": 219,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:48:18.821159",
+  "metadata": {
+    "url": "https://insightsimaging.springeropen.com/articles/10.1007/s13244-012-0170-3",
+    "final_url": "https://insightsimaging.springeropen.com/articles/10.1007/s13244-012-0170-3",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Core curriculum for medical physicists in radiology. Recommendations from an EFOMP/ESR working group\",\n    \"authors\": [],\n    \"doi\": \"10.1007/s13244-012-0170-3\",\n    \"journal\": \"Insights into Imaging\",\n    \"year\": \"2012\",\n    \"abstract\": \"Some years ago it was decided that a European curriculum should be developed for medical physicists professionally engaged in the support of clinical diagnostic imaging departments. With this in mind, EFOMP (European Federation of Organisations for Medical Physics) in association with ESR (European Society of Radiology) nominated an expert working group. This curriculum is now to hand. The curriculum is intended to promote best patient care in radiology departments through the harmonization of education and training of medical physicists to a high standard in diagnostic radiology. It is recommended that a medical physicist working in a radiology department should have an advanced level of professional expertise in X-ray imaging, and additionally, depending on local availability, should acquire knowledge and competencies in overseeing ultrasound imaging, nuclear medicine, and MRI technology. By demonstrating training to a standardized curriculum, medical physicists throughout Europe will enhance their mobility, while maintaining local high standards of medical physics expertise. This document also provides the basis for improved implementation of articles in the European medical exposure directives related to the medical physics expert. The curriculum is divided into three main sections: The first deals with general competencies in the principles of medical physics. The second section describes specific knowledge and skills required for a medical physicist (medical physics expert) to operate clinically in a department of diagnostic radiology. The final section outlines research skills that are also considered to be necessary and appropriate competencies in a career as medical physicist.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://insightsimaging.springeropen.com/counter/pdf/10.1007/s13244-012-0170-3\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://insightsimaging.springeropen.com/articles/10.1007/s13244-012-0170-3\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 335,
+              "endIndex": 1750
+            },
+            {
+              "startIndex": 1752,
+              "endIndex": 2041,
+              "uri": "https://insightsimaging.springeropen.com/articles/10.1007/s13244-012-0170-3"
+            }
+          ]
+        },
+        "avgLogprobs": -0.0008604923545603452
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2419,
+      "candidatesTokenCount": 587,
+      "totalTokenCount": 3006,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2419
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 587
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "b5lSaNSSG6iUsbQPmK3KkQI"
+  }
+}

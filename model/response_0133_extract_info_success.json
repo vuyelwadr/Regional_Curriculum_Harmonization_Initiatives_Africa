@@ -1,0 +1,45 @@
+{
+  "response_id": 133,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:40:07.282828",
+  "metadata": {
+    "apa_number": 108,
+    "url": "https://www.emerald.com/insight/content/doi/10.1108/jice-11-2023-0037/full/html",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://www.emerald.com/insight/content/doi/10.1108/jice-11-2023-0037/full/html\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in East Africa, specifically the EAC. It addresses harmonization across institutions and countries within the EAC framework, discussing cross-border education, mutual recognition, and regional qualifications frameworks. The paper explicitly mentions the EAC Protocol on Education and Training.\",\n  \"Title\": \"Curriculum harmonization in East Africa: a scoping review\",\n  \"Authors\": [\n    \"Beatrice Muganda\",\n    \"Anne Nangulu\",\n    \"Ibrahim Mutai\",\n    \"Moses Oketch\"\n  ],\n  \"Year\": \"2024\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Journal of International and Comparative Education\",\n    \"DOI_URL\": \"https://doi.org/10.1108/jice-11-2023-0037\",\n    \"APA_Reference\": \"Muganda, B., Nangulu, A., Mutai, I., & Oketch, M. (2024). Curriculum harmonization in East Africa: a scoping review. *Journal of International and Comparative Education*, *ahead-of-print* (ahead-of-print). https://doi.org/10.1108/jice-11-2023-0037\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Scoping Review\",\n    \"Geographic_Focus\": \"East Africa (EAC)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable (scoping review)\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated\",\n    \"Harmonization_Definition\": \"Not explicitly defined, but implied as aligning curricula across EAC member states to facilitate mobility and recognition of qualifications.\",\n    \"Regional_Initiatives\": [\n      \"EAC Protocol on Education and Training\",\n      \"EAC Common Higher Education Area\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Policy frameworks\",\n      \"Curriculum development\",\n      \"Quality assurance mechanisms\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments\",\n      \"Universities\",\n      \"Regional bodies (EAC Secretariat)\",\n      \"National higher education commissions\"\n    ],\n    \"Data_Sources\": [\n      \"Academic literature\",\n      \"Policy documents\",\n      \"Reports\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Curriculum harmonization in East Africa is driven by the EAC Protocol on Education and Training.\",\n      \"Harmonization efforts aim to improve the quality and relevance of education and training.\",\n      \"Harmonization seeks to facilitate the mobility of students and workers within the region.\",\n      \"There is a need for greater stakeholder involvement and coordination.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Varying national education systems\",\n      \"Lack of resources\",\n      \"Political will\",\n      \"Differing quality assurance standards\"\n    ],\n    \"Success_Factors\": [\n      \"Political commitment\",\n      \"Regional collaboration\",\n      \"Stakeholder engagement\"\n    ],\n    \"Recommendations\": [\n      \"Strengthening regional coordination mechanisms\",\n      \"Investing in capacity building\",\n      \"Developing common quality assurance frameworks\"\n    ],\n    \"Future_Research\": [\n      \"Impact of curriculum harmonization on student learning outcomes\",\n      \"Effectiveness of different harmonization approaches\",\n      \"Role of technology in facilitating harmonization\"\n    ],\n    \"Specific_Examples\": [\n      \"Harmonization of engineering curricula\",\n      \"Development of regional qualifications frameworks\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Regional policies\",\n      \"Curriculum development guidelines\",\n      \"Quality assurance frameworks\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Lack of resources\",\n      \"Differing national priorities\",\n      \"Resistance to change\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political will\",\n      \"Regional collaboration\",\n      \"Stakeholder engagement\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased student mobility\",\n      \"Improved quality of education\",\n      \"Enhanced regional integration\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 638,
+      "candidatesTokenCount": 1037,
+      "totalTokenCount": 1675,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 638
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1037
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "gJdSaL_iGYuZhMIPlvTuyQY"
+  }
+}

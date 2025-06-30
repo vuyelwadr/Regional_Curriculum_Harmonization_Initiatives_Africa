@@ -1,0 +1,45 @@
+{
+  "response_id": 143,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:41:07.534679",
+  "metadata": {
+    "apa_number": 122,
+    "url": "https://ejournal.staimnglawak.ac.id/index.php/educatio/article/download/1429/500",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://ejournal.staimnglawak.ac.id/index.php/educatio/article/download/1429/500\",\n  \"MATCHES_CRITERIA\": false,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on curriculum development in Islamic Religious Education in Indonesia, specifically within the context of the Merdeka Curriculum. It does not address regional curriculum harmonization initiatives involving multiple African countries or regions. The focus is on a national curriculum reform within a single country (Indonesia), not cross-border or regional harmonization.\",\n  \"Title\": \"Islamic Religious Education Curriculum Development in the Era of the Merdeka Curriculum\",\n  \"Authors\": [\n    \"Muhammad Habibi\",\n    \"Siti Fatimah\",\n    \"Muhammad Irfan\"\n  ],\n  \"Year\": \"2023\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 631,
+      "candidatesTokenCount": 191,
+      "totalTokenCount": 822,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 631
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 191
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "wZdSaP7VJrqFsbQPqNrRqAQ"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "response_id": 287,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:55:16.357870",
+  "metadata": {
+    "url": "https://link.springer.com/10.1007/s44217-024-00204-9",
+    "final_url": "https://link.springer.com/article/10.1007/s44217-024-00204-9",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Entrepreneurship education in East, West and North Africa Higher Education Institutions (HEIs): mapping agripreneurship curriculum and lecturers’ competencies\",\n    \"authors\": [\n      \"Okello, Dickson\",\n      \"Mshenga, Patience\",\n      \"Saidi, Mwanarusi\",\n      \"Juma, Fahad\",\n      \"Maria, Sassi\",\n      \"Egeru, Antony\",\n      \"Gogo, Elisha\"\n    ],\n    \"doi\": \"10.1007/s44217-024-00204-9\",\n    \"journal\": \"Discover Education\",\n    \"year\": \"2024\",\n    \"abstract\": \"This study focused on mapping agripreneurship curriculum and lecturers’ competencies in 8 African Higher Education Institutions (HEIs), participating in the Strengthening Agri-Entrepreneurship and Community Engagement Training in East, West and North Africa (AgriENGAGE) joint Project. A sample of 194 lecturers from East, West, and North Africa participated in the study. The study employed a mixed method approach with concurrent nested research design methodology to collect information. Among the main results found in this study, the key aspects that were implemented in curricula were; business plan development (&#181;&#8201;=&#8201;3.57), business opportunities identification (&#181;&#8201;=&#8201;3.56), and communicating with value chain actors (=&#8201;3.51). Concerning the forms of entrepreneurship taught, most institutions focused on subsistence agripreneurship (&#181;&#8201;=&#8201;3.23) with growth-oriented agripreneurship (&#181;&#8201;=&#8201;2.50) and innovative-oriented agripreneurship (&#181;&#8201;=&#8201;2.50) having the lowest rating. Regarding teaching methods within the provision of entrepreneurship education, most of the institutions were using traditional teaching methodologies with the common ones being formal lectures, field trips, in-class group discussions, and group project-based learning. Most lecturers had low teaching competencies concerning instructional quality and a moderate/average level of entrepreneurial competencies. The study recommends that universities should implement more professional development and pedagogical training over and above the subject competency to improve lecturers’ entrepreneurial competency.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://link.springer.com/content/pdf/10.1007/s44217-024-00204-9.pdf\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://link.springer.com/article/10.1007/s44217-024-00204-9\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 96,
+              "endIndex": 251,
+              "uri": "https://ouci.dntb.gov.ua/en/works/lmpQ01o4/"
+            },
+            {
+              "startIndex": 566,
+              "endIndex": 1174
+            },
+            {
+              "startIndex": 1594,
+              "endIndex": 2230
+            }
+          ]
+        },
+        "avgLogprobs": -1.65168574975038e-05
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2848,
+      "candidatesTokenCount": 747,
+      "totalTokenCount": 3595,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2848
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 747
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "EJtSaPapC7qFsbQPqNrRqAQ"
+  }
+}

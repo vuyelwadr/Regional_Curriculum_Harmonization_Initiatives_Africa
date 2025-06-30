@@ -1,0 +1,45 @@
+{
+  "response_id": 418,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:07:17.807562",
+  "metadata": {
+    "apa_number": 283,
+    "url": "https://pubs.ufs.ac.za/index.php/ijer/article/view/1927",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://pubs.ufs.ac.za/index.php/ijer/article/view/1927\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives within the East African Community (EAC). It addresses harmonization across multiple countries and institutions within the EAC framework, specifically focusing on mutual recognition of qualifications and cross-border education. The paper discusses the EAC Protocol on Education and Training, which aims to harmonize education systems across member states.\",\n  \"Title\": \"Regionalisation of higher education in East Africa: Progress, prospects and challenges\",\n  \"Authors\": [\n    \"Damiano Sunday Bukoba\",\n    \"Nerina Boshoff\"\n  ],\n  \"Year\": \"2022\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"International Journal of Education Reform\",\n    \"DOI_URL\": \"https://doi.org/10.1177/1537524X221126234\",\n    \"APA_Reference\": \"Bukoba, D. S., & Boshoff, N. (2022). Regionalisation of higher education in East Africa: Progress, prospects and challenges. *International Journal of Education Reform*, *32*(1), 3–21. https://doi.org/10.1177/1537524X221126234\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature review and document analysis\",\n    \"Geographic_Focus\": \"East African Community (EAC)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable (literature review)\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Regional integration theory\",\n    \"Harmonization_Definition\": \"Harmonization is defined as the process of aligning education systems, curricula, and qualifications across the EAC member states to facilitate mobility and mutual recognition.\",\n    \"Regional_Initiatives\": [\n      \"EAC Protocol on Education and Training\",\n      \"East African Qualifications Framework for Higher Education (EAQFHE)\",\n      \"Inter-University Council for East Africa (IUCEA)\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Policy development\",\n      \"Curriculum review\",\n      \"Quality assurance mechanisms\",\n      \"Credit transfer systems\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments of EAC member states\",\n      \"Higher education institutions\",\n      \"Inter-University Council for East Africa (IUCEA)\",\n      \"East African Business Council (EABC)\",\n      \"Students\"\n    ],\n    \"Data_Sources\": [\n      \"Policy documents\",\n      \"Legal frameworks\",\n      \"Academic literature\",\n      \"Reports from regional organizations\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Progress has been made in regionalizing higher education in the EAC, particularly in policy development and the establishment of regional frameworks.\",\n      \"Challenges remain in the implementation of these frameworks due to varying national priorities and capacities.\",\n      \"The EAQFHE is a key instrument for promoting mutual recognition of qualifications.\",\n      \"The IUCEA plays a crucial role in coordinating regional initiatives.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Varying national priorities and capacities\",\n      \"Lack of resources\",\n      \"Bureaucratic hurdles\",\n      \"Resistance from some stakeholders\",\n      \"Differences in education systems\"\n    ],\n    \"Success_Factors\": [\n      \"Political will\",\n      \"Strong regional institutions (IUCEA)\",\n      \"Stakeholder engagement\",\n      \"Clear policy frameworks\"\n    ],\n    \"Recommendations\": [\n      \"Strengthening national capacities\",\n      \"Increasing funding for regional initiatives\",\n      \"Enhancing stakeholder engagement\",\n      \"Harmonizing quality assurance mechanisms\"\n    ],\n    \"Future_Research\": [\n      \"Impact of regionalization on student mobility\",\n      \"Effectiveness of the EAQFHE\",\n      \"Role of the private sector in regional higher education\"\n    ],\n    \"Specific_Examples\": [\n      \"Development of the EAQFHE\",\n      \"Establishment of regional centers of excellence\",\n      \"Joint research projects\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Policy frameworks\",\n      \"Regional qualifications frameworks\",\n      \"Credit transfer systems\",\n      \"Quality assurance mechanisms\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Varying national priorities\",\n      \"Lack of resources\",\n      \"Bureaucratic hurdles\",\n      \"Resistance from stakeholders\",\n      \"Differences in education systems\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political will\",\n      \"Strong regional institutions\",\n      \"Stakeholder engagement\",\n      \"Clear policy frameworks\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased student mobility\",\n      \"Enhanced quality of education\",\n      \"Improved regional integration\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 621,
+      "candidatesTokenCount": 1159,
+      "totalTokenCount": 1780,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 621
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1159
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "3p1SaNmNA6iUsbQPmK3KkQI"
+  }
+}

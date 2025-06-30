@@ -1,0 +1,46 @@
+{
+  "response_id": 402,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:06:06.691915",
+  "metadata": {
+    "url": "https://pau-au.africa/news-events/news/african-union-commission-and-cames-sign-mou-to-strengthen",
+    "final_url": "https://pau-au.africa/news-events/news/african-union-commission-and-cames-sign-mou-to-strengthen",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"African Union Commission and CAMES Sign MOU to Strengthen - Pan African University\",\n    \"authors\": [],\n    \"doi\": null,\n    \"journal\": null,\n    \"year\": \"2025\",\n    \"abstract\": \"Addis Ababa, Ethiopia — The African Union Commission (AUC) and the African and Malagasy Council for Higher Education (CAMES) today signed a Memorandum of Understanding (MOU) aimed at advancing education, research, and innovation across the African continent. The signing ceremony took place on Tuesday 11th February 2025 at the AU Headquarters in Addis Ababa, on the eve of the 46th Ordinary Session of the Executive Council scheduled for February 12-13, 2025.\"\n  },\n  \"fulltext_links\": [],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.002349861237684242
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3135,
+      "candidatesTokenCount": 247,
+      "totalTokenCount": 3382,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3135
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 247
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "nJ1SaJ-oNpbrqsMPiOTvsQI"
+  }
+}

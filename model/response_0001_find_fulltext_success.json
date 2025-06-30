@@ -1,0 +1,60 @@
+{
+  "response_id": 1,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:27:03.126418",
+  "metadata": {
+    "url": "http://link.springer.com/10.1007/978-94-024-0871-3_6",
+    "final_url": "https://link.springer.com/chapter/10.1007/978-94-024-0871-3_6",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Curriculum Reform in Transitional Justice Environments: The South African Human Rights Commission, Human Rights Education and the Schooling Sector\",\n    \"authors\": [\n      \"Felisa Tibbitts\",\n      \"André Keet\"\n    ],\n    \"doi\": \"10.1007/978-94-024-0871-3_6\",\n    \"journal\": \"Globalisation, Human Rights Education and Reforms\",\n    \"year\": \"2017\",\n    \"abstract\": \"This chapter explores the role of the South African Human Rights Commission (SAHRC), established in 1995, in promoting human rights education within the schooling system in a transitional context. In the South African post-apartheid environment, the widespread...\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://link.springer.com/content/pdf/10.1007/978-94-024-0871-3_6.pdf\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://link.springer.com/chapter/10.1007/978-94-024-0871-3_6\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": true,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 107,
+              "endIndex": 236,
+              "uri": "https://www.uu.nl/staff/FLTibbitts/Publications"
+            },
+            {
+              "startIndex": 460,
+              "endIndex": 714,
+              "uri": "https://www.researchgate.net/publication/311765828_Curriculum_Reform_in_Transitional_Justice_Environments_The_South_African_Human_Rights_Commission_Human_Rights_Education_and_the_Schooling_Sector"
+            }
+          ]
+        },
+        "avgLogprobs": -0.00029663098386571376
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3135,
+      "candidatesTokenCount": 395,
+      "totalTokenCount": 3530,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3135
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 395
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "dJRSaLeYH_6ShMIPm7P8iAY"
+  }
+}

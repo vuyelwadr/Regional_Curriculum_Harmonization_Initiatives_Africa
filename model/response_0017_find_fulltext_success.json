@@ -1,0 +1,46 @@
+{
+  "response_id": 17,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:28:08.032871",
+  "metadata": {
+    "url": "http://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S1996-20962023000100004&lng=en&nrm=iso&tlng=en",
+    "final_url": "https://scielo.org.za/scielo.php?script=sci_arttext&pid=S1996-20962023000100004&lng=en&nrm=iso&tlng=en",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"The regional regulation of child labour laws through harmonisation within COMESA, the EAC and SADC\",\n    \"authors\": [\n      \"Bernard, Rowena B\"\n    ],\n    \"doi\": \"10.17159/1996-2096/2023/v23n1a3\",\n    \"journal\": \"African Human Rights Law Journal\",\n    \"year\": \"2023\",\n    \"abstract\": null\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"http://www.scielo.org.za/pdf/ahrlj/v23n1/04.pdf\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"http://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S1996-20962023000100004&lng=en&nrm=iso&tlng=en\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.0019472821988702164
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3593,
+      "candidatesTokenCount": 347,
+      "totalTokenCount": 3940,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3593
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 347
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "tZRSaJObLIiugLUP2Pbb4A0"
+  }
+}

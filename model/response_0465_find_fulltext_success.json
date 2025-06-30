@@ -1,0 +1,54 @@
+{
+  "response_id": 465,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:11:21.021397",
+  "metadata": {
+    "url": "https://unisapressjournals.co.za/index.php/IJEDA/article/view/17017",
+    "final_url": "https://unisapressjournals.co.za/index.php/IJEDA/article/view/17017",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Democratising the Music Curriculum: Integrating Ubuntugogy for the Africanisation of South African Higher Education\",\n    \"authors\": [\n      \"Sakhiseni Joseph Yende\"\n    ],\n    \"doi\": \"10.25159/2312-3540/17017\",\n    \"journal\": \"International Journal of Educational Development in Africa\",\n    \"year\": \"2024\",\n    \"abstract\": \"In recent years, there has been an ongoing debate about the need for redress in South African higher education which is largely informed by Western perspectives, and the music curriculum is no exception. Even though there is growing progress, music education continues to be dominated by the Western classical canon. Therefore, the purpose of this article was to provide a comprehensive investigation of how ubuntugogy can be successfully and effectively merged into the South African higher education music curriculum. The researcher used ubuntugogy as a theoretical framework to advocate for the integration of ubuntugogy—a teaching philosophy rooted in African values and communal learning—to democratise and Africanise the music curriculum in South African higher education. This article used a qualitative content analysis grounded in examining existing literature on a similar subject under the guidance of the research questions developed earlier. The findings of this study show that ubuntugogy provides an approach that can Africanise the curriculum and pedagogy by incorporating indigenous musical practices, oral traditions, and cultural values into the teaching and learning process. The results of this article revealed that applying ubuntugogy as a method of teaching and learning can help in preparing music education students to engage with the world from a culturally informed and empowered perspective. This article concludes by affirming that ubuntugogy as a method of teaching and learning provides a transformative framework for Africanising music education in South African higher education.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://unisapressjournals.co.za/index.php/IJEDA/article/download/17017/8032\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 421,
+              "endIndex": 2029
+            }
+          ]
+        },
+        "avgLogprobs": -0.0010716927478093437
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2853,
+      "candidatesTokenCount": 531,
+      "totalTokenCount": 3384,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2853
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 531
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "1p5SaLKWAbqFsbQPqNrRqAQ"
+  }
+}

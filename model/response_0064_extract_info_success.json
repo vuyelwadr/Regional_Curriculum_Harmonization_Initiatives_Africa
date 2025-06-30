@@ -1,0 +1,45 @@
+{
+  "response_id": 64,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:33:08.021939",
+  "metadata": {
+    "apa_number": 30,
+    "url": "https://www.sciedupress.com/journal/index.php/jct/article/download/12521/8066",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://www.sciedupress.com/journal/index.php/jct/article/download/12521/8066\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in East Africa, specifically the EAC. It addresses harmonization across institutions and countries within the EAC framework, discussing mutual recognition and cross-border education. The paper mentions the EAC Protocol on Education and Training, which aims to harmonize education systems in the region.\",\n  \"Title\": \"Harmonization of Higher Education Curricula in East Africa: A Synthesis of Selected Literature\",\n  \"Authors\": [\n    \"Callistus Tengan\",\n    \"Pamela Ochieng'\",\n    \"Beatrice Were Omukowa\"\n  ],\n  \"Year\": \"2022\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Journal of Curriculum and Teaching\",\n    \"DOI_URL\": \"https://doi.org/10.5430/jct.v11n4p1\",\n    \"APA_Reference\": \"Tengan, C., Ochieng', P., & Omukowa, B. W. (2022). Harmonization of Higher Education Curricula in East Africa: A Synthesis of Selected Literature. Journal of Curriculum and Teaching, 11(4), 1-10. https://doi.org/10.5430/jct.v11n4p1\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature Review\",\n    \"Geographic_Focus\": \"East Africa (EAC)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable (literature review)\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly mentioned\",\n    \"Harmonization_Definition\": \"Not explicitly defined, but implied as aligning curricula across EAC member states to facilitate mobility and recognition of qualifications.\",\n    \"Regional_Initiatives\": [\n      \"EAC Protocol on Education and Training\",\n      \"Harmonization of curricula in specific disciplines (e.g., engineering, medicine)\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Development of common curricula\",\n      \"Establishment of quality assurance mechanisms\",\n      \"Mutual recognition of qualifications\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"EAC Secretariat\",\n      \"National governments\",\n      \"Higher education institutions\",\n      \"Quality assurance agencies\"\n    ],\n    \"Data_Sources\": [\n      \"Academic literature\",\n      \"Policy documents\",\n      \"Reports from EAC institutions\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Harmonization efforts are underway in East Africa, but progress is uneven across disciplines and countries.\",\n      \"Challenges include differing national priorities, funding constraints, and capacity gaps.\",\n      \"Harmonization can enhance the quality and relevance of higher education, promote regional integration, and improve graduate employability.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Differing national priorities\",\n      \"Funding constraints\",\n      \"Capacity gaps\",\n      \"Lack of political will\",\n      \"Resistance from some stakeholders\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political commitment\",\n      \"Adequate funding\",\n      \"Effective coordination mechanisms\",\n      \"Involvement of all stakeholders\",\n      \"Clear goals and objectives\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen political commitment to harmonization\",\n      \"Increase funding for harmonization initiatives\",\n      \"Improve coordination among stakeholders\",\n      \"Build capacity in higher education institutions\",\n      \"Develop clear goals and objectives for harmonization\"\n    ],\n    \"Future_Research\": [\n      \"Impact of harmonization on student mobility and graduate employability\",\n      \"Effectiveness of different harmonization approaches\",\n      \"Role of technology in facilitating harmonization\"\n    ],\n    \"Specific_Examples\": [\n      \"Harmonization of engineering curricula in EAC universities\",\n      \"Development of a common medical curriculum in the EAC\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Curriculum development\",\n      \"Quality assurance\",\n      \"Mutual recognition\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Funding\",\n      \"Capacity\",\n      \"Political will\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Commitment\",\n      \"Coordination\",\n      \"Stakeholder involvement\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Quality\",\n      \"Relevance\",\n      \"Mobility\",\n      \"Employability\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 631,
+      "candidatesTokenCount": 1080,
+      "totalTokenCount": 1711,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 631
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1080
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "3ZVSaOC_Cv-ygLUP6JjvyA0"
+  }
+}

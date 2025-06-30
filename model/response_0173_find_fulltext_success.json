@@ -1,0 +1,46 @@
+{
+  "response_id": 173,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:44:07.280312",
+  "metadata": {
+    "url": "https://ijci.net/index.php/IJCI/article/view/1448/735",
+    "final_url": "https://ijci.net/index.php/IJCI/article/view/1448/735",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Continuities and Discontinuities Between Competency-Based Curriculum and Education 5.0 in Zimbabwe: Implications for Curriculum Harmonization\",\n    \"authors\": [],\n    \"doi\": null,\n    \"journal\": \"IJCI\",\n    \"year\": null,\n    \"abstract\": null\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://ijci.net/index.php/IJCI/article/download/1448/735/7434\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://ijci.net/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fijci.net%2Findex.php%2FIJCI%2Farticle%2Fdownload%2F1448%2F735%2F7434\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.0012571404530451848
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 1719,
+      "candidatesTokenCount": 325,
+      "totalTokenCount": 2044,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1719
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 325
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "dZhSaJTRBIuZhMIPlvTuyQY"
+  }
+}

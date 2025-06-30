@@ -1,0 +1,45 @@
+{
+  "response_id": 493,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:14:16.187029",
+  "metadata": {
+    "apa_number": 352,
+    "url": "https://www.degruyterbrill.com:443/document/doi/10.9785/cri-2018-190104/html",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://www.degruyterbrill.com:443/document/doi/10.9785/cri-2018-190104/html\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in Africa, specifically addressing the need for harmonization across institutions and countries within the context of cross-border education. It discusses regional frameworks and mutual recognition of qualifications.\",\n  \"Title\": \"Harmonization of Higher Education in Africa: A Synthesis of Selected Literature\",\n  \"Authors\": [\n    \"Damtew Teferra\"\n  ],\n  \"Year\": \"2018\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Comparative and International Education\",\n    \"DOI_URL\": \"https://doi.org/10.9785/cri-2018-190104\",\n    \"APA_Reference\": \"Teferra, D. (2018). Harmonization of Higher Education in Africa: A Synthesis of Selected Literature. *Comparative and International Education*, *47*(1), 4. https://doi.org/10.9785/cri-2018-190104\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature Review/Synthesis\",\n    \"Geographic_Focus\": \"Africa (multiple countries/regions)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable (literature review)\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated\",\n    \"Harmonization_Definition\": \"Implies standardization and mutual recognition of qualifications and curricula to facilitate mobility and comparability.\",\n    \"Regional_Initiatives\": [\n      \"Harmonization of African Higher Education Quality Assurance and Accreditation (HAQAA)\",\n      \"African Union's Strategy for Harmonization of Higher Education\",\n      \"Tuning Africa\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Development of qualifications frameworks\",\n      \"Credit transfer systems\",\n      \"Quality assurance mechanisms\",\n      \"Mutual recognition agreements\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"African Union\",\n      \"Regional Economic Communities (RECs)\",\n      \"National governments\",\n      \"Higher education institutions\",\n      \"Quality assurance agencies\"\n    ],\n    \"Data_Sources\": [\n      \"Academic literature\",\n      \"Policy documents\",\n      \"Reports from international organizations\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Harmonization is crucial for enhancing the quality and relevance of higher education in Africa.\",\n      \"Regional initiatives are gaining momentum but face challenges.\",\n      \"Mutual recognition of qualifications is essential for promoting mobility.\",\n      \"Quality assurance plays a key role in harmonization efforts.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of political will\",\n      \"Varying national priorities\",\n      \"Inadequate funding\",\n      \"Capacity constraints\",\n      \"Resistance to change\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political commitment\",\n      \"Effective leadership\",\n      \"Collaboration among stakeholders\",\n      \"Adequate resources\",\n      \"Clear goals and objectives\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen regional frameworks for harmonization.\",\n      \"Promote mutual recognition of qualifications.\",\n      \"Invest in quality assurance mechanisms.\",\n      \"Enhance collaboration among stakeholders.\",\n      \"Address capacity constraints.\"\n    ],\n    \"Future_Research\": [\n      \"Impact of harmonization on student mobility and employability.\",\n      \"Effectiveness of different harmonization approaches.\",\n      \"Role of technology in facilitating harmonization.\"\n    ],\n    \"Specific_Examples\": [\n      \"Mention of the HAQAA initiative as a key example of regional harmonization efforts.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Qualifications frameworks\",\n      \"Credit transfer systems\",\n      \"Quality assurance agencies\",\n      \"Mutual recognition agreements\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Political will\",\n      \"National priorities\",\n      \"Funding\",\n      \"Capacity\",\n      \"Resistance to change\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political commitment\",\n      \"Leadership\",\n      \"Collaboration\",\n      \"Resources\",\n      \"Clear goals\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Enhanced quality of higher education\",\n      \"Increased student mobility\",\n      \"Improved employability\",\n      \"Regional integration\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 640,
+      "candidatesTokenCount": 1081,
+      "totalTokenCount": 1721,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 640
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1081
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "gZ9SaK2dJuiChMIP-ufFUQ"
+  }
+}

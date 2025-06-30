@@ -1,0 +1,54 @@
+{
+  "response_id": 277,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:54:14.768160",
+  "metadata": {
+    "url": "https://journals.scholarpublishing.org/index.php/ASSRJ/article/view/17386",
+    "final_url": "https://journals.scholarpublishing.org/index.php/ASSRJ/article/view/17386",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Integrating Somali Higher Education with the EAC Educational System\",\n    \"authors\": [\n      \"Abdisalam M. Issa-Salwe\",\n      \"Abdirahman Abdullahi Baadiyow\",\n      \"Ali Hagi Warsame\",\n      \"Abdullahi Salah Osman\"\n    ],\n    \"doi\": \"10.14738/assrj.118.17386\",\n    \"journal\": \"Advances in Social Sciences Research Journal\",\n    \"year\": \"2024\",\n    \"abstract\": \"This paper explores the feasibility and necessary steps for integrating Somalia's higher education system with the East African Community's (EAC) educational framework following Somalia's full membership in the EAC on March 04, 2024. The East African Community (EAC) strives to maintain consistent higher education standards among its member states, offering a uniform level of education to students across the region. This is achieved by establishing the East African Community Higher Education Area (EACHEA) as a collaborative educational platform for the partner states. The foundation for this integration was laid by the Arusha Convention treaty, passed on December 05, 1981. Subsequent revisions occurred in June 2002 in Cape Town, South Africa, and in June 2003 in Dakar, Senegal. UNESCO, a paramount international organization, has supported these regional agreements to enhance international student and professional mobility. Under the Arusha Convention, quality assurance protocols and certification systems have been implemented, driven by both regional agreements and national policies. Given Somalia's historical and contemporary context, this study addresses critical questions: What steps must Somalia take to align its higher education system with the EAC's? What prerequisites must be met to ensure this alignment? This study also examines three significant global educational advancements that influence common key considerations for integration. These issues must be appropriately aligned so that Somalia can successfully integrate its higher education system with the EAC.\"\n  },\n  \"fulltext_links\": [],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 457,
+              "endIndex": 2049
+            }
+          ]
+        },
+        "avgLogprobs": -0.000427835380598422
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2897,
+      "candidatesTokenCount": 496,
+      "totalTokenCount": 3393,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2897
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 496
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "05pSaMi3OrPQhMIP372DoQ0"
+  }
+}

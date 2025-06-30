@@ -1,0 +1,46 @@
+{
+  "response_id": 32,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:30:02.726287",
+  "metadata": {
+    "url": "https://african.business/2025/02/arts-culture/tackling-africas-foundational-learning-crisis",
+    "final_url": "https://african.business/2025/02/arts-culture/tackling-africas-foundational-learning-crisis",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Tackling Africa’s foundational learning crisis\",\n    \"authors\": [\n      \"David Thomas\"\n    ],\n    \"doi\": null,\n    \"journal\": \"African Business\",\n    \"year\": \"2025\",\n    \"abstract\": \"Basic literacy, numeracy, and transferable skills – foundational learning – are in urgent need of attention in Africa.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://african.business/2025/02/arts-culture/tackling-africas-foundational-learning-crisis\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.0004354673417615684
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2930,
+      "candidatesTokenCount": 231,
+      "totalTokenCount": 3161,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2930
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 231
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "KJVSaLCxNqiUsbQPmK3KkQI"
+  }
+}

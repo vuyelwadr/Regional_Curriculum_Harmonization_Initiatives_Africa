@@ -1,0 +1,46 @@
+{
+  "response_id": 429,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:08:18.822178",
+  "metadata": {
+    "url": "https://trt.global/afrika-english/article/d49b5b748bde",
+    "final_url": "https://trt.global/afrika-english/article/d49b5b748bde",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Africa's curriculum crisis: Preparing students for yesterday, not tomorrow\",\n    \"authors\": [],\n    \"doi\": null,\n    \"journal\": \"TRT Global\",\n    \"year\": \"2025\",\n    \"abstract\": \"Despite significant strides in increasing access to education, Africa's curricula often remain relics of the past, ill-suited to equip students with the skills necessary for today's dynamic world.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://trt.global/afrika-english/article/d49b5b748bde\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.0017974399409051668
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3714,
+      "candidatesTokenCount": 236,
+      "totalTokenCount": 3950,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3714
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 236
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "IZ5SaJHdBOiChMIP-ufFUQ"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "response_id": 94,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:36:08.504823",
+  "metadata": {
+    "url": "https://documents1.worldbank.org/curated/en/507641468002107985/txt/655070WP00PUBL0ion0discussion0paper.txt",
+    "final_url": "https://documents1.worldbank.org/curated/en/507641468002107985/txt/655070WP00PUBL0ion0discussion0paper.txt",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"A Regional Exploration of Pathways Toward Harmonization of Math & Science Curriculum in the East African Community\",\n    \"authors\": [\n      \"Sara E. Farley\",\n      \"Amanda L. Rose\",\n      \"Frederico Cavazzini\",\n      \"Andrew Gerard\",\n      \"Christina Golubski\",\n      \"Andrew Robinson\",\n      \"Serena Wang\"\n    ],\n    \"doi\": null,\n    \"journal\": \"World Bank Publications\",\n    \"year\": \"2011\",\n    \"abstract\": null\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://documents1.worldbank.org/curated/en/507641468002107985/txt/655070WP00PUBL0ion0discussion0paper.txt\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.00029199040080938075
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2069,
+      "candidatesTokenCount": 288,
+      "totalTokenCount": 2357,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2069
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 288
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "lpZSaP7YIbPQhMIP372DoQ0"
+  }
+}

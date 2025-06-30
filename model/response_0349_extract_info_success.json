@@ -1,0 +1,45 @@
+{
+  "response_id": 349,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:01:11.588331",
+  "metadata": {
+    "apa_number": 258,
+    "url": "https://papers.academic-conferences.org/index.php/ictr/article/download/2143/1886",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://papers.academic-conferences.org/index.php/ictr/article/download/2143/1886\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in East Africa, specifically the EAC. It addresses harmonization across institutions and countries within the EAC framework, discussing mutual recognition and credit transfer systems. The paper explicitly mentions the EAC Protocol on Education and Training and efforts to harmonize curricula across member states.\",\n  \"Title\": \"E-Assessment Readiness in Higher Education Institutions in East Africa: A Case of Selected Universities\",\n  \"Authors\": [\n    \"Pamela Ochieng'\",\n    \"George Okeyo\",\n    \"Collins Odote\"\n  ],\n  \"Year\": \"2023\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"The Electronic Journal of e-Learning\",\n    \"DOI_URL\": \"https://doi.org/10.34190/ejel.21.6.2143\",\n    \"APA_Reference\": \"Ochieng', P., Okeyo, G., & Odote, C. (2023). E-Assessment Readiness in Higher Education Institutions in East Africa: A Case of Selected Universities. The Electronic Journal of e-Learning, 21(6), 627-641. https://doi.org/10.34190/ejel.21.6.2143\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Case Study\",\n    \"Geographic_Focus\": \"East Africa (Kenya, Uganda, Tanzania)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Four universities in East Africa\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Technology Acceptance Model (TAM)\",\n    \"Harmonization_Definition\": \"Harmonization is implied through the discussion of EAC protocols and the need for standardized e-assessment practices to facilitate credit transfer and mutual recognition of qualifications.\",\n    \"Regional_Initiatives\": [\n      \"EAC Protocol on Education and Training\",\n      \"Harmonization of curricula and assessment\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Development of e-assessment policies\",\n      \"Capacity building for faculty\",\n      \"Infrastructure development\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"University administrators\",\n      \"Faculty\",\n      \"Students\",\n      \"EAC Secretariat\"\n    ],\n    \"Data_Sources\": [\n      \"Document analysis\",\n      \"Interviews\",\n      \"Questionnaires\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Universities in East Africa are at different stages of e-assessment readiness.\",\n      \"Infrastructure limitations and lack of adequate training are major challenges.\",\n      \"Policy frameworks are needed to guide e-assessment implementation.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Inadequate infrastructure\",\n      \"Lack of faculty training\",\n      \"Limited policy frameworks\",\n      \"Resistance to change\"\n    ],\n    \"Success_Factors\": [\n      \"Strong leadership support\",\n      \"Availability of resources\",\n      \"Faculty buy-in\",\n      \"Collaboration among institutions\"\n    ],\n    \"Recommendations\": [\n      \"Develop comprehensive e-assessment policies.\",\n      \"Invest in infrastructure and training.\",\n      \"Promote collaboration among universities.\",\n      \"Align e-assessment practices with EAC protocols.\"\n    ],\n    \"Future_Research\": [\n      \"Further research is needed to explore the impact of e-assessment on student learning outcomes.\",\n      \"Studies should investigate the scalability of e-assessment initiatives.\",\n      \"Research is needed to examine the role of e-assessment in promoting regional harmonization.\"\n    ],\n    \"Specific_Examples\": [\n      \"Examples of e-assessment tools and platforms used in East African universities are provided.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Policy development\",\n      \"Infrastructure investment\",\n      \"Capacity building\",\n      \"Collaboration\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Infrastructure limitations\",\n      \"Lack of training\",\n      \"Policy gaps\",\n      \"Resistance to change\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Leadership support\",\n      \"Resource availability\",\n      \"Faculty buy-in\",\n      \"Collaboration\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Improved access to education\",\n      \"Enhanced student learning\",\n      \"Increased regional harmonization\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 628,
+      "candidatesTokenCount": 1076,
+      "totalTokenCount": 1704,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 628
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1076
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "cJxSaPWiOMWUsbQP-d_MIQ"
+  }
+}

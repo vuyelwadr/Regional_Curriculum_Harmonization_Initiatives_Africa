@@ -1,0 +1,60 @@
+{
+  "response_id": 410,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:06:25.990505",
+  "metadata": {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11270597/",
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11270597/",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Comparison of Three Regional Medicines Regulatory Harmonisation Initiatives in Africa: Opportunities for Improvement and Alignment\",\n    \"authors\": [\n      \"Tariro Sithole\",\n      \"Nancy Ngum\",\n      \"Mercy Owusu-Asante\",\n      \"Stuart Walker\",\n      \"Sam Salek\"\n    ],\n    \"doi\": \"10.34172/ijhpm.2024.8070\",\n    \"journal\": \"International Journal of Health Policy and Management\",\n    \"year\": \"2024\",\n    \"abstract\": \"Background: The African Medicines Regulatory Harmonisation (AMRH) Initiative was formed in 2009 and subsequently, three regional initiatives (East African Community Medicines Regulatory Harmonisation [MRH], Southern African Development Community ...\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://pmc.ncbi.nlm.nih.gov/articles/PMC11270597/\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://pmc.ncbi.nlm.nih.gov/articles/PMC11270597/pdf/ijhpm-13-8070.pdf\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 107,
+              "endIndex": 264,
+              "uri": "https://m.booksci.cn/literature/140726821.htm"
+            },
+            {
+              "startIndex": 610,
+              "endIndex": 758,
+              "uri": "https://civilica.com/doc/2047508/certificate/print/"
+            }
+          ]
+        },
+        "avgLogprobs": -0.00012858583553073308
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2911,
+      "candidatesTokenCount": 384,
+      "totalTokenCount": 3295,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2911
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 384
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "r51SaOTVIJrnqsMPzonmkA0"
+  }
+}

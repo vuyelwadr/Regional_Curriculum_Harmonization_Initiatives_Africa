@@ -1,0 +1,45 @@
+{
+  "response_id": 79,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:34:19.271910",
+  "metadata": {
+    "apa_number": 60,
+    "url": "https://aplu-prod.s3.amazonaws.com/wp-content/uploads/african-higher-education-opportunities-for-transformative-change-for-sustainable-development.pdf",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://aplu-prod.s3.amazonaws.com/wp-content/uploads/african-higher-education-opportunities-for-transformative-change-for-sustainable-development.pdf\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper discusses regional harmonization initiatives in African higher education, focusing on cross-border education and regional frameworks. It mentions the need for mutual recognition of qualifications and credit transfer systems to facilitate student mobility across African countries. Specifically, it highlights the efforts of the African Union and regional economic communities (RECs) in promoting harmonization.\",\n  \"Title\": \"African Higher Education: Opportunities for Transformative Change for Sustainable Development\",\n  \"Authors\": [\n    \"Dzodzi Tsikata\",\n    \"Paul Tiyambe Zeleza\"\n  ],\n  \"Year\": \"2022\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"African Research Universities Alliance (ARUA) and the International Association of Universities (IAU)\",\n    \"DOI_URL\": \"https://www.aruaplatform.org/wp-content/uploads/2022/11/African-Higher-Education_Opportunities-for-Transformative-Change-for-Sustainable-Development.pdf\",\n    \"APA_Reference\": \"Tsikata, D., & Zeleza, P. T. (2022). African Higher Education: Opportunities for Transformative Change for Sustainable Development. African Research Universities Alliance (ARUA) and the International Association of Universities (IAU).\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature Review and Synthesis\",\n    \"Geographic_Focus\": \"Africa (multiple countries and regions)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Sustainable Development Goals (SDGs), Agenda 2063\",\n    \"Harmonization_Definition\": \"Harmonization is defined in the context of creating comparable standards and facilitating mobility and recognition of qualifications across African higher education systems.\",\n    \"Regional_Initiatives\": [\n      \"African Union's Agenda 2063\",\n      \"Harmonization of African Higher Education Quality Assurance and Accreditation (HAQAA) Initiative\",\n      \"Tuning Africa\",\n      \"Pan-African University\",\n      \"Continental Education Strategy for Africa (CESA 16-25)\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Policy frameworks\",\n      \"Quality assurance mechanisms\",\n      \"Curriculum development\",\n      \"Credit transfer systems\",\n      \"Mutual recognition agreements\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"African Union\",\n      \"Regional Economic Communities (RECs)\",\n      \"National governments\",\n      \"Higher education institutions\",\n      \"Quality assurance agencies\",\n      \"Students\",\n      \"Employers\"\n    ],\n    \"Data_Sources\": [\n      \"Policy documents\",\n      \"Reports\",\n      \"Academic literature\",\n      \"Case studies\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Harmonization is crucial for promoting student and staff mobility.\",\n      \"Regional frameworks are essential for ensuring quality and relevance of higher education.\",\n      \"Addressing inequalities and promoting inclusivity are key challenges.\",\n      \"Digital technologies offer opportunities for expanding access and improving quality.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of political will\",\n      \"Inadequate funding\",\n      \"Divergent national policies\",\n      \"Capacity constraints\",\n      \"Language barriers\"\n    ],\n    \"Success_Factors\": [\n      \"Strong leadership\",\n      \"Collaboration among stakeholders\",\n      \"Clear policy frameworks\",\n      \"Adequate resources\",\n      \"Effective quality assurance mechanisms\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen regional cooperation\",\n      \"Invest in higher education\",\n      \"Promote innovation and entrepreneurship\",\n      \"Enhance quality assurance\",\n      \"Address inequalities\"\n    ],\n    \"Future_Research\": [\n      \"Impact of harmonization on student outcomes\",\n      \"Effectiveness of different implementation approaches\",\n      \"Role of digital technologies in promoting harmonization\"\n    ],\n    \"Specific_Examples\": [\n      \"The Pan African University as a model for regional collaboration.\",\n      \"The HAQAA initiative as an effort to harmonize quality assurance standards.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Policy frameworks\",\n      \"Quality assurance agencies\",\n      \"Credit transfer systems\",\n      \"Mutual recognition agreements\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Lack of political will\",\n      \"Inadequate funding\",\n      \"Divergent national policies\",\n      \"Capacity constraints\",\n      \"Language barriers\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Strong leadership\",\n      \"Collaboration among stakeholders\",\n      \"Clear policy frameworks\",\n      \"Adequate resources\",\n      \"Effective quality assurance mechanisms\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased student and staff mobility\",\n      \"Improved quality and relevance of higher education\",\n      \"Enhanced regional integration\",\n      \"Contribution to sustainable development\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 639,
+      "candidatesTokenCount": 1206,
+      "totalTokenCount": 1845,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 639
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1206
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "I5ZSaN-UH7qFsbQPqNrRqAQ"
+  }
+}

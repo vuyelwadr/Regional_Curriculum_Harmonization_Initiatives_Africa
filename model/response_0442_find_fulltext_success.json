@@ -1,0 +1,55 @@
+{
+  "response_id": 442,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:09:24.573855",
+  "metadata": {
+    "url": "https://riseprogramme.org/publications/system-incoherence-quantifying-alignment-primary-education-curriculum-standards",
+    "final_url": "https://riseprogramme.org/publications/system-incoherence-quantifying-alignment-primary-education-curriculum-standards.html",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"System (In)Coherence: Quantifying the Alignment of Primary Education Curriculum Standards, Examinations, and Instruction in Two East African Countries\",\n    \"authors\": [],\n    \"doi\": null,\n    \"journal\": null,\n    \"year\": null,\n    \"abstract\": null\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://riseprogramme.org/publications/system-incoherence-quantifying-alignment-primary-education-curriculum-standards.html\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 96,
+              "endIndex": 240,
+              "uri": "https://www.grafiati.com/en/literature-selections/education-structure-in-uganda/"
+            }
+          ]
+        },
+        "avgLogprobs": -0.0009249238740830194
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3041,
+      "candidatesTokenCount": 210,
+      "totalTokenCount": 3251,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3041
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 210
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "Y55SaL--ArPQhMIP372DoQ0"
+  }
+}

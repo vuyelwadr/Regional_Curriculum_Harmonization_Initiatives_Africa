@@ -1,0 +1,55 @@
+{
+  "response_id": 339,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:00:14.979509",
+  "metadata": {
+    "url": "https://noyam.org/ehass202451323/",
+    "final_url": "https://noyam.org/ehass202451323/",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Subject Advisors’ Understanding of their Curriculum Leadership Roles for Mathematics Improvement in South African Schools\",\n    \"authors\": [\n      \"Thabo France Sithole\",\n      \"Simon Adjei Tachie\",\n      \"Tafirenyika Mafugu\"\n    ],\n    \"doi\": null,\n    \"journal\": \"Noyam Journals\",\n    \"year\": \"2024\",\n    \"abstract\": \"The study aimed to investigate the curriculum leadership role of Mathematics subject advisors in enhancing Mathematics education in South Africa.\"\n  },\n  \"fulltext_links\": [],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"medium\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 416,
+              "endIndex": 555,
+              "uri": "https://ouci.dntb.gov.ua/en/works/962vzvd9/"
+            }
+          ]
+        },
+        "avgLogprobs": -0.0018370565103024853
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3197,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 3393,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3197
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 196
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "PJxSaNyIPMWUsbQP-d_MIQ"
+  }
+}

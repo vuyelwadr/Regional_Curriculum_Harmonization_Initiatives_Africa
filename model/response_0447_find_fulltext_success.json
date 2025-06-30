@@ -1,0 +1,46 @@
+{
+  "response_id": 447,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:10:10.950596",
+  "metadata": {
+    "url": "https://thedecisionlab.com/insights/education/innovating-for-africas-future",
+    "final_url": "https://thedecisionlab.com/insights/education/innovating-for-africas-future",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Rooted Revolutions: Innovating for Africa's Future - The Decision Lab\",\n    \"authors\": [\n      \"Dr. Maraki Kebede\"\n    ],\n    \"doi\": null,\n    \"journal\": \"The Decision Lab\",\n    \"year\": \"2024\",\n    \"abstract\": \"Explore how Africa's investment in homegrown EdTech innovations is transforming education by addressing unique local challenges and needs.\"\n  },\n  \"fulltext_links\": [],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.0005835838615894318
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3853,
+      "candidatesTokenCount": 180,
+      "totalTokenCount": 4033,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3853
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 180
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "kZ5SaOSqMsWUsbQP-d_MIQ"
+  }
+}

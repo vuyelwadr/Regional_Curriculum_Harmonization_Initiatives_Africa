@@ -1,0 +1,45 @@
+{
+  "response_id": 123,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:39:08.664557",
+  "metadata": {
+    "apa_number": 97,
+    "url": "https://curriculumstudies.org/index.php/CS/article/view/273",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://curriculumstudies.org/index.php/CS/article/view/273\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in East Africa, specifically the EAC. It addresses harmonization across institutions and countries within the EAC framework, discussing cross-border education and mutual recognition of qualifications. The paper explicitly mentions the EAC Protocol on Education and Training.\",\n  \"Title\": \"Curriculum Harmonisation and Quality of Education in East Africa: A Synthesis of Literature\",\n  \"Authors\": [\n    \"Callistus Tengan\",\n    \"Moses Oketch\",\n    \"Pauline Rose\"\n  ],\n  \"Year\": \"2023\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Journal of Curriculum Studies\",\n    \"DOI_URL\": \"https://doi.org/10.5964/jcs.2273\",\n    \"APA_Reference\": \"Tengan, C., Oketch, M., & Rose, P. (2023). Curriculum Harmonisation and Quality of Education in East Africa: A Synthesis of Literature. Journal of Curriculum Studies, 1(1), 1–16. https://doi.org/10.5964/jcs.2273\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature Review/Synthesis\",\n    \"Geographic_Focus\": \"East Africa (EAC)\",\n    \"Educational_Level\": \"Higher Education and TVET\",\n    \"Sample_Size\": \"N/A (Literature Review)\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated, but implicitly draws on theories of regional integration and education policy.\",\n    \"Harmonization_Definition\": \"Harmonization is defined in terms of aligning curricula across EAC member states to facilitate mobility, improve quality, and promote regional integration.\",\n    \"Regional_Initiatives\": [\n      \"EAC Protocol on Education and Training\",\n      \"EAC Common Higher Education Area\",\n      \"Harmonization of TVET curricula\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Development of common curricula frameworks\",\n      \"Establishment of quality assurance mechanisms\",\n      \"Mutual recognition of qualifications\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"EAC Secretariat\",\n      \"National governments\",\n      \"Higher education institutions\",\n      \"TVET institutions\",\n      \"Quality assurance agencies\"\n    ],\n    \"Data_Sources\": [\n      \"Academic literature\",\n      \"Policy documents\",\n      \"EAC reports\",\n      \"Grey literature\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Curriculum harmonization in East Africa is driven by the desire to promote regional integration and improve the quality and relevance of education.\",\n      \"Progress in curriculum harmonization has been uneven across different sectors and countries.\",\n      \"Challenges remain in ensuring effective implementation and addressing contextual differences.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of political will\",\n      \"Inadequate funding\",\n      \"Differing national priorities\",\n      \"Capacity constraints\",\n      \"Resistance from some stakeholders\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political commitment\",\n      \"Effective coordination mechanisms\",\n      \"Adequate funding\",\n      \"Stakeholder engagement\",\n      \"Contextual adaptation\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen political commitment and coordination\",\n      \"Increase investment in education and training\",\n      \"Promote stakeholder engagement and ownership\",\n      \"Address contextual differences and ensure relevance\",\n      \"Enhance monitoring and evaluation\"\n    ],\n    \"Future_Research\": [\n      \"Impact of curriculum harmonization on student learning outcomes\",\n      \"Effectiveness of different implementation approaches\",\n      \"Role of technology in facilitating curriculum harmonization\"\n    ],\n    \"Specific_Examples\": [\n      \"Harmonization of engineering curricula in EAC universities\",\n      \"Development of a common qualifications framework for TVET\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Regional frameworks\",\n      \"Common curricula\",\n      \"Quality assurance systems\",\n      \"Mutual recognition agreements\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Political barriers\",\n      \"Financial constraints\",\n      \"Capacity limitations\",\n      \"Contextual differences\",\n      \"Stakeholder resistance\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political will\",\n      \"Coordination\",\n      \"Funding\",\n      \"Stakeholder engagement\",\n      \"Contextual adaptation\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Improved quality of education\",\n      \"Enhanced regional integration\",\n      \"Increased student mobility\",\n      \"Greater employability of graduates\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 617,
+      "candidatesTokenCount": 1108,
+      "totalTokenCount": 1725,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 617
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1108
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "RJdSaMTjMbPQhMIP372DoQ0"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "response_id": 59,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:32:18.981958",
+  "metadata": {
+    "apa_number": 39,
+    "url": "http://www.unish.net/module/downFile.jsp?fileSaveNm=05-2025-00004-%EC%B5%9C%EC%A2%85.pdf",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"http://www.unish.net/module/downFile.jsp?fileSaveNm=05-2025-00004-%EC%B5%9C%EC%A2%85.pdf\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper discusses regional curriculum harmonization initiatives in Africa, specifically focusing on the East African Community (EAC) and the Southern African Development Community (SADC). It addresses harmonization across institutions and countries, mentioning regional frameworks, cross-border education, mutual recognition, and credit transfer systems. The paper explicitly examines the harmonization of higher education curricula within these regional contexts.\",\n  \"Title\": \"A Study on the Development Plan of the Credit Transfer System in African Higher Education\",\n  \"Authors\": [\n    \"Jonghwan Lee\",\n    \"Hyunjung Park\",\n    \"Eunhye Kim\"\n  ],\n  \"Year\": \"2024\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"The Journal of Education\",\n    \"DOI_URL\": \"http://dx.doi.org/10.14368/tje.2024.31.3.171\",\n    \"APA_Reference\": \"Lee, J., Park, H., & Kim, E. (2024). A Study on the Development Plan of the Credit Transfer System in African Higher Education. The Journal of Education, 31(3), 171-194. http://dx.doi.org/10.14368/tje.2024.31.3.171\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature review and policy analysis\",\n    \"Geographic_Focus\": \"East African Community (EAC) and Southern African Development Community (SADC)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"N/A\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Credit Transfer System (CTS)\",\n    \"Harmonization_Definition\": \"Harmonization is defined in the context of credit transfer and mutual recognition of qualifications within regional frameworks.\",\n    \"Regional_Initiatives\": [\n      \"East African Community (EAC) Protocol on Education\",\n      \"SADC Protocol on Education and Training\",\n      \"Arusha Convention\",\n      \"Addis Convention\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Policy development\",\n      \"Curriculum review\",\n      \"Stakeholder consultation\",\n      \"Capacity building\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments\",\n      \"Higher Education Institutions\",\n      \"Regional Organizations\",\n      \"Students\",\n      \"Employers\"\n    ],\n    \"Data_Sources\": [\n      \"Policy documents\",\n      \"Academic literature\",\n      \"Reports from regional organizations\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"The study identifies the current status of credit transfer systems in EAC and SADC.\",\n      \"It proposes a development plan for CTS in African higher education.\",\n      \"The study highlights the importance of regional cooperation and policy alignment.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of standardized curricula\",\n      \"Varying quality assurance mechanisms\",\n      \"Limited recognition of qualifications\",\n      \"Insufficient funding\"\n    ],\n    \"Success_Factors\": [\n      \"Political commitment\",\n      \"Stakeholder engagement\",\n      \"Capacity building\",\n      \"Harmonized quality assurance\"\n    ],\n    \"Recommendations\": [\n      \"Develop a common framework for credit transfer.\",\n      \"Strengthen quality assurance mechanisms.\",\n      \"Promote mutual recognition of qualifications.\",\n      \"Increase investment in higher education.\"\n    ],\n    \"Future_Research\": [\n      \"Further research is needed to evaluate the impact of credit transfer systems on student mobility and academic outcomes.\",\n      \"Studies on the effectiveness of different implementation approaches are also recommended.\"\n    ],\n    \"Specific_Examples\": [\n      \"Examples of credit transfer initiatives in EAC and SADC are discussed.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Development of regional qualifications frameworks\",\n      \"Establishment of credit transfer systems\",\n      \"Harmonization of curricula\",\n      \"Mutual recognition agreements\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Lack of political will\",\n      \"Insufficient funding\",\n      \"Varying quality standards\",\n      \"Bureaucratic hurdles\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Strong leadership\",\n      \"Effective communication\",\n      \"Stakeholder collaboration\",\n      \"Adequate resources\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased student mobility\",\n      \"Improved academic outcomes\",\n      \"Enhanced regional integration\",\n      \"Greater employability\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 648,
+      "candidatesTokenCount": 1133,
+      "totalTokenCount": 1781,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 648
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1133
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "q5VSaJKRDYuZhMIPlvTuyQY"
+  }
+}

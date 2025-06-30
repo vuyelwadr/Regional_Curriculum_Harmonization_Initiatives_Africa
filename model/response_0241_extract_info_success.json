@@ -1,0 +1,45 @@
+{
+  "response_id": 241,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:51:09.340390",
+  "metadata": {
+    "apa_number": 196,
+    "url": "https://journals.glotanjournals.com/index.php/jcse/article/download/202/151",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://journals.glotanjournals.com/index.php/jcse/article/download/202/151\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in East Africa, specifically the EAC. It addresses harmonization across institutions and countries within the EAC framework, discussing cross-border education and mutual recognition of qualifications. The paper mentions the EAC Protocol on Education and Training.\",\n  \"Title\": \"Harmonisation of Higher Education Curricula in East Africa: Progress, Challenges and Prospects\",\n  \"Authors\": [\n    \"Callistus Tengan\",\n    \"Pamela Ochieng\",\n    \"Beatrice Muganda\"\n  ],\n  \"Year\": \"2019\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Journal of Contemporary Studies in Education\",\n    \"DOI_URL\": \"https://journals.glotanjournals.com/index.php/jcse/article/view/202\",\n    \"APA_Reference\": \"Tengan, C., Ochieng, P., & Muganda, B. (2019). Harmonisation of Higher Education Curricula in East Africa: Progress, Challenges and Prospects. Journal of Contemporary Studies in Education, 1(1), 45-62. https://journals.glotanjournals.com/index.php/jcse/article/view/202\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature review and document analysis\",\n    \"Geographic_Focus\": \"East African Community (EAC)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated\",\n    \"Harmonization_Definition\": \"Harmonisation is defined as a process of establishing common standards and benchmarks in higher education curricula across the EAC region to facilitate comparability, transferability, and mutual recognition of qualifications.\",\n    \"Regional_Initiatives\": [\n      \"EAC Protocol on Education and Training\",\n      \"EAC Common Higher Education Area\",\n      \"Harmonization of curricula in priority disciplines (e.g., engineering, medicine)\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Development of common curriculum frameworks\",\n      \"Establishment of quality assurance mechanisms\",\n      \"Development of credit transfer systems\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"EAC Secretariat\",\n      \"National higher education regulatory bodies\",\n      \"Universities\",\n      \"Faculty\",\n      \"Students\"\n    ],\n    \"Data_Sources\": [\n      \"EAC documents\",\n      \"Policy documents\",\n      \"Academic literature\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Progress has been made in harmonizing higher education curricula in the EAC, particularly in priority disciplines.\",\n      \"Challenges remain in terms of implementation, funding, and political will.\",\n      \"Harmonization is essential for promoting regional integration and mobility of students and professionals.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of adequate funding\",\n      \"Varying national priorities and regulations\",\n      \"Resistance from some stakeholders\",\n      \"Inadequate infrastructure and resources\"\n    ],\n    \"Success_Factors\": [\n      \"Political will and commitment from EAC member states\",\n      \"Strong leadership from the EAC Secretariat\",\n      \"Collaboration among universities and regulatory bodies\",\n      \"Involvement of all stakeholders\"\n    ],\n    \"Recommendations\": [\n      \"Increase funding for harmonization initiatives\",\n      \"Strengthen regional quality assurance mechanisms\",\n      \"Promote awareness and understanding of the benefits of harmonization\",\n      \"Address the challenges of implementation\"\n    ],\n    \"Future_Research\": [\n      \"Impact of curriculum harmonization on student learning outcomes\",\n      \"Effectiveness of different harmonization approaches\",\n      \"Role of technology in facilitating harmonization\"\n    ],\n    \"Specific_Examples\": [\n      \"Harmonization of engineering curricula in EAC universities\",\n      \"Development of a regional qualifications framework\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Curriculum frameworks\",\n      \"Quality assurance\",\n      \"Credit transfer systems\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Funding constraints\",\n      \"National priorities\",\n      \"Stakeholder resistance\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political will\",\n      \"EAC leadership\",\n      \"Collaboration\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Regional integration\",\n      \"Student mobility\",\n      \"Mutual recognition of qualifications\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 626,
+      "candidatesTokenCount": 1081,
+      "totalTokenCount": 1707,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 626
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1081
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "FppSaMiEE4uZhMIPlvTuyQY"
+  }
+}

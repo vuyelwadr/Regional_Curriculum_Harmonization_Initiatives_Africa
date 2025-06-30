@@ -1,0 +1,45 @@
+{
+  "response_id": 190,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:45:29.389619",
+  "metadata": {
+    "apa_number": 125,
+    "url": "https://ejournals.bc.edu/index.php/ihe/article/download/8837/7914",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://ejournals.bc.edu/index.php/ihe/article/download/8837/7914\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in Africa, specifically the East African Community (EAC). It addresses harmonization across institutions and countries within the EAC framework, discussing mutual recognition, credit transfer systems, and regional qualifications frameworks. The paper explicitly mentions the EAC Protocol on Education and Training and efforts to harmonize higher education systems across the region.\",\n  \"Title\": \"Harmonization of Higher Education in East Africa: Progress, Challenges and Prospects\",\n  \"Authors\": [\n    \"Aloys Ayako\",\n    \"Damiano Manda\",\n    \"Anne Nangendo\",\n    \"Elias Ntawiha\",\n    \"Aloysius Seziba\"\n  ],\n  \"Year\": \"2021\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"International Higher Education\",\n    \"DOI_URL\": \"https://doi.org/10.6017/ihe.2021.107.13020\",\n    \"APA_Reference\": \"Ayako, A., Manda, D., Nangendo, A., Ntawiha, E., & Seziba, A. (2021). Harmonization of Higher Education in East Africa: Progress, Challenges and Prospects. International Higher Education, (107), 20-22. https://doi.org/10.6017/ihe.2021.107.13020\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature review and analysis of policy documents\",\n    \"Geographic_Focus\": \"East African Community (EAC)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated\",\n    \"Harmonization_Definition\": \"Harmonization is defined as the process of creating a common understanding and framework for higher education systems across the EAC region, including curriculum, quality assurance, and qualifications.\",\n    \"Regional_Initiatives\": [\n      \"EAC Protocol on Education and Training\",\n      \"EAC Common Higher Education Area\",\n      \"East African Qualifications Framework for Higher Education (EAQFHE)\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Policy development\",\n      \"Curriculum review and alignment\",\n      \"Quality assurance mechanisms\",\n      \"Credit transfer systems\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments of EAC member states\",\n      \"Higher education institutions\",\n      \"Regional bodies (e.g., Inter-University Council for East Africa - IUCEA)\",\n      \"Students\",\n      \"Employers\"\n    ],\n    \"Data_Sources\": [\n      \"Policy documents\",\n      \"Legal frameworks\",\n      \"Reports from regional bodies (IUCEA)\",\n      \"Academic literature\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Progress has been made in harmonizing higher education in the EAC, but challenges remain.\",\n      \"The EAC Protocol on Education and Training provides a framework for harmonization.\",\n      \"The EAQFHE is a key instrument for promoting mutual recognition of qualifications.\",\n      \"Credit transfer systems are being developed to facilitate student mobility.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Varying levels of commitment from member states\",\n      \"Differences in national education systems\",\n      \"Lack of resources\",\n      \"Bureaucratic hurdles\",\n      \"Resistance to change from some institutions\"\n    ],\n    \"Success_Factors\": [\n      \"Political will\",\n      \"Regional cooperation\",\n      \"Strong leadership from regional bodies (IUCEA)\",\n      \"Stakeholder engagement\",\n      \"Development of common frameworks and standards\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen political commitment from member states\",\n      \"Increase investment in higher education\",\n      \"Enhance regional cooperation\",\n      \"Promote stakeholder engagement\",\n      \"Address bureaucratic hurdles\",\n      \"Develop robust quality assurance mechanisms\"\n    ],\n    \"Future_Research\": [\n      \"Impact of harmonization on student mobility and graduate employability\",\n      \"Effectiveness of the EAQFHE\",\n      \"Role of technology in promoting harmonization\"\n    ],\n    \"Specific_Examples\": [\n      \"Development of common curricula in specific disciplines\",\n      \"Establishment of regional centers of excellence\",\n      \"Implementation of credit transfer systems\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Policy frameworks\",\n      \"Regional agreements\",\n      \"Quality assurance systems\",\n      \"Credit transfer systems\",\n      \"Qualifications frameworks\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Political differences\",\n      \"Resource constraints\",\n      \"Systemic differences\",\n      \"Bureaucracy\",\n      \"Resistance to change\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political will\",\n      \"Regional cooperation\",\n      \"Strong leadership\",\n      \"Stakeholder engagement\",\n      \"Common standards\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased student mobility\",\n      \"Improved quality of education\",\n      \"Enhanced graduate employability\",\n      \"Regional integration\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 625,
+      "candidatesTokenCount": 1239,
+      "totalTokenCount": 1864,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 625
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1239
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "wZhSaLXKEZrnqsMPzonmkA0"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "response_id": 254,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:52:10.539466",
+  "metadata": {
+    "url": "https://jisrmsse.szabist.edu.pk/index.php/szabist/article/view/621",
+    "final_url": "https://jisrmsse.szabist.edu.pk/index.php/szabist/article/view/621",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"An Evaluation of the National Student Funding Aid Scheme (NSFAS) Policy in South African Universities: Implications and Challenges\",\n    \"authors\": [\n      \"Mandisi Matyana\"\n    ],\n    \"doi\": \"10.31384/jisrmsse/2023.21.4.1\",\n    \"journal\": \"JISR management and social sciences & economics\",\n    \"year\": \"2023\",\n    \"abstract\": \"University education is regarded as the cornerstone of one’s development and transformation, and also for the state. The importance of financial support for a student to acquire university education cannot be ignored. In South Africa, the government offers a couple of funding schemes to support students who persuade their university studies. These include NSFAS, Funza Lushaka Bursary, National Research Foundation funds, etc. These funding schemes can fund students at different levels of study within universities, at undergraduate and post-graduate level. However, this study primarily looks at evaluating the NSFAS policy within South African universities with the aim of investigating the implications and challenges encountered. The study adopts secondary data to achieve its objective. Existing literature is consulted, particularly the scholarly published articles, journals, and published reports. Findings of the study prove that even though the NSFAS policy is doing good to support the poor students who need this funding scheme, however, there are some challenges that are constraining its success such as corruption, poor management, etc. The study recommends a couple of strategies to overcome these issues. The study recommends a constant review and monitoring of the NSFAS policy and its implementation, the appointment of competent and dedicated employees from the national government up to the university level, finding innovative ways of fighting money leakages.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://jisrmsse.szabist.edu.pk/index.php/szabist/article/download/621/643\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 96,
+              "endIndex": 222,
+              "uri": "https://journal.uny.ac.id/index.php/reid/article/view/72274"
+            },
+            {
+              "startIndex": 424,
+              "endIndex": 964
+            },
+            {
+              "startIndex": 978,
+              "endIndex": 1649
+            },
+            {
+              "startIndex": 1670,
+              "endIndex": 1901,
+              "uri": "https://www.researchgate.net/publication/379824479_An_Evaluation_of_the_National_Student_Funding_Aid_Scheme_NSFAS_policy_in_South_African_Universities_Implications_and_Challenges"
+            }
+          ]
+        },
+        "avgLogprobs": -0.00020165568275842816
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2751,
+      "candidatesTokenCount": 512,
+      "totalTokenCount": 3263,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2751
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 512
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "V5pSaJWUGbPQhMIP372DoQ0"
+  }
+}

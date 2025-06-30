@@ -1,0 +1,46 @@
+{
+  "response_id": 408,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:06:18.823903",
+  "metadata": {
+    "url": "https://pubs.ufs.ac.za/index.php/ijer/article/view/1927",
+    "final_url": "https://pubs.ufs.ac.za/index.php/ijer/article/view/1927",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"South African society for education (SASE) – 48th annual international conference: Editorial statement\",\n    \"authors\": [\n      \"Mncedisi Christian Maphalala\",\n      \"Bekithemba Dube\"\n    ],\n    \"doi\": \"10.38140/ijer-2025.vol7.s1.0\",\n    \"journal\": \"Interdisciplinary Journal of Education Research\",\n    \"year\": \"2025\",\n    \"abstract\": \"This Special Issue presents scholarly contributions from the 48th Annual SASE Conference, which focused on the integration of new technologies and innovative research to promote sustainable development in Southern Africa. The selected articles examine themes including artificial intelligence, virtual reality, indigenous knowledge systems, and context-driven methodologies. Collectively, these contributions demonstrate a commitment to educational transformation, equity, and the attainment of Sustainable Development Goals through technology-integrated and socially responsive research practices.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://pubs.ufs.ac.za/index.php/ijer/article/download/1927/1207\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://pubs.ufs.ac.za/index.php/ijer/article/view/1927\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.0007205123801042538
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3006,
+      "candidatesTokenCount": 404,
+      "totalTokenCount": 3410,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3006
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 404
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "qJ1SaPvGCeiChMIP-ufFUQ"
+  }
+}

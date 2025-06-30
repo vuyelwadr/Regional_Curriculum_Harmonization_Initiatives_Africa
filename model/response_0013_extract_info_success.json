@@ -1,0 +1,45 @@
+{
+  "response_id": 13,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:28:07.314150",
+  "metadata": {
+    "apa_number": 27,
+    "url": "http://www.moe.go.tz/sites/default/files/DIGITAL%20NATIONAL%20STRATEGY%202025_0.pdf",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"http://www.moe.go.tz/sites/default/files/DIGITAL%20NATIONAL%20STRATEGY%202025_0.pdf\",\n  \"MATCHES_CRITERIA\": false,\n  \"CRITERIA_MATCH_EXPLANATION\": \"This document is Tanzania's Digital National Strategy 2025. It focuses on digital transformation within Tanzania, not regional curriculum harmonization across multiple African countries or regions. There is no mention of regional frameworks, cross-border education, mutual recognition, credit transfer systems, or regional qualifications frameworks.\",\n  \"Title\": \"DIGITAL NATIONAL STRATEGY 2025\",\n  \"Authors\": [],\n  \"Year\": \"2025\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 634,
+      "candidatesTokenCount": 164,
+      "totalTokenCount": 798,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 634
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 164
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "tZRSaL3jK6is1dkPlvP06Q0"
+  }
+}

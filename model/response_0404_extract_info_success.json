@@ -1,0 +1,45 @@
+{
+  "response_id": 404,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:06:13.701583",
+  "metadata": {
+    "apa_number": 287,
+    "url": "https://rgsa.openaccesspublications.org/rgsa/article/view/5748",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://rgsa.openaccesspublications.org/rgsa/article/view/5748\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in the East African Community (EAC). It addresses harmonization across institutions and countries within the EAC, specifically focusing on mutual recognition of qualifications and the development of a regional qualifications framework. The paper mentions cross-border education and credit transfer systems within the EAC.\",\n  \"Title\": \"Harmonization of Higher Education Curricula in East Africa: Progress, Challenges and Prospects\",\n  \"Authors\": [\n    \"Aloys Ayako\",\n    \"Callistus Tengan\",\n    \"Pamela Machyo\",\n    \"Anne Nangendo\",\n    \"Roselyne Okech\"\n  ],\n  \"Year\": \"2023\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Review of Governance and Sustainable Advancement\",\n    \"DOI_URL\": \"https://doi.org/10.51354/rgsa.v2i1.62\",\n    \"APA_Reference\": \"Ayako, A., Tengan, C., Machyo, P., Nangendo, A., & Okech, R. (2023). Harmonization of Higher Education Curricula in East Africa: Progress, Challenges and Prospects. Review of Governance and Sustainable Advancement, 2(1), 1-18. https://doi.org/10.51354/rgsa.v2i1.62\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature Review and Document Analysis\",\n    \"Geographic_Focus\": \"East African Community (EAC)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated\",\n    \"Harmonization_Definition\": \"Harmonization is defined as the process of aligning curricula across different institutions and countries to ensure comparability and mutual recognition of qualifications.\",\n    \"Regional_Initiatives\": [\n      \"East African Community (EAC) Protocol on Education\",\n      \"EAC Common Higher Education Area\",\n      \"EAC Qualifications Framework\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Development of common curricula\",\n      \"Establishment of quality assurance mechanisms\",\n      \"Mutual recognition of qualifications\",\n      \"Credit transfer systems\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments of EAC member states\",\n      \"Higher education institutions\",\n      \"Regional bodies (e.g., Inter-University Council for East Africa - IUCEA)\",\n      \"Quality assurance agencies\",\n      \"Students\"\n    ],\n    \"Data_Sources\": [\n      \"EAC Protocols and Policy Documents\",\n      \"IUCEA reports\",\n      \"Academic literature\",\n      \"Reports from national quality assurance agencies\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Progress has been made in harmonizing higher education curricula in the EAC, particularly in fields like engineering and medicine.\",\n      \"Challenges remain in ensuring full implementation of harmonization initiatives due to varying national priorities and regulatory frameworks.\",\n      \"The EAC Qualifications Framework is a key instrument for promoting mutual recognition of qualifications.\",\n      \"Harmonization efforts contribute to increased student mobility and cross-border education.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Varying national priorities and regulatory frameworks\",\n      \"Lack of adequate funding\",\n      \"Resistance from some institutions\",\n      \"Differences in quality assurance standards\",\n      \"Language barriers\"\n    ],\n    \"Success_Factors\": [\n      \"Political will from EAC member states\",\n      \"Strong regional coordination through IUCEA\",\n      \"Involvement of key stakeholders\",\n      \"Development of clear guidelines and standards\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen regional coordination and collaboration\",\n      \"Increase funding for harmonization initiatives\",\n      \"Address differences in national regulatory frameworks\",\n      \"Promote awareness and understanding of harmonization benefits\",\n      \"Enhance quality assurance mechanisms\"\n    ],\n    \"Future_Research\": [\n      \"Impact of curriculum harmonization on student learning outcomes\",\n      \"Effectiveness of the EAC Qualifications Framework\",\n      \"Role of technology in promoting harmonization\",\n      \"Comparative analysis of harmonization efforts in different regions of Africa\"\n    ],\n    \"Specific_Examples\": [\n      \"Harmonization of engineering curricula across EAC universities\",\n      \"Development of a common medical curriculum\",\n      \"Establishment of credit transfer systems\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Development of common curricula\",\n      \"Establishment of quality assurance mechanisms\",\n      \"Mutual recognition of qualifications\",\n      \"Credit transfer systems\",\n      \"EAC Qualifications Framework\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Varying national priorities and regulatory frameworks\",\n      \"Lack of adequate funding\",\n      \"Resistance from some institutions\",\n      \"Differences in quality assurance standards\",\n      \"Language barriers\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political will from EAC member states\",\n      \"Strong regional coordination through IUCEA\",\n      \"Involvement of key stakeholders\",\n      \"Development of clear guidelines and standards\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased student mobility\",\n      \"Enhanced cross-border education\",\n      \"Improved quality of higher education\",\n      \"Greater comparability of qualifications\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 621,
+      "candidatesTokenCount": 1270,
+      "totalTokenCount": 1891,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 621
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1270
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "nZ1SaLzAJeiChMIP-ufFUQ"
+  }
+}

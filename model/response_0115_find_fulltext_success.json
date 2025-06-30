@@ -1,0 +1,46 @@
+{
+  "response_id": 115,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:38:09.581522",
+  "metadata": {
+    "url": "https://ccsenet.org/journal/index.php/jel/article/view/0/51170",
+    "final_url": "https://ccsenet.org/journal/index.php/jel/article/view/0/51170",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Higher Education and Its Contribution to Economies of African Countries: Move Towards Competence-Based and Skills Demand-Driven Standards in Collaboration with Industry\",\n    \"authors\": [\n      \"Eustache Tanzala Kikasu\",\n      \"Yunus Goolam Doba\",\n      \"Strinivasan Soondrasan Pillay\",\n      \"Gustave Mungeni Kankisingi\"\n    ],\n    \"doi\": \"10.5539/jel.v14n3p21\",\n    \"journal\": \"Journal of Education and Learning\",\n    \"year\": \"2025\",\n    \"abstract\": \"This study explores the ecosystemic impacts of higher education (HE) on the economies of African countries, emphasizing the need for competence-based, and skills-demand-driven standards in collaboration with industry. HE is vital for equipping individuals with essential knowledge and skills for socio-economic transformation. However, in Africa, this role has weakened, with industry assuming a leading position. Curricula in HE institutions are slow to adapt to the skills needed by industries, leading to a range of challenges such as outdated curriculum delivery, desertion of technical and vocational training, inadequate research resources, insufficient collaboration frameworks between HE and industries, minimal support for entrepreneurship, and poor infrastructure. Aligning HE curricula with industry skills requirements is crucial for enhancing African economic development and competitiveness. Unfortunately, there is a notable lack of partnerships and practical mechanisms for curriculum integration among African HE institutions, which results in graduates possessing skills that do not meet industry demands. This paper reviews the extensive literature on HE's role in African economies, advocating for in-depth collaboration between HE and industry in order to tackle skills mismatches. Accordingly, establishing a healthy partnership between HE institutions and industries could facilitate work-integrated learning, encourage industry-led curriculum development, and prepare graduates with applicable skills and relevant knowledge for the job market. Thus, developing a proactive framework that can facilitate and enforce collaboration between higher education and industries could be critical in addressing the challenges faced by African economic development.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://ccsenet.org/journal/index.php/jel/article/download/0/0/51170/55541\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.00022648830141103866
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2740,
+      "candidatesTokenCount": 577,
+      "totalTokenCount": 3317,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2740
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 577
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "DpdSaL6LBuiChMIP-ufFUQ"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "response_id": 263,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:53:10.382192",
+  "metadata": {
+    "apa_number": 197,
+    "url": "https://journals.innovareacademics.in/index.php/ijoe/article/download/48581/28537",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://journals.innovareacademics.in/index.php/ijoe/article/download/48581/28537\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper discusses curriculum harmonization in the East African Community (EAC), involving multiple countries (Kenya, Uganda, Tanzania, Rwanda, Burundi, and South Sudan). It addresses harmonization across institutions and countries, focusing on regional frameworks and cross-border education. The paper mentions the EAC Protocol on Education and Training, which aims to harmonize education systems.\",\n  \"Title\": \"Curriculum Harmonisation in East Africa: Progress, Challenges and Prospects\",\n  \"Authors\": [\n    \"Pamela Ochieng'\",\n    \"Beatrice Were Omulando\",\n    \"Maurice Amunga Sifuna\"\n  ],\n  \"Year\": \"2021\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Innovare Academics Sciences Pvt. Ltd\",\n    \"DOI_URL\": \"https://journals.innovareacademics.in/index.php/ijoe/article/view/48581\",\n    \"APA_Reference\": \"Ochieng', P., Omulando, B. W., & Sifuna, M. A. (2021). Curriculum Harmonisation in East Africa: Progress, Challenges and Prospects. *International Journal of Education*, *13*(4), 1-6. https://journals.innovareacademics.in/index.php/ijoe/article/view/48581\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature review and document analysis\",\n    \"Geographic_Focus\": \"East African Community (Kenya, Uganda, Tanzania, Rwanda, Burundi, South Sudan)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated\",\n    \"Harmonization_Definition\": \"Curriculum harmonization is defined as the process of aligning education systems across countries to facilitate mobility and recognition of qualifications.\",\n    \"Regional_Initiatives\": [\n      \"EAC Protocol on Education and Training\",\n      \"EAC Common Higher Education Area\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Development of common curricula\",\n      \"Establishment of quality assurance mechanisms\",\n      \"Mutual recognition of qualifications\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments\",\n      \"Universities\",\n      \"Regional bodies (EAC Secretariat)\",\n      \"National Commissions for Higher Education\"\n    ],\n    \"Data_Sources\": [\n      \"Policy documents\",\n      \"Legal frameworks\",\n      \"Academic literature\",\n      \"Reports from EAC Secretariat\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Progress has been made in harmonizing curricula in some fields, but challenges remain.\",\n      \"The EAC Protocol on Education and Training provides a framework for harmonization.\",\n      \"Mutual recognition of qualifications is still limited.\",\n      \"Quality assurance mechanisms need to be strengthened.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of political will\",\n      \"Varying education standards\",\n      \"Inadequate funding\",\n      \"Bureaucratic hurdles\",\n      \"Differing national priorities\"\n    ],\n    \"Success_Factors\": [\n      \"Political commitment\",\n      \"Strong regional institutions\",\n      \"Stakeholder engagement\",\n      \"Adequate funding\",\n      \"Clear policy frameworks\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen political commitment to harmonization.\",\n      \"Increase funding for harmonization initiatives.\",\n      \"Improve quality assurance mechanisms.\",\n      \"Promote mutual recognition of qualifications.\",\n      \"Enhance stakeholder engagement.\"\n    ],\n    \"Future_Research\": [\n      \"Further research is needed to assess the impact of curriculum harmonization on student mobility and employability.\",\n      \"Studies are needed to identify best practices for curriculum harmonization in the EAC.\"\n    ],\n    \"Specific_Examples\": [\n      \"Harmonization of medical curricula in the EAC.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Development of common curricula\",\n      \"Establishment of quality assurance agencies\",\n      \"Mutual recognition agreements\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Lack of political will\",\n      \"Varying education standards\",\n      \"Inadequate funding\",\n      \"Bureaucratic hurdles\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political commitment\",\n      \"Strong regional institutions\",\n      \"Stakeholder engagement\",\n      \"Adequate funding\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased student mobility\",\n      \"Improved quality of education\",\n      \"Enhanced regional integration\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 630,
+      "candidatesTokenCount": 1113,
+      "totalTokenCount": 1743,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 630
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1113
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "j5pSaJvbCf6ShMIPm7P8iAY"
+  }
+}

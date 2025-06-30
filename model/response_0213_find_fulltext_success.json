@@ -1,0 +1,46 @@
+{
+  "response_id": 213,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:48:07.362258",
+  "metadata": {
+    "url": "https://jodac.org/trend-analysis-in-students-enrolment-at-the-college-of-african-wildlife-management-mweka-analysing-growth-and-decline-across-academic-years-and-programs/",
+    "final_url": "https://jodac.org/trend-analysis-in-students-enrolment-at-the-college-of-african-wildlife-management-mweka-analysing-growth-and-decline-across-academic-years-and-programs/",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"TREND ANALYSIS IN STUDENTS’ ENROLMENT AT THE COLLEGE OF AFRICAN WILDLIFE MANAGEMENT (MWEKA): ANALYSING GROWTH AND DECLINE ACROSS ACADEMIC YEARS AND PROGRAMS\",\n    \"authors\": [\n      \"Shaban Juma Ally\"\n    ],\n    \"doi\": null,\n    \"journal\": \"Journal of Dynamics and Control\",\n    \"year\": \"2025\",\n    \"abstract\": \"TREND ANALYSIS IN STUDENTS’ ENROLMENT AT THE COLLEGE OF AFRICAN WILDLIFE MANAGEMENT (MWEKA): ANALYSING GROWTH AND DECLINE ACROSS ACADEMIC YEARS AND PROGRAMS Shaban Juma Ally Department of Statistics, Andhra University,&hellip;\"\n  },\n  \"fulltext_links\": [],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"low\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.0007964211649128369
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3296,
+      "candidatesTokenCount": 224,
+      "totalTokenCount": 3520,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3296
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 224
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "ZZlSaMv4KouZhMIPlvTuyQY"
+  }
+}

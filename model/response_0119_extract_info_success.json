@@ -1,0 +1,45 @@
+{
+  "response_id": 119,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:38:19.260118",
+  "metadata": {
+    "apa_number": 116,
+    "url": "https://ecosocc.au.int/sites/default/files/files/2021-09/continental-strategy-education-africa-english.pdf",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://ecosocc.au.int/sites/default/files/files/2021-09/continental-strategy-education-africa-english.pdf\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The document is the Continental Education Strategy for Africa 2016-2025 (CESA 16-25). It focuses on regional curriculum harmonization initiatives across multiple African countries and regions. It addresses harmonization across institutions/countries, not just within one university. It mentions regional frameworks, cross-border education, mutual recognition, credit transfer systems, and regional qualifications frameworks.\",\n  \"Title\": \"Continental Education Strategy for Africa 2016-2025\",\n  \"Authors\": [\n    \"African Union\"\n  ],\n  \"Year\": \"2016\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"African Union\",\n    \"DOI_URL\": \"https://ecosocc.au.int/sites/default/files/files/2021-09/continental-strategy-education-africa-english.pdf\",\n    \"APA_Reference\": \"African Union. (2016). Continental Education Strategy for Africa 2016-2025. African Union.\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Policy Document/Strategic Framework\",\n    \"Geographic_Focus\": \"Africa (Continental)\",\n    \"Educational_Level\": \"All levels\",\n    \"Sample_Size\": \"N/A\",\n    \"Is_Longitudinal\": true\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated, but grounded in the AU's Agenda 2063\",\n    \"Harmonization_Definition\": \"Not explicitly defined, but implied through objectives related to mutual recognition of qualifications, credit transfer, and regional qualifications frameworks.\",\n    \"Regional_Initiatives\": [\n      \"Continental Education Strategy for Africa (CESA 16-25)\",\n      \"Harmonization of curricula\",\n      \"Mutual recognition of qualifications\",\n      \"Credit transfer systems\",\n      \"Regional Qualifications Frameworks\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Policy development\",\n      \"Capacity building\",\n      \"Resource mobilization\",\n      \"Monitoring and evaluation\",\n      \"Partnerships\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Member States\",\n      \"Regional Economic Communities (RECs)\",\n      \"Pan-African institutions\",\n      \"Development partners\",\n      \"Civil society organizations\",\n      \"Private sector\",\n      \"Teachers\",\n      \"Students\"\n    ],\n    \"Data_Sources\": [\n      \"Policy documents\",\n      \"Statistical data\",\n      \"Research reports\",\n      \"Consultations with stakeholders\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"CESA 16-25 provides a comprehensive framework for transforming education in Africa.\",\n      \"It prioritizes access, equity, quality, relevance, and innovation in education.\",\n      \"It emphasizes the importance of regional cooperation and harmonization in education.\",\n      \"It recognizes the need for increased investment in education.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Inadequate funding\",\n      \"Weak institutional capacity\",\n      \"Lack of political will\",\n      \"Coordination challenges\",\n      \"Data gaps\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political commitment\",\n      \"Effective leadership\",\n      \"Adequate resources\",\n      \"Strong partnerships\",\n      \"Evidence-based decision-making\"\n    ],\n    \"Recommendations\": [\n      \"Increase investment in education.\",\n      \"Strengthen institutional capacity.\",\n      \"Promote regional cooperation and harmonization.\",\n      \"Improve data collection and analysis.\",\n      \"Enhance monitoring and evaluation.\"\n    ],\n    \"Future_Research\": [\n      \"Impact of CESA 16-25 on education outcomes in Africa.\",\n      \"Effectiveness of different implementation approaches.\",\n      \"Role of different stakeholders in the implementation of CESA 16-25.\",\n      \"Challenges and opportunities for regional harmonization of education systems.\"\n    ],\n    \"Specific_Examples\": [\n      \"Establishment of the African Continental Qualifications Framework (ACQF)\",\n      \"Development of common curricula for specific disciplines\",\n      \"Implementation of credit transfer systems across countries\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Policy frameworks\",\n      \"Institutional structures\",\n      \"Funding mechanisms\",\n      \"Monitoring and evaluation systems\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Financial constraints\",\n      \"Capacity limitations\",\n      \"Political instability\",\n      \"Cultural differences\",\n      \"Lack of data\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political will\",\n      \"Strong leadership\",\n      \"Effective partnerships\",\n      \"Resource mobilization\",\n      \"Evidence-based planning\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased access to education\",\n      \"Improved quality of education\",\n      \"Enhanced relevance of education\",\n      \"Greater regional integration\",\n      \"Economic development\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 633,
+      "candidatesTokenCount": 1193,
+      "totalTokenCount": 1826,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 633
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1193
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "E5dSaK3ZNLqFsbQPqNrRqAQ"
+  }
+}

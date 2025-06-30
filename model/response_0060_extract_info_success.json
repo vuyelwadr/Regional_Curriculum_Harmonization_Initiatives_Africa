@@ -1,0 +1,45 @@
+{
+  "response_id": 60,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:32:24.039742",
+  "metadata": {
+    "apa_number": 58,
+    "url": "https://s3-euw1-ap-pe-df-pch-content-store-p.s3.eu-west-1.amazonaws.com/9781003143840/6001c714-2a8d-4afa-9655-0d071ac23325/chapters/chapter36.pdf?AWSAccessKeyId=ASIAQFVOSJ57XWNAZ2XE&Expires=1750242733&Signature=9T4IfF5KlaczTqUG2tHXrmF2cAI%3D&response-content-disposition=attachment%3B%20filename%3D%2210.4324_9781003143840-43_chapterpdf.pdf%22&x-amz-security-token=IQoJb3JpZ2luX2VjEKD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIFhYq2X%2B5vs3wfgNrZTlTfdO6lwFbEavwni3KcdvhtS5AiAxQPXbpE%2FZTVC3jK9%2FkI5s6pprcnSnksY73Ze%2Ba5jutiqWBAiJ%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAQaDDAxMjE3NzI2NDUxMSIMz%2FrCP4CHpN1gSD%2BrKuoD%2FK7%2FvVagWUhCBwLUzit6XYMLOY%2Bwm1WlHnRslHegdRjd713VEDjFIZhCQClVUsnykC%2FYv8Sxf9Lcum3QMtlHr2Qcb6h47XzQj9KkiVXanOW6XdyN2xHa6ys5FtNxIMBYjXzt2t7Xz042WOTbzygQaXRtkzRbCbDYPOv5W5bwAY%2FC226ZuguUVJ80Fzsfp%2B2NhwkQU2kb%2BgpQC7hYPN2ONbdPayk%2FkJ7b4pCTLwuf9Fp6NipFHwzrC4J%2FH1TRbdIDlP%2FUotbgKBBP8CtnIzhAlcBH2rb6lKtVJky4RNatVzWrvSG34Ffg6TjIn98dWv7mOzAFSulTWT7SAV%2FL9ErI9wwAaJtijfnLh%2BWN%2BH9DiBX2p7oWIFHmneM1WFV%2Fd4ivo5TZKdugnqKoMRp0shQa6elNcZltEqvMU%2BZz40mbO6xOTRoQfE8WHyl7UzJPwrslT6cAwSC%2FKhnlwAiKDN2WFx0Ar1IA0NphqBX7%2BZOTLNRXuOUabL5VvgOZ3x0eRA8mIaNBwaDDn7dAZ%2BN0gXzF6zYmA8HJTsrfdEns3xHVRsCbq90Qog7xTlD6M08rMSPvIHlZ%2Fcz2afx4j1fxIJHJX8cOHzd9uaFqGd3u4T5%2BQuRZRJOHFgrrziZ4H0h8jUZm%2Bz7%2BYfa6kJB5aDDi08nCBjqmAUQK%2FuodlfOOSVB7E18PDHucPKdPliZw4DBK3tiDyhZ%2Fsvc9YB5q%2FdJ6kzyxzdIOou9gZpRja86WL%2B0J%2FJgZYXXugI64bgogp8CfpPnZvdgTre96eZ2%2Fo%2FoHUrE7S8CAMJx3fxiO0bHXHBXNM1M%2BCSEcmFseqI5diMr4XzusdPDQzsj6T6PLPEwuIxj6MgDaqMbIqmACf0FOueesXX9%2FdFmxJ1SF5Tc%3D",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://s3-euw1-ap-pe-df-pch-content-store-p.s3.eu-west-1.amazonaws.com/9781003143840/6001c714-2a8d-4afa-9655-0d071ac23325/chapters/chapter36.pdf?AWSAccessKeyId=ASIAQFVOSJ57XWNAZ2XE&Expires=1750242733&Signature=9T4IfF5KlaczTqUG2tHXrmF2cAI%3D&response-content-disposition=attachment%3B%20filename%3D%2210.4324_9781003143840-43_chapterpdf.pdf%22&x-amz-security-token=IQoJb3JpZ2luX2VjEKD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIFhYq2X%2B5vs3wfgNrZTlTfdO6lwFbEavwni3KcdvhtS5AiAxQPXbpE%2FZTVC3jK9%2FkI5s6pprcnSnksY73Ze%2Ba5jutiqWBAiJ%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAQaDDAxMjE3NzI2NDUxMSIMz%2FrCP4CHpN1gSD%2BrKuoD%2FK7%2FvVagWUhCBwLUzit6XYMLOY%2Bwm1WlHnRslHegdRjd713VEDjFIZhCQClVUsnykC%2FYv8Sxf9Lcum3QMtlHr2Qcb6h47XzQj9KkiVXanOW6XdyN2xHa6ys5FtNxIMBYjXzt2t7Xz042WOTbzygQaXRtkzRbCbDYPOv5W5bwAY%2FC226ZuguUVJ80Fzsfp%2B2NhwkQU2kb%2BgpQC7hYPN2ONbdPayk%2FkJ7b4pCTLwuf9Fp6NipFHwzrC4J%2FH1TRbdIDlP%2FUotbgKBBP8CtnIzhAlcBH2rb6lKtVJky4RNatVzWrvSG34Ffg6TjIn98dWv7mOzAFSulTWT7SAV%2FL9ErI9wwAaJtijfnLh%2BWN%2BH9DiBX2p7oWIFHmneM1WFV%2Fd4ivo5TZKdugnqKoMRp0shQa6elNcZltEqvMU%2BZz40mbO6xOTRoQfE8WHyl7UzJPwrslT6cAwSC%2FKhnlwAiKDN2WFx0Ar1IA0NphqBX7%2BZOTLNRXuOUabL5VvgOZ3x0eRA8mIaNBwaDDn7dAZ%2BN0gXzF6zYmA8HJTsrfdEns3xHVRsCbq90Qog7xTlD6M08rMSPvIHlZ%2Fcz2afx4j1fxIJHJX8cOHzd9uaFqGd3u4T5%2BQuRZRJOHFgrrziZ4H0h8jUZm%2Bz7%2BYfa6kJB5aDDi08nCBjqmAUQK%2FuodlfOOSVB7E18PDHucPKdPliZw4DBK3tiDyhZ%2Fsvc9YB5q%2FdJ6kzyxzdIOou9gZpRja86WL%2B0J%2FJgZYXXugI64bgogp8CfpPnZvdgTre96eZ2%2Fo%2FoHUrE7S8CAMJx3fxiO0bHXHBXNM1M%2BCSEcmFseqI5diMr4XzusdPDQzsj6T6PLPEwuIxj6MgDaqMbIqmACf0FOueesXX9%2FdFmxJ1SF5Tc%3D\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper discusses regional curriculum harmonization initiatives in Africa, specifically focusing on the East African Community (EAC) and the Southern African Development Community (SADC). It addresses harmonization across institutions and countries, mentioning regional frameworks and cross-border education. The paper also discusses mutual recognition of qualifications and credit transfer systems.\",\n  \"Title\": \"Harmonisation of Higher Education Curricula in Africa: Reflections on the Bologna Process\",\n  \"Authors\": [\n    \"Damiano Elias Elelewe\",\n    \"Aloysius Tayar Imbovungu\"\n  ],\n  \"Year\": \"2021\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Routledge\",\n    \"DOI_URL\": \"https://doi.org/10.4324/9781003143840-43\",\n    \"APA_Reference\": \"Elelewe, D. E., & Imbovungu, A. T. (2021). Harmonisation of Higher Education Curricula in Africa: Reflections on the Bologna Process. In Handbook of Research on Curriculum Reform Initiatives and Digital Transformation in Higher Education (pp. 591-607). IGI Global. https://doi.org/10.4324/9781003143840-43\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature Review/Conceptual Analysis\",\n    \"Geographic_Focus\": \"Africa (East African Community (EAC), Southern African Development Community (SADC))\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"N/A\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Bologna Process\",\n    \"Harmonization_Definition\": \"Harmonization is defined as a process of aligning curricula to facilitate comparability and recognition of qualifications across different countries and institutions.\",\n    \"Regional_Initiatives\": [\n      \"East African Community (EAC) Protocol on Education\",\n      \"SADC Protocol on Education and Training\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Curriculum alignment\",\n      \"Credit transfer systems\",\n      \"Quality assurance mechanisms\",\n      \"Mutual recognition of qualifications\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments\",\n      \"Higher education institutions\",\n      \"Regional bodies (EAC, SADC)\",\n      \"Students\",\n      \"Employers\"\n    ],\n    \"Data_Sources\": [\n      \"Policy documents\",\n      \"Literature review\",\n      \"Reports from regional bodies\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Harmonization efforts in Africa are influenced by the Bologna Process.\",\n      \"Regional frameworks like the EAC and SADC protocols provide a basis for harmonization.\",\n      \"Challenges remain in implementation due to varying national contexts and resources.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of resources\",\n      \"Varying national contexts\",\n      \"Resistance to change\",\n      \"Capacity gaps\"\n    ],\n    \"Success_Factors\": [\n      \"Political will\",\n      \"Stakeholder engagement\",\n      \"Clear frameworks and guidelines\",\n      \"Capacity building\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen regional frameworks\",\n      \"Invest in capacity building\",\n      \"Promote stakeholder engagement\",\n      \"Address resource constraints\"\n    ],\n    \"Future_Research\": [\n      \"Impact of harmonization on student mobility and employability\",\n      \"Effectiveness of different implementation approaches\",\n      \"Role of technology in facilitating harmonization\"\n    ],\n    \"Specific_Examples\": [\n      \"EAC Protocol on Education\",\n      \"SADC Protocol on Education and Training\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Curriculum alignment\",\n      \"Credit transfer systems\",\n      \"Quality assurance frameworks\",\n      \"Mutual recognition agreements\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Resource constraints\",\n      \"National sovereignty concerns\",\n      \"Capacity gaps\",\n      \"Resistance to change\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political commitment\",\n      \"Stakeholder collaboration\",\n      \"Regional leadership\",\n      \"Clear policy frameworks\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased student mobility\",\n      \"Improved quality of education\",\n      \"Enhanced employability\",\n      \"Regional integration\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 1658,
+      "candidatesTokenCount": 2115,
+      "totalTokenCount": 3773,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1658
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2115
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "rJVSaP7ME8WUsbQP-d_MIQ"
+  }
+}

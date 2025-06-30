@@ -1,0 +1,45 @@
+{
+  "response_id": 96,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:36:10.059204",
+  "metadata": {
+    "apa_number": 82,
+    "url": "https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-023-04446-3",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-023-04446-3\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper discusses regional harmonization of medical education in East Africa, specifically focusing on the East African Community (EAC) and efforts to standardize medical curricula and assessment. It addresses cross-border education and mutual recognition of qualifications within the region. The paper mentions regional frameworks and initiatives aimed at harmonizing medical education across multiple countries.\",\n  \"Title\": \"Competency-based assessment in undergraduate medical education in East Africa: a scoping review\",\n  \"Authors\": [\n    \"Nazarius Mbona Tumwesigye\",\n    \"Rose Chalo Nabirye\",\n    \"Imelda Namagembe\",\n    \"Paul Kiondo\",\n    \"Francis Omaswa\",\n    \"James Peter Tumwine\",\n    \"Nelson K. Sewankambo\"\n  ],\n  \"Year\": \"2023\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"BMC Medical Education\",\n    \"DOI_URL\": \"https://doi.org/10.1186/s12909-023-04446-3\",\n    \"APA_Reference\": \"Tumwesigye, N. M., Nabirye, R. C., Namagembe, I., Kiondo, P., Omaswa, F., Tumwine, J. P., & Sewankambo, N. K. (2023). Competency-based assessment in undergraduate medical education in East Africa: a scoping review. BMC Medical Education, 23(1), 872. https://doi.org/10.1186/s12909-023-04446-3\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Scoping Review\",\n    \"Geographic_Focus\": \"East Africa (Uganda, Tanzania, Kenya, Rwanda, Burundi, South Sudan)\",\n    \"Educational_Level\": \"Undergraduate Medical Education\",\n    \"Sample_Size\": \"Not applicable for a scoping review\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Competency-Based Education (CBE)\",\n    \"Harmonization_Definition\": \"Standardization of medical curricula and assessment practices across East African countries to ensure comparable competencies among graduates.\",\n    \"Regional_Initiatives\": [\n      \"East African Community (EAC) initiatives for medical education harmonization\",\n      \"Efforts to standardize curricula and assessment methods\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Curriculum review and revision\",\n      \"Development of standardized assessment tools\",\n      \"Faculty development programs\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Medical schools\",\n      \"Regulatory bodies\",\n      \"East African Community (EAC)\",\n      \"Medical educators\",\n      \"Students\"\n    ],\n    \"Data_Sources\": [\n      \"Published literature\",\n      \"Grey literature\",\n      \"Databases (e.g., PubMed, Scopus, Web of Science)\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Varied implementation of competency-based assessment (CBA) across East African medical schools.\",\n      \"Limited evidence on the effectiveness of CBA in improving student learning outcomes.\",\n      \"Need for standardized assessment tools and faculty development in CBA.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of resources\",\n      \"Inadequate faculty training\",\n      \"Resistance to change\",\n      \"Limited infrastructure\"\n    ],\n    \"Success_Factors\": [\n      \"Strong leadership support\",\n      \"Collaboration among medical schools\",\n      \"Alignment of curriculum and assessment\",\n      \"Continuous monitoring and evaluation\"\n    ],\n    \"Recommendations\": [\n      \"Develop standardized CBA tools and guidelines.\",\n      \"Provide faculty development programs on CBA.\",\n      \"Strengthen collaboration among medical schools.\",\n      \"Conduct further research on the effectiveness of CBA.\"\n    ],\n    \"Future_Research\": [\n      \"Studies on the impact of CBA on student learning outcomes.\",\n      \"Evaluation of different CBA models.\",\n      \"Exploration of the role of technology in CBA.\"\n    ],\n    \"Specific_Examples\": [\n      \"Examples of CBA implementation in specific medical schools in East Africa (mentioned throughout the paper).\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Curriculum development\",\n      \"Assessment tool development\",\n      \"Faculty training\",\n      \"Regional collaboration\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Resource constraints\",\n      \"Faculty capacity\",\n      \"Resistance to change\",\n      \"Infrastructure limitations\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Leadership support\",\n      \"Collaboration\",\n      \"Alignment of curriculum and assessment\",\n      \"Monitoring and evaluation\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Variable implementation of CBA\",\n      \"Limited evidence of improved learning outcomes\",\n      \"Potential for enhanced competency-based medical education\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 638,
+      "candidatesTokenCount": 1197,
+      "totalTokenCount": 1835,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 638
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1197
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "kpZSaKmnA-iChMIP-ufFUQ"
+  }
+}

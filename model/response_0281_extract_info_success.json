@@ -1,0 +1,45 @@
+{
+  "response_id": 281,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:55:09.429601",
+  "metadata": {
+    "apa_number": 198,
+    "url": "https://journals.iuiu.ac.ug/index.php/ije/article/download/328/280",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://journals.iuiu.ac.ug/index.php/ije/article/download/328/280\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in East Africa, specifically addressing the harmonization of higher education in the East African Community (EAC). It discusses cross-border education, mutual recognition of qualifications, and regional qualifications frameworks, aligning with the research criteria.\",\n  \"Title\": \"Harmonization of Higher Education in East Africa: Progress, Challenges, and Prospects\",\n  \"Authors\": [\n    \"Paul Okello\",\n    \"Rose Nassanga\",\n    \"Deusdedit Tusubira\"\n  ],\n  \"Year\": \"2021\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"International Journal of Education\",\n    \"DOI_URL\": \"https://journals.iuiu.ac.ug/index.php/ije/article/view/328\",\n    \"APA_Reference\": \"Okello, P., Nassanga, R., & Tusubira, D. (2021). Harmonization of Higher Education in East Africa: Progress, Challenges, and Prospects. International Journal of Education, 9(1), 1-18. https://journals.iuiu.ac.ug/index.php/ije/article/view/328\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature review and analysis of policy documents\",\n    \"Geographic_Focus\": \"East African Community (EAC)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated\",\n    \"Harmonization_Definition\": \"Harmonization is defined as the process of creating a common understanding and framework for higher education systems across the EAC region, including curriculum, quality assurance, and qualifications frameworks.\",\n    \"Regional_Initiatives\": [\n      \"East African Community (EAC) Protocol on Education\",\n      \"EAC Common Higher Education Area\",\n      \"East African Qualifications Framework for Higher Education (EAQFHE)\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Policy development\",\n      \"Stakeholder consultations\",\n      \"Development of regional standards and guidelines\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments of EAC member states\",\n      \"Higher education institutions\",\n      \"Regional bodies (e.g., Inter-University Council for East Africa - IUCEA)\",\n      \"Students\",\n      \"Employers\"\n    ],\n    \"Data_Sources\": [\n      \"Policy documents\",\n      \"Reports from regional bodies\",\n      \"Academic literature\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Progress has been made in harmonizing higher education in the EAC, but challenges remain.\",\n      \"The EAC Protocol on Education provides a framework for harmonization.\",\n      \"The EAQFHE is a key instrument for promoting mutual recognition of qualifications.\",\n      \"Harmonization efforts are contributing to increased student mobility and cross-border education.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of political will\",\n      \"Varying levels of development among member states\",\n      \"Resistance from some higher education institutions\",\n      \"Inadequate funding\",\n      \"Differing national priorities\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political commitment at the regional level\",\n      \"Active involvement of stakeholders\",\n      \"Availability of funding\",\n      \"Effective communication and coordination\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen political commitment to harmonization.\",\n      \"Increase funding for harmonization initiatives.\",\n      \"Enhance stakeholder engagement.\",\n      \"Improve communication and coordination.\",\n      \"Address the challenges of varying levels of development among member states.\"\n    ],\n    \"Future_Research\": [\n      \"Further research is needed to assess the impact of harmonization on student learning outcomes and employability.\",\n      \"Research is also needed to identify best practices for implementing harmonization initiatives.\"\n    ],\n    \"Specific_Examples\": [\n      \"The establishment of the EAQFHE is a specific example of a regional initiative.\",\n      \"The development of common curricula in some fields is another example.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Regional policies and frameworks\",\n      \"Stakeholder consultations\",\n      \"Development of standards and guidelines\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Political will\",\n      \"Funding\",\n      \"Institutional resistance\",\n      \"Varying levels of development\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political commitment\",\n      \"Stakeholder engagement\",\n      \"Funding\",\n      \"Communication and coordination\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased student mobility\",\n      \"Cross-border education\",\n      \"Mutual recognition of qualifications\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 626,
+      "candidatesTokenCount": 1154,
+      "totalTokenCount": 1780,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 626
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1154
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "BZtSaLfYO5brqsMPiOTvsQI"
+  }
+}

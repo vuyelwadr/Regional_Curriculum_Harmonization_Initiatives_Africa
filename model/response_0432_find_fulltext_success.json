@@ -1,0 +1,64 @@
+{
+  "response_id": 432,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:08:27.331088",
+  "metadata": {
+    "url": "https://tuningjournal.org/article/view/1600",
+    "final_url": "https://tuningjournal.org/article/view/1600",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Meta-profile and competencies for harmonisation of higher education in sector-specific technology areas: A case study of Renewable Energy in Southern Africa\",\n    \"authors\": [\n      \"Wilfried Zörner\",\n      \"Nawaz Mahomed\",\n      \"Ackim Zulu\",\n      \"Tobias Bader\",\n      \"Chifundo Tenthani\",\n      \"Boaventura Cuamba\",\n      \"Hilton Chingosho\"\n    ],\n    \"doi\": \"10.18543/tjhe-8(1)-2020pp75-97\",\n    \"journal\": \"Tuning Journal for Higher Education\",\n    \"year\": \"2020\",\n    \"abstract\": \"The aim of this study was to develop the profile and competencies of a harmonised curriculum for a multi-country regional sector-specific higher education programme. The study, which was based on a case study of Renewable Energy involving six countries in Southern Africa, was based on established methodologies proposed by previous studies on harmonisation and profiling of higher education programmes. The study uses a general curriculum development approach leading to the definition of generic and specific competencies and feeding into a learning taxonomy to create alignment with specific learning outcomes at the intended qualification level. However, the approach extends the harmonisation concept to include industrialisation potential, which is crucial in the developing-country context. This allows for the exploitation of shared resources in sector-specific technology areas and supports the development of regional standards on technology and practice, as part of developing a sustainable regional economic sector. Twentytwo competencies, encompassing both generic and specific competencies, were defined. These competencies were grouped into six key competence areas, and later transformed into four clusters of competencies: core competencies, hard skills, soft skills and attitudes. These four clusters were then placed on a planetary system to represent the meta-profile for the qualification, which forms the framework for the future design of learning materials for the qualification.\\nReceived: 24 June 2019Accepted: 5 October 2020\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://tuningjournal.org/article/download/1600/2362\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://tuningjournal.org/article/view/1600/2372\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://tuningjournal.org/article/view/1600\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 96,
+              "endIndex": 251,
+              "uri": "https://www.globethics.net/web/tuning-journal-for-higher-education"
+            },
+            {
+              "startIndex": 560,
+              "endIndex": 695,
+              "uri": "https://tuningjournal.org/article/download/1600/2372?inline=1"
+            },
+            {
+              "startIndex": 584,
+              "endIndex": 2085
+            }
+          ]
+        },
+        "avgLogprobs": -0.0005946037259195933
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2702,
+      "candidatesTokenCount": 659,
+      "totalTokenCount": 3361,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2702
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 659
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "J55SaKqzLcWUsbQP-d_MIQ"
+  }
+}

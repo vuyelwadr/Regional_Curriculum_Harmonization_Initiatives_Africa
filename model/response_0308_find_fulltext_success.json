@@ -1,0 +1,46 @@
+{
+  "response_id": 308,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:57:15.236075",
+  "metadata": {
+    "url": "https://link.springer.com/article/10.1007/s40290-025-00554-1",
+    "final_url": "https://link.springer.com/article/10.1007/s40290-025-00554-1",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Suggested Improvements to the Current East African Community Medicines Regulatory Harmonization Joint Review Process and a Proposed New Review Model for this Initiative\",\n    \"authors\": [],\n    \"doi\": \"10.1007/s40290-025-00554-1\",\n    \"journal\": \"Pharmaceutical Medicine\",\n    \"year\": \"2025\",\n    \"abstract\": \"In 2012, the East African Community Medicines Regulatory Harmonization (EAC-MRH) initiative was established to improve access to safe, effective, and high-quality medical products to patients in the East African region. The East African Community (EAC) Partner States, the Republic of&nbsp;Burundi, Democratic Republic of Congo, Republic of&nbsp;Rwanda, United Republic&nbsp;of Tanzania, Republic of&nbsp;Kenya, Republic of&nbsp;South Sudan, and the Republic of&nbsp;Uganda, have a population of 290 million inhabitants. The timely access to medical products for this population was to be achieved through harmonisation of regulatory requirements, joint assessments, joint inspections of manufacturing sites, and the strengthening of regulatory systems. The aims of this study were (1) to investigate ways in which the regional initiative could be a well-coordinated and functioning regional assessment and inspection process on which national registration decisions can rely; (2) to investigate whether a sustainable semi-autonomous regional agency could provide regulatory guidance and coordination for the entire region; and (3) to propose a new and improved model for the EAC-MRH. Three established questionnaires were used to collect and analyse data on the EAC national regulatory authorities (NRAs) and EAC-MRH initiative 2020–2023: (1) The Optimising Efficiencies in Regulatory Agencies (OpERA) questionnaire was completed by senior officials in the seven authorities that were leading the medicine registration departments about their own respective NRA. The heads of authorities of these NRAs further validated the completed questionnaire, which documented the general organisation of the authorities in terms of their structure, organisation, resources, review process, and timelines. (2) The Process Effectiveness and Efficiency Rating (PEER) questionnaire was completed by the seven authorities to obtain the views of the individual medicines regulatory authorities of the EAC-MRH initiative to identify the strengths and challenges regarding the performance of the joint assessment of the EAC-MRH initiative. (3) The PEER questionnaire, modified for the pharmaceutical industry, was completed by the heads of regulatory units in the pharmaceutical companies that had used the EAC-MRH process for the review and approval of their applications. The number of applications received for joint reviews increased from nine applications in 2015 to 44 applications in 2023, and the median review time reduced from 553 calendar days in 2015 to 259 calendar days in 2023. A key benefit for pharmaceutical companies using the work-sharing initiative to apply for marketing authorisation was the reduced burden associated with the need to prepare only one application for submission and eventual access to several markets simultaneously. The EAC-MRH initiative can only be effective and efficient if the NRAs in the region are operating at an optimal level. Therefore, proposals were made to address the gaps identified in the regulatory review processes of the EAC NRAs and to improve effectiveness and efficiency. Importantly, a centralised submission and tracking process was proposed as the new and improved model for the EAC-MRH initiative.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://link.springer.com/content/pdf/10.1007/s40290-025-00554-1.pdf\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://link.springer.com/article/10.1007/s40290-025-00554-1\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": true,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.0005537364886511513
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2634,
+      "candidatesTokenCount": 951,
+      "totalTokenCount": 3585,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2634
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 951
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "hptSaM-QCv6ShMIPm7P8iAY"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "response_id": 386,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:04:21.099433",
+  "metadata": {
+    "url": "https://rsisinternational.org/journals/ijriss/articles/comparing-and-contrasting-ecowas-and-sadc-successes-failures-and-challenges/",
+    "final_url": "https://rsisinternational.org/journals/ijriss/articles/comparing-and-contrasting-ecowas-and-sadc-successes-failures-and-challenges/",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Comparing and Contrasting ECOWAS and SADC: Successes, Failures, and Challenges\",\n    \"authors\": [\n      \"Godfrey Musila\",\n      \"Dr. Samuel Oyewole Odunsi\"\n    ],\n    \"doi\": null,\n    \"journal\": \"International Journal of Research and Innovation in Social Science (IJRISS)\",\n    \"year\": \"2024\",\n    \"abstract\": \"Regional economic communities (RECs) in Africa are vital for fostering economic integration and development. This paper compares and contrasts the Economic Community of West African States (ECOWAS) and the Southern African Development Community (SADC), examining their successes, failures, and challenges. ECOWAS has made strides in promoting free movement of people and goods, but faces challenges such as political instability and uneven economic development. SADC has achieved progress in infrastructure development and regional integration, but struggles with issues like overlapping memberships and dependence on South Africa. Both RECs grapple with challenges such as inadequate funding, weak institutional capacity, and external interference. The paper concludes by offering recommendations for enhancing the effectiveness of ECOWAS and SADC, including strengthening institutional frameworks, promoting inclusive governance, and diversifying funding sources.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://rsisinternational.org/journals/ijriss/articles/comparing-and-contrasting-ecowas-and-sadc-successes-failures-and-challenges/\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.08361677521640815
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3674,
+      "candidatesTokenCount": 412,
+      "totalTokenCount": 4086,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3674
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 412
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "Mp1SaK-pAprnqsMPzonmkA0"
+  }
+}

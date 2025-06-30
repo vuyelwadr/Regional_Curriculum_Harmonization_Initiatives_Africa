@@ -1,0 +1,46 @@
+{
+  "response_id": 296,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:56:16.840926",
+  "metadata": {
+    "url": "https://latia.ageditor.uy/index.php/latia/article/view/319",
+    "final_url": "https://latia.ageditor.uy/index.php/latia/article/view/319",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"African Education Systems in the Role of Artificial Intelligence (AI) in Automated Decision-Making\",\n    \"authors\": [\n      \"Michael Keari Omwenga\",\n      \"Fredrick Kayusi\",\n      \"Everlyne Chebet\",\n      \"Linety Juma\",\n      \"Bismark Agura Kayus\",\n      \"Rhoda Moraa Siro\",\n      \"Catherine Munga\",\n      \"Petros Chavula\"\n    ],\n    \"doi\": \"10.62486/latia2025319\",\n    \"journal\": \"LatIA\",\n    \"year\": \"2025\",\n    \"abstract\": \"The main areas of focus for reforming educational systems are the incorporation of artificial intelligence (AI). Although artificial intelligence (AI) has many applications, its use in education to improve learning, develop employable skills, and help people adjust to life in the AI era has not been as common. The study evaluated current policy initiatives and delved into African information and communication technology (ICT) policies about the education sector to offer policy suggestions for AI educational institutions from an African viewpoint. The targeted population was junior and senior secondary schools in Kenya, a range of stakeholders in the field of education, including educators, parents, Ministry of Education representatives, and other pertinent parties. A sample of 125 participants was used. The study employed a descriptive research design. A combination of articles, research papers, reports, briefs, and books a along with interviews and questionnaires, was used to collect opinions and insights from these participants, and qualitative content analysis was involved. Its goal was to promote a thorough comprehension of the ethical issues related to the application of AI in the Kenyan educational system. The result indicated that 29 (28.2 %) were very familiar with automated decision-making, 63 (61.2 %) had reported some level of familiarity, while 11 (10.6 %) admitted did not know automated decision-making. The mean was fairly close to the true mean of the general population, as indicated by the extremely small total SE of 0.07. Drawing on the result, the report offers the policy priorities and suggestions that are crucial for establishing a supportive environment for the growth of AI and for governance in the African education sector.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://latia.ageditor.uy/index.php/latia/article/view/319\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.00039958205223083494
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2594,
+      "candidatesTokenCount": 625,
+      "totalTokenCount": 3219,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2594
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 625
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "TJtSaKv3PJbrqsMPiOTvsQI"
+  }
+}

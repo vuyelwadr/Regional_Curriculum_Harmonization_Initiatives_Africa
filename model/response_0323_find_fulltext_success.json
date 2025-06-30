@@ -1,0 +1,46 @@
+{
+  "response_id": 323,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:58:23.932477",
+  "metadata": {
+    "url": "https://noyam.org/jelt2025619/",
+    "final_url": "https://noyam.org/jelt2025619/",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Indigenous Knowledge Integration in South Africa's Technology Education Curriculum: Current Status, Challenges, and Future Directions\",\n    \"authors\": [\n      \"Benjamin Seleke\",\n      \"Nixon J.P. Teis\",\n      \"Christo\"\n    ],\n    \"doi\": null,\n    \"journal\": \"Noyam Journals\",\n    \"year\": \"2025\",\n    \"abstract\": \"This position paper critically evaluated the integration of indigenous knowledge into the South African Technology Education curriculum\"\n  },\n  \"fulltext_links\": [],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"medium\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.000906210412015569
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3153,
+      "candidatesTokenCount": 193,
+      "totalTokenCount": 3346,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3153
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 193
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "zptSaI71Kv6ShMIPm7P8iAY"
+  }
+}

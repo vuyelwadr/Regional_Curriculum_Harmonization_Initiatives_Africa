@@ -1,0 +1,46 @@
+{
+  "response_id": 14,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:28:07.662956",
+  "metadata": {
+    "url": "http://www.sejongjul.org/archive/view_article?doi=10.22425/jul.2025.26.1.133",
+    "final_url": "https://www.sejongjul.org/archive/view_article?pid=jul-26-1-133",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Language Planning in Curriculum Review and Harmonisation of Courses in African Tertiary Institutions\",\n    \"authors\": [\n      \"Sanni-Suleiman, Afsat\"\n    ],\n    \"doi\": \"10.22425/jul.2025.26.1.133\",\n    \"journal\": \"Journal of Universal Language\",\n    \"year\": \"2025\",\n    \"abstract\": \"Many decades after independence, most African countries have continued to make use of the curriculum put in place by their former colonial masters. Though, it would be erroneous to say that no change has occurred in the content of the curriculum of African schools, the fact still remains that the curriculum adopted at our various levels of education are fraught with imported ideas that are alien to the steady development of Africa. Education is, and remains the most veritable tool for national development and transformation. To move Africa forward in terms of science, technology and culture, African leaders and, indeed, education stakeholders across board need to come together to brainstorm on how to review, revise and harmonise the curriculum, taking into consideration the African needs and demands. Using the pragmatic approach of Dewey, who was a great advocate of progressive educational reform, this paper tries to examine the various strategies that could be put in place to move our education system in Africa to its next level of development.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"http://www.sejongjul.org/download/download_pdf?pid=jul-26-1-133\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.0008698935183862065
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2607,
+      "candidatesTokenCount": 433,
+      "totalTokenCount": 3040,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2607
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 433
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "tJRSaL6EOLqFsbQPqNrRqAQ"
+  }
+}

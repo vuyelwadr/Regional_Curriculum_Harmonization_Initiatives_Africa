@@ -1,0 +1,46 @@
+{
+  "response_id": 2,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:27:03.188119",
+  "metadata": {
+    "url": "http://ojs.spiruharet.ro/jedep/article/view/871",
+    "final_url": "http://ojs.spiruharet.ro/jedep/article/view/871",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"CHALLENGES of LEARNING and TEACHING  in HIGHER EDUCATION: A Systematic Literature Review of the South African Context\",\n    \"authors\": [\n      \"Msawenkosi Sandile Mbokazi\",\n      \"Mkhasibe Rachel Gugu\"\n    ],\n    \"doi\": \"10.26458/jedep.v14i1.871\",\n    \"journal\": \"Journal of Economic Development, Environment and People\",\n    \"year\": \"2025\",\n    \"abstract\": \"This systematic literature review examines the multifaceted challenges of learning and teaching in South African higher education institutions (HEIs). South Africa's higher education landscape is characterised by a unique blend of historical legacies, socio-economic disparities, and a diverse student population, making it a compelling context for investigating the complexities of learning and teaching. Drawing upon a comprehensive search of peer-reviewed journals, conference proceedings, and reports, this review synthesises key findings from the past decade (2012–2022) to shed light on the critical issues faced by HEIs. The review reveals several overarching challenges, which include historical inequalities, inadequate funding and infrastructure, and the demand for curriculum transformation to address 21st-century skills and align with labour market needs, which presents a considerable pedagogical challenge. The review underscores the importance of recognising diverse student backgrounds, languages, and learning preferences in promoting inclusive pedagogical approaches. Recommendations include addressing historical inequalities through targeted interventions, increased funding for HEIs, faculty development programmes, and leveraging technology to enhance access and engagement. In conclusion, this systematic literature review provides a comprehensive overview of the multifaceted challenges facing learning and teaching in South African higher education. It underscores the need for context-specific solutions to improve access, quality, and inclusivity in HEIs and calls for continued research and policy initiatives to address these critical issues.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"http://ojs.spiruharet.ro/jedep/article/download/871/1035\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -3.021914056741666e-07
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2831,
+      "candidatesTokenCount": 533,
+      "totalTokenCount": 3364,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2831
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 533
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "dJRSaInXArPQhMIP372DoQ0"
+  }
+}

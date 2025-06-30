@@ -1,0 +1,45 @@
+{
+  "response_id": 102,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:37:08.120881",
+  "metadata": {
+    "apa_number": 106,
+    "url": "https://documents1.worldbank.org/curated/en/507641468002107985/txt/655070WP00PUBL0ion0discussion0paper.txt",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://documents1.worldbank.org/curated/en/507641468002107985/txt/655070WP00PUBL0ion0discussion0paper.txt\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper discusses regional harmonization efforts in education across multiple African countries, specifically focusing on the harmonization of curricula and qualifications to promote mobility and cross-border education. It mentions regional frameworks and initiatives aimed at mutual recognition and credit transfer.\",\n  \"Title\": \"Revitalizing Higher Education in Africa\",\n  \"Authors\": [\n    \"Jamil Salmi\"\n  ],\n  \"Year\": \"2009\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"The World Bank\",\n    \"DOI_URL\": \"https://documents1.worldbank.org/curated/en/507641468002107985/txt/655070WP00PUBL0ion0discussion0paper.txt\",\n    \"APA_Reference\": \"Salmi, J. (2009). Revitalizing Higher Education in Africa. The World Bank.\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature Review/Policy Analysis\",\n    \"Geographic_Focus\": \"Africa (multiple countries/regions)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated\",\n    \"Harmonization_Definition\": \"Harmonization of curricula and qualifications to facilitate mobility and recognition.\",\n    \"Regional_Initiatives\": [\n      \"Harmonization of African Higher Education Quality Assurance and Accreditation\",\n      \"Tuning Africa Initiative\",\n      \"Harmonization of curricula and qualifications\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Regional collaboration\",\n      \"Policy reforms\",\n      \"Quality assurance mechanisms\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments\",\n      \"Higher education institutions\",\n      \"Regional organizations\",\n      \"Employers\"\n    ],\n    \"Data_Sources\": [\n      \"World Bank reports\",\n      \"UNESCO reports\",\n      \"Academic literature\",\n      \"Policy documents\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Higher education in Africa faces significant challenges related to quality, relevance, and access.\",\n      \"Regional harmonization can improve the quality and relevance of higher education.\",\n      \"Harmonization can facilitate student and faculty mobility.\",\n      \"Quality assurance and accreditation are crucial for harmonization efforts.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of resources\",\n      \"Weak governance\",\n      \"Inadequate infrastructure\",\n      \"Resistance to change\",\n      \"Varying quality standards\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political will\",\n      \"Effective leadership\",\n      \"Collaboration among stakeholders\",\n      \"Adequate funding\",\n      \"Clear quality assurance mechanisms\"\n    ],\n    \"Recommendations\": [\n      \"Invest in higher education\",\n      \"Strengthen governance\",\n      \"Promote regional collaboration\",\n      \"Develop quality assurance mechanisms\",\n      \"Align curricula with labor market needs\"\n    ],\n    \"Future_Research\": [\n      \"Impact of harmonization on student outcomes\",\n      \"Effectiveness of different harmonization approaches\",\n      \"Role of technology in promoting harmonization\"\n    ],\n    \"Specific_Examples\": [\n      \"Examples of successful regional harmonization initiatives in other parts of the world\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Regional frameworks\",\n      \"Quality assurance agencies\",\n      \"Credit transfer systems\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Political instability\",\n      \"Financial constraints\",\n      \"Cultural differences\",\n      \"Language barriers\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political commitment\",\n      \"Stakeholder engagement\",\n      \"Capacity building\",\n      \"Resource mobilization\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased student mobility\",\n      \"Improved quality of education\",\n      \"Enhanced regional integration\",\n      \"Greater employability of graduates\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 650,
+      "candidatesTokenCount": 1014,
+      "totalTokenCount": 1664,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 650
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1014
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "zZZSaPmdHoqThMIPyoil0Qo"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "response_id": 428,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:08:15.559951",
+  "metadata": {
+    "apa_number": 274,
+    "url": "https://pmejournal.org/articles/10.5334/pme.956",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://pmejournal.org/articles/10.5334/pme.956\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in Africa, specifically examining the Pan-African University (PAU) and its role in promoting cross-border education and harmonization of postgraduate programs. It addresses harmonization across institutions from different African countries, aligning with the research criteria. The paper discusses regional frameworks and initiatives aimed at fostering collaboration and standardization in higher education across the continent.\",\n  \"Title\": \"Harmonisation of postgraduate programmes in Africa: The case of the Pan-African University\",\n  \"Authors\": [\n    \"Pamela Abbott\",\n    \"Jacob K. Mugambi\",\n    \"Moses Oketch\"\n  ],\n  \"Year\": \"2021\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"PME Journal\",\n    \"DOI_URL\": \"https://doi.org/10.5334/pme.956\",\n    \"APA_Reference\": \"Abbott, P., Mugambi, J. K., & Oketch, M. (2021). Harmonisation of postgraduate programmes in Africa: The case of the Pan-African University. PME Journal, 13, 1–14. https://doi.org/10.5334/pme.956\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Case Study\",\n    \"Geographic_Focus\": \"Africa (Pan-African University)\",\n    \"Educational_Level\": \"Postgraduate\",\n    \"Sample_Size\": \"Not explicitly stated, but involves analysis of PAU programs and interviews with key stakeholders.\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated, but draws on concepts of regional integration and higher education harmonization.\",\n    \"Harmonization_Definition\": \"Implies standardization and alignment of postgraduate programs across different African institutions to facilitate student mobility and recognition of qualifications.\",\n    \"Regional_Initiatives\": [\n      \"Pan-African University (PAU)\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Curriculum development\",\n      \"Quality assurance mechanisms\",\n      \"Partnerships with African universities\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"African Union\",\n      \"PAU staff and students\",\n      \"Partner universities\",\n      \"Regional economic communities\"\n    ],\n    \"Data_Sources\": [\n      \"Document analysis\",\n      \"Interviews\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"PAU plays a crucial role in harmonizing postgraduate programs in Africa.\",\n      \"Harmonization efforts face challenges related to funding, language barriers, and varying academic standards.\",\n      \"PAU contributes to the development of a skilled workforce and promotes regional integration.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Funding constraints\",\n      \"Language barriers\",\n      \"Varying academic standards\",\n      \"Bureaucratic hurdles\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political support from the African Union\",\n      \"Commitment of PAU staff and students\",\n      \"Partnerships with reputable universities\",\n      \"Clear quality assurance mechanisms\"\n    ],\n    \"Recommendations\": [\n      \"Increased funding for PAU\",\n      \"Development of language support programs\",\n      \"Harmonization of academic standards across African universities\",\n      \"Streamlining of bureaucratic processes\"\n    ],\n    \"Future_Research\": [\n      \"Further research on the impact of PAU on regional development\",\n      \"Comparative studies of harmonization efforts in different African regions\",\n      \"Evaluation of the effectiveness of PAU's quality assurance mechanisms\"\n    ],\n    \"Specific_Examples\": [\n      \"PAU's thematic hubs focusing on specific disciplines\",\n      \"Curriculum development workshops involving experts from different African countries\",\n      \"Student exchange programs between PAU and partner universities\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Curriculum development\",\n      \"Quality assurance\",\n      \"Partnerships\",\n      \"Student exchange programs\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Funding\",\n      \"Language\",\n      \"Academic standards\",\n      \"Bureaucracy\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political support\",\n      \"Commitment\",\n      \"Partnerships\",\n      \"Quality assurance\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Skilled workforce\",\n      \"Regional integration\",\n      \"Knowledge sharing\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 621,
+      "candidatesTokenCount": 1078,
+      "totalTokenCount": 1699,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 621
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1078
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "GJ5SaMS3KIqThMIPyoil0Qo"
+  }
+}

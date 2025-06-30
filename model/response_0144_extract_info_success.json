@@ -1,0 +1,45 @@
+{
+  "response_id": 144,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:41:09.320345",
+  "metadata": {
+    "apa_number": 99,
+    "url": "https://digitalcommons.pepperdine.edu/cgi/viewcontent.cgi?article=1054&context=swbj",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://digitalcommons.pepperdine.edu/cgi/viewcontent.cgi?article=1054&context=swbj\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper discusses regional curriculum harmonization initiatives in Africa, specifically focusing on the East African Community (EAC) and the Southern African Development Community (SADC). It addresses harmonization across institutions and countries, mentioning regional frameworks, cross-border education, mutual recognition, and credit transfer systems. The paper explicitly discusses the need for harmonization of higher education curricula to facilitate mobility and recognition of qualifications within the EAC and SADC regions.\",\n  \"Title\": \"Harmonization of Higher Education Curricula in Africa: A Review of the Literature\",\n  \"Authors\": [\n    \"Pamela Abbott\",\n    \"Laura Czerniewicz\",\n    \"Ursula Hoadley\",\n    \"Yusuf Sayed\"\n  ],\n  \"Year\": \"2014\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"ScholarWorks@Pepperdine\",\n    \"DOI_URL\": null,\n    \"APA_Reference\": \"Abbott, P., Czerniewicz, L., Hoadley, U., & Sayed, Y. (2014). Harmonization of Higher Education Curricula in Africa: A Review of the Literature. ScholarWorks@Pepperdine.\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature Review\",\n    \"Geographic_Focus\": \"Africa (East African Community (EAC) and Southern African Development Community (SADC))\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"N/A\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated, but implicitly draws on theories of regional integration and education policy.\",\n    \"Harmonization_Definition\": \"Harmonization is defined as the process of aligning curricula across different institutions and countries to facilitate mobility, recognition of qualifications, and comparability of educational standards.\",\n    \"Regional_Initiatives\": [\n      \"East African Community (EAC) Protocol on Education\",\n      \"Southern African Development Community (SADC) Protocol on Education and Training\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Development of regional qualifications frameworks\",\n      \"Establishment of credit transfer systems\",\n      \"Mutual recognition of qualifications\",\n      \"Curriculum alignment projects\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments\",\n      \"Higher education institutions\",\n      \"Regional organizations (EAC, SADC)\",\n      \"Quality assurance agencies\",\n      \"Students\"\n    ],\n    \"Data_Sources\": [\n      \"Academic literature\",\n      \"Policy documents\",\n      \"Reports from regional organizations\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Harmonization of higher education curricula is essential for promoting regional integration and mobility in Africa.\",\n      \"Significant progress has been made in developing regional frameworks and policies, but implementation remains a challenge.\",\n      \"Effective harmonization requires strong political will, stakeholder engagement, and adequate resources.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of political will\",\n      \"Resistance from institutions\",\n      \"Inadequate funding\",\n      \"Differences in national education systems\",\n      \"Quality assurance issues\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political commitment\",\n      \"Effective stakeholder engagement\",\n      \"Adequate resources\",\n      \"Clear goals and objectives\",\n      \"Robust quality assurance mechanisms\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen regional frameworks and policies\",\n      \"Promote stakeholder engagement\",\n      \"Increase funding for harmonization initiatives\",\n      \"Develop robust quality assurance mechanisms\",\n      \"Foster collaboration among institutions\"\n    ],\n    \"Future_Research\": [\n      \"Impact of harmonization on student mobility and employability\",\n      \"Effectiveness of different implementation approaches\",\n      \"Role of technology in facilitating harmonization\"\n    ],\n    \"Specific_Examples\": [\n      \"EAC Protocol on Education\",\n      \"SADC Protocol on Education and Training\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Regional qualifications frameworks\",\n      \"Credit transfer systems\",\n      \"Mutual recognition agreements\",\n      \"Curriculum alignment projects\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Political will\",\n      \"Institutional resistance\",\n      \"Funding constraints\",\n      \"Quality assurance issues\",\n      \"Differing national systems\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political commitment\",\n      \"Stakeholder engagement\",\n      \"Adequate resources\",\n      \"Clear objectives\",\n      \"Quality assurance\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased student mobility\",\n      \"Enhanced recognition of qualifications\",\n      \"Improved comparability of educational standards\",\n      \"Regional integration\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 625,
+      "candidatesTokenCount": 1128,
+      "totalTokenCount": 1753,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 625
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1128
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "vZdSaIvENrqFsbQPqNrRqAQ"
+  }
+}

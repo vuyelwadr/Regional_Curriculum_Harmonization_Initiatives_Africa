@@ -1,0 +1,46 @@
+{
+  "response_id": 232,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:50:05.301947",
+  "metadata": {
+    "url": "https://journal.stitmadani.ac.id/index.php/JPI/article/view/719",
+    "final_url": "https://journal.stitmadani.ac.id/index.php/JPI/article/view/719",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"The Learning management of islamic education in the international baccalaureate middle years programme curriculum at Al-Firdaus Junior High School In Sukoharjo Academic Year 2023/2024\",\n    \"authors\": [\n      \"Muhammad Shidqi Naufal\",\n      \"Sukari\",\n      \"Sugiyat\",\n      \"Muh. Hasbi Khilal Zuhri\"\n    ],\n    \"doi\": \"10.51468/jpi.v6i2.719\",\n    \"journal\": \"At Turots: Jurnal Pendidikan Islam\",\n    \"year\": \"2024\",\n    \"abstract\": \"This study aims to determine the management of Islamic Education in the IB Curriculum (International Baccalaureate) Middle Years Programme at Al-Firdaus Sukoharjo Junior High School in the academic year 2023/2024. This research focuses on how to planning, implementation, and evaluation of Islamic Education in the IB Curriculum.\\u00a0 The research method used is descriptive qualitative with data collection techniques in the form of literature study, interviews, observation, and documentation. Data validity checks were carried out with observation persistence and data triangulation. Data analysis used in the form of data collection, data reduction, data presentation, and conclusion drawing. Based on the research results obtained, Islamic education learning management in the IB Curriculum at Al-Firdaus Sukoharjo Junior High School is well implemented, this is indicated by the existence of (1) learning planning in the form of preparing learning administration in accordance with the IB Curriculum, namely Overview, Mapping Unit, and Unit Planner. The learning administration includes materials, determination of learning methods and media, embedding IB Profile Learner, and determining the type of evaluation. (2) The implementation in the IB Curriculum is carried out in three stages, namely preliminary activities, core activities, and closing activities. (3) The evaluation in the IB Curriculum is carried out with three types, namely Diagnostic Assessment, Formative Assessment, and Summative Assessment with different forms and implementation times.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://journal.stitmadani.ac.id/index.php/JPI/article/download/719/338\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.0002568152470466418
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2924,
+      "candidatesTokenCount": 585,
+      "totalTokenCount": 3509,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2924
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 585
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "2plSaIgVmueqww_OieaQDQ"
+  }
+}

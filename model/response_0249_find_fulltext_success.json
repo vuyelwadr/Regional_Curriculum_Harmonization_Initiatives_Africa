@@ -1,0 +1,59 @@
+{
+  "response_id": 249,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:51:18.274714",
+  "metadata": {
+    "url": "https://journals.scholarpublishing.org/index.php/ASSRJ/article/view/10430",
+    "final_url": "https://journals.scholarpublishing.org/index.php/ASSRJ/article/view/10430",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Reflective examination of the educational philosophies of Dr. Kwame Nkrumah of Ghana and Julius Nyerere of Tanzania: Intricacies for curriculum development in Africa.\",\n    \"authors\": [\n      \"Clarke Ebow  Yalley\",\n      \"Andrews Acquah\"\n    ],\n    \"doi\": \"10.14738/assrj.87.10430\",\n    \"journal\": \"Advances in Social Sciences Research Journal\",\n    \"year\": \"2021\",\n    \"abstract\": \"The central focus of this paper is to undertake a reflective examination of the educational philosophies of Dr. Kwame Nkrumah of Ghana and Julius Nyerere of Tanzania and these educational philosophies intricacies for curriculum development in Africa. The educational philosophies of Dr. Kwame Nkrumah (Consciencism, Socialism, Africanism, Humanism, and Communism) as well as that of Julius Nyerere (Self-reliance and Liberation) were of importance to the distinct countries at the time yet, its relevance can still be felt and their foundational legacies within the educational front solidified and modified to meet current changes in education. African curriculum developers must not lose sight of the implications of these educational philosophies of these great Africanist scholars rather synchronize contemporary educational philosophies to meet the standards and vision of education of these two great Pan-Africanist.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://journals.scholarpublishing.org/index.php/ASSRJ/article/view/10430\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 96,
+              "endIndex": 260,
+              "uri": "http://pilot.uew.edu.gh/index.php/staff/staff-research-publications"
+            },
+            {
+              "startIndex": 479,
+              "endIndex": 1391
+            }
+          ]
+        },
+        "avgLogprobs": -0.0025474740414764617
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2990,
+      "candidatesTokenCount": 427,
+      "totalTokenCount": 3417,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2990
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 427
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "I5pSaKDgHbqFsbQPqNrRqAQ"
+  }
+}

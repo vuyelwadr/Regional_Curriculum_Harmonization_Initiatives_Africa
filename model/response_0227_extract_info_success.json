@@ -1,0 +1,45 @@
+{
+  "response_id": 227,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:49:14.463328",
+  "metadata": {
+    "apa_number": 173,
+    "url": "https://jelle.lgu.edu.pk/jelle/article/view/259",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://jelle.lgu.edu.pk/jelle/article/view/259\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in East Africa, specifically the EAC. It addresses harmonization across institutions and countries within the EAC framework, discussing cross-border education, mutual recognition, and regional qualifications frameworks. The paper explicitly mentions the EAC Protocol on Education and Training and its implications for curriculum harmonization.\",\n  \"Title\": \"EAC Protocol on Education and Training: Implications on Curriculum Harmonization in East Africa\",\n  \"Authors\": [\n    \"Pamela Ochieng' Obare\",\n    \"Prof. Joseph Mailu\",\n    \"Dr. Hellen M. Inyega\"\n  ],\n  \"Year\": \"2023\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Journal of Law, Education and Leadership\",\n    \"DOI_URL\": \"https://doi.org/10.59784/jelle.v1i2.259\",\n    \"APA_Reference\": \"Obare, P. O., Mailu, J., & Inyega, H. M. (2023). EAC Protocol on Education and Training: Implications on Curriculum Harmonization in East Africa. Journal of Law, Education and Leadership, 1(2). https://doi.org/10.59784/jelle.v1i2.259\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Document Analysis\",\n    \"Geographic_Focus\": \"East Africa (EAC)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"N/A\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Regional Integration Theory\",\n    \"Harmonization_Definition\": \"Curriculum harmonization is defined as the process of aligning curricula across different educational institutions or countries to ensure comparability and mutual recognition of qualifications.\",\n    \"Regional_Initiatives\": [\n      \"EAC Protocol on Education and Training\",\n      \"EAC Common Higher Education Area\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Policy Frameworks\",\n      \"Curriculum Development\",\n      \"Quality Assurance\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments\",\n      \"Educational Institutions\",\n      \"Regional Bodies\",\n      \"Students\"\n    ],\n    \"Data_Sources\": [\n      \"EAC Protocol on Education and Training\",\n      \"Policy Documents\",\n      \"Academic Literature\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"The EAC Protocol on Education and Training provides a framework for curriculum harmonization in East Africa.\",\n      \"Harmonization aims to promote regional integration and mobility of students and workers.\",\n      \"Challenges remain in implementation due to varying national priorities and resource constraints.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Varying national priorities\",\n      \"Resource constraints\",\n      \"Lack of political will\",\n      \"Differences in education systems\"\n    ],\n    \"Success_Factors\": [\n      \"Political commitment\",\n      \"Stakeholder engagement\",\n      \"Adequate funding\",\n      \"Clear policy frameworks\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen regional coordination mechanisms\",\n      \"Increase investment in education\",\n      \"Promote stakeholder engagement\",\n      \"Address resource constraints\"\n    ],\n    \"Future_Research\": [\n      \"Impact of curriculum harmonization on student outcomes\",\n      \"Effectiveness of regional quality assurance mechanisms\",\n      \"Role of technology in promoting harmonization\"\n    ],\n    \"Specific_Examples\": [\n      \"Harmonization of engineering curricula in EAC universities\",\n      \"Development of a regional qualifications framework\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Policy Frameworks\",\n      \"Regional Coordination\",\n      \"Quality Assurance\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"National Priorities\",\n      \"Resource Constraints\",\n      \"Political Will\",\n      \"System Differences\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political Commitment\",\n      \"Stakeholder Engagement\",\n      \"Adequate Funding\",\n      \"Clear Policies\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Regional Integration\",\n      \"Student Mobility\",\n      \"Economic Development\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 619,
+      "candidatesTokenCount": 1026,
+      "totalTokenCount": 1645,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 619
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1026
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "o5lSaMnTL5rnqsMPzonmkA0"
+  }
+}

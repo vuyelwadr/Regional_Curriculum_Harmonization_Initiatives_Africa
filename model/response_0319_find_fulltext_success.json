@@ -1,0 +1,60 @@
+{
+  "response_id": 319,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:58:19.296231",
+  "metadata": {
+    "url": "https://doi.org/10.38159/ehass.20234108",
+    "final_url": "https://noyam.org/ehass20234108/",
+    "attempt": 2,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Rethinking South African Higher Education Institutions Role Towards Curriculum Restructuring\",\n    \"authors\": [\n      \"Nozuko Nqabeni\"\n    ],\n    \"doi\": \"10.38159/ehass.20234108\",\n    \"journal\": \"Noyam Journals\",\n    \"year\": \"2023\",\n    \"abstract\": \"The article shed light on the crucial process of restructuring the curriculum and emphasized the need for proactive engagement, despite the challenges that impede effective learning and teaching.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://doi.org/10.38159/ehass.20234108\",\n      \"type\": \"doi_url\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": true,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 87,
+              "endIndex": 267,
+              "uri": "https://m.booksci.cn/literature/135569628.htm"
+            },
+            {
+              "startIndex": 346,
+              "endIndex": 534,
+              "uri": "https://www.researchgate.net/publication/374891861_Rethinking_South_African_Higher_Education_Institutions_Role_Towards_Curriculum_Restructuring"
+            }
+          ]
+        },
+        "avgLogprobs": -0.001058869966954896
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3226,
+      "candidatesTokenCount": 264,
+      "totalTokenCount": 3490,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3226
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 264
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "yZtSaL7dIprnqsMPzonmkA0"
+  }
+}

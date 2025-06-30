@@ -1,0 +1,59 @@
+{
+  "response_id": 222,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:49:05.987102",
+  "metadata": {
+    "url": "https://journal-laaroiba.com/ojs/index.php/mk/article/view/3398",
+    "final_url": "https://journal-laaroiba.com/ojs/index.php/mk/article/view/3398",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Pengembangan Media E-Comic untuk Meningkatkan Hasil Belajar Siswa Kelas III SD Negeri 066650 Medan Tahun Ajaran 2023/2024\",\n    \"authors\": [\n      \"Sylvia Ramadhani\",\n      \"Sri Mustika Aulia\",\n      \"Eva Betty Simanjuntak\",\n      \"Septian Prawijaya\",\n      \"Lidia Simanihuruk\"\n    ],\n    \"doi\": \"10.47467/mk.v23i2.3398\",\n    \"journal\": \"Mimbar Kampus: Jurnal Pendidikan dan Agama Islam\",\n    \"year\": \"2024\",\n    \"abstract\": \"This research uses the ADDIE development model to develop Canva-based e-comics on dance art materials for grade III students at SD Negeri 066650 Medan in the even semester of the 2024/2025 academic year. This research involved 30 class III students as subjects, 3 expert validations, and 1 teacher with the aim of testing the feasibility of e-comic media in dance art subjects in the independent curriculum. Validation by material experts, media experts, and question experts showed that this e-comic scored high, material experts gave a score of 47 out of 50 (91.1%), media experts gave it a score of 62 out of 65 (94%), and question experts gave it a score of 26 out of 30 (86.65%). Teachers also gave high scores for practicality tests (97%), with all aspects such as appearance, material, and language getting 'very decent' and 'valid' categories. The evaluation results showed a significant improvement in student learning outcomes as seen from the comparison of student pretest and post scores, with the validity and reliability of the questions tested using the SPSS version 26 application. This study recommends using Canva-based e-comic as an effective and interesting learning medium in supporting interactive and creative learning in elementary schools.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://journal-laaroiba.com/ojs/index.php/mk/article/download/3398/2993\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 95,
+              "endIndex": 215,
+              "uri": "https://scholar-chat.com/paper/web/b2f0da8893168230f88cd19b65105395"
+            },
+            {
+              "startIndex": 521,
+              "endIndex": 1781
+            }
+          ]
+        },
+        "avgLogprobs": -0.00011553760309106404
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3094,
+      "candidatesTokenCount": 591,
+      "totalTokenCount": 3685,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3094
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 591
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "nplSaPytKf6ShMIPm7P8iAY"
+  }
+}

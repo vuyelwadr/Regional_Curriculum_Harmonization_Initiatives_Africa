@@ -1,0 +1,45 @@
+{
+  "response_id": 446,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:10:10.858429",
+  "metadata": {
+    "apa_number": 300,
+    "url": "https://systems.enpress-publisher.com/index.php/jipd/article/download/10749/5108",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://systems.enpress-publisher.com/index.php/jipd/article/download/10749/5108\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in Africa, specifically addressing the need for harmonization across institutions and countries within the context of the African Continental Free Trade Area (AfCFTA). It discusses the importance of mutual recognition of qualifications and skills to facilitate labor mobility and economic integration across the continent. The paper also mentions regional frameworks and cross-border education.\",\n  \"Title\": \"Curriculum Harmonisation in Africa: Imperatives for Mutual Recognition of Qualifications and Skills Mobility in the Context of AfCFTA\",\n  \"Authors\": [\n    \"Oluwole Olusola Durodola\"\n  ],\n  \"Year\": \"2024\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Journal of Innovation and Practice in Development\",\n    \"DOI_URL\": \"https://doi.org/10.32996/jipd.2024.5.1.1\",\n    \"APA_Reference\": \"Durodola, O. O. (2024). Curriculum Harmonisation in Africa: Imperatives for Mutual Recognition of Qualifications and Skills Mobility in the Context of AfCFTA. Journal of Innovation and Practice in Development, 5(1), 1–14. https://doi.org/10.32996/jipd.2024.5.1.1\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature Review/Conceptual Analysis\",\n    \"Geographic_Focus\": \"Africa (Continental)\",\n    \"Educational_Level\": \"Higher Education/TVET\",\n    \"Sample_Size\": \"Not applicable\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated, but implicitly draws on theories of regional integration and human capital development.\",\n    \"Harmonization_Definition\": \"Curriculum harmonization is defined as a process of aligning curricula across different educational institutions and countries to ensure comparability and mutual recognition of qualifications and skills.\",\n    \"Regional_Initiatives\": [\n      \"African Continental Free Trade Area (AfCFTA)\",\n      \"Mutual Recognition Agreements (MRAs)\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Developing common curriculum frameworks\",\n      \"Establishing quality assurance mechanisms\",\n      \"Promoting credit transfer systems\",\n      \"Creating regional qualifications frameworks\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments\",\n      \"Educational institutions\",\n      \"Regional economic communities (RECs)\",\n      \"Employers\",\n      \"Professional bodies\"\n    ],\n    \"Data_Sources\": [\n      \"Academic literature\",\n      \"Policy documents\",\n      \"Reports from international organizations\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Curriculum harmonization is essential for facilitating skills mobility and economic integration in Africa under the AfCFTA.\",\n      \"Mutual recognition of qualifications is critical for enabling cross-border employment and investment.\",\n      \"Regional frameworks and standards are needed to ensure the quality and comparability of education and training programs.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of political will\",\n      \"Divergent educational systems\",\n      \"Inadequate funding\",\n      \"Resistance from stakeholders\",\n      \"Quality assurance issues\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political commitment\",\n      \"Collaboration among stakeholders\",\n      \"Adequate funding\",\n      \"Effective quality assurance mechanisms\",\n      \"Harmonized curriculum frameworks\"\n    ],\n    \"Recommendations\": [\n      \"Develop regional qualifications frameworks\",\n      \"Establish credit transfer systems\",\n      \"Promote mutual recognition of qualifications\",\n      \"Invest in quality assurance\",\n      \"Strengthen collaboration among stakeholders\"\n    ],\n    \"Future_Research\": [\n      \"Impact of curriculum harmonization on skills mobility and economic growth\",\n      \"Effectiveness of different harmonization approaches\",\n      \"Role of technology in facilitating curriculum harmonization\"\n    ],\n    \"Specific_Examples\": [\n      \"Examples of successful curriculum harmonization initiatives in other regions (e.g., Europe)\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Regional qualifications frameworks\",\n      \"Credit transfer systems\",\n      \"Mutual recognition agreements\",\n      \"Quality assurance agencies\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Political barriers\",\n      \"Systemic differences\",\n      \"Financial constraints\",\n      \"Stakeholder resistance\",\n      \"Quality concerns\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political will\",\n      \"Stakeholder collaboration\",\n      \"Adequate funding\",\n      \"Effective quality assurance\",\n      \"Harmonized frameworks\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased skills mobility\",\n      \"Enhanced economic integration\",\n      \"Improved quality of education and training\",\n      \"Greater comparability of qualifications\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 630,
+      "candidatesTokenCount": 1167,
+      "totalTokenCount": 1797,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 630
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1167
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "i55SaIeANOiChMIP-ufFUQ"
+  }
+}

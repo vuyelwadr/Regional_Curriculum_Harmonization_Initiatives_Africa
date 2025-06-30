@@ -1,0 +1,45 @@
+{
+  "response_id": 31,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:30:01.778476",
+  "metadata": {
+    "apa_number": 50,
+    "url": "https://acuass.org/wp-content/uploads/2021/08/Competency-Based-Curriculum-Webinars-Revised-Report-August-2021.pdf",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://acuass.org/wp-content/uploads/2021/08/Competency-Based-Curriculum-Webinars-Revised-Report-August-2021.pdf\",\n  \"MATCHES_CRITERIA\": false,\n  \"CRITERIA_MATCH_EXPLANATION\": \"This report summarizes webinars on competency-based curriculum development. While it discusses curriculum development in African universities, it does not focus on regional curriculum harmonization initiatives involving multiple countries or regions. The focus is on individual institutions adopting competency-based approaches, not cross-border harmonization.\",\n  \"Title\": \"Competency-Based Curriculum Webinars Revised Report August 2021\",\n  \"Authors\": [],\n  \"Year\": \"2021\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 640,
+      "candidatesTokenCount": 172,
+      "totalTokenCount": 812,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 640
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 172
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "KJVSaJasDuiChMIP-ufFUQ"
+  }
+}

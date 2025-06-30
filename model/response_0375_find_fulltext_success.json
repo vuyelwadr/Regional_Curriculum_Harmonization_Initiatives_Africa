@@ -1,0 +1,65 @@
+{
+  "response_id": 375,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:03:19.225683",
+  "metadata": {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/36622865/",
+    "final_url": "https://pubmed.ncbi.nlm.nih.gov/36622865/",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"The process of harmonizing competency-based curricula for medicine and nursing degree programmes: A Multi-institutional and multi-professional experience from Tanzania\",\n    \"authors\": [\n      \"Mloka D\",\n      \"Tarimo E\",\n      \"Mselle L\",\n      \"Mshana S\",\n      \"Sirili N\",\n      \"Rogathi J\",\n      \"Msuya L\",\n      \"Rugarabamu P\",\n      \"Mteta A\",\n      \"Moshi M\",\n      \"Kwesigabo G\",\n      \"Lyamuya E\",\n      \"Bartlett J\",\n      \"Martin-Holland J\",\n      \"O'Sullivan P\",\n      \"Macfarlane S\",\n      \"Kaaya E\"\n    ],\n    \"doi\": \"10.1080/0142159X.2022.2158066\",\n    \"journal\": \"Med Teach\",\n    \"year\": \"2023\",\n    \"abstract\": \"In many low- and middle-income countries, there seems to be a mismatch between graduate skills and healthcare industry requirements due to variability in curricula. With the current increased global demand for competent health profession graduates, harmonizing competency-based curricula (CBC) is nec …\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://doi.org/10.1080/0142159X.2022.2158066\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": true,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 96,
+              "endIndex": 261,
+              "uri": "https://www.bugando.ac.tz/publications.php"
+            },
+            {
+              "startIndex": 290,
+              "endIndex": 608,
+              "uri": "https://issuu.com/faculty-educators-ucsf/docs/2023_annual_report_"
+            },
+            {
+              "startIndex": 726,
+              "endIndex": 1023,
+              "uri": "https://scholars.duke.edu/publication/1587809"
+            }
+          ]
+        },
+        "avgLogprobs": -0.002921345299237395
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3146,
+      "candidatesTokenCount": 438,
+      "totalTokenCount": 3584,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3146
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 438
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "9JxSaOSkJYqThMIPyoil0Qo"
+  }
+}

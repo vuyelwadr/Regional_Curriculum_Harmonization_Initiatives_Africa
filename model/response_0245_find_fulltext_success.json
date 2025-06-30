@@ -1,0 +1,46 @@
+{
+  "response_id": 245,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:51:12.783663",
+  "metadata": {
+    "url": "https://journal.tofedu.or.id/index.php/journal/article/view/523",
+    "final_url": "https://journal.tofedu.or.id/index.php/journal/article/view/523",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Integrating Eye Health into Educational Curriculum:  A Systematic Review of School Based Vision Care Initiatives\",\n    \"authors\": [\n      \"Rosmerry Simanjuntak\",\n      \"Shirley A. Padua\",\n      \"Adrianus Prihartanto\",\n      \"Henny Sutrisman\",\n      \"Bayu Kusumo\",\n      \"Purnamawati Purnamawati\",\n      \"Rossa Ramadhona\"\n    ],\n    \"doi\": \"10.61445/tofedu.v4i5.523\",\n    \"journal\": \"TOFEDU: The Future of Education Journal\",\n    \"year\": \"2025\",\n    \"abstract\": \"Vision is foundational to children’s learning and development, yet millions of school-aged children suffer from undiagnosed or untreated vision problems. Despite the critical role of vision in academic achievement, eye health is rarely integrated into school curricula globally. This study presents a systematic literature review of recent evidence (2020–2024) on the integration of eye health into educational curricula, analyzing models, stakeholder roles, barriers, and measurable impacts. Using PRISMA guidelines, 35 peer-reviewed articles were selected through searches on Scopus, PubMed, ERIC, and Google Scholar. Thematic analysis was conducted to identify dominant trends across curriculum integration models, educator and optometrist roles, policy constraints, and outcomes. Findings reveal that integrated models where eye health is embedded into science or health subjects enhance students’ knowledge and behavior. Teachers trained in basic visual screening significantly improve early detection. Cross-sector collaboration between health and education authorities boosts sustainability. Key barriers include policy misalignment, funding gaps, and cultural beliefs about eyewear. Programs in India, Australia, and South Africa show strong outcomes in literacy improvement, academic gains, and cost-effectiveness. Integrating eye health into education is not merely a health intervention but a strategic investment in equity and academic potential. Policymakers must prioritize vision care within school health frameworks by empowering educators, engaging optometrists, and contextualizing approaches to local needs.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://journal.tofedu.or.id/index.php/journal/article/download/523/514\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.00033403545669707723
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2774,
+      "candidatesTokenCount": 577,
+      "totalTokenCount": 3351,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2774
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 577
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "HZpSaProCeiChMIP-ufFUQ"
+  }
+}

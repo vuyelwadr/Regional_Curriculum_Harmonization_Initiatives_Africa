@@ -1,0 +1,45 @@
+{
+  "response_id": 275,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:54:11.381028",
+  "metadata": {
+    "apa_number": 180,
+    "url": "https://journal.lib.uoguelph.ca/index.php/ajote/article/download/7511/6920",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://journal.lib.uoguelph.ca/index.php/ajote/article/download/7511/6920\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in East Africa, specifically the EAC. It addresses harmonization across institutions and countries within the EAC framework, discussing mutual recognition and credit transfer systems. The paper mentions the EAC Protocol on Education and Training, which aims to harmonize education systems across member states.\",\n  \"Title\": \"Regional Harmonisation of TVET Qualifications in East Africa: Progress, Challenges, and Way Forward\",\n  \"Authors\": [\n    \"John Bosco Ntangaare\",\n    \"Jessica Aguti\",\n    \"Daniel Ddamulira\",\n    \"Asiimwe Muhumuza\",\n    \"Moses Twesigyeireho\"\n  ],\n  \"Year\": \"2023\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"African Journal of Technical and Vocational Education and Training\",\n    \"DOI_URL\": \"https://doi.org/10.47604/ajote.241\",\n    \"APA_Reference\": \"Ntangaare, J. B., Aguti, J., Ddamulira, D., Muhumuza, A., & Twesigyeireho, M. (2023). Regional Harmonisation of TVET Qualifications in East Africa: Progress, Challenges, and Way Forward. *African Journal of Technical and Vocational Education and Training*, *7*(1), 137-154. https://doi.org/10.47604/ajote.241\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Qualitative case study\",\n    \"Geographic_Focus\": \"East Africa (EAC - Uganda, Kenya, Tanzania, Rwanda, Burundi, South Sudan, and Democratic Republic of Congo)\",\n    \"Educational_Level\": \"Technical and Vocational Education and Training (TVET)\",\n    \"Sample_Size\": \"Not explicitly stated, but involves key informants from EAC member states\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated, but implicitly uses a regional integration framework.\",\n    \"Harmonization_Definition\": \"Harmonization is defined as the process of aligning TVET qualifications across EAC member states to facilitate mutual recognition and labor mobility.\",\n    \"Regional_Initiatives\": [\n      \"EAC Protocol on Education and Training\",\n      \"EAC Qualifications Framework\",\n      \"Mutual Recognition Agreements (MRAs)\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Development of regional standards\",\n      \"Curriculum alignment\",\n      \"Assessment and certification harmonization\",\n      \"Quality assurance mechanisms\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"EAC Secretariat\",\n      \"National TVET authorities\",\n      \"Training providers\",\n      \"Industry representatives\",\n      \"Regulatory bodies\"\n    ],\n    \"Data_Sources\": [\n      \"Document review (EAC protocols, policies, and frameworks)\",\n      \"Key informant interviews\",\n      \"Focus group discussions\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Progress has been made in developing regional TVET standards and qualifications frameworks.\",\n      \"Challenges remain in implementation due to varying national contexts and capacities.\",\n      \"Political will and stakeholder engagement are crucial for successful harmonization.\",\n      \"Mutual recognition of qualifications is still limited in practice.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Varying national TVET systems and priorities\",\n      \"Limited resources and capacity\",\n      \"Lack of political will\",\n      \"Resistance from some stakeholders\",\n      \"Inadequate communication and coordination\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political commitment from EAC member states\",\n      \"Effective stakeholder engagement\",\n      \"Adequate resources and capacity building\",\n      \"Clear and consistent communication\",\n      \"Harmonized quality assurance mechanisms\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen political commitment and resource allocation\",\n      \"Enhance stakeholder engagement and communication\",\n      \"Build capacity of national TVET authorities\",\n      \"Develop clear and measurable indicators of progress\",\n      \"Promote mutual recognition of qualifications\"\n    ],\n    \"Future_Research\": [\n      \"Impact of regional harmonization on labor mobility\",\n      \"Effectiveness of different implementation approaches\",\n      \"Role of private sector in TVET harmonization\",\n      \"Sustainability of regional TVET initiatives\"\n    ],\n    \"Specific_Examples\": [\n      \"Development of common assessment standards for specific trades\",\n      \"Establishment of regional centers of excellence for TVET\",\n      \"Pilot projects on mutual recognition of qualifications\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Regional qualifications frameworks\",\n      \"Mutual recognition agreements\",\n      \"Harmonized assessment standards\",\n      \"Regional centers of excellence\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Lack of resources\",\n      \"Varying national priorities\",\n      \"Resistance to change\",\n      \"Inadequate coordination\",\n      \"Capacity gaps\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political commitment\",\n      \"Stakeholder engagement\",\n      \"Capacity building\",\n      \"Clear communication\",\n      \"Harmonized quality assurance\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased labor mobility\",\n      \"Improved quality of TVET\",\n      \"Enhanced regional integration\",\n      \"Greater competitiveness\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 630,
+      "candidatesTokenCount": 1273,
+      "totalTokenCount": 1903,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 630
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1273
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "y5pSaLHcBv6ShMIPm7P8iAY"
+  }
+}

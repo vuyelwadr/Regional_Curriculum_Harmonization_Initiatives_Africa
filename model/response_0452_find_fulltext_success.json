@@ -1,0 +1,46 @@
+{
+  "response_id": 452,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:10:19.382114",
+  "metadata": {
+    "url": "https://wenr.wes.org/2018/12/common-higher-education-area-chea-of-the-east-african-community",
+    "final_url": "https://wenr.wes.org/2018/12/common-higher-education-area-chea-of-the-east-african-community",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"The Common Higher Education Area (CHEA) of the East African Community\",\n    \"authors\": [\n      \"Stefan Trines\"\n    ],\n    \"doi\": null,\n    \"journal\": \"WENR (World Education News & Reviews)\",\n    \"year\": \"2018\",\n    \"abstract\": \"The Common Higher Education Area (CHEA) of the East African Community brings Bologna Process style reforms to East Africa. How is it working?\"\n  },\n  \"fulltext_links\": [],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.0012331428560050759
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3609,
+      "candidatesTokenCount": 185,
+      "totalTokenCount": 3794,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3609
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 185
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "mZ5SaKDvMJbrqsMPiOTvsQI"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "response_id": 54,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:32:07.982504",
+  "metadata": {
+    "apa_number": 35,
+    "url": "https://scielo.org.za/scielo.php?script=sci_arttext&pid=S2520-98682023000200003&lng=en&nrm=iso&tlng=en",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://scielo.org.za/scielo.php?script=sci_arttext&pid=S2520-98682023000200003&lng=en&nrm=iso&tlng=en\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in the East African Community (EAC), involving multiple countries. It addresses harmonization across institutions and countries, specifically focusing on mutual recognition of qualifications and the development of a regional qualifications framework. The paper explicitly mentions the EAC Qualifications Framework.\",\n  \"Title\": \"Towards a Common Higher Education Area in East Africa: A Review of the EAC Qualifications Framework\",\n  \"Authors\": [\n    \"Aloysius Tayebwa\",\n    \"Jessica Aguti\",\n    \"Edgar Nabutanyi\"\n  ],\n  \"Year\": \"2023\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"South African Journal of Higher Education\",\n    \"DOI_URL\": \"http://dx.doi.org/10.20853/2520-9868.2023.v37.i2.2349\",\n    \"APA_Reference\": \"Tayebwa, A., Aguti, J., & Nabutanyi, E. (2023). Towards a Common Higher Education Area in East Africa: A Review of the EAC Qualifications Framework. *South African Journal of Higher Education*, *37*(2), 1-17. http://dx.doi.org/10.20853/2520-9868.2023.v37.i2.2349\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature Review\",\n    \"Geographic_Focus\": \"East African Community (EAC)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"N/A\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated, but implicitly uses concepts of regional integration and qualifications frameworks.\",\n    \"Harmonization_Definition\": \"Harmonization is defined through the lens of developing a common higher education area via a qualifications framework that facilitates mutual recognition and comparability of qualifications across EAC member states.\",\n    \"Regional_Initiatives\": [\n      \"EAC Qualifications Framework\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Development of a regional qualifications framework\",\n      \"Mutual recognition of qualifications\",\n      \"Quality assurance mechanisms\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"EAC Secretariat\",\n      \"National Qualifications Authorities\",\n      \"Higher Education Institutions\",\n      \"Students\",\n      \"Employers\"\n    ],\n    \"Data_Sources\": [\n      \"EAC documents\",\n      \"Policy documents\",\n      \"Academic literature\",\n      \"Reports from EAC partner states\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"The EAC Qualifications Framework is a key instrument for harmonizing higher education in the region.\",\n      \"Progress has been made in developing the framework, but challenges remain in its implementation.\",\n      \"Mutual recognition of qualifications is crucial for facilitating student and labor mobility.\",\n      \"Quality assurance mechanisms are essential for ensuring the credibility of the framework.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Varying levels of development among EAC member states.\",\n      \"Differences in national education systems.\",\n      \"Lack of resources and capacity.\",\n      \"Political commitment and coordination challenges.\"\n    ],\n    \"Success_Factors\": [\n      \"Political will and commitment from EAC member states.\",\n      \"Strong leadership from the EAC Secretariat.\",\n      \"Collaboration among stakeholders.\",\n      \"Effective communication and awareness-raising.\"\n    ],\n    \"Recommendations\": [\n      \"Strengthening the capacity of national qualifications authorities.\",\n      \"Developing clear guidelines for mutual recognition of qualifications.\",\n      \"Investing in quality assurance mechanisms.\",\n      \"Promoting stakeholder engagement and collaboration.\",\n      \"Enhancing monitoring and evaluation of the framework's implementation.\"\n    ],\n    \"Future_Research\": [\n      \"Further research is needed to assess the impact of the EAC Qualifications Framework on student and labor mobility.\",\n      \"Studies are needed to examine the effectiveness of different implementation approaches.\",\n      \"Research should explore the role of technology in facilitating harmonization.\"\n    ],\n    \"Specific_Examples\": [\n      \"The paper mentions the development of descriptors for different levels of qualifications within the EAC Qualifications Framework.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Regional Qualifications Framework\",\n      \"Mutual Recognition Agreements\",\n      \"Quality Assurance Systems\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Varying National Education Systems\",\n      \"Resource Constraints\",\n      \"Political and Coordination Issues\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political Commitment\",\n      \"Strong Regional Leadership\",\n      \"Stakeholder Collaboration\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Enhanced Student Mobility\",\n      \"Increased Labor Mobility\",\n      \"Improved Quality of Higher Education\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 657,
+      "candidatesTokenCount": 1199,
+      "totalTokenCount": 1856,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 657
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1199
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "oJVSaKKDG6iUsbQPmK3KkQI"
+  }
+}

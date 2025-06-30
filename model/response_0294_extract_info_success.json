@@ -1,0 +1,45 @@
+{
+  "response_id": 294,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:56:11.097555",
+  "metadata": {
+    "apa_number": 195,
+    "url": "https://journals.eanso.org/index.php/eajes/article/download/1574/2269",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://journals.eanso.org/index.php/eajes/article/download/1574/2269\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in East Africa, specifically examining the harmonization of teacher education curricula across multiple countries within the East African Community (EAC). It addresses harmonization across institutions and countries, focusing on regional frameworks and cross-border education. The paper mentions the EAC Protocol on Education and Training, which aims to promote regional integration through harmonization of education systems.\",\n  \"Title\": \"Harmonization of Teacher Education Curriculum in East Africa: Progress, Challenges, and Prospects\",\n  \"Authors\": [\n    \"Nyakundi, E. N.\",\n    \"Ndurumo, M. M.\",\n    \"Thinguri, R. W.\"\n  ],\n  \"Year\": \"2024\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"East African Journal of Education Studies\",\n    \"DOI_URL\": \"https://doi.org/10.37284/eajes.7.1.1574\",\n    \"APA_Reference\": \"Nyakundi, E. N., Ndurumo, M. M., & Thinguri, R. W. (2024). Harmonization of Teacher Education Curriculum in East Africa: Progress, Challenges, and Prospects. East African Journal of Education Studies, 7(1), 1-14. https://doi.org/10.37284/eajes.7.1.1574\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature Review and Document Analysis\",\n    \"Geographic_Focus\": \"East Africa (Kenya, Uganda, Tanzania, Rwanda, Burundi, South Sudan)\",\n    \"Educational_Level\": \"Teacher Education\",\n    \"Sample_Size\": \"Not applicable (literature review)\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated, but implicitly grounded in regional integration theory.\",\n    \"Harmonization_Definition\": \"Harmonization is defined as the process of aligning teacher education curricula across East African countries to promote regional integration and mobility of teachers.\",\n    \"Regional_Initiatives\": [\n      \"EAC Protocol on Education and Training\",\n      \"EAC Common Market Protocol\",\n      \"Harmonization of Teacher Education Curricula in East Africa\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Curriculum review and alignment\",\n      \"Development of common standards\",\n      \"Capacity building for teacher educators\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Ministries of Education\",\n      \"Teacher Education Institutions\",\n      \"East African Community Secretariat\",\n      \"Teacher Educators\",\n      \"Students\"\n    ],\n    \"Data_Sources\": [\n      \"Policy documents\",\n      \"Curriculum documents\",\n      \"Research reports\",\n      \"Academic literature\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Progress has been made in harmonizing teacher education curricula in East Africa, but challenges remain.\",\n      \"The EAC Protocol on Education and Training provides a framework for harmonization.\",\n      \"Harmonization aims to improve the quality and relevance of teacher education and promote regional integration.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of political will\",\n      \"Inadequate funding\",\n      \"Differences in national education systems\",\n      \"Resistance from some stakeholders\",\n      \"Language barriers\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political commitment\",\n      \"Adequate funding\",\n      \"Effective coordination\",\n      \"Stakeholder involvement\",\n      \"Capacity building\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen political commitment to harmonization.\",\n      \"Increase funding for harmonization initiatives.\",\n      \"Improve coordination among stakeholders.\",\n      \"Address language barriers.\",\n      \"Promote stakeholder involvement.\"\n    ],\n    \"Future_Research\": [\n      \"Further research is needed to evaluate the impact of harmonization on teacher quality and student learning.\",\n      \"Research is also needed to identify best practices for harmonization.\"\n    ],\n    \"Specific_Examples\": [\n      \"Harmonization of core subjects in teacher education curricula.\",\n      \"Development of common assessment standards.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Curriculum alignment\",\n      \"Policy frameworks\",\n      \"Regional collaborations\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Political differences\",\n      \"Resource constraints\",\n      \"Systemic variations\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political will\",\n      \"Financial support\",\n      \"Collaborative partnerships\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Improved teacher quality\",\n      \"Enhanced regional integration\",\n      \"Increased student mobility\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 626,
+      "candidatesTokenCount": 1133,
+      "totalTokenCount": 1759,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 626
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1133
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "Q5tSaLb9H7qFsbQPqNrRqAQ"
+  }
+}

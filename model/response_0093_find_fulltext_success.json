@@ -1,0 +1,46 @@
+{
+  "response_id": 93,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:36:07.178911",
+  "metadata": {
+    "url": "https://axiompublishers.scholasticahq.com/article/122555-chapter-7-reflecting-on-four-south-african-case-studies-of-experiential-learning-in-spatial-planning-to-inform-curriculum-transformation-in-highe",
+    "final_url": "https://axiompublishers.scholasticahq.com/article/122555-chapter-7-reflecting-on-four-south-african-case-studies-of-experiential-learning-in-spatial-planning-to-inform-curriculum-transformation-in-highe",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Chapter 7: Reflecting on four South African case studies of experiential learning in spatial planning to inform curriculum transformation in higher education\",\n    \"authors\": [],\n    \"doi\": null,\n    \"journal\": null,\n    \"year\": null,\n    \"abstract\": null\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://axiompublishers.scholasticahq.com/article/122555-chapter-7-reflecting-on-four-south-african-case-studies-of-experiential-learning-in-spatial-planning-to-inform-curriculum-transformation-in-highe\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": true,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.00856475830078125
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 4099,
+      "candidatesTokenCount": 250,
+      "totalTokenCount": 4349,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 4099
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 250
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "lZZSaPCPEv6ShMIPm7P8iAY"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "response_id": 464,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:11:20.568821",
+  "metadata": {
+    "apa_number": 324,
+    "url": "https://uwispace.sta.uwi.edu/server/api/core/bitstreams/a24b4289-55b4-4fa6-af22-469abe3d4ae7/content",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://uwispace.sta.uwi.edu/server/api/core/bitstreams/a24b4289-55b4-4fa6-af22-469abe3d4ae7/content\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives within the Caribbean Community (CARICOM), which involves multiple countries. It addresses harmonization across institutions and countries, specifically focusing on the CARICOM Single Market and Economy (CSME) and the development of a regional qualifications framework. The paper discusses cross-border education, mutual recognition of qualifications, and credit transfer systems within the CARICOM region. It mentions the CARICOM Regional Qualifications Framework (CRQF) and its role in facilitating the free movement of skilled labor.\",\n  \"Title\": \"Quality Assurance in the Context of Cross-Border Higher Education: A Caribbean Perspective\",\n  \"Authors\": [\n    \"Jennifer Yamin-Ali\",\n    \"Sandra Gift\"\n  ],\n  \"Year\": \"2017\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"The UWI Quality Education Forum\",\n    \"DOI_URL\": null,\n    \"APA_Reference\": \"Yamin-Ali, J., & Gift, S. (2017). Quality Assurance in the Context of Cross-Border Higher Education: A Caribbean Perspective. The UWI Quality Education Forum.\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature review and analysis of policy documents\",\n    \"Geographic_Focus\": \"Caribbean Community (CARICOM)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Quality Assurance frameworks, Cross-Border Higher Education\",\n    \"Harmonization_Definition\": \"Harmonization is defined in the context of creating a common framework for quality assurance and qualifications that facilitates the recognition of skills and qualifications across the CARICOM region.\",\n    \"Regional_Initiatives\": [\n      \"CARICOM Single Market and Economy (CSME)\",\n      \"CARICOM Regional Qualifications Framework (CRQF)\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Development of regional standards\",\n      \"Mutual recognition agreements\",\n      \"Quality assurance mechanisms\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments\",\n      \"Higher Education Institutions\",\n      \"Regional bodies (CARICOM Secretariat)\",\n      \"Quality Assurance agencies\"\n    ],\n    \"Data_Sources\": [\n      \"Policy documents\",\n      \"Reports\",\n      \"Literature on quality assurance and cross-border higher education\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"The CRQF is crucial for facilitating the free movement of skilled labor within CARICOM.\",\n      \"Quality assurance mechanisms need to be strengthened to ensure the credibility of qualifications.\",\n      \"Cross-border higher education presents both opportunities and challenges for the region.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Varying quality assurance standards across member states\",\n      \"Lack of resources for implementing the CRQF\",\n      \"Resistance to change from some institutions\"\n    ],\n    \"Success_Factors\": [\n      \"Political will and commitment from governments\",\n      \"Collaboration among stakeholders\",\n      \"Effective communication and dissemination of information\"\n    ],\n    \"Recommendations\": [\n      \"Strengthening regional quality assurance mechanisms\",\n      \"Investing in the implementation of the CRQF\",\n      \"Promoting collaboration among stakeholders\"\n    ],\n    \"Future_Research\": [\n      \"Impact of the CRQF on labor mobility\",\n      \"Effectiveness of quality assurance mechanisms in cross-border higher education\",\n      \"Role of technology in facilitating cross-border education\"\n    ],\n    \"Specific_Examples\": [\n      \"Development of regional standards for specific professions\",\n      \"Mutual recognition agreements between member states\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Regional Qualifications Framework\",\n      \"Mutual Recognition Agreements\",\n      \"Quality Assurance Standards\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Varying standards\",\n      \"Resource constraints\",\n      \"Resistance to change\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political will\",\n      \"Collaboration\",\n      \"Effective communication\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Facilitation of labor mobility\",\n      \"Enhanced quality of education\",\n      \"Increased regional integration\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 652,
+      "candidatesTokenCount": 1052,
+      "totalTokenCount": 1704,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 652
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1052
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "0Z5SaI_YMP6ShMIPm7P8iAY"
+  }
+}

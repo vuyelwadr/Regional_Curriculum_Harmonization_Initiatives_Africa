@@ -1,0 +1,55 @@
+{
+  "response_id": 33,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:30:06.592707",
+  "metadata": {
+    "url": "http://www.ssrn.com/abstract=2225814",
+    "final_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2225814",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"ASEAN Economic Community – 2015: Economic Competitiveness for Sustained Growth and the Implication for Education Market\",\n    \"authors\": [\n      \"Paul Louangrath\"\n    ],\n    \"doi\": \"10.2139/ssrn.2225814\",\n    \"journal\": \"SSRN\",\n    \"year\": \"2013\",\n    \"abstract\": \"This paper is organized into five sections. Sections 1-3 explain economic competitiveness and sustained growth in the context of the ASEAN Economic Community (AEC). Section 4 discusses the implication of the AEC on the education market. Section 5 concludes the paper. The paper argues that the ASEAN education market will be affected by the AEC in two ways. First, the AEC will create economic shocks that will affect the education market. Second, the AEC will create opportunities for the education market to grow. The paper recommends that education providers in ASEAN should prepare for the AEC by developing programs that are aligned with the needs of the AEC. The paper also recommends that education providers should focus on developing programs that are relevant to the needs of the ASEAN labor market.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=2225814\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 361,
+              "endIndex": 516,
+              "uri": "https://www.researchgate.net/publication/256049893_ASEAN_Economic_Community_-_2015_Economic_Competitiveness_for_Sustained_Growth_and_the_Implication_for_Education_Market"
+            }
+          ]
+        },
+        "avgLogprobs": -0.15480264516977163
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3839,
+      "candidatesTokenCount": 390,
+      "totalTokenCount": 4229,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3839
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 390
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "K5VSaM26OuiChMIP-ufFUQ"
+  }
+}

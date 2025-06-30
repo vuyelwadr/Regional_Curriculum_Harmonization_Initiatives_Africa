@@ -1,0 +1,63 @@
+{
+  "response_id": 269,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:53:18.738198",
+  "metadata": {
+    "url": "https://journals.dut.ac.za/index.php/ajims/article/view/1339",
+    "final_url": "https://journals.dut.ac.za/index.php/ajims/article/view/1339",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Indigenous Language Policy in Academic Writing at South African Higher Education: The Issue of Publishing and Accessing Scientific Materials in Setswana\",\n    \"authors\": [\n      \"Kgomotso Theledi\",\n      \"Stephen Masote\"\n    ],\n    \"doi\": \"10.51415/ajims.v6i1.1339\",\n    \"journal\": \"African Journal of Inter/Multidisciplinary Studies\",\n    \"year\": \"2024\",\n    \"abstract\": \"The Language Policy of South African Higher Education was adopted in November 2002 to ensure that all official languages are equitably used and developed as scientific languages in higher education. The main issue is to address publication and access of scientific materials in the medium of indigenous languages. South African government has not made much progress in exploring and exploiting the full use of scientific materials of indigenous languages in higher education.\\u00a0 Although a vast majority of articles are published in English, researchers in the field of indigenous languages are expected to provide research in high language proficiency which imposes a challenge for most of them. This paper, therefore, focuses on the post-positivism method as a tool utilized for observation and measurement of the reality that exists when planning and implementing measures for academic writing in the medium of indigenous languages. The systematic theory herein will portray how the strategies of language policy implementation plan will increase publication and access of scientific indigenous materials. This paper uses qualitative research to improve the system utilized in the implementation of the indigenous language policy plan. The data collected herein has been derived from existing materials such as books, journals and online articles.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://journals.dut.ac.za/index.php/ajims/article/download/1339/981\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 95,
+              "endIndex": 246,
+              "uri": "https://scholar-chat.com/paper/web/22dc3ac4467622a803a0f036e58a535a"
+            },
+            {
+              "startIndex": 468,
+              "endIndex": 940
+            },
+            {
+              "startIndex": 950,
+              "endIndex": 1819
+            }
+          ]
+        },
+        "avgLogprobs": -0.0007347743002051446
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2863,
+      "candidatesTokenCount": 487,
+      "totalTokenCount": 3350,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2863
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 487
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "m5pSaJ3FKouZhMIPlvTuyQY"
+  }
+}

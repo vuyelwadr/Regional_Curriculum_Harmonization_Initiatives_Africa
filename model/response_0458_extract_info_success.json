@@ -1,0 +1,45 @@
+{
+  "response_id": 458,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:11:06.666309",
+  "metadata": {
+    "apa_number": 336,
+    "url": "https://www.academia.edu/download/104118595/58895.pdf",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://www.academia.edu/download/104118595/58895.pdf\",\n  \"MATCHES_CRITERIA\": false,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on the internationalization of higher education in Africa, but does not specifically address regional curriculum harmonization initiatives involving multiple African countries or regions. It discusses the need for African universities to adapt to global trends and improve their competitiveness, but it does not provide evidence of regional frameworks, cross-border education, mutual recognition, credit transfer systems, or regional qualifications frameworks.\",\n  \"Title\": \"Internationalization of Higher Education in Africa: Status, Trends, and Prospects\",\n  \"Authors\": [\n    \"Damtew Teferra\"\n  ],\n  \"Year\": \"2017\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 624,
+      "candidatesTokenCount": 187,
+      "totalTokenCount": 811,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 624
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 187
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "yZ5SaKOnDLPQhMIP372DoQ0"
+  }
+}

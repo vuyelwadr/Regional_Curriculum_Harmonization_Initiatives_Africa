@@ -1,0 +1,44 @@
+PAPER EXTRACTION SUMMARY
+================================================================================
+Generated: 2025-06-18 13:30:17
+
+PROCESSING STATISTICS:
+----------------------------------------
+Total papers found: 561
+Papers processed: 561
+Processing success rate: 100.0%
+
+CRITERIA MATCHING:
+----------------------------------------
+Papers matching criteria: 178
+Papers NOT matching: 42
+Total analyzed: 220
+Match rate: 80.9%
+
+FULLTEXT ACCESS:
+----------------------------------------
+Papers with full text found: 178
+Papers analyzed without full text: 37
+Full text success rate: 82.8%
+
+BATCH PROCESSING DETAILS:
+----------------------------------------
+Batch size: 5 papers
+Total batches: 113
+API efficiency: 1.5 papers per API call
+
+MODEL INTERACTIONS:
+----------------------------------------
+Total model responses saved: 668
+Responses directory: model/
+Average responses per paper: 1.2
+
+OUTPUT FILES:
+----------------------------------------
+- paper_information.json: Full extraction for matching papers
+- non_matching_papers.json: Basic info for non-matching papers
+- paper_references.txt: APA references for matching papers
+- processing_progress.json: Processing progress (for resuming)
+- model/: Model responses for all AI interactions
+- downloads/: Downloaded papers matching criteria
+- downloads/not_relevant/: Papers not matching criteria

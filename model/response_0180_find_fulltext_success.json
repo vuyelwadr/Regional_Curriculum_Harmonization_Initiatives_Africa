@@ -1,0 +1,69 @@
+{
+  "response_id": 180,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:44:24.830951",
+  "metadata": {
+    "url": "https://idpjournal.biomedcentral.com/articles/10.1186/s40249-019-0567-z",
+    "final_url": "https://idpjournal.biomedcentral.com/articles/10.1186/s40249-019-0567-z",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Reaching the last mile: main challenges relating to and recommendations to accelerate onchocerciasis elimination in Africa\",\n    \"authors\": [],\n    \"doi\": \"10.1186/s40249-019-0567-z\",\n    \"journal\": \"Infectious Diseases of Poverty\",\n    \"year\": \"2019\",\n    \"abstract\": \"Onchocerciasis (river blindness), caused by the filarial worm species Onchocerca volvulus, is a serious vector-borne neglected tropical disease (NTD) of public health and socioeconomic concern. It is transmitted through the bite of black flies of the genus Simulium, and manifested in dermal and ocular lesions. Ninety-nine percent of the total global risk and burden of onchocerciasis is in Africa. This scoping review examines the key challenges related to the elimination of onchocerciasis by 2020–2025 in Africa, and proposes recommendations to overcome the challenges and accelerate disease elimination. To find relevant articles published in peer-reviewed journals, a search of PubMed and Google Scholar databases was carried out. Rigorous regional interventions carried out to control and eliminate onchocerciasis in the past four decades in Africa have been effective in bringing the disease burden under control; it is currently not a public health problem in most endemic areas. Notably, transmission of the parasite is interrupted in some hyperendemic localities. Recently, there has been a policy shift from control to complete disease elimination by 2020 in selected countries and by 2025 in the majority of endemic African countries. The WHO has published guidelines for stopping mass drug administration (MDA) and verifying the interruption of transmission and elimination of human onchocerciasis. Therefore, countries have revised their plans, established a goal of disease elimination in line with an evidence based decision to stop MDA and verify elimination, and incorporated it into their NTDs national master plans. Nevertheless, challenges remain pertaining to the elimination of onchocerciasis in Africa. The challenge we review in this paper are: incomplete elimination mapping of all transmission zones, co-endemicity of onchocerciasis and loiasis, possible emergence of ivermectin resistance, uncoordinated cross-border elimination efforts, conflict and civil unrest, suboptimal program implementation, and technical and financial challenges. This paper also proposes recommendations to overcome the challenges and accelerate disease elimination. These are: a need for complete disease elimination mapping, a need for collaborative elimination activities between national programs, a need for a different drug distribution approach in conflict-affected areas, a need for routine monitoring and evaluation of MDA programs, a need for implementing alternative treatment strategies (ATSs) in areas with elimination anticipated beyond 2025, and a need for strong partnerships and continued funding. National programs need to regularly monitor and evaluate the performance and progress of their interventions, while envisaging the complete elimination of onchocerciasis from their territory. Factors hindering the targeted goal of interruption of parasite transmission need to be identified and remedial actions should be taken. If possible and appropriate, ATSs need to be implemented to accelerate disease elimination by 2025.\"\n  },\n  \"fulltext_links\": [],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 96,
+              "endIndex": 217,
+              "uri": "https://ju.edu.et/jimma-medical-center/professor-zeleke-mekonnen/"
+            },
+            {
+              "startIndex": 366,
+              "endIndex": 571,
+              "uri": "https://pubmed.ncbi.nlm.nih.gov/31269966/"
+            },
+            {
+              "startIndex": 457,
+              "endIndex": 616,
+              "uri": "https://medcentral.net/doi/abs/10.1186/s40249-019-0567-z"
+            },
+            {
+              "startIndex": 633,
+              "endIndex": 3413
+            }
+          ]
+        },
+        "avgLogprobs": -0.00016664478863192815
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2212,
+      "candidatesTokenCount": 749,
+      "totalTokenCount": 2961,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2212
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 749
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "hJhSaLGKH6iUsbQPmK3KkQI"
+  }
+}

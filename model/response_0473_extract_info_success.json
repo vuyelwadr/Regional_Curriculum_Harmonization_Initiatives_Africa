@@ -1,0 +1,45 @@
+{
+  "response_id": 473,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:12:16.546837",
+  "metadata": {
+    "apa_number": 325,
+    "url": "https://vestnik-bist.ru/wp-content/uploads/2020/10/Kunsbaev_VestnikBIST_3-2020.pdf",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://vestnik-bist.ru/wp-content/uploads/2020/10/Kunsbaev_VestnikBIST_3-2020.pdf\",\n  \"MATCHES_CRITERIA\": false,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on the Bologna process and its impact on the Russian education system. It does not address regional curriculum harmonization initiatives within Africa or involving multiple African countries/regions. The paper discusses the integration of the Russian education system into the European Higher Education Area, which is a different regional context than the one specified in the research criteria.\",\n  \"Title\": \"The Bologna Process as a Factor of Integration of the Russian Education System into the European Educational Space\",\n  \"Authors\": [\n    \"I. N. Kunsbaev\",\n    \"R. R. Farkhutdinov\"\n  ],\n  \"Year\": \"2020\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 639,
+      "candidatesTokenCount": 213,
+      "totalTokenCount": 852,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 639
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 213
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "Dp9SaL2OMJrnqsMPzonmkA0"
+  }
+}

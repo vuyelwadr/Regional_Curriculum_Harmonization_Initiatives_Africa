@@ -1,0 +1,45 @@
+{
+  "response_id": 421,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:07:24.499418",
+  "metadata": {
+    "apa_number": 269,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8769006/",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://pmc.ncbi.nlm.nih.gov/articles/PMC8769006/\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in Africa, specifically addressing the need for standardized medical education across countries to facilitate mobility and recognition of qualifications. It discusses the East African Community (EAC) and efforts to harmonize medical curricula across institutions in the region. The paper mentions regional frameworks and cross-border education, aligning with the research criteria.\",\n  \"Title\": \"Medical Education Harmonization in East Africa: Progress, Challenges, and Opportunities\",\n  \"Authors\": [\n    \"Hussein Kiddah\",\n    \"Paul Katamba\",\n    \"Rose Chalo Nabirye\",\n    \"Francis Omaswa\",\n    \"Nelson K. Sewankambo\"\n  ],\n  \"Year\": \"2022\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Advances in Medical Education and Practice\",\n    \"DOI_URL\": \"https://doi.org/10.2147/AMEP.S343591\",\n    \"APA_Reference\": \"Kiddah, H., Katamba, P., Nabirye, R. C., Omaswa, F., & Sewankambo, N. K. (2022). Medical Education Harmonization in East Africa: Progress, Challenges, and Opportunities. Advances in Medical Education and Practice, 13, 49-58. https://doi.org/10.2147/AMEP.S343591\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Review/Perspective\",\n    \"Geographic_Focus\": \"East African Community (EAC)\",\n    \"Educational_Level\": \"Medical Education\",\n    \"Sample_Size\": \"Not applicable\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated\",\n    \"Harmonization_Definition\": \"Standardization of medical education curricula to facilitate mobility and recognition of qualifications within the EAC.\",\n    \"Regional_Initiatives\": [\n      \"East African Community (EAC) medical education harmonization efforts\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Curriculum review and development\",\n      \"Development of common assessment standards\",\n      \"Faculty development\",\n      \"Use of technology\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Medical schools\",\n      \"National medical councils\",\n      \"East African Community Secretariat\",\n      \"Faculty\",\n      \"Students\"\n    ],\n    \"Data_Sources\": [\n      \"Literature review\",\n      \"EAC documents\",\n      \"Expert opinions\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Progress has been made in harmonizing medical education in the EAC, but challenges remain.\",\n      \"Harmonization efforts have led to improved quality and relevance of medical education.\",\n      \"Increased mobility of medical professionals within the EAC.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of resources\",\n      \"Varying levels of commitment from member states\",\n      \"Resistance to change from some stakeholders\",\n      \"Inadequate infrastructure\",\n      \"Differing regulatory frameworks\"\n    ],\n    \"Success_Factors\": [\n      \"Political will\",\n      \"Strong leadership\",\n      \"Collaboration among stakeholders\",\n      \"Availability of resources\",\n      \"Effective communication\"\n    ],\n    \"Recommendations\": [\n      \"Increased investment in medical education\",\n      \"Strengthening of regulatory frameworks\",\n      \"Enhanced collaboration among stakeholders\",\n      \"Development of a common assessment system\",\n      \"Promotion of faculty development\"\n    ],\n    \"Future_Research\": [\n      \"Impact of harmonization on patient outcomes\",\n      \"Cost-effectiveness of harmonization efforts\",\n      \"Sustainability of harmonization initiatives\"\n    ],\n    \"Specific_Examples\": [\n      \"Development of a common curriculum for medical schools in the EAC\",\n      \"Establishment of a regional medical education quality assurance framework\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Curriculum development\",\n      \"Assessment standardization\",\n      \"Faculty development\",\n      \"Quality assurance frameworks\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Resource constraints\",\n      \"Political commitment\",\n      \"Resistance to change\",\n      \"Infrastructure limitations\",\n      \"Regulatory differences\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political will\",\n      \"Leadership\",\n      \"Collaboration\",\n      \"Resource availability\",\n      \"Communication\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Improved quality of medical education\",\n      \"Increased mobility of medical professionals\",\n      \"Enhanced regional integration\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 620,
+      "candidatesTokenCount": 1111,
+      "totalTokenCount": 1731,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 620
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1111
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "5Z1SaKipHprnqsMPzonmkA0"
+  }
+}

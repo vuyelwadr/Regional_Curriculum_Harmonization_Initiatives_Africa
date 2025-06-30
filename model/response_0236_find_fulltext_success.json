@@ -1,0 +1,46 @@
+{
+  "response_id": 236,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:50:14.228551",
+  "metadata": {
+    "url": "https://jhrlmc.com/index.php/home/article/view/844",
+    "final_url": "https://jhrlmc.com/index.php/home/article/view/844",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"The Literature Review on Curriculum Implementation Problems\",\n    \"authors\": [\n      \"Pakeeza Aslam\",\n      \"Qurratulain Mushtaq\",\n      \"Fraz Noor\",\n      \"Sania Maqbool\",\n      \"Nadeem Yar Khan\",\n      \"Junaid Sarfraz\"\n    ],\n    \"doi\": \"10.61919/jhrr.v4i2.844\",\n    \"journal\": \"Journal of Health and Rehabilitation Research\",\n    \"year\": \"2024\",\n    \"abstract\": null\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://jhrlmc.com/index.php/home/article/download/844/790\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.0015781740204091536
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2758,
+      "candidatesTokenCount": 277,
+      "totalTokenCount": 3035,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2758
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 277
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "5JlSaNmXEouZhMIPlvTuyQY"
+  }
+}

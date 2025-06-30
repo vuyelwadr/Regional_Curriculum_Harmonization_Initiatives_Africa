@@ -1,0 +1,45 @@
+{
+  "response_id": 80,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:34:19.735295",
+  "metadata": {
+    "apa_number": 81,
+    "url": "https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-023-04259-4",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-023-04259-4\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper discusses regional curriculum harmonization initiatives in medical education across multiple African countries, specifically focusing on the East African Community (EAC) and the development of a harmonized curriculum framework. It addresses harmonization across institutions and countries within the EAC region, focusing on cross-border education and mutual recognition of qualifications.\",\n  \"Title\": \"Competency-based education in undergraduate medical curricula in East Africa: a scoping review\",\n  \"Authors\": [\n    \"Nazarius Mbona Tumwesigye\",\n    \"Rose Chalo Nabirye\",\n    \"Imelda Namagembe\",\n    \"Paul Odong\",\n    \"Francis Omaswa\",\n    \"Nelson K. Sewankambo\"\n  ],\n  \"Year\": \"2023\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"BMC Medical Education\",\n    \"DOI_URL\": \"https://doi.org/10.1186/s12909-023-04259-4\",\n    \"APA_Reference\": \"Tumwesigye, N. M., Nabirye, R. C., Namagembe, I., Odong, P., Omaswa, F., & Sewankambo, N. K. (2023). Competency-based education in undergraduate medical curricula in East Africa: a scoping review. BMC Medical Education, 23(1), 911. https://doi.org/10.1186/s12909-023-04259-4\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Scoping Review\",\n    \"Geographic_Focus\": \"East Africa (EAC: Uganda, Kenya, Tanzania, Rwanda, Burundi, South Sudan, and Democratic Republic of Congo)\",\n    \"Educational_Level\": \"Undergraduate Medical Education\",\n    \"Sample_Size\": \"Not applicable for a scoping review\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Competency-Based Education (CBE)\",\n    \"Harmonization_Definition\": \"Harmonization is implied through the development and implementation of a common competency-based curriculum across the EAC region.\",\n    \"Regional_Initiatives\": [\n      \"East African Community (EAC) Regional Harmonization\",\n      \"Development of a harmonized undergraduate medical curriculum\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Curriculum development workshops\",\n      \"Stakeholder consultations\",\n      \"Adoption of CBE principles\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Medical schools\",\n      \"EAC Secretariat\",\n      \"Medical councils\",\n      \"Faculty\",\n      \"Students\"\n    ],\n    \"Data_Sources\": [\n      \"Published literature\",\n      \"Grey literature\",\n      \"EAC documents\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"CBE is being implemented in undergraduate medical curricula in East Africa.\",\n      \"There is a move towards harmonizing medical education across the EAC region.\",\n      \"Variations exist in the extent and approach to CBE implementation.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Limited resources\",\n      \"Faculty development needs\",\n      \"Resistance to change\",\n      \"Inadequate infrastructure\"\n    ],\n    \"Success_Factors\": [\n      \"Political will\",\n      \"Stakeholder engagement\",\n      \"Regional collaboration\",\n      \"Availability of resources\"\n    ],\n    \"Recommendations\": [\n      \"Strengthening faculty development\",\n      \"Securing adequate resources\",\n      \"Promoting stakeholder engagement\",\n      \"Enhancing regional collaboration\"\n    ],\n    \"Future_Research\": [\n      \"Impact of CBE on student outcomes\",\n      \"Cost-effectiveness of CBE implementation\",\n      \"Sustainability of CBE initiatives\"\n    ],\n    \"Specific_Examples\": [\n      \"Development of EAC harmonized curriculum framework\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Curriculum development workshops\",\n      \"Faculty training programs\",\n      \"Regional meetings\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Resource constraints\",\n      \"Faculty resistance\",\n      \"Lack of infrastructure\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political support\",\n      \"Regional partnerships\",\n      \"Dedicated funding\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Improved curriculum relevance\",\n      \"Enhanced student competencies\",\n      \"Greater regional mobility of graduates\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 638,
+      "candidatesTokenCount": 1103,
+      "totalTokenCount": 1741,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 638
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1103
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "JJZSaI6fIJbrqsMPiOTvsQI"
+  }
+}

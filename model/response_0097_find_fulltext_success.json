@@ -1,0 +1,68 @@
+{
+  "response_id": 97,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:36:10.640323",
+  "metadata": {
+    "url": "https://carijournals.org/journals/index.php/JEP/article/view/1028",
+    "final_url": "https://carijournals.org/journals/index.php/JEP/article/view/1028",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Impact of Insecurity on Curriculum Implementation at Tertiary Institutions in Benue State Nigeria, West Africa\",\n    \"authors\": [\n      \"Micheal Hangerior Saaondo \",\n      \"Gabriel Akpe\"\n    ],\n    \"doi\": \"10.47941/jep.1028\",\n    \"journal\": \"Journal of Education and Practice\",\n    \"year\": \"2022\",\n    \"abstract\": \"Purpose: This study investigated the impact of insecurity on curriculum implementation at tertiary institutions in Benue State, Nigeria, West Africa.\\nMethodology: Two research questions were answered, and two null hypotheses were tested. The design adopted for the study was an ex-post facto research design. The population for the study comprised 554 teaching staff of tertiary institutions in Benue State. The sample of 68 lecturers was taken from the population using Taro Yamane's formulae of sample size determination. A 10-item structured questionnaire developed by the researchers called \\\"Nature and Effect of Insecurity Questionnaire\\\" (NEIQ) was used for data collection. A five-point Likert scale of strongly Agreed (SA= 5), Agreed (A=4), Undecided (U=3), Disagreed (D=2), and strongly Disagreed (SD=1) options were used to grade response. Three experts, one in English Language, Test and measurement, and Curriculum studies, all from the Faculty of Education Benue State University, validated the instrument. At the same time, a reliability coefficient of 0.86 was obtained through Cronbach Alpha. The researchers administered the instrument personally. The results were presented and analysized in tables using Mean, and Standard deviation to answerthe research questions. Any item with a mean rating equal to or above 2.50 was regarded as agreed, while an item with a mean rating less than 2.50 was regarded as disagreed. A t-test was used to test the null hypotheses at a 0.05 level of significance.\\nFindings: The study found a significant difference in the mean rating of the respondents on the nature of insecurity and curriculum implementation at tertiary educational institutions in Benue State.Similarly, the study found a significant difference in the mean rating of the respondents on the effects of insecurity and curriculum implementation at tertiary educational institutions in Benue State, Nigeria.\\nUnique Contribution to theory, practice and policy: The study recommends, among others, that parents, as first teachers, should be committed to giving their children a solid moral foundation early in life. This may lay a foundation for the youths to visualize whom they are, particularly concerning what distinguishes them from others.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://carijournals.org/journals/index.php/JEP/article/download/1028/1246\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 420,
+              "endIndex": 553,
+              "uri": "https://www.scilit.net/journal/6035507"
+            },
+            {
+              "startIndex": 575,
+              "endIndex": 1921
+            },
+            {
+              "startIndex": 1939,
+              "endIndex": 2326
+            },
+            {
+              "startIndex": 2392,
+              "endIndex": 2672,
+              "uri": "https://www.scilit.net/journal/6035507"
+            }
+          ]
+        },
+        "avgLogprobs": -0.001085713357369218
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2749,
+      "candidatesTokenCount": 703,
+      "totalTokenCount": 3452,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2749
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 703
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "lpZSaJ_eKYqThMIPyoil0Qo"
+  }
+}

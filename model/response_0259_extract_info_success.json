@@ -1,0 +1,45 @@
+{
+  "response_id": 259,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:52:24.632210",
+  "metadata": {
+    "apa_number": 169,
+    "url": "https://japendi.publikasiindonesia.id/index.php/japendi/article/download/7657/1838",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://japendi.publikasiindonesia.id/index.php/japendi/article/download/7657/1838\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper discusses curriculum harmonization in the context of the East African Community (EAC), involving multiple countries (Kenya, Uganda, Tanzania, Rwanda, Burundi, and South Sudan). It addresses harmonization across institutions within the EAC region, focusing on mutual recognition of qualifications and promoting cross-border education. The paper mentions regional frameworks and initiatives aimed at harmonizing education systems.\",\n  \"Title\": \"Harmonization of Higher Education Curriculum in East Africa: Policy and Implementation\",\n  \"Authors\": [\n    \"Pamela Ochieng Okello\",\n    \"Beatrice Were Omukowa\",\n    \"Anne Nangulu\"\n  ],\n  \"Year\": \"2023\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Jurnal Penelitian Pendidikan Indonesia\",\n    \"DOI_URL\": \"https://doi.org/10.29210/02023217\",\n    \"APA_Reference\": \"Okello, P. O., Omukowa, B. W., & Nangulu, A. (2023). Harmonization of Higher Education Curriculum in East Africa: Policy and Implementation. Jurnal Penelitian Pendidikan Indonesia, 9(6), 1404-1417. https://doi.org/10.29210/02023217\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature Review\",\n    \"Geographic_Focus\": \"East African Community (Kenya, Uganda, Tanzania, Rwanda, Burundi, South Sudan)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable (Literature Review)\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated, but implicitly uses theories of regional integration and education policy.\",\n    \"Harmonization_Definition\": \"Harmonization is defined as the process of aligning education systems, curricula, and qualifications across different countries or institutions to facilitate mobility, recognition, and comparability.\",\n    \"Regional_Initiatives\": [\n      \"East African Community (EAC) Protocol on Education\",\n      \"EAC Common Higher Education Area\",\n      \"Harmonization of curricula in specific disciplines (e.g., medicine, engineering)\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Policy development and implementation\",\n      \"Curriculum review and alignment\",\n      \"Development of regional qualifications frameworks\",\n      \"Establishment of quality assurance mechanisms\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments\",\n      \"Higher education institutions\",\n      \"Regional bodies (EAC Secretariat)\",\n      \"Quality assurance agencies\",\n      \"Students\"\n    ],\n    \"Data_Sources\": [\n      \"Policy documents\",\n      \"Academic literature\",\n      \"Reports from regional organizations\",\n      \"Legal documents\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Harmonization of higher education curricula in the EAC is crucial for regional integration and development.\",\n      \"Significant progress has been made in developing regional policies and frameworks for harmonization.\",\n      \"Implementation of harmonization initiatives faces several challenges, including varying national priorities and resource constraints.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of political will\",\n      \"Varying national priorities and education systems\",\n      \"Resource constraints\",\n      \"Resistance from some stakeholders\",\n      \"Language barriers\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political commitment\",\n      \"Effective regional coordination\",\n      \"Involvement of key stakeholders\",\n      \"Adequate resources\",\n      \"Clear and well-defined policies and frameworks\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen political commitment and regional coordination.\",\n      \"Allocate adequate resources for harmonization initiatives.\",\n      \"Involve all key stakeholders in the process.\",\n      \"Address the challenges and barriers to implementation.\",\n      \"Promote awareness and understanding of the benefits of harmonization.\"\n    ],\n    \"Future_Research\": [\n      \"Further research is needed to evaluate the impact of harmonization initiatives on student mobility, academic quality, and regional development.\",\n      \"Studies are needed to identify best practices for implementing harmonization initiatives in different contexts.\",\n      \"Research is needed to explore the role of technology in facilitating harmonization.\"\n    ],\n    \"Specific_Examples\": [\n      \"Harmonization of medical curricula in the EAC to facilitate the recognition of medical qualifications across the region.\",\n      \"Development of a regional qualifications framework to promote the comparability of qualifications across the EAC.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Regional policies and frameworks\",\n      \"Curriculum review and alignment\",\n      \"Quality assurance mechanisms\",\n      \"Credit transfer systems\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Lack of political will\",\n      \"Varying national priorities\",\n      \"Resource constraints\",\n      \"Resistance from stakeholders\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Strong political commitment\",\n      \"Effective regional coordination\",\n      \"Stakeholder involvement\",\n      \"Adequate resources\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased student mobility\",\n      \"Improved academic quality\",\n      \"Enhanced regional integration\",\n      \"Economic development\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 628,
+      "candidatesTokenCount": 1251,
+      "totalTokenCount": 1879,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 628
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1251
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "YJpSaLyBEIuZhMIPlvTuyQY"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "response_id": 270,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:53:26.092061",
+  "metadata": {
+    "url": "https://jcope.uobaghdad.edu.iq/index.php/jcope/article/view/2222",
+    "final_url": "https://jcope.uobaghdad.edu.iq/index.php/jcope/article/view/2222",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"pdf\",\n  \"paper_metadata\": {\n    \"title\": \"Effectiveness of using technology judgment (VAR) in football from the point of view of the Iraqi Premier League referees for the 2023-2024 season\",\n    \"authors\": [\n      \"yasir Khader\",\n      \"Khalil Abdel Aziz\",\n      \"Mohiaman Yahya\"\n    ],\n    \"doi\": \"10.37359/JOPE.V37(1)2025.2222\",\n    \"journal\": \"Journal of Physical Education\",\n    \"year\": \"2025\",\n    \"abstract\": \"The aim of the research is to:\\u00a0 Get to knowEffectiveness of using technology judgmentVAR) in football from the point of view of Iraqi Premier League referees for the 2023-2024 seasonTo identify the extent to which governance technology contributes(VAR).The researcher used the descriptive approach in the research procedures as it is an appropriate approach.forTo achieve research objectives,Questions were raisedIs purification a rule?(VAR)It was effective in the development of the Iraqi Premier League, is it purifying the referee?(VAR)She had a positive interaction with the match referees.\\u00a0 be a scaleEffectiveness of using technology judgment (VAR) from10povertyatWhen he reached the research community consisted of 400 judges in the Iraqi judiciary. The exploratory experiment amounted to 50, representing 12.5% \\u200b\\u200bof the total sample, while the research sample amounted to 200, representing 50% of the total sample. Researchers concluded the rule of technology (Var it had a positive impact on developing the Iraqi Premier League, and it also helped referees develop their level of knowledge in how to make decisions. It also helped in giving confidence to referees in managing difficult matches that have a great deal of intensity in their football atmosphere. It helped players in reducing violent interventions that are difficult for the referee to watch due to the speed of the matches. The researchers recommended Develop technical judgment (Var) And its workers, providing the necessary infrastructure for it, and developing legal knowledge related to technology. Var, referees introduce technology Var Intensive courses and workshops to develop the electronic aspect, include it in the academic curriculum, especially in the faculties of physical education and sports sciences, and provide technical courses. Var Inside Iraq by the Iraqi Football Association. Educating the Iraqi public with knowledge about the technologyVar.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://jcope.uobaghdad.edu.iq/index.php/jcope/article/view/2222\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.002551562635295362
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2561,
+      "candidatesTokenCount": 664,
+      "totalTokenCount": 3225,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2561
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 664
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "oppSaM-RDprnqsMPzonmkA0"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "response_id": 223,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:49:09.530862",
+  "metadata": {
+    "url": "https://journals.christuniversity.in/index.php/artha/article/view/4989",
+    "final_url": "https://journals.christuniversity.in/index.php/artha/article/view/4989",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Exploring the Transition to the Fourth Industrial Revolution: Implications on South African Education\",\n    \"authors\": [\n      \"Mamosa Thaanyane\"\n    ],\n    \"doi\": \"10.12724/ajss.67.4\",\n    \"journal\": \"Artha Journal of Social Sciences\",\n    \"year\": \"2024\",\n    \"abstract\": \"This qualitative paper examines the transition from 21st century to the Fourth Industrial Revolution (4IR). It is a literature review of articles relating to 4IR and education in the past three years. Reading and re-reading of these articles informed the researcher to form themes that will be analysed based on South African education and the implication the era has on education. The paper was structured in such a way that it enhanced flow and readability. Then, the common core elements and themes were identified: 4IR leads to increased job creation; prepares students for future employment; it endorses use of learner-centred teaching; it builds peer-to-peer and student-to teacher interactions-peer. However, students do not have devices for communication; there is lack of technical understanding among teachers and lastly that students will misuse these devices and software for the other purposes other than learning. This era have the following implications on South African education: disruptions of jobs; cause income inequalities; policy-makers will have to design curricula that match employment demands; it will increase education expenditure and enrolment levels and lastly. Lecturers and teachers will need to be empowered with knowledge and competencies for relevance.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://journals.christuniversity.in/index.php/artha/article/download/4989/2587\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 737,
+              "endIndex": 888,
+              "uri": "https://www.researchgate.net/publication/383435201_4989-Article_Text-12558-2-10-20240415_2"
+            },
+            {
+              "startIndex": 1393,
+              "endIndex": 1653,
+              "uri": "https://www.researchgate.net/publication/383435201_4989-Article_Text-12558-2-10-20240415_2"
+            }
+          ]
+        },
+        "avgLogprobs": -0.0004436643636327679
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2757,
+      "candidatesTokenCount": 472,
+      "totalTokenCount": 3229,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2757
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 472
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "oplSaLKsKf6ShMIPm7P8iAY"
+  }
+}

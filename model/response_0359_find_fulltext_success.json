@@ -1,0 +1,55 @@
+{
+  "response_id": 359,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:02:10.519773",
+  "metadata": {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4535832/",
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4535832/",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Assessment of quality and relevance of curricula development in health training institutions: a case study of Kenya\",\n    \"authors\": [\n      \"Hazel M Mumbo\",\n      \"Joyce W Kinaro\"\n    ],\n    \"doi\": \"10.1186/s12960-015-0048-9\",\n    \"journal\": \"Human Resources for Health\",\n    \"year\": \"2015\",\n    \"abstract\": \"The World Health Organization lists Kenya among African countries experiencing health workforce crisis catalysed through immigration, underproduction, inconsistent quality of production and unequal distribution. Strengthening health training ...\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://pmc.ncbi.nlm.nih.gov/articles/PMC4535832/pdf/12960_2015_Article_48.pdf\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://pmc.ncbi.nlm.nih.gov/articles/PMC4535832/\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 406,
+              "endIndex": 642,
+              "uri": "https://human-resources-health.biomedcentral.com/articles/10.1186/s12960-015-0048-9"
+            }
+          ]
+        },
+        "avgLogprobs": -0.0003305376628361179
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2912,
+      "candidatesTokenCount": 354,
+      "totalTokenCount": 3266,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2912
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 354
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "sJxSaOmTE4qThMIPyoil0Qo"
+  }
+}

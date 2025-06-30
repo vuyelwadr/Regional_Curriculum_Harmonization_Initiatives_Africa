@@ -1,0 +1,45 @@
+{
+  "response_id": 18,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:28:12.522336",
+  "metadata": {
+    "apa_number": 6,
+    "url": "https://ejournals.bc.edu/index.php/ijahe/article/download/5646/4978",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://ejournals.bc.edu/index.php/ijahe/article/download/5646/4978\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in Africa, specifically addressing the development of a qualifications framework for the East African Community (EAC). It discusses cross-border education and mutual recognition of qualifications within the EAC region, aligning with the research criteria.\",\n  \"Title\": \"Developing a Qualifications Framework for the East African Community: Progress, Prospects and Challenges\",\n  \"Authors\": [\n    \"Moses Oketch\",\n    \"Linda Morrice\",\n    \"Moses Golola\",\n    \"Ignatius Kakuru\",\n    \"Enid Mwebaza\",\n    \"Paul Birevu Muyinda\",\n    \"Jessica Aguti\",\n    \"Daniel Ddamulira\",\n    \"James Mugisha\",\n    \"Justus Twongyeirwe\",\n    \"Anthony Tusiime\",\n    \"Florence Nakayiwa\",\n    \"Betty Ezati\",\n    \"Saul Waigolo\",\n    \"Everest Chemutai\",\n    \"Rose Bwire\",\n    \"John Ssekamatte\",\n    \"David Onen\",\n    \"Richard Omoding\",\n    \"Arthur Sserwanja\",\n    \"Edgar Nabutanyi\",\n    \"Sarah Nakijoba\",\n    \"Joseph Ssennoga\",\n    \"Deusdedit Tusubira\",\n    \"Peter Okello\",\n    \"Ronald Bisaso\",\n    \"Fredrick Kitoogo\",\n    \"John Muyingo\",\n    \"Aloysius Ssemanda\",\n    \"Joseph Oonyu\",\n    \"Samuel Kayiwa\",\n    \"David Kabugo\",\n    \"Harriet Adong\",\n    \"Justine Namaalwa\",\n    \"Rosemary Nabiryo\",\n    \"Christine Dranzoa\",\n    \"Dominic Byarugaba\",\n    \"Simon Peter Kafuko\",\n    \"Robert Ojambo\",\n    \"Paul Musasizi\",\n    \"John Chrysestom Maviiri\",\n    \"Vincent Kakembo\",\n    \"Fred Masagazi Masaazi\",\n    \"Edward K Kirumira\"\n  ],\n  \"Year\": \"2017\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"International Journal of African Higher Education\",\n    \"DOI_URL\": \"https://doi.org/10.6017/ijahe.v4i1.5646\",\n    \"APA_Reference\": \"Oketch, M., Morrice, L., Golola, M., Kakuru, I., Mwebaza, E., Muyinda, P. B., Aguti, J., Ddamulira, D., Mugisha, J., Twongyeirwe, J., Tusiime, A., Nakayiwa, F., Ezati, B., Waigolo, S., Chemutai, E., Bwire, R., Ssekamatte, J., Onen, D., Omoding, R., ... Kirumira, E. K. (2017). Developing a Qualifications Framework for the East African Community: Progress, Prospects and Challenges. International Journal of African Higher Education, 4(1), 1–32. https://doi.org/10.6017/ijahe.v4i1.5646\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Qualitative research involving document review, interviews, and focus group discussions.\",\n    \"Geographic_Focus\": \"East African Community (EAC)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not explicitly stated, but involved multiple stakeholders from EAC member states.\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated, but implicitly uses a framework of regional integration and harmonization.\",\n    \"Harmonization_Definition\": \"Harmonization is defined in the context of developing a regional qualifications framework to facilitate cross-border recognition of qualifications and promote mobility within the EAC.\",\n    \"Regional_Initiatives\": [\n      \"East African Community Qualifications Framework (EAQF)\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Stakeholder consultations\",\n      \"Document review\",\n      \"Development of descriptors and level definitions\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Government officials\",\n      \"Higher education institutions\",\n      \"Employers\",\n      \"Regional bodies (EAC Secretariat)\"\n    ],\n    \"Data_Sources\": [\n      \"Policy documents\",\n      \"Legal frameworks\",\n      \"Interview transcripts\",\n      \"Focus group discussion notes\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Progress has been made in developing the EAQF, but challenges remain in implementation.\",\n      \"Stakeholder engagement is crucial for the success of the EAQF.\",\n      \"Political will and commitment from member states are essential.\",\n      \"Harmonization of education systems is a complex and time-consuming process.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of political will\",\n      \"Varying education systems across member states\",\n      \"Limited resources\",\n      \"Resistance to change\",\n      \"Coordination challenges\"\n    ],\n    \"Success_Factors\": [\n      \"Strong leadership\",\n      \"Effective stakeholder engagement\",\n      \"Clear communication\",\n      \"Shared vision\",\n      \"Technical expertise\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen political commitment\",\n      \"Increase resources for implementation\",\n      \"Enhance stakeholder engagement\",\n      \"Develop clear guidelines and procedures\",\n      \"Promote awareness and understanding of the EAQF\"\n    ],\n    \"Future_Research\": [\n      \"Impact of the EAQF on student mobility and employment\",\n      \"Effectiveness of different implementation strategies\",\n      \"Sustainability of the EAQF\"\n    ],\n    \"Specific_Examples\": [\n      \"Development of level descriptors for the EAQF\",\n      \"Consultations with stakeholders in EAC member states\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Stakeholder consultations\",\n      \"Policy development\",\n      \"Capacity building\",\n      \"Quality assurance\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Political barriers\",\n      \"Systemic differences\",\n      \"Resource constraints\",\n      \"Coordination issues\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political will\",\n      \"Stakeholder engagement\",\n      \"Clear communication\",\n      \"Technical expertise\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased student mobility\",\n      \"Enhanced recognition of qualifications\",\n      \"Improved quality of education\",\n      \"Economic development\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 626,
+      "candidatesTokenCount": 1548,
+      "totalTokenCount": 2174,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 626
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1548
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "sZRSaN-0FKiUsbQPmK3KkQI"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "response_id": 15,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:28:07.735078",
+  "metadata": {
+    "url": "https://acqf.africa/news/nqf-survey-2024-published",
+    "final_url": "https://acqf.africa/news/nqf-survey-2024-published",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"National Qualifications Frameworks in Africa: ACQF Survey 2024 - Report highlights main features and trends\",\n    \"authors\": [\n      \"E. Castel-Branco (based on Survey report)\"\n    ],\n    \"doi\": null,\n    \"journal\": \"ACQF\",\n    \"year\": \"2024\",\n    \"abstract\": \"The first NQF survey conducted by ACQF-II project expands and updates the information collected by the initial ACQF Mapping Study. Article: E. Castel-Branco (based on Survey report).\"\n  },\n  \"fulltext_links\": [],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"low\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.009388169038642957
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2763,
+      "candidatesTokenCount": 206,
+      "totalTokenCount": 2969,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2763
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 206
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "tZRSaIiePJbrqsMPiOTvsQI"
+  }
+}

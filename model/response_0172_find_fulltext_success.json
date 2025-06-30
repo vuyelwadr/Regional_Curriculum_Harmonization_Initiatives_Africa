@@ -1,0 +1,65 @@
+{
+  "response_id": 172,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:44:05.348375",
+  "metadata": {
+    "url": "https://gh.bmj.com/lookup/doi/10.1136/bmjgh-2022-010892",
+    "final_url": "https://gh.bmj.com/content/8/1/e010892",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Capacity building at points of entry during COVID-19 pandemic: harmonising training curriculum for Economic Community of West African States\",\n    \"authors\": [\n      \"Aishat Bukola Usman\",\n      \"Virgil Kuassi Lokossou\",\n      \"Kiswendsida Sawadogo\",\n      \"Sarah Ward\",\n      \"Chukwuma David Umeokonkwo\",\n      \"Bernard Sawadogo\",\n      \"Chelsea Hanlon\",\n      \"Godfrey Kayita\",\n      \"Muhammad Shakir Balogun\",\n      \"Simon Antara\",\n      \"Rebecca Merrill\",\n      \"Patrick M Nguku\",\n      \"Sombie Issiaka\",\n      \"Melchior Athanase JC Aïssi\"\n    ],\n    \"doi\": \"10.1136/bmjgh-2022-010892\",\n    \"journal\": \"BMJ Global Health\",\n    \"year\": \"2023\",\n    \"abstract\": \"This paper describes the process for developing, validating and disseminating through a train-the-trainer (TOT) event a standardised curriculum for public health capacity building for points of entry (POE) staff across the 15-member state Economic Community of West African States (ECOWAS) that reflects both international standards and national guidelines.A five-phase process was used in developing the curriculum: phase (1) assessment of existing materials developed by the US Centers for Disease Control and Prevention (CDC), Africa CDC and the West African Economic and Monetary Union, (2) design of retained and new, harmonised content, (3) validation by the national leadership to produce final content, (4) implementation of the harmonised curriculum during a regional TOT, and (5) evaluation of the curriculum.Of the nine modules assessed in English and French, the technical team agreed to retain six harmonised modules providing materials for 10 days of intensive training. Following the TOT, most participants (n=28/30, 93.3%) indicated that the International Health Regulations and emergency management modules were relevant to their work and 96.7% (n=29/30) reported that the training should be cascaded to POE staff in their countries.The ECOWAS harmonised POE curriculum provides a set of training materials and expectations for national port health and POE staff to use across the region. This initiative contributes to reducing the effort required by countries to identify emergency preparedness and response capacity-building tools for border health systems in the Member States in a highly connected region.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://gh.bmj.com/content/8/1/e010892\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [\n    \"gold\"\n  ],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 96,
+              "endIndex": 235,
+              "uri": "https://africaresearchconnects.com/author/1002350860/"
+            },
+            {
+              "startIndex": 263,
+              "endIndex": 652,
+              "uri": "https://reliefweb.int/report/benin/capacity-building-points-entry-during-covid-19-pandemic-harmonising-training-curriculum-economic-community-west-african-states"
+            },
+            {
+              "startIndex": 760,
+              "endIndex": 2381,
+              "uri": "https://www.cdc.gov/library/sciclips/issues/v15issue7.html"
+            }
+          ]
+        },
+        "avgLogprobs": -0.0003122363513682312
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2692,
+      "candidatesTokenCount": 693,
+      "totalTokenCount": 3385,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2692
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 693
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "cZhSaPKUH5brqsMPiOTvsQI"
+  }
+}

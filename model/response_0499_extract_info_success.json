@@ -1,0 +1,45 @@
+{
+  "response_id": 499,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:14:21.216699",
+  "metadata": {
+    "apa_number": 358,
+    "url": "https://www.eala.org/uploads/EAC_Integration_Education_Act_2019.pdf",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://www.eala.org/uploads/EAC_Integration_Education_Act_2019.pdf\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"This document is the EAC Integration Education Act, which by its nature focuses on regional curriculum harmonization initiatives within the East African Community. It addresses harmonization across institutions and countries within the EAC region, focusing on regional frameworks, cross-border education, mutual recognition, and credit transfer systems.\",\n  \"Title\": \"The East African Community Integration Education Act, 2019\",\n  \"Authors\": [],\n  \"Year\": \"2019\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"East African Legislative Assembly\",\n    \"DOI_URL\": \"https://www.eala.org/uploads/EAC_Integration_Education_Act_2019.pdf\",\n    \"APA_Reference\": \"East African Legislative Assembly. (2019). The East African Community Integration Education Act, 2019. Retrieved from https://www.eala.org/uploads/EAC_Integration_Education_Act_2019.pdf\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Legal Framework\",\n    \"Geographic_Focus\": \"East African Community (EAC)\",\n    \"Educational_Level\": \"All levels\",\n    \"Sample_Size\": \"N/A\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Regional Integration Theory\",\n    \"Harmonization_Definition\": \"Harmonization is defined through the various provisions aimed at standardizing education systems, curricula, and qualifications across the EAC Partner States to facilitate mobility and mutual recognition.\",\n    \"Regional_Initiatives\": [\n      \"EAC Integration Education Act\",\n      \"Establishment of the East African Higher Education Accreditation Agency\",\n      \"Mutual Recognition of Academic and Professional Qualifications\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Legislative Framework\",\n      \"Establishment of Regional Bodies\",\n      \"Harmonization of Curricula\",\n      \"Mutual Recognition Agreements\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"EAC Partner States\",\n      \"Ministries of Education\",\n      \"National Accreditation Bodies\",\n      \"Higher Education Institutions\",\n      \"East African Higher Education Accreditation Agency\",\n      \"Students\"\n    ],\n    \"Data_Sources\": [\n      \"EAC Treaty\",\n      \"National Education Policies\",\n      \"Expert Consultations\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"The Act provides a legal framework for the harmonization of education systems within the EAC.\",\n      \"It aims to promote regional integration through education.\",\n      \"It facilitates the mutual recognition of academic and professional qualifications.\",\n      \"It establishes the East African Higher Education Accreditation Agency.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Varying national education policies and priorities.\",\n      \"Resistance to change from national institutions.\",\n      \"Funding constraints.\",\n      \"Coordination challenges among Partner States.\"\n    ],\n    \"Success_Factors\": [\n      \"Political will from EAC Partner States.\",\n      \"Strong regional institutions.\",\n      \"Stakeholder engagement.\",\n      \"Adequate funding.\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen the East African Higher Education Accreditation Agency.\",\n      \"Develop common curricula and standards.\",\n      \"Promote student and faculty mobility.\",\n      \"Increase funding for regional education initiatives.\"\n    ],\n    \"Future_Research\": [\n      \"Impact of the Act on student mobility.\",\n      \"Effectiveness of the East African Higher Education Accreditation Agency.\",\n      \"Challenges in implementing common curricula.\"\n    ],\n    \"Specific_Examples\": [\n      \"Provisions for mutual recognition of qualifications.\",\n      \"Establishment of the East African Higher Education Accreditation Agency.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Legislative Framework\",\n      \"Regional Accreditation Agency\",\n      \"Mutual Recognition Agreements\",\n      \"Harmonized Curricula\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"National Policy Differences\",\n      \"Funding Constraints\",\n      \"Coordination Challenges\",\n      \"Resistance to Change\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political Will\",\n      \"Strong Regional Institutions\",\n      \"Stakeholder Engagement\",\n      \"Adequate Funding\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased Student Mobility\",\n      \"Enhanced Regional Integration\",\n      \"Improved Quality of Education\",\n      \"Mutual Recognition of Qualifications\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 622,
+      "candidatesTokenCount": 1053,
+      "totalTokenCount": 1675,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 622
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1053
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "hp9SaJuAAouZhMIPlvTuyQY"
+  }
+}

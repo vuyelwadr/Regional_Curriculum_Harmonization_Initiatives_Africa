@@ -1,0 +1,54 @@
+{
+  "response_id": 184,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:45:08.950896",
+  "metadata": {
+    "url": "https://ejournals.bc.edu/index.php/ihe/article/view/8837",
+    "final_url": "https://ejournals.bc.edu/index.php/ihe/article/view/8837",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"West African Higher Education Reforms\",\n    \"authors\": [\n      \"Juma Shabani\"\n    ],\n    \"doi\": \"10.6017/ihe.2012.66.8837\",\n    \"journal\": \"International Higher Education\",\n    \"year\": \"2012\",\n    \"abstract\": \"Since the advent of the knowledge economy society, higher education is seen as a major contributor to poverty reduction and sustainable human development. Over the past two decades, many regional organizations have invested in the revitalization and further development of their higher education systems—in order to benefit from the opportunities offered by the knowledge economy. These efforts include the implementation of the Bologna process of construction of a higher education area in Europe and beyond by 2010 and the Higher Education Harmonization Strategy in Africa designed by the African Union. These two initiatives are mainly motivated by the need to move to a new system known as the bachelor-master-doctorate system.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://ejournals.bc.edu/index.php/ihe/article/download/8837/7914\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 305,
+              "endIndex": 1031
+            }
+          ]
+        },
+        "avgLogprobs": -0.0002523763548760187
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2772,
+      "candidatesTokenCount": 357,
+      "totalTokenCount": 3129,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2772
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 357
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "sphSaIv1Kf6ShMIPm7P8iAY"
+  }
+}

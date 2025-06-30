@@ -1,0 +1,60 @@
+{
+  "response_id": 390,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:05:06.126143",
+  "metadata": {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10132525/",
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10132525/",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Best practices in the African Medicines Regulatory Harmonization initiative: Perspectives of regulators and medicines manufacturers\",\n    \"authors\": [\n      \"Margareth Ndomondo-Sigonda\",\n      \"Samvel Azatyan\",\n      \"Petra Doerr\",\n      \"Collins Agaba\",\n      \"Kristin N Harper\"\n    ],\n    \"doi\": \"10.1371/journal.pgph.0001651\",\n    \"journal\": \"PLOS Global Public Health\",\n    \"year\": \"2023\",\n    \"abstract\": \"In the African Medicines Regulatory Harmonization initiative, national regulatory authorities (NRAs) within each of Africa’s regional economic communities coordinate their activities, rely on the work of one another and other trusted regulatory ...\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://pmc.ncbi.nlm.nih.gov/articles/PMC10132525/\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://pmc.ncbi.nlm.nih.gov/articles/PMC10132525/pdf/pgph.0001651.pdf\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 96,
+              "endIndex": 222,
+              "uri": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2024.1467229/epub"
+            },
+            {
+              "startIndex": 507,
+              "endIndex": 751,
+              "uri": "https://pubmed.ncbi.nlm.nih.gov/37186241/"
+            }
+          ]
+        },
+        "avgLogprobs": -6.761189088186047e-05
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2892,
+      "candidatesTokenCount": 379,
+      "totalTokenCount": 3271,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2892
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 379
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "X51SaJDdNbPQhMIP372DoQ0"
+  }
+}

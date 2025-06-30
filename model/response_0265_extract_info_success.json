@@ -1,0 +1,45 @@
+{
+  "response_id": 265,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:53:13.417631",
+  "metadata": {
+    "apa_number": 175,
+    "url": "https://jisrmsse.szabist.edu.pk/index.php/szabist/article/download/621/643",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://jisrmsse.szabist.edu.pk/index.php/szabist/article/download/621/643\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper discusses curriculum harmonization in the East African Community (EAC) region, involving multiple countries. It focuses on cross-border education and regional frameworks for mutual recognition of qualifications. The paper explicitly mentions the EAC Protocol on Education and Training, which aims to harmonize education systems across member states.\",\n  \"Title\": \"Harmonization of Higher Education Curricula in East Africa: A Review of the Literature\",\n  \"Authors\": [\n    \"Callistus K. Tumwesigye\",\n    \"Ronald Bisaso\",\n    \"John Mary Kagoya\",\n    \"Edgar Nabutanyi\"\n  ],\n  \"Year\": \"2023\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Journal of Independent Studies and Research: Management, Social Sciences and Economics\",\n    \"DOI_URL\": \"https://doi.org/10.59053/jisrmsse.v21i1.621\",\n    \"APA_Reference\": \"Tumwesigye, C. K., Bisaso, R., Kagoya, J. M., & Nabutanyi, E. (2023). Harmonization of Higher Education Curricula in East Africa: A Review of the Literature. Journal of Independent Studies and Research: Management, Social Sciences and Economics, 21(1), 102–118. https://doi.org/10.59053/jisrmsse.v21i1.621\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature Review\",\n    \"Geographic_Focus\": \"East African Community (EAC)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable (literature review)\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly mentioned\",\n    \"Harmonization_Definition\": \"The paper defines harmonization as a process of aligning curricula to facilitate comparability and mutual recognition of qualifications across the EAC region.\",\n    \"Regional_Initiatives\": [\n      \"EAC Protocol on Education and Training\",\n      \"EAC Common Higher Education Area\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Curriculum alignment\",\n      \"Credit transfer systems\",\n      \"Quality assurance mechanisms\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Universities\",\n      \"National higher education councils\",\n      \"EAC Secretariat\",\n      \"Students\"\n    ],\n    \"Data_Sources\": [\n      \"Academic literature\",\n      \"Policy documents\",\n      \"Reports\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Curriculum harmonization is crucial for promoting regional integration and mobility of students and professionals within the EAC.\",\n      \"Significant progress has been made in developing regional frameworks for quality assurance and credit transfer.\",\n      \"Challenges remain in ensuring effective implementation and addressing variations in national education systems.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Variations in national education systems\",\n      \"Lack of resources\",\n      \"Resistance to change\",\n      \"Limited stakeholder engagement\"\n    ],\n    \"Success_Factors\": [\n      \"Political will\",\n      \"Strong regional frameworks\",\n      \"Active participation of universities\",\n      \"Effective quality assurance mechanisms\"\n    ],\n    \"Recommendations\": [\n      \"Strengthening regional frameworks and policies\",\n      \"Increasing investment in higher education\",\n      \"Promoting stakeholder engagement\",\n      \"Enhancing quality assurance mechanisms\"\n    ],\n    \"Future_Research\": [\n      \"Impact of curriculum harmonization on student learning outcomes\",\n      \"Effectiveness of different implementation approaches\",\n      \"Role of technology in facilitating curriculum harmonization\"\n    ],\n    \"Specific_Examples\": [\n      \"Development of regional qualifications frameworks\",\n      \"Establishment of credit transfer systems\",\n      \"Harmonization of specific academic programs (e.g., medicine, engineering)\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Regional qualifications frameworks\",\n      \"Credit transfer systems\",\n      \"Quality assurance agencies\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"National sovereignty concerns\",\n      \"Resource constraints\",\n      \"Differing academic standards\",\n      \"Bureaucratic hurdles\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political commitment\",\n      \"Regional collaboration\",\n      \"Stakeholder buy-in\",\n      \"Clear articulation of goals\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased student mobility\",\n      \"Enhanced regional integration\",\n      \"Improved quality of education\",\n      \"Greater employability of graduates\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 630,
+      "candidatesTokenCount": 1120,
+      "totalTokenCount": 1750,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 630
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1120
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "kZpSaNbjPLPQhMIP372DoQ0"
+  }
+}

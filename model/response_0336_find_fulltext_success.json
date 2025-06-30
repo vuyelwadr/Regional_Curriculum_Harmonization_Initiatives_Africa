@@ -1,0 +1,59 @@
+{
+  "response_id": 336,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:00:06.913378",
+  "metadata": {
+    "url": "https://papers.academic-conferences.org/index.php/ictr/article/view/2143",
+    "final_url": "https://papers.academic-conferences.org/index.php/ictr/article/view/2143",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"The integration of Graduate Attributes within the hospitality management curriculum at higher education institutions \",\n    \"authors\": [\n      \"Ngizimisele Mosho\",\n      \"Tshinakaho Nyathela-Sunday\",\n      \"Oswald Mhlanga\"\n    ],\n    \"doi\": \"10.34190/ictr.7.1.2143\",\n    \"journal\": \"International Conference on Tourism Research\",\n    \"year\": \"2024\",\n    \"abstract\": \"South African institutions of higher learning are responsible for producing graduates who are well-prepared for the demands of the world of work. To meet this imperative, universities have adopted the use of graduate attributes (GAs) to develop and showcase their graduates’ skills and competencies. Furthermore, the current economic landscape places pressure on universities to produce highly skilled and employable graduates. Despite the recognised significance of GAs, lecturers often encounter difficulties when attempting to integrate them into the curriculum. The problem (gap), however, is that lecturers find it difficult to integrate these GAs for various reasons, including a lack of comprehensive understanding, effective teaching methods, and reliable assessment strategies of GAs. Moreover, the absence of structured training programs for lecturers on how to integrate GAs into the curriculum is a hindrance to the GAs’ successful implementation. This paper aims to determine the extent to which the GAs have been implemented within the hospitality curriculum in South Africa. A desktop review study was conducted and analysed according to identified themes. The findings propose developing the framework, a guiding tool, that will enable academic institutions to integrate GAs into their curriculum.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://papers.academic-conferences.org/index.php/ictr/article/download/2143/1886\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 87,
+              "endIndex": 356,
+              "uri": "https://m.booksci.cn/literature_d413105_3.htm"
+            },
+            {
+              "startIndex": 463,
+              "endIndex": 1770
+            }
+          ]
+        },
+        "avgLogprobs": -0.0002111188273449413
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2824,
+      "candidatesTokenCount": 488,
+      "totalTokenCount": 3312,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2824
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 488
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "NJxSaL36DZrnqsMPzonmkA0"
+  }
+}

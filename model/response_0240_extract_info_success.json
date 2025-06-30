@@ -1,0 +1,45 @@
+{
+  "response_id": 240,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:50:22.631515",
+  "metadata": {
+    "apa_number": 183,
+    "url": "https://journal.stitmadani.ac.id/index.php/JPI/article/download/719/338",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://journal.stitmadani.ac.id/index.php/JPI/article/download/719/338\",\n  \"MATCHES_CRITERIA\": false,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on Islamic Religious Education curriculum development in Indonesia, specifically within the context of the Merdeka Belajar (Independent Learning) curriculum. It does not address regional curriculum harmonization initiatives involving multiple African countries or regions. The focus is on a national curriculum reform within a single country (Indonesia), not cross-border or regional harmonization.\",\n  \"Title\": \"Islamic Religious Education Curriculum Development in the Era of Freedom Learning\",\n  \"Authors\": [\n    \"Muhammad Irfan Helmy\",\n    \"Muhammad Husni Thamrin\",\n    \"Muhammad Chirzin\"\n  ],\n  \"Year\": \"2023\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 627,
+      "candidatesTokenCount": 194,
+      "totalTokenCount": 821,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 627
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 194
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "7JlSaPuIOeiChMIP-ufFUQ"
+  }
+}

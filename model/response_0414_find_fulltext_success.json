@@ -1,0 +1,46 @@
+{
+  "response_id": 414,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:07:10.515394",
+  "metadata": {
+    "url": "https://rightforeducation.org/2025/01/13/the-future-of-education-in-africa/",
+    "final_url": "https://rightforeducation.org/2025/01/13/the-future-of-education-in-africa/",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"The Future of Education in Africa: Bridging the Gap\",\n    \"authors\": [\n      \"Mercy Omale\"\n    ],\n    \"doi\": null,\n    \"journal\": null,\n    \"year\": \"2025\",\n    \"abstract\": \"Education in Africa is at a crossroads. With a rapidly growing population and increasing demand for quality education, the continent faces both challenges and opportunities. Across Africa, access to education has expanded in recent years, but significant gaps remain, especially in rural areas.\"\n  },\n  \"fulltext_links\": [],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.0039681758807629955
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2866,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 3062,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2866
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 196
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "3J1SaPLbLouZhMIPlvTuyQY"
+  }
+}

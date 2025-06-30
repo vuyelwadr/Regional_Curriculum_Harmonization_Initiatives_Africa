@@ -1,0 +1,55 @@
+{
+  "response_id": 407,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:06:17.286683",
+  "metadata": {
+    "url": "https://taapublications.com/tijssra/article/view/293",
+    "final_url": "https://taapublications.com/tijssra/article/view/293",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"STRENGTHENING THE RULE OF LAW: LEVERAGING AFRICAN UNION SUB-REGIONAL BODIES TO ADDRESS MILITARY COUPS IN AFRICA\",\n    \"authors\": [\n      \"MAMMAN ALIYU SALISU\",\n      \"OLAYINKA PAUL FOLORUNSHO\",\n      \"IWANGER RUTH SAMUEL\"\n    ],\n    \"doi\": \"10.70382/tijssra.v06i6.007\",\n    \"journal\": \"International Journal of Social Science Research and Anthropology\",\n    \"year\": \"2024\",\n    \"abstract\": \"Military coups have emerged as a significant challenge to democratic stability and governance in Africa, undermining the rule of law and reversing decades of progress in political reforms. This paper explores how the African Union (AU) can strategically engage its sub-regional bodies, such as Economic Community of West African States (ECOWAS), the Southern African Development Community (SADC), the East African Community (EAC), and the Intergovernmental&nbsp;Authority on Development (IGAD), to strengthen the rule of law and curtail the resurgence of military coups across the continent. These sub-regional organizations possess unique insights into their respective geopolitical landscapes and are well-positioned to implement preventive and corrective measures. The paper identifies key strategies, including capacity-building initiatives to strengthen judicial and electoral institutions, fostering inclusive governance to address grievances, and enhancing the rapid deployment of conflict mediation teams. It emphasizes the importance of a unified approach, where the AU coordinates efforts across sub-regional bodies to enforce legal frameworks such as the African Charter on Democracy, Elections, and Governance. Furthermore, the study examines case studies of successful and failed interventions by these bodies to derive lessons for effective implementation. However, challenges such as resource limitations, political interference, and inconsistent enforcement mechanisms impede these efforts. The paper argues that overcoming these barriers requires political will, increased funding, and stronger partnerships with global organizations. By leveraging the unique strengths of its sub-regional bodies, the AU can promote the rule of law, deter unconstitutional power seizures, and contribute to sustainable democratic governance across Africa.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://taapublications.com/tijssra/article/download/293/305\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 799,
+              "endIndex": 936,
+              "uri": "https://21be6v.life/china-and-south-african-trade-agreements"
+            }
+          ]
+        },
+        "avgLogprobs": -0.001307852566242218
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2422,
+      "candidatesTokenCount": 576,
+      "totalTokenCount": 2998,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2422
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 576
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "pZ1SaMLiHprnqsMPzonmkA0"
+  }
+}

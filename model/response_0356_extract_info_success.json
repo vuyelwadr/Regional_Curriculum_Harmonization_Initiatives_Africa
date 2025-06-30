@@ -1,0 +1,45 @@
+{
+  "response_id": 356,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:01:29.127940",
+  "metadata": {
+    "apa_number": 239,
+    "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-27258-0_2.pdf",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://link.springer.com/content/pdf/10.1007/978-3-319-27258-0_2.pdf\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in Africa, specifically addressing the development of a qualifications framework for the East African Community (EAC). It discusses cross-border education and mutual recognition of qualifications within the EAC region. The paper explicitly mentions the EAC Qualifications Framework (EACQF) and its role in harmonizing education and training systems across multiple countries.\",\n  \"Title\": \"Towards a Qualifications Framework for the East African Community\",\n  \"Authors\": [\n    \"Moses Oketch\",\n    \"Linda Clarke\"\n  ],\n  \"Year\": \"2016\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Springer\",\n    \"DOI_URL\": \"https://doi.org/10.1007/978-3-319-27258-0_2\",\n    \"APA_Reference\": \"Oketch, M., & Clarke, L. (2016). Towards a Qualifications Framework for the East African Community. In Global Skills Development (pp. 17-33). Springer, Cham. \"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Qualitative analysis of policy documents and literature review\",\n    \"Geographic_Focus\": \"East African Community (EAC)\",\n    \"Educational_Level\": \"Higher Education and TVET\",\n    \"Sample_Size\": \"N/A\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Qualifications Framework theory\",\n    \"Harmonization_Definition\": \"Harmonization is defined as aligning education and training systems to facilitate mobility and recognition of qualifications across the EAC region.\",\n    \"Regional_Initiatives\": [\n      \"East African Community Qualifications Framework (EACQF)\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Policy development\",\n      \"Stakeholder consultation\",\n      \"Capacity building\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments\",\n      \"Education institutions\",\n      \"Employers\",\n      \"Regional bodies\"\n    ],\n    \"Data_Sources\": [\n      \"Policy documents\",\n      \"Literature review\",\n      \"EAC documents\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"The EACQF aims to promote regional integration and mobility by harmonizing education and training systems.\",\n      \"Challenges exist in implementing the EACQF due to varying national contexts and priorities.\",\n      \"Stakeholder engagement is crucial for the successful implementation of the EACQF.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Varying national contexts and priorities\",\n      \"Lack of resources\",\n      \"Limited capacity\"\n    ],\n    \"Success_Factors\": [\n      \"Political will\",\n      \"Stakeholder engagement\",\n      \"Regional coordination\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen regional coordination mechanisms\",\n      \"Invest in capacity building\",\n      \"Promote stakeholder engagement\"\n    ],\n    \"Future_Research\": [\n      \"Further research is needed to assess the impact of the EACQF on regional integration and mobility.\"\n    ],\n    \"Specific_Examples\": [\n      \"The paper provides examples of how the EACQF is being used to facilitate the recognition of qualifications across the EAC region.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Policy frameworks\",\n      \"Regional standards\",\n      \"Quality assurance systems\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Political differences\",\n      \"Resource constraints\",\n      \"Capacity gaps\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Strong leadership\",\n      \"Collaborative partnerships\",\n      \"Shared vision\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased mobility\",\n      \"Improved quality of education\",\n      \"Enhanced regional integration\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 638,
+      "candidatesTokenCount": 947,
+      "totalTokenCount": 1585,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 638
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 947
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "g5xSaPXIDprnqsMPzonmkA0"
+  }
+}

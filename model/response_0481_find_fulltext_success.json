@@ -1,0 +1,54 @@
+{
+  "response_id": 481,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:13:11.665320",
+  "metadata": {
+    "url": "https://www.ajol.info/index.php/ajsw/article/view/275824",
+    "final_url": "https://www.ajol.info/index.php/ajsw/article/view/275824",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Changing trends of social work curriculum: a study of selected social work institutions in India\",\n    \"authors\": [\n      \"Sunil Prasad\",\n      \"Arul Actovin\",\n      \"Bishnu Mohan Dash\",\n      \"Shyam Inda\"\n    ],\n    \"doi\": \"10.4314/ajsw.v14i2.6\",\n    \"journal\": \"African Journal of Social Work\",\n    \"year\": \"2024\",\n    \"abstract\": \"The article critically examines the social work curriculum of few selected social work institutions in India. By using the content analysis method, the article analyses the changing trends of social work curriculum in Indian universities. The study found that few selected institutions have incorporated the Indic indigenous components and theories in social work curriculum in line with New Education Policy (NEP), 2020 of Government of India and fulfillment of sustainable development goal of quality education in comparison to the top-ranking social work institutions which are still following the western concepts, models and theories. The study reveals that prevalence of Euro-American-centric social work curriculum, lack of uniformity in curriculum across universities and non-standardised fieldwork training is hampering the quality of social work education in India. Besides that, it also highlights the importance of Indianisation of social work curriculum towards the fulfillment of sustainable development goals. This article will be very useful for global social work fraternity as it highlights the changing trends of social work curriculum in Indian universities.\\u00a0\\nHOW TO REFERENCE USING ASWDNET STYLE\\nPrasad, S., Actovin, A., Dash, B. M. &amp; Inda, S. (2024). Changing trends of social work curriculum: a study of selected social work institutions in India. African Journal of Social Work, 14(2), 100-107. https://dx.doi.org/10.4314/ajsw.v14i2.6\\nVisit journal website: https://ajsw.africasocialwork.net\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://www.ajol.info/index.php/ajsw/article/download/275824/260336\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 429,
+              "endIndex": 1600
+            }
+          ]
+        },
+        "avgLogprobs": -9.79089450956595e-05
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2933,
+      "candidatesTokenCount": 594,
+      "totalTokenCount": 3527,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2933
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 594
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "RJ9SaOmzIJrnqsMPzonmkA0"
+  }
+}

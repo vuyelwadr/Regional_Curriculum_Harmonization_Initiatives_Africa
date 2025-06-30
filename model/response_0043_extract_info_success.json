@@ -1,0 +1,45 @@
+{
+  "response_id": 43,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:31:07.989264",
+  "metadata": {
+    "apa_number": 34,
+    "url": "https://scielo.org.za/scielo.php?script=sci_arttext&pid=S2520-98682023000100003&lng=en&nrm=iso&tlng=en",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://scielo.org.za/scielo.php?script=sci_arttext&pid=S2520-98682023000100003&lng=en&nrm=iso&tlng=en\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives within the Southern African Development Community (SADC) region, involving multiple countries and institutions. It addresses harmonization across institutions/countries, specifically focusing on the SADC Qualifications Framework (SADCQF) and its impact on cross-border education and mutual recognition of qualifications. The paper discusses regional frameworks and credit transfer systems.\",\n  \"Title\": \"The SADC Qualifications Framework: Stakeholders’ perceptions of its influence on cross-border higher education\",\n  \"Authors\": [\n    \"Cecilia Jacobs\",\n    \"Rouaan Maarman\"\n  ],\n  \"Year\": \"2023\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"South African Journal of Higher Education\",\n    \"DOI_URL\": \"http://dx.doi.org/10.20853/2520-9868.v37i1.2354\",\n    \"APA_Reference\": \"Jacobs, C., & Maarman, R. (2023). The SADC Qualifications Framework: Stakeholders’ perceptions of its influence on cross-border higher education. South African Journal of Higher Education, 37(1), 1-18. http://dx.doi.org/10.20853/2520-9868.v37i1.2354\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Qualitative; phenomenological approach\",\n    \"Geographic_Focus\": \"Southern African Development Community (SADC) region\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"21 participants (SADC Secretariat officials, national qualifications authority officials, and higher education practitioners)\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Interpretative phenomenological analysis (IPA)\",\n    \"Harmonization_Definition\": \"Not explicitly defined, but implied through the discussion of the SADCQF's role in facilitating comparability and recognition of qualifications across member states.\",\n    \"Regional_Initiatives\": [\n      \"SADC Qualifications Framework (SADCQF)\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Development of regional standards and guidelines\",\n      \"Capacity building workshops\",\n      \"Stakeholder consultations\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"SADC Secretariat\",\n      \"National Qualifications Authorities\",\n      \"Higher Education Institutions\",\n      \"Students\",\n      \"Employers\"\n    ],\n    \"Data_Sources\": [\n      \"Semi-structured interviews\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"The SADCQF is perceived to have a positive influence on cross-border higher education by promoting comparability and recognition of qualifications.\",\n      \"Stakeholders believe the SADCQF can enhance student and graduate mobility within the SADC region.\",\n      \"Challenges remain in the implementation of the SADCQF, including varying levels of development and capacity among member states.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Varying levels of development and capacity among member states\",\n      \"Lack of awareness and understanding of the SADCQF among some stakeholders\",\n      \"Bureaucratic processes and administrative hurdles\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political will and commitment from member states\",\n      \"Effective communication and collaboration among stakeholders\",\n      \"Adequate resources and capacity building support\"\n    ],\n    \"Recommendations\": [\n      \"Increased awareness campaigns to promote the SADCQF\",\n      \"Strengthening capacity building initiatives for member states\",\n      \"Streamlining administrative processes to facilitate recognition of qualifications\"\n    ],\n    \"Future_Research\": [\n      \"Further research is needed to assess the long-term impact of the SADCQF on cross-border higher education and graduate employability.\"\n    ],\n    \"Specific_Examples\": [\n      \"Mention of the SADC Protocol on Education and Training as a key policy instrument supporting regional integration in education.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Regional qualifications framework\",\n      \"Credit transfer systems\",\n      \"Mutual recognition agreements\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Capacity constraints\",\n      \"Lack of resources\",\n      \"Varying national priorities\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political commitment\",\n      \"Stakeholder collaboration\",\n      \"Effective communication\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased student mobility\",\n      \"Enhanced graduate employability\",\n      \"Improved quality of higher education\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 657,
+      "candidatesTokenCount": 1145,
+      "totalTokenCount": 1802,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 657
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1145
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "ZJVSaLzkLOiChMIP-ufFUQ"
+  }
+}

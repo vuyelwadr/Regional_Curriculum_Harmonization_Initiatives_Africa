@@ -1,0 +1,45 @@
+{
+  "response_id": 120,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:38:21.034038",
+  "metadata": {
+    "apa_number": 80,
+    "url": "https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-018-1163-9",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-018-1163-9\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in medical education across multiple African countries, specifically addressing the East African Community (EAC). It discusses harmonization across institutions and countries, mentioning regional frameworks and mutual recognition of medical qualifications. The paper explicitly mentions the EAC harmonization efforts and the development of a common curriculum.\",\n  \"Title\": \"The development of a common curriculum for undergraduate medical education in East Africa: process and outcomes\",\n  \"Authors\": [\n    \"David H. Seremba\",\n    \"Paul Katamba\",\n    \"Francis Omaswa\",\n    \"Elison Mujuzi\",\n    \"George Pariyo\",\n    \"Alfred Gitau\",\n    \"James K. Tumwine\",\n    \"Nelson K. Sewankambo\"\n  ],\n  \"Year\": \"2018\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"BMC Medical Education\",\n    \"DOI_URL\": \"https://doi.org/10.1186/s12909-018-1163-9\",\n    \"APA_Reference\": \"Seremba, D. H., Katamba, P., Omaswa, F., Mujuzi, E., Pariyo, G., Gitau, A., Tumwine, J. K., & Sewankambo, N. K. (2018). The development of a common curriculum for undergraduate medical education in East Africa: process and outcomes. *BMC Medical Education*, *18*(1), 277. https://doi.org/10.1186/s12909-018-1163-9\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Qualitative case study\",\n    \"Geographic_Focus\": \"East African Community (EAC): Uganda, Kenya, Tanzania, Rwanda, Burundi\",\n    \"Educational_Level\": \"Undergraduate Medical Education\",\n    \"Sample_Size\": \"Not explicitly stated, but involves multiple stakeholders from medical schools across the EAC.\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated, but grounded in principles of curriculum development and regional integration.\",\n    \"Harmonization_Definition\": \"Harmonization refers to the process of developing a common undergraduate medical curriculum across the EAC partner states to ensure comparable standards and facilitate mutual recognition of medical qualifications.\",\n    \"Regional_Initiatives\": [\n      \"East African Community (EAC) Common Curriculum for Undergraduate Medical Education\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Consensus building among stakeholders\",\n      \"Curriculum development workshops\",\n      \"Peer review and validation\",\n      \"Pilot implementation\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Medical schools\",\n      \"National Medical and Dental Councils\",\n      \"EAC Secretariat\",\n      \"Medical educators\",\n      \"Students\"\n    ],\n    \"Data_Sources\": [\n      \"Curriculum documents\",\n      \"Workshop reports\",\n      \"Stakeholder consultations\",\n      \"Expert opinions\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Development of a common undergraduate medical curriculum for the EAC.\",\n      \"Increased collaboration among medical schools in the region.\",\n      \"Enhanced quality and relevance of medical education.\",\n      \"Improved mutual recognition of medical qualifications.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Varying levels of resources and infrastructure across institutions.\",\n      \"Differences in national regulatory frameworks.\",\n      \"Resistance to change from some stakeholders.\",\n      \"Language barriers (English and Swahili).\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political will and support from the EAC Secretariat.\",\n      \"Active participation of key stakeholders.\",\n      \"Use of a participatory and consensus-based approach.\",\n      \"Availability of technical expertise.\"\n    ],\n    \"Recommendations\": [\n      \"Strengthening national regulatory frameworks.\",\n      \"Investing in infrastructure and resources.\",\n      \"Providing ongoing support and training for medical educators.\",\n      \"Promoting the use of technology to enhance curriculum delivery.\"\n    ],\n    \"Future_Research\": [\n      \"Impact of the common curriculum on student learning outcomes.\",\n      \"Cost-effectiveness of the harmonization process.\",\n      \"Sustainability of the initiative.\"\n    ],\n    \"Specific_Examples\": [\n      \"Development of a common set of learning outcomes.\",\n      \"Establishment of a regional quality assurance framework.\",\n      \"Implementation of joint training programs.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Curriculum development workshops\",\n      \"Stakeholder consultations\",\n      \"Peer review and validation\",\n      \"Pilot implementation\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Resource constraints\",\n      \"Regulatory differences\",\n      \"Resistance to change\",\n      \"Language barriers\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political will\",\n      \"Stakeholder participation\",\n      \"Participatory approach\",\n      \"Technical expertise\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Common curriculum\",\n      \"Increased collaboration\",\n      \"Enhanced quality\",\n      \"Improved mutual recognition\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 637,
+      "candidatesTokenCount": 1242,
+      "totalTokenCount": 1879,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 637
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1242
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "FJdSaOW1NbPQhMIP372DoQ0"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "response_id": 276,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:54:14.517862",
+  "metadata": {
+    "apa_number": 194,
+    "url": "https://journals.dut.ac.za/index.php/ajims/article/download/1339/981",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://journals.dut.ac.za/index.php/ajims/article/download/1339/981\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in East Africa, specifically the EAC. It addresses harmonization across institutions and countries within the EAC framework, discussing mutual recognition and cross-border education. The paper mentions the EAC Protocol on Education and Training, which aims to harmonize education systems in the region.\",\n  \"Title\": \"EAC Protocol on Education and Training: A review of implementation in higher education\",\n  \"Authors\": [\n    \"Aloys Ayako\",\n    \"Oliver Mutunga\",\n    \"Beatrice Omari\"\n  ],\n  \"Year\": \"2020\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"African Journal of Interdisciplinary Studies\",\n    \"DOI_URL\": \"https://journals.dut.ac.za/index.php/ajims/article/view/1339\",\n    \"APA_Reference\": \"Ayako, A., Mutunga, O., & Omari, B. (2020). EAC Protocol on Education and Training: A review of implementation in higher education. *African Journal of Interdisciplinary Studies*, *13*(1), 1-14. https://journals.dut.ac.za/index.php/ajims/article/view/1339\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature Review\",\n    \"Geographic_Focus\": \"East African Community (EAC)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable (Literature Review)\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated\",\n    \"Harmonization_Definition\": \"Harmonization is viewed as a process of aligning education systems to facilitate mobility and mutual recognition of qualifications within the EAC.\",\n    \"Regional_Initiatives\": [\n      \"EAC Protocol on Education and Training\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Policy frameworks\",\n      \"Curriculum development\",\n      \"Quality assurance mechanisms\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments\",\n      \"Higher education institutions\",\n      \"Regional bodies (EAC Secretariat)\"\n    ],\n    \"Data_Sources\": [\n      \"EAC documents\",\n      \"Policy documents\",\n      \"Academic literature\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"The EAC Protocol on Education and Training aims to harmonize education systems in the region.\",\n      \"Progress in implementation has been slow and uneven across member states.\",\n      \"Challenges include varying national priorities and limited resources.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Varying national priorities\",\n      \"Limited resources\",\n      \"Lack of political will\",\n      \"Bureaucratic hurdles\"\n    ],\n    \"Success_Factors\": [\n      \"Political commitment\",\n      \"Regional coordination\",\n      \"Stakeholder engagement\"\n    ],\n    \"Recommendations\": [\n      \"Strengthening regional coordination mechanisms\",\n      \"Increasing resource allocation\",\n      \"Enhancing stakeholder engagement\"\n    ],\n    \"Future_Research\": [\n      \"Further research is needed to assess the impact of harmonization efforts on student mobility and graduate employability.\"\n    ],\n    \"Specific_Examples\": [\n      \"Efforts to harmonize curricula in specific disciplines (e.g., engineering, medicine)\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Policy frameworks\",\n      \"Curriculum harmonization\",\n      \"Quality assurance\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"National priorities\",\n      \"Resource constraints\",\n      \"Political will\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Regional coordination\",\n      \"Stakeholder engagement\",\n      \"Political commitment\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Student mobility\",\n      \"Graduate employability\",\n      \"Regional integration\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 626,
+      "candidatesTokenCount": 957,
+      "totalTokenCount": 1583,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 626
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 957
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "0JpSaL3EG7qFsbQPqNrRqAQ"
+  }
+}

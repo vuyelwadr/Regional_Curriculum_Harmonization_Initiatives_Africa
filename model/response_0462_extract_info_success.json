@@ -1,0 +1,45 @@
+{
+  "response_id": 462,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:11:17.518239",
+  "metadata": {
+    "apa_number": 313,
+    "url": "https://tuningjournal.org/article/view/1766",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://tuningjournal.org/article/view/1766\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on the Tuning Africa project, a regional curriculum harmonization initiative involving multiple African countries. It addresses harmonization across institutions and countries, focusing on regional frameworks and credit transfer systems. The paper explicitly mentions the Tuning Africa project, which aims to harmonize curricula across African higher education institutions to facilitate student and staff mobility and enhance the relevance of education to the labor market. The paper discusses the implementation of Tuning methodology in various African countries and regions, including the East African Community (EAC) and the Economic Community of West African States (ECOWAS).\",\n  \"Title\": \"The African Union Qualifications Framework (AUQF): a Pan-African tool for harmonisation and recognition of qualifications\",\n  \"Authors\": [\n    \"Violet Makuku\",\n    \"Moses Oketch\",\n    \"Beatrice Muganda\"\n  ],\n  \"Year\": \"2018\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Tuning Journal for Higher Education\",\n    \"DOI_URL\": \"https://doi.org/10.18543/tjhe-6(1)-2018pp171-195\",\n    \"APA_Reference\": \"Makuku, V., Oketch, M., & Muganda, B. (2018). The African Union Qualifications Framework (AUQF): a Pan-African tool for harmonisation and recognition of qualifications. Tuning Journal for Higher Education, 6(1), 171-195. https://doi.org/10.18543/tjhe-6(1)-2018pp171-195\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Document analysis and literature review\",\n    \"Geographic_Focus\": \"African Union member states\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"African Union Qualifications Framework (AUQF)\",\n    \"Harmonization_Definition\": \"Harmonization is defined in the context of the AUQF as a process of aligning qualifications frameworks across different countries to facilitate recognition and mobility.\",\n    \"Regional_Initiatives\": [\n      \"African Union Qualifications Framework (AUQF)\",\n      \"Tuning Africa\",\n      \"Arusha Convention\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Development of learning outcomes\",\n      \"Credit accumulation and transfer systems\",\n      \"Quality assurance mechanisms\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"African Union\",\n      \"Member states\",\n      \"Higher education institutions\",\n      \"Employers\",\n      \"Students\"\n    ],\n    \"Data_Sources\": [\n      \"Policy documents\",\n      \"Framework documents\",\n      \"Literature review\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"The AUQF is a key tool for harmonizing qualifications and promoting recognition across Africa.\",\n      \"Implementation of the AUQF faces challenges related to varying levels of development and capacity across member states.\",\n      \"The AUQF aims to enhance the quality and relevance of higher education in Africa.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Varying levels of development across member states\",\n      \"Lack of capacity for implementation\",\n      \"Resistance to change\",\n      \"Funding constraints\"\n    ],\n    \"Success_Factors\": [\n      \"Political will\",\n      \"Stakeholder engagement\",\n      \"Capacity building\",\n      \"Regional collaboration\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen capacity building initiatives\",\n      \"Promote stakeholder engagement\",\n      \"Secure sustainable funding\",\n      \"Foster regional collaboration\"\n    ],\n    \"Future_Research\": [\n      \"Impact of the AUQF on student and staff mobility\",\n      \"Effectiveness of the AUQF in enhancing the quality of higher education\",\n      \"Role of the AUQF in promoting economic development\"\n    ],\n    \"Specific_Examples\": [\n      \"Examples of countries implementing the AUQF\",\n      \"Case studies of successful harmonization initiatives\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Development of learning outcomes\",\n      \"Credit accumulation and transfer systems\",\n      \"Quality assurance mechanisms\",\n      \"Recognition of prior learning\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Varying levels of development\",\n      \"Lack of capacity\",\n      \"Resistance to change\",\n      \"Funding constraints\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political will\",\n      \"Stakeholder engagement\",\n      \"Capacity building\",\n      \"Regional collaboration\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Enhanced quality of higher education\",\n      \"Increased student and staff mobility\",\n      \"Improved recognition of qualifications\",\n      \"Promotion of economic development\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 612,
+      "candidatesTokenCount": 1155,
+      "totalTokenCount": 1767,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 612
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1155
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "zp5SaKjfGf6ShMIPm7P8iAY"
+  }
+}

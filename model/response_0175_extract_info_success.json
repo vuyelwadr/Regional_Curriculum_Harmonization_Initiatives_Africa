@@ -1,0 +1,45 @@
+{
+  "response_id": 175,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:44:13.663365",
+  "metadata": {
+    "apa_number": 155,
+    "url": "https://haqaa.aau.org/wp-content/uploads/2018/07/HAQAA_Review-Methodology_pilots_02-July.pdf",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://haqaa.aau.org/wp-content/uploads/2018/07/HAQAA_Review-Methodology_pilots_02-July.pdf\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The document describes the HAQAA Initiative, which focuses on harmonizing quality assurance in higher education across Africa. It involves multiple African countries and regions, aiming to establish a common framework for quality assurance and recognition of qualifications. The document mentions regional frameworks and cross-border education, indicating a focus on harmonization across institutions and countries.\",\n  \"Title\": \"HAQAA Review Methodology Pilots\",\n  \"Authors\": [],\n  \"Year\": \"2018\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"African Union\",\n    \"DOI_URL\": \"https://haqaa.aau.org/wp-content/uploads/2018/07/HAQAA_Review-Methodology_pilots_02-July.pdf\",\n    \"APA_Reference\": \"African Union. (2018). HAQAA Review Methodology Pilots. African Union.\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Review and Pilot Study\",\n    \"Geographic_Focus\": \"Africa (specifically focusing on pilot countries and regions involved in HAQAA)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Pilot studies involving selected universities and quality assurance agencies\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Quality Assurance Frameworks, Regional Harmonization\",\n    \"Harmonization_Definition\": \"Harmonization of quality assurance standards and practices in higher education across African countries to facilitate mutual recognition of qualifications and promote cross-border education.\",\n    \"Regional_Initiatives\": [\n      \"HAQAA Initiative\",\n      \"African Standards and Guidelines for Quality Assurance (ASG-QA)\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Development of common quality assurance standards\",\n      \"Pilot reviews of national quality assurance agencies and higher education institutions\",\n      \"Capacity building workshops and training programs\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"African Union\",\n      \"European Union\",\n      \"Higher Education Institutions\",\n      \"National Quality Assurance Agencies\",\n      \"Students\",\n      \"Employers\"\n    ],\n    \"Data_Sources\": [\n      \"Self-assessment reports\",\n      \"External review reports\",\n      \"Stakeholder consultations\",\n      \"Document analysis\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"The HAQAA Initiative contributes to the harmonization of quality assurance in higher education across Africa.\",\n      \"The African Standards and Guidelines for Quality Assurance (ASG-QA) provide a common framework for quality assurance.\",\n      \"Pilot reviews help identify strengths and weaknesses in national quality assurance systems.\",\n      \"Capacity building is essential for effective implementation of quality assurance standards.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Varying levels of development of quality assurance systems across countries\",\n      \"Limited resources and capacity\",\n      \"Lack of political will\",\n      \"Resistance to change\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political commitment\",\n      \"Effective leadership\",\n      \"Stakeholder engagement\",\n      \"Adequate resources\",\n      \"Capacity building\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen national quality assurance agencies\",\n      \"Promote the use of ASG-QA\",\n      \"Increase investment in higher education\",\n      \"Foster regional cooperation\",\n      \"Enhance stakeholder engagement\"\n    ],\n    \"Future_Research\": [\n      \"Impact of HAQAA on student mobility and employability\",\n      \"Effectiveness of different quality assurance models\",\n      \"Sustainability of quality assurance reforms\"\n    ],\n    \"Specific_Examples\": [\n      \"Pilot reviews of quality assurance agencies in specific African countries (details in the document)\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Development of ASG-QA\",\n      \"Pilot reviews\",\n      \"Capacity building workshops\",\n      \"Regional cooperation\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Varying levels of development\",\n      \"Limited resources\",\n      \"Lack of political will\",\n      \"Resistance to change\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political commitment\",\n      \"Effective leadership\",\n      \"Stakeholder engagement\",\n      \"Adequate resources\",\n      \"Capacity building\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Harmonization of quality assurance\",\n      \"Improved quality of higher education\",\n      \"Increased student mobility\",\n      \"Enhanced employability\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 638,
+      "candidatesTokenCount": 1099,
+      "totalTokenCount": 1737,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 638
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1099
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "dphSaK6ZGuiChMIP-ufFUQ"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "response_id": 104,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:37:08.703552",
+  "metadata": {
+    "apa_number": 79,
+    "url": "https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-024-11994-x",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-024-11994-x\",\n  \"MATCHES_CRITERIA\": false,\n  \"CRITERIA_MATCH_EXPLANATION\": \"This paper focuses on the experiences of medical students at a single institution (Makerere University) during the COVID-19 pandemic. It does not address regional curriculum harmonization initiatives involving multiple African countries or regions. The study is limited to one university and does not discuss cross-border education, mutual recognition, credit transfer systems, or regional qualifications frameworks.\",\n  \"Title\": \"Experiences of medical students during the COVID-19 pandemic: a qualitative study at Makerere University, Uganda\",\n  \"Authors\": [\n    \"Nazarius Mbona Tumwesigye\",\n    \"Darius Osei Kwabena\",\n    \"Joseph Mugisha\",\n    \"Christine Nalwadda\",\n    \"Lynn M. Atuyambe\",\n    \"Elizeus Rutebemberwa\"\n  ],\n  \"Year\": \"2024\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 639,
+      "candidatesTokenCount": 256,
+      "totalTokenCount": 895,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 639
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 256
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "0pZSaO31HoqThMIPyoil0Qo"
+  }
+}

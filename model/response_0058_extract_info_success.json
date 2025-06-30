@@ -1,0 +1,45 @@
+{
+  "response_id": 58,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:32:11.421852",
+  "metadata": {
+    "apa_number": 55,
+    "url": "https://afriqan.aau.org/wp-content/uploads/2016/04/Meeting-on-Regional-Harmonization-of-Higher-Education-for-Africa.pdf",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://afriqan.aau.org/wp-content/uploads/2016/04/Meeting-on-Regional-Harmonization-of-Higher-Education-for-Africa.pdf\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The document discusses regional harmonization of higher education in Africa, involving multiple countries and regions. It addresses harmonization across institutions and countries, focusing on regional frameworks and cross-border education. The document mentions the need for mutual recognition of qualifications and credit transfer systems.\",\n  \"Title\": \"Meeting on Regional Harmonization of Higher Education for Africa\",\n  \"Authors\": [],\n  \"Year\": \"2015\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Association of African Universities\",\n    \"DOI_URL\": \"https://afriqan.aau.org/wp-content/uploads/2016/04/Meeting-on-Regional-Harmonization-of-Higher-Education-for-Africa.pdf\",\n    \"APA_Reference\": \"Association of African Universities. (2015). Meeting on Regional Harmonization of Higher Education for Africa. https://afriqan.aau.org/wp-content/uploads/2016/04/Meeting-on-Regional-Harmonization-of-Higher-Education-for-Africa.pdf\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Meeting Report/Policy Discussion\",\n    \"Geographic_Focus\": \"Africa (Regional - multiple countries)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable (meeting report)\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated, but implicitly linked to regional integration and development.\",\n    \"Harmonization_Definition\": \"Harmonization is defined as aligning higher education systems to facilitate mobility, recognition of qualifications, and cross-border education.\",\n    \"Regional_Initiatives\": [\n      \"African Union's Strategy for Harmonization of Higher Education in Africa\",\n      \"Harmonization of curricula\",\n      \"Establishment of quality assurance mechanisms\",\n      \"Development of qualifications frameworks\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Policy dialogue\",\n      \"Stakeholder engagement\",\n      \"Capacity building\",\n      \"Development of common standards\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"African Union\",\n      \"Regional Economic Communities (RECs)\",\n      \"National governments\",\n      \"Higher education institutions\",\n      \"Quality assurance agencies\",\n      \"Students\",\n      \"Employers\"\n    ],\n    \"Data_Sources\": [\n      \"Policy documents\",\n      \"Presentations\",\n      \"Discussions during the meeting\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Harmonization is crucial for promoting mobility and competitiveness of African higher education.\",\n      \"Regional frameworks are essential for facilitating harmonization.\",\n      \"Quality assurance and accreditation are key components of harmonization.\",\n      \"Mutual recognition of qualifications is necessary for cross-border education.\",\n      \"Curriculum harmonization is needed to ensure comparability of programs.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of political will\",\n      \"Varying national priorities\",\n      \"Inadequate resources\",\n      \"Weak institutional capacity\",\n      \"Resistance to change\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political commitment\",\n      \"Effective leadership\",\n      \"Stakeholder collaboration\",\n      \"Adequate resources\",\n      \"Clear goals and objectives\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen regional frameworks for harmonization.\",\n      \"Promote policy dialogue and stakeholder engagement.\",\n      \"Invest in capacity building for higher education institutions.\",\n      \"Develop common standards for quality assurance and accreditation.\",\n      \"Establish mechanisms for mutual recognition of qualifications.\"\n    ],\n    \"Future_Research\": [\n      \"Impact of harmonization on student mobility and employability.\",\n      \"Effectiveness of different harmonization approaches.\",\n      \"Role of technology in facilitating harmonization.\",\n      \"Sustainability of harmonization initiatives.\"\n    ],\n    \"Specific_Examples\": [\n      \"Examples of regional initiatives in EAC, ECOWAS, and SADC regions (though not explicitly detailed in this summary document).\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Regional frameworks\",\n      \"Policy dialogue\",\n      \"Stakeholder engagement\",\n      \"Capacity building\",\n      \"Quality assurance mechanisms\",\n      \"Accreditation systems\",\n      \"Credit transfer systems\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Political will\",\n      \"National priorities\",\n      \"Resources\",\n      \"Institutional capacity\",\n      \"Resistance to change\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political commitment\",\n      \"Leadership\",\n      \"Collaboration\",\n      \"Resources\",\n      \"Clear goals\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Student mobility\",\n      \"Employability\",\n      \"Competitiveness\",\n      \"Regional integration\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 643,
+      "candidatesTokenCount": 1182,
+      "totalTokenCount": 1825,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 643
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1182
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "o5VSaKaNMbPQhMIP372DoQ0"
+  }
+}

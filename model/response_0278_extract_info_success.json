@@ -1,0 +1,45 @@
+{
+  "response_id": 278,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:54:16.071817",
+  "metadata": {
+    "apa_number": 185,
+    "url": "https://journal.uinsgd.ac.id/index.php/idajhs/article/download/35120/10946",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://journal.uinsgd.ac.id/index.php/idajhs/article/download/35120/10946\",\n  \"MATCHES_CRITERIA\": false,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on Islamic education in Indonesia, specifically examining the curriculum at UIN Sunan Gunung Djati Bandung. It does not address regional curriculum harmonization initiatives involving multiple African countries or regions. The focus is on a single institution within Indonesia, not cross-border or regional harmonization efforts.\",\n  \"Title\": \"Islamic Education Curriculum at UIN Sunan Gunung Djati Bandung: An Evaluation Study\",\n  \"Authors\": [\n    \"Ahmad Ali Riyadi\",\n    \"Ahmad Yani\",\n    \"Didin Wahidin\"\n  ],\n  \"Year\": \"2023\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 632,
+      "candidatesTokenCount": 192,
+      "totalTokenCount": 824,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 632
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 192
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "1ppSaI-BGYuZhMIPlvTuyQY"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "response_id": 98,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:36:12.387053",
+  "metadata": {
+    "url": "http://services.igi-global.com/resolvedoi/resolve.aspx?doi=10.4018/978-1-7998-9542-8.ch009",
+    "final_url": "https://www.igi-global.com/gateway/chapter/297567",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Global Citizenship Education Curriculum for SADC Countries: Possibilities and Constraints\",\n    \"authors\": [\n      \"William Chakabwata\",\n      \"Felix M. Mukazi\"\n    ],\n    \"doi\": \"10.4018/978-1-7998-9542-8.ch009\",\n    \"journal\": null,\n    \"year\": \"0001\",\n    \"abstract\": \"Global citizenship education (GCED) is touted in many countries as a way of promoting peace, raising awareness, and addressing global challenges. In this chapter, the role of GCED in promoting global citizenship in the Southern Africa Development Community (SADC) states is explored. Further, the chapter examines the economic disparities in SADC states as well as the challenges of realizing lasting peace and stability in the region. Jack Mezirow theory of transformative learning is proposed as providing an appropriate lens for the teaching of GCED. The author argues that GCED curriculum has a role to play in shaping the mindsets of people in the region towards each other and in developing critical reflective skills that are needed to sustain peace and democracy. \"\n  },\n  \"fulltext_links\": [],\n  \"repository_indicators\": [],\n  \"paywall_detected\": true,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 356,
+              "endIndex": 793
+            },
+            {
+              "startIndex": 686,
+              "endIndex": 1137
+            }
+          ]
+        },
+        "avgLogprobs": -0.00024241933951506744
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 4060,
+      "candidatesTokenCount": 333,
+      "totalTokenCount": 4393,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 4060
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 333
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "mZZSaIKBONTGgLUPq5jKwQo"
+  }
+}

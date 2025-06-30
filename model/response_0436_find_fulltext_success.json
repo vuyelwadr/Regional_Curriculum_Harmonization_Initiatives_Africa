@@ -1,0 +1,46 @@
+{
+  "response_id": 436,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:09:07.487854",
+  "metadata": {
+    "url": "https://systems.enpress-publisher.com/index.php/jipd/article/view/10749",
+    "final_url": "https://systems.enpress-publisher.com/index.php/jipd/article/view/10749",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Curriculum harmonization with ESSENTIA CURRICULUM: An approach applied to the education system at the University of Nariño\",\n    \"authors\": [\n      \"Jesus Insuasti\",\n      \"Carlos Mario Zapata-Jaramillo\"\n    ],\n    \"doi\": \"10.24294/jipd10749\",\n    \"journal\": \"Journal of Infrastructure, Policy and Development\",\n    \"year\": \"2024\",\n    \"abstract\": \"Balancing broad learning outcomes in graduate programs with detailed classroom learning outcomes is increasingly crucial in education systems. This study employs a qualitative paradigm through a case study method to address the gap between learning outcomes at the graduate program level and those at the course level. Using the  ESSENTIA CURRICULUM  framework—a curriculum design methodology derived from software engineering practices—we propose an innovative and adaptable approach for aligning program-wide and course-specific learning outcomes. The  ESSENTIA CURRICULUM , named for its focus on the “essence of the curriculum”, is applied to the ICT for Research course within the M.Sc. program in University Teaching at the University of Nariño. This framework fosters a consistent educational journey centered on learning achievements and demonstrates its effectiveness through a comprehensive self-assessment process and stakeholder feedback. The implications of this research are twofold: it highlights the potential of adopting interdisciplinary methodologies for curriculum design and provides a scalable and alternative strategy for harmonizing learning outcomes across diverse educational contexts. By bridging principles from software engineering into education, this novel approach offers new avenues for improving curriculum coherence and applicability.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://systems.enpress-publisher.com/index.php/jipd/article/download/10749/5108\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://systems.enpress-publisher.com/index.php/jipd/article/view/10749\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.0009862425807663782
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2625,
+      "candidatesTokenCount": 541,
+      "totalTokenCount": 3166,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2625
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 541
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "UJ5SaLmiJYqThMIPyoil0Qo"
+  }
+}

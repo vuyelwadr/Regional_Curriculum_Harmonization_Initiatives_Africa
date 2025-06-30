@@ -1,0 +1,45 @@
+{
+  "response_id": 83,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:35:06.707131",
+  "metadata": {
+    "apa_number": 25,
+    "url": "http://www.educationthatpaysforitself.com/documents/Schooling%202025.pdf",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"http://www.educationthatpaysforitself.com/documents/Schooling%202025.pdf\",\n  \"MATCHES_CRITERIA\": false,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The document \\\"Schooling 2025\\\" focuses on broader educational trends and future scenarios, particularly concerning the integration of technology and evolving skill requirements. While it discusses the need for adaptable and relevant education systems, it does not specifically address regional curriculum harmonization initiatives involving multiple African countries or regions. There is no mention of regional frameworks, cross-border education, mutual recognition, credit transfer systems, or regional qualifications frameworks within the document. Therefore, it does not meet the specified research criteria.\",\n  \"Title\": \"Schooling 2025\",\n  \"Authors\": [],\n  \"Year\": \"Unknown\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 622,
+      "candidatesTokenCount": 187,
+      "totalTokenCount": 809,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 622
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 187
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "WZZSaMWgCP6ShMIPm7P8iAY"
+  }
+}

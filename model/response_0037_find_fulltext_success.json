@@ -1,0 +1,54 @@
+{
+  "response_id": 37,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:30:08.062032",
+  "metadata": {
+    "url": "http://services.igi-global.com/resolvedoi/resolve.aspx?doi=10.4018/978-1-7998-7168-2.ch005",
+    "final_url": "https://www.igi-global.com/gateway/chapter/285751",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Developing Inclusive, Collaborative Initiatives in Curriculum Delivery: The Role of School Management Team and Sustainable Leadership\",\n    \"authors\": [\n      \"Ntombizandile Gcelu\",\n      \"Fumane P. Khanare\"\n    ],\n    \"doi\": \"10.4018/978-1-7998-7168-2.ch005\",\n    \"journal\": \"IGI Global Scientific Publishing\",\n    \"year\": \"0001\",\n    \"abstract\": \"While teaching and learning are underway, the world is still grappling with the COVID-19 pandemic and its impact on educational systems, particularly curriculum delivery across the globe, on both developing and developed countries. As a result, collaboration and partnerships with primary, secondary schools, and higher education institutions are more vital than ever. Unfortunately, many schools have yet to show real leadership when it comes to this. This chapter foregrounds the school management team voices to depict collaborative initiatives and ways to improve curriculum delivery in a rural context of two secondary schools in Free State, South Africa during the crisis. In so doing, the chapter considers collaborative initiatives that are inclusive and provide much-needed practical information for curriculum delivery and sustainable leadership. \"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://services.igi-global.com/resolvedoi/resolve.aspx?doi=10.4018/978-1-7998-7168-2.ch005\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": true,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 445,
+              "endIndex": 1293
+            }
+          ]
+        },
+        "avgLogprobs": -0.004089084462584736
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3899,
+      "candidatesTokenCount": 428,
+      "totalTokenCount": 4327,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3899
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 428
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "LZVSaKqxE5rnqsMPzonmkA0"
+  }
+}

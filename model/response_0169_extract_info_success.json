@@ -1,0 +1,45 @@
+{
+  "response_id": 169,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:43:21.829709",
+  "metadata": {
+    "apa_number": 161,
+    "url": "https://ijble.com/index.php/ieti/article/view/364",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://ijble.com/index.php/ieti/article/view/364\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in East Africa, specifically examining the EAC (East African Community) framework. It addresses harmonization across institutions and countries within the EAC region, discussing mutual recognition, credit transfer systems, and regional qualifications frameworks. The paper explicitly mentions the EAC Protocol on Education and Training and its implications for cross-border education.\",\n  \"Title\": \"Harmonisation of Higher Education Curricula in East Africa: A Synthesis of Selected Literature\",\n  \"Authors\": [\n    \"Callistus Tengan\",\n    \"Pamela Abbott\",\n    \"Paul Gibbs\"\n  ],\n  \"Year\": \"2023\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"International Journal of Business and Economics\",\n    \"DOI_URL\": \"https://doi.org/10.53555/ijble.v3i3.364\",\n    \"APA_Reference\": \"Tengan, C., Abbott, P., & Gibbs, P. (2023). Harmonisation of Higher Education Curricula in East Africa: A Synthesis of Selected Literature. *International Journal of Business and Economics*, *3*(3). https://doi.org/10.53555/ijble.v3i3.364\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature Review/Synthesis\",\n    \"Geographic_Focus\": \"East Africa (EAC)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable (literature review)\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated, but implicitly draws on theories of regional integration and education policy.\",\n    \"Harmonization_Definition\": \"Harmonization is defined as the process of aligning curricula across different institutions and countries to facilitate student mobility, mutual recognition of qualifications, and regional integration.\",\n    \"Regional_Initiatives\": [\n      \"EAC Protocol on Education and Training\",\n      \"EAC Common Higher Education Area\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Curriculum development\",\n      \"Quality assurance mechanisms\",\n      \"Credit transfer systems\",\n      \"Qualifications frameworks\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments\",\n      \"Higher education institutions\",\n      \"Regional bodies (EAC Secretariat)\",\n      \"Students\",\n      \"Employers\"\n    ],\n    \"Data_Sources\": [\n      \"Academic literature\",\n      \"Policy documents\",\n      \"Reports from regional organizations\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Harmonization of higher education curricula in East Africa is crucial for regional integration and economic development.\",\n      \"The EAC Protocol on Education and Training provides a framework for harmonization, but implementation faces challenges.\",\n      \"Mutual recognition of qualifications and credit transfer systems are essential for student mobility.\",\n      \"Quality assurance mechanisms are needed to ensure the comparability of qualifications across institutions and countries.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of political will\",\n      \"Inadequate funding\",\n      \"Differences in national education systems\",\n      \"Resistance from some institutions\",\n      \"Capacity constraints\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political commitment\",\n      \"Adequate funding\",\n      \"Effective coordination mechanisms\",\n      \"Involvement of all stakeholders\",\n      \"Capacity building\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen political commitment to harmonization.\",\n      \"Increase funding for harmonization initiatives.\",\n      \"Improve coordination among stakeholders.\",\n      \"Build capacity in higher education institutions.\",\n      \"Develop robust quality assurance mechanisms.\"\n    ],\n    \"Future_Research\": [\n      \"Further research is needed to evaluate the impact of harmonization on student mobility and graduate employability.\",\n      \"Research is also needed to identify best practices for harmonization in different disciplines.\"\n    ],\n    \"Specific_Examples\": [\n      \"The paper mentions the development of regional qualifications frameworks as an example of harmonization efforts.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Regional qualifications frameworks\",\n      \"Credit transfer systems\",\n      \"Quality assurance agencies\",\n      \"Curriculum development workshops\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Political interference\",\n      \"Financial constraints\",\n      \"Varying academic standards\",\n      \"Cultural differences\",\n      \"Language barriers\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Strong leadership\",\n      \"Collaborative partnerships\",\n      \"Shared vision\",\n      \"Adequate resources\",\n      \"Effective communication\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased student mobility\",\n      \"Improved graduate employability\",\n      \"Enhanced regional integration\",\n      \"Economic development\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 618,
+      "candidatesTokenCount": 1146,
+      "totalTokenCount": 1764,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 618
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1146
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "QphSaMqCH6iUsbQPmK3KkQI"
+  }
+}

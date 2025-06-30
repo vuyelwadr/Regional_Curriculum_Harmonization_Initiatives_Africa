@@ -1,0 +1,45 @@
+{
+  "response_id": 214,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:48:09.698434",
+  "metadata": {
+    "apa_number": 164,
+    "url": "https://ijpe.eu/article/download/18270/19883",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://ijpe.eu/article/download/18270/19883\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in East Africa, specifically the EAC. It addresses harmonization across institutions and countries within the EAC framework, discussing cross-border education, mutual recognition, and regional qualifications frameworks. The paper explicitly mentions the EAC Protocol on Education and Training and efforts to harmonize curricula across member states.\",\n  \"Title\": \"Curriculum Harmonisation in East Africa: A Review of the Literature\",\n  \"Authors\": [\n    \"Callistus K. Tumwesigye\",\n    \"Anthony Mugagga\",\n    \"James Omoding\"\n  ],\n  \"Year\": \"2022\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"International Journal of Pedagogy and Curriculum\",\n    \"DOI_URL\": \"https://doi.org/10.14706/ijpec.v8i3.18270\",\n    \"APA_Reference\": \"Tumwesigye, C. K., Mugagga, A., & Omoding, J. (2022). Curriculum Harmonisation in East Africa: A Review of the Literature. International Journal of Pedagogy and Curriculum, 8(3), 145-156. https://doi.org/10.14706/ijpec.v8i3.18270\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature Review\",\n    \"Geographic_Focus\": \"East Africa (EAC)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"N/A (Literature Review)\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated, but implicitly uses regional integration theory.\",\n    \"Harmonization_Definition\": \"Implied as standardization and alignment of curricula across EAC member states to facilitate mobility and recognition of qualifications.\",\n    \"Regional_Initiatives\": [\n      \"EAC Protocol on Education and Training\",\n      \"EAC Common Higher Education Area\",\n      \"Harmonization of curricula in priority disciplines (e.g., engineering, medicine)\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Development of common curricula frameworks\",\n      \"Establishment of quality assurance mechanisms\",\n      \"Mutual recognition of qualifications\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"EAC Secretariat\",\n      \"National governments\",\n      \"Universities\",\n      \"Regulatory bodies\",\n      \"Students\"\n    ],\n    \"Data_Sources\": [\n      \"Academic literature\",\n      \"Policy documents\",\n      \"EAC reports\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Curriculum harmonization in East Africa is driven by the EAC integration agenda.\",\n      \"Progress has been made in harmonizing curricula in some disciplines, but challenges remain.\",\n      \"Quality assurance and mutual recognition of qualifications are critical for successful harmonization.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Varying national education systems\",\n      \"Lack of resources\",\n      \"Political interference\",\n      \"Resistance from some stakeholders\"\n    ],\n    \"Success_Factors\": [\n      \"Political will\",\n      \"Strong regional leadership\",\n      \"Involvement of key stakeholders\",\n      \"Adequate funding\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen regional coordination mechanisms\",\n      \"Increase investment in education\",\n      \"Promote stakeholder engagement\",\n      \"Address challenges related to quality assurance and mutual recognition\"\n    ],\n    \"Future_Research\": [\n      \"Impact of curriculum harmonization on student mobility and employability\",\n      \"Effectiveness of different harmonization approaches\",\n      \"Role of technology in facilitating curriculum harmonization\"\n    ],\n    \"Specific_Examples\": [\n      \"Harmonization of engineering curricula in EAC universities\",\n      \"Development of a regional qualifications framework for East Africa\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Regional protocols and agreements\",\n      \"Common curricula frameworks\",\n      \"Quality assurance agencies\",\n      \"Mutual recognition agreements\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"National sovereignty concerns\",\n      \"Resource constraints\",\n      \"Lack of stakeholder buy-in\",\n      \"Quality assurance disparities\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political commitment\",\n      \"Regional leadership\",\n      \"Stakeholder collaboration\",\n      \"Adequate funding\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased student mobility\",\n      \"Improved quality of education\",\n      \"Enhanced regional integration\",\n      \"Greater employability of graduates\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 619,
+      "candidatesTokenCount": 1108,
+      "totalTokenCount": 1727,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 619
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1108
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "YplSaLCYJZbrqsMPiOTvsQI"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "response_id": 215,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:48:15.838565",
+  "metadata": {
+    "url": "https://jelle.lgu.edu.pk/jelle/article/view/259",
+    "final_url": "https://jelle.lgu.edu.pk/jelle/article/view/259",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"An Analysis of Perceptions of English Language Teachers About the Efficacy of Formative Assessment Practices in Universities of Central Punjab, Pakistan\",\n    \"authors\": [\n      \"Madiha Saeed\",\n      \"Dr. Muhammad Shahbaz\"\n    ],\n    \"doi\": \"10.54692/jelle.2025.0701259\",\n    \"journal\": \"Journal of English Language, Literature and Education\",\n    \"year\": \"2025\",\n    \"abstract\": \"Language assessment has been integral to language teaching for decades, and its importance has largely increased in recent years. As a result, research in applied linguistics has focused on developing more effective and efficient language assessment methods. This research aims to explore the relationship between English language teaching and classroom assessment, focusing on how language assessment can be used to improve language teaching and learning outcomes. The study was qualitative in nature; the data was collected through semi-structured interviews with English language university teachers and analysed through thematic analysis. The findings of the analysis showed that no assessment practice was inherently good or bad. The efficacy of any formative assessment technique was directly proportional to where, when, how and with whom to use it. The maximum benefit could be obtained only when the language assessment practices are situation-based and context-specified. There was nothing that can be called ‘tested, tried and perfect’ in all situations. Since applied linguistics and second language acquisition are expanding areas of research, the field is wide and open for future researchers to explore new dimensions of language assessment that facilitate language learning. The findings may be helpful, particularly for university administrations and policymakers who will gain insights into language assessment through this study and make improvements accordingly.\\nKey Words: Applied linguistics, English language pedagogy, English language testing, Formative assessment practices, Teachers’ perceptions, Central Punjab, Pakistan\\n&nbsp;\\nReferences\\nAl Musawi, A. S. (2011). Blended learning.&nbsp;Journal of Turkish Science Education, 8(2), 3–8.\\nAlkharusi, H. (2011). Self-perceived assessment skills of pre-service and in-service teachers.&nbsp;Journal Pendidikan Malaysia, 36(2), 9–17.\\nAravinthan, V., &amp; Aravinthan, T. (2010, January). Effectiveness of self-assessment quizzes as a learning tool. In&nbsp;Proceedings of Engineering Education Conference (EE 2010).\\nArshad, W., Maqsood, A., Zaidi, S. S., Haroon, M., Qadir, U. M., Sultana, U., ... &amp; Sanaullah, S. (2024, September).&nbsp;Kalam E Iqbal: Current Requirements And Our Priorities.\\nBachman, L. F., &amp; Cohen, A. D. (1998).&nbsp;Interfaces between second language acquisition and language testing research. Cambridge University Press.\\nBegum, S., &amp; Ambreen, M. (2021). Differentiated instruction based on formative assessment in Associate Degree in Education Program.&nbsp;Journal of Educational Research (1027-9776), 24(1).\\nBlack, P., &amp; Wiliam, D. (1998).&nbsp;Inside the black box: Raising standards through classroom assessment. Granada Learning.\\nBraun, V., &amp; Clarke, V. (2006). Using thematic analysis in psychology.&nbsp;Qualitative Research in Psychology, 3(2), 77–101.\\nBrown, H. D., &amp; Abeywickrama, P. (2019).&nbsp;Language assessment: Principles and classroom practices&nbsp;(3rd ed.). Pearson Education ESL.\\nBugarski, R. (1987). Unity in diversity: Aspects of language policy in the Soviet Union and Yugoslavia.&nbsp;Sociolinguistica, 1(1), 1–12.\\nByrnes, H. (2013). Notes from the editor.&nbsp;Modern Language Journal, 97(4), 825–827.\\nCheng, L., &amp; Fox, J. (2017).&nbsp;Assessment in the language classroom: Teachers supporting student learning. Bloomsbury Publishing.\\nCreswell, J. W. (2014).&nbsp;A concise introduction to mixed methods research. SAGE Publications.\\nDewaele, J.-M., &amp; Leung, K. C. (2022). Teacher proficiency and classroom practice in English as a Foreign Language teaching.&nbsp;ERIC.&nbsp;https://files.eric.ed.gov/fulltext/EJ1345752.pdf\\nDhindsa, H. S., Omar, K., &amp; Waldrip, B. (2007). Upper secondary Bruneian science students’ perceptions of assessment.&nbsp;International Journal of Science Education, 29(10), 1261–1280.\\nEinar H. Dyvik. (2024). The most spoken languages worldwide.&nbsp;Statista.&nbsp;https://www.statista.com/statistics/266808/the-most-spoken-languages-worldwide/#statisticContainer. Retrieved on 12-7-24.\\nFlores, M. A., Veiga Simão, A. M., Barros, A., &amp; Pereira, D. (2014). Perceptions of effectiveness, fairness and feedback of assessment methods: A study in higher education.&nbsp;Studies in Higher Education, 40(9), 1523–1534.&nbsp;https://doi.org/10.1080/03075079.2014.881348\\nGoldman, S. (2008). Brief report: Narratives of personal events in children with autism and developmental language disorders: Unshared memories.&nbsp;Journal of Autism and Developmental Disorders, 38, 1982–1988.\\nGordon, W. T. (2008).&nbsp;Linguistics for beginners. Red Wheel/Weiser.\\nGreen, A. (2013).&nbsp;Exploring language assessment and testing: Language in action. Routledge.\\nJawaid, A., Mukhtar, J., Mahnoor, D. P. K., Arshad, W., &amp; ul Haq, M. I. (2025). ENGLISH LANGUAGE LEARNING OF CHALLENGING STUDENTS: A UNIVERSITY CASE.&nbsp;Journal of Applied Linguistics and TESOL (JALT),&nbsp;8(1), 679-686. https://jalt.com.pk/index.php/jalt/article/view/370\\nJawaid, A., Batool, M., Arshad, W., Kaur, P., &amp; ul Haq, M. I. (2024). English language pronunciation challenges faced by tertiary students.&nbsp;Contemporary Journal of Social Science Review,&nbsp;2(04), 2104-2111. https://contemporaryjournal.com/index.php/14/article/view/361\\nKampira, A., &amp; Meyer, J. (2021). A brief introduction to thematic analysis.&a\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://jelle.lgu.edu.pk/jelle/article/download/259/178\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 4601,
+              "endIndex": 4743,
+              "uri": "https://www.studocu.com/en-us/document/western-governors-university/english-composition-ii/writing-assignment-unit-3/80026666"
+            },
+            {
+              "startIndex": 4855,
+              "endIndex": 4983,
+              "uri": "http://revista.uaca.ac.cr/index.php/actas/article/view/97/720"
+            }
+          ]
+        },
+        "avgLogprobs": -0.0011498723981602122
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2835,
+      "candidatesTokenCount": 1764,
+      "totalTokenCount": 4599,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2835
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1764
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "ZplSaKuwPMWUsbQP-d_MIQ"
+  }
+}

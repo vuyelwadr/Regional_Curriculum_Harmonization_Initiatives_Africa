@@ -1,0 +1,45 @@
+{
+  "response_id": 122,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:39:08.463569",
+  "metadata": {
+    "apa_number": 105,
+    "url": "https://documents1.worldbank.org/curated/en/149531557254443590/pdf/The-Lost-Human-Capital-Teacher-Knowledge-and-Student-Achievement-in-Africa.pdf",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://documents1.worldbank.org/curated/en/149531557254443590/pdf/The-Lost-Human-Capital-Teacher-Knowledge-and-Student-Achievement-in-Africa.pdf\",\n  \"MATCHES_CRITERIA\": false,\n  \"CRITERIA_MATCH_EXPLANATION\": \"This paper focuses on teacher knowledge and student achievement in Africa, but it does not address regional curriculum harmonization initiatives. The paper discusses teacher characteristics, student performance, and the relationship between the two, but it does not mention regional frameworks, cross-border education, mutual recognition, credit transfer systems, or regional qualifications frameworks. Therefore, it does not meet the research criteria.\",\n  \"Title\": \"The Lost Human Capital: Teacher Knowledge and Student Achievement in Africa\",\n  \"Authors\": [\n    \"Jishnu Das\",\n    \"Stefan Dercon\",\n    \"James Habyarimana\",\n    \"Pramila Krishnan\"\n  ],\n  \"Year\": \"2013\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 655,
+      "candidatesTokenCount": 237,
+      "totalTokenCount": 892,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 655
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 237
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "SpdSaIvPBaiUsbQPmK3KkQI"
+  }
+}

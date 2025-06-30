@@ -1,0 +1,82 @@
+{
+  "response_id": 112,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:38:05.549309",
+  "metadata": {
+    "url": "https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-018-1163-9",
+    "final_url": "https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-018-1163-9",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"What should the African health workforce know about disasters? Proposed competencies for strengthening public health disaster risk management education in Africa\",\n    \"authors\": [],\n    \"doi\": \"10.1186/s12909-018-1163-9\",\n    \"journal\": \"BMC Medical Education\",\n    \"year\": \"2018\",\n    \"abstract\": \"As part of efforts to implement the human resources capacity building component of the African Regional Strategy on Disaster Risk Management (DRM) for the health sector, the African Regional Office of the World Health Organization, in collaboration with selected African public health training institutions, followed a multistage process to develop core competencies and curricula for training the African health workforce in public health DRM. In this article, we describe the methods used to develop the competencies, present the identified competencies and training curricula, and propose recommendations for their integration into the public health education curricula of African member states. We conducted a pilot research using mixed methods approaches to develop and test the applicability and feasibility of a public health disaster risk management curriculum for training the African health workforce. We identified 14 core competencies and 45 sub-competencies/training units grouped into six thematic areas: 1) introduction to DRM; 2) operational effectiveness; 3) effective leadership; 4) preparedness and risk reduction; 5) emergency response and 6) post-disaster health system recovery. These were defined as the skills and knowledge that African health care workers should possess to effectively participate in\\u00a0health DRM\\u00a0activities. To suit the needs of various categories of African health care workers, three levels of training courses are proposed: basic, intermediate, and advanced. The pilot test of the basic course among a cohort of public health practitioners in South Africa demonstrated their relevance. These competencies compare favourably to the findings of other studies that have assessed public health DRM competencies. They could provide a framework for scaling up the capacity development of African healthcare workers in the area of public health DRM; however further validation of the competencies is required through additional pilot courses and follow up of the trainees to demonstrate outcome and impact of the competencies and curriculum.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://bmcmededuc.biomedcentral.com/counter/pdf/10.1186/s12909-018-1163-9\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-018-1163-9\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 96,
+              "endIndex": 265,
+              "uri": "https://journal.unj.ac.id/unj/index.php/jpppf/article/view/16412"
+            },
+            {
+              "startIndex": 396,
+              "endIndex": 1086
+            },
+            {
+              "startIndex": 976,
+              "endIndex": 1208,
+              "uri": "https://worldwidescience.org/topicpages/w/workforce+development+training.html"
+            },
+            {
+              "startIndex": 1194,
+              "endIndex": 1420,
+              "uri": "https://worldwidescience.org/topicpages/w/workforce+development+training.html"
+            },
+            {
+              "startIndex": 1308,
+              "endIndex": 1717
+            },
+            {
+              "startIndex": 1755,
+              "endIndex": 2033,
+              "uri": "https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-018-1163-9"
+            },
+            {
+              "startIndex": 2036,
+              "endIndex": 2480
+            }
+          ]
+        },
+        "avgLogprobs": -0.0009751930702531998
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2472,
+      "candidatesTokenCount": 686,
+      "totalTokenCount": 3158,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2472
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 686
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "CZdSaL_bKcWUsbQP-d_MIQ"
+  }
+}

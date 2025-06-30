@@ -1,0 +1,46 @@
+{
+  "response_id": 137,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:40:08.722063",
+  "metadata": {
+    "url": "https://esdev.org/aligning-african-education-with-employment-reimagining-curricula-for-socio-economic-transformation/1",
+    "final_url": "https://esdev.org/aligning-african-education-with-employment-reimagining-curricula-for-socio-economic-transformation/",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Aligning African Education with Employment: Reimagining Curricula for Socio-Economic Transformation\",\n    \"authors\": [\n      \"Ernest Adade\",\n      \"Sarah Osei\",\n      \"Richie-Mike Wellington\"\n    ],\n    \"doi\": null,\n    \"journal\": \"Education & Skills Development Foundation Africa\",\n    \"year\": null,\n    \"abstract\": \"By: Ernest Adade, Sarah Osei and Richie-Mike Wellington Africa’s growing youth population presents both challenges and opportunities for socio-economic transformation. According to the United Nations (2021), over 60% of Africa’s […]\"\n  },\n  \"fulltext_links\": [],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"medium\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.0020726770162582397
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3408,
+      "candidatesTokenCount": 222,
+      "totalTokenCount": 3630,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3408
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 222
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "hpdSaKKfO5rnqsMPzonmkA0"
+  }
+}

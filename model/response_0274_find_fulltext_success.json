@@ -1,0 +1,46 @@
+{
+  "response_id": 274,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:54:10.104790",
+  "metadata": {
+    "url": "https://knepublishing.com/index.php/KnE-Social/article/view/10007",
+    "final_url": "https://kneopen.com/kne-social/article/view/10007",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Harmonization of the Education Curriculum at Pesantren Al Falah Gorontalo: An Educational Philosophy Study\",\n    \"authors\": [\n      \"Shely Cathrin\",\n      \"Reno Wikandaru\",\n      \"Indah Listiana\",\n      \"Devi Ratnasari\",\n      \"Warsidah Warsidah\",\n      \"Widyoningsih Widyoningsih\",\n      \"M. Bahtiar Arif\",\n      \"Astrid Veranita Indah\"\n    ],\n    \"doi\": \"10.18502/kss.v6i2.10007\",\n    \"journal\": \"KnE Social Sciences\",\n    \"year\": \"2021\",\n    \"abstract\": null\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://kneopen.com/article/pdf/kne-social/10007/16433/9176\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://kneopen.com/article/html/kne-social/10007/16434\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.00017160732490906547
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3296,
+      "candidatesTokenCount": 369,
+      "totalTokenCount": 3665,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3296
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 369
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "z5pSaLPKKOiChMIP-ufFUQ"
+  }
+}

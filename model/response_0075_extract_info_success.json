@@ -1,0 +1,45 @@
+{
+  "response_id": 75,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:34:12.625811",
+  "metadata": {
+    "apa_number": 72,
+    "url": "https://au.int/sites/default/files/documents/38507-doc-dts-english.pdf",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://au.int/sites/default/files/documents/38507-doc-dts-english.pdf\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The document focuses on regional curriculum harmonization initiatives across multiple African countries, specifically within the context of the African Union. It addresses harmonization across institutions and countries, with mentions of regional frameworks, mutual recognition, and qualifications frameworks. The document discusses the development of the African Continental Qualifications Framework (ACQF) and its role in facilitating mobility and recognition of qualifications across the continent.\",\n  \"Title\": \"Continental Education Strategy for Africa 2016-2025\",\n  \"Authors\": [\n    \"African Union\"\n  ],\n  \"Year\": \"2016\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"African Union\",\n    \"DOI_URL\": \"https://au.int/sites/default/files/documents/38507-doc-dts-english.pdf\",\n    \"APA_Reference\": \"African Union. (2016). Continental Education Strategy for Africa 2016-2025. African Union.\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Policy Framework\",\n    \"Geographic_Focus\": \"Africa\",\n    \"Educational_Level\": \"All levels\",\n    \"Sample_Size\": \"N/A\",\n    \"Is_Longitudinal\": true\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Continental Education Strategy for Africa (CESA 16-25)\",\n    \"Harmonization_Definition\": \"Harmonization is defined through the development of the African Continental Qualifications Framework (ACQF) to facilitate mutual recognition of qualifications and promote mobility of students and workers.\",\n    \"Regional_Initiatives\": [\n      \"African Continental Qualifications Framework (ACQF)\",\n      \"Harmonization of curricula\",\n      \"Mutual recognition of qualifications\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Policy development\",\n      \"Capacity building\",\n      \"Stakeholder engagement\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"African Union member states\",\n      \"Regional Economic Communities (RECs)\",\n      \"Higher education institutions\",\n      \"Students\",\n      \"Employers\"\n    ],\n    \"Data_Sources\": [\n      \"Policy documents\",\n      \"Consultations with stakeholders\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"The CESA 16-25 provides a strategic framework for transforming education and training systems in Africa.\",\n      \"The ACQF is a key instrument for promoting harmonization and mutual recognition of qualifications.\",\n      \"Harmonization of curricula is essential for improving the quality and relevance of education.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Lack of political will\",\n      \"Insufficient funding\",\n      \"Weak institutional capacity\",\n      \"Resistance to change\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political commitment\",\n      \"Effective leadership\",\n      \"Collaboration among stakeholders\",\n      \"Adequate resources\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen political commitment to education\",\n      \"Increase investment in education\",\n      \"Build institutional capacity\",\n      \"Promote collaboration among stakeholders\"\n    ],\n    \"Future_Research\": [\n      \"Impact of the ACQF on student and worker mobility\",\n      \"Effectiveness of different approaches to curriculum harmonization\",\n      \"Role of technology in promoting access to education\"\n    ],\n    \"Specific_Examples\": [\n      \"Development of the ACQF\",\n      \"Harmonization of engineering curricula in East Africa\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Policy frameworks\",\n      \"Regional agreements\",\n      \"Capacity building programs\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Political instability\",\n      \"Economic disparities\",\n      \"Cultural differences\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Strong leadership\",\n      \"Effective communication\",\n      \"Stakeholder engagement\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased student and worker mobility\",\n      \"Improved quality and relevance of education\",\n      \"Enhanced economic competitiveness\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 624,
+      "candidatesTokenCount": 991,
+      "totalTokenCount": 1615,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 624
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 991
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "HpZSaP3uEpuTgLUPkueNoQ4"
+  }
+}

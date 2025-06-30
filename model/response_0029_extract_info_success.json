@@ -1,0 +1,45 @@
+{
+  "response_id": 29,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:29:16.864006",
+  "metadata": {
+    "apa_number": 17,
+    "url": "https://perlinguam.journals.ac.za/pub/article/view/532",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://perlinguam.journals.ac.za/pub/article/view/532\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper discusses regional curriculum harmonization initiatives in Africa, specifically focusing on the SADC region. It addresses harmonization across institutions and countries, mentioning regional frameworks, cross-border education, and mutual recognition of qualifications. The paper explicitly discusses the SADC Protocol on Education and Training and its implications for harmonizing higher education qualifications.\",\n  \"Title\": \"Harmonisation of higher education qualifications in the Southern African Development Community (SADC) region: progress and challenges\",\n  \"Authors\": [\n    \"Damian H. Dube\",\n    \"Beatrice O. Opeolu\",\n    \"Narend Baijnath\"\n  ],\n  \"Year\": \"2022\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Per Linguam\",\n    \"DOI_URL\": \"https://doi.org/10.5785/33-1-532\",\n    \"APA_Reference\": \"Dube, D. H., Opeolu, B. O., & Baijnath, N. (2022). Harmonisation of higher education qualifications in the Southern African Development Community (SADC) region: progress and challenges. Per Linguam, 33(1), 1-14. https://doi.org/10.5785/33-1-532\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature review and document analysis\",\n    \"Geographic_Focus\": \"Southern African Development Community (SADC) region\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated, but implicitly uses a framework of regional integration and policy implementation.\",\n    \"Harmonization_Definition\": \"Harmonization is defined in terms of creating comparable qualifications frameworks and facilitating mobility of students and professionals within the SADC region.\",\n    \"Regional_Initiatives\": [\n      \"SADC Protocol on Education and Training\",\n      \"SADC Qualifications Framework (SADCQF)\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Policy development\",\n      \"Framework development\",\n      \"Capacity building\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"SADC Secretariat\",\n      \"National Qualifications Authorities\",\n      \"Higher Education Institutions\",\n      \"Governments\"\n    ],\n    \"Data_Sources\": [\n      \"Policy documents\",\n      \"Reports\",\n      \"Academic literature\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Progress has been made in developing regional frameworks for harmonizing higher education qualifications in the SADC region.\",\n      \"Challenges remain in implementing these frameworks at the national level.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Varying levels of development among member states\",\n      \"Lack of resources\",\n      \"Political will\",\n      \"Differing national priorities\",\n      \"Capacity constraints\"\n    ],\n    \"Success_Factors\": [\n      \"Political commitment\",\n      \"Regional cooperation\",\n      \"Capacity building\",\n      \"Stakeholder engagement\"\n    ],\n    \"Recommendations\": [\n      \"Strengthening national qualifications authorities\",\n      \"Increasing investment in higher education\",\n      \"Promoting regional cooperation\",\n      \"Enhancing stakeholder engagement\"\n    ],\n    \"Future_Research\": [\n      \"Further research is needed to assess the impact of harmonization efforts on student and professional mobility.\",\n      \"More research is needed to identify best practices for implementing regional qualifications frameworks.\"\n    ],\n    \"Specific_Examples\": [\n      \"The development of the SADC Qualifications Framework (SADCQF) is a specific example of a regional initiative aimed at harmonizing higher education qualifications.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Development of regional qualifications frameworks\",\n      \"Establishment of national qualifications authorities\",\n      \"Development of credit transfer systems\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Lack of resources\",\n      \"Political will\",\n      \"Differing national priorities\",\n      \"Capacity constraints\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political commitment\",\n      \"Regional cooperation\",\n      \"Capacity building\",\n      \"Stakeholder engagement\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased student and professional mobility\",\n      \"Improved quality of higher education\",\n      \"Enhanced regional integration\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 618,
+      "candidatesTokenCount": 1072,
+      "totalTokenCount": 1690,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 618
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1072
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "9ZRSaPvdMZrnqsMPzonmkA0"
+  }
+}

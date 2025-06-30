@@ -1,0 +1,54 @@
+{
+  "response_id": 165,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:43:07.874587",
+  "metadata": {
+    "url": "https://ijble.com/index.php/ieti/article/view/364",
+    "final_url": "https://ijble.com/index.php/ieti/article/view/364",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Preparing For AI's Transformational Potential: Rethinking Teacher Education In South Africa\",\n    \"authors\": [\n      \"Kudzayi Tarisayi\"\n    ],\n    \"doi\": \"10.56442/ieti.v2i1.364\",\n    \"journal\": \"International Education Trend Issues\",\n    \"year\": \"2024\",\n    \"abstract\": \"As artificial intelligence transforms education, rethinking teacher training is crucial to leverage AI positively. This paper analyzes strategies for integrating AI competencies into South African teacher education. With over 420,000 teachers facing challenges, AI's personalized capabilities could assist, but require aligned reforms. Grounded in competency and social cognitive theories, recommendations include hands-on workshops modeling differentiation with AI, scaffolded online learning, teacher sharing networks, and expert mentoring using digital credentials. These approaches develop integration competencies through applied, collaborative learning, upholding humanistic aims. Focusing on competency applying AI for pedagogies like differentiation promotes teacher agency. Online modules build knowledge before practice. Communities enable observational learning. Expert coaching scaffolds contextualized skills mastery. This competency emphasis recognizes teacher knowledge within sustained professionalization policies. With teachers guiding integration, AI can enrich learning. The paper offers principles and evidence-based strategies for human-centred teacher education reform.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://ijble.com/index.php/ieti/article/download/364/392\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://ijble.com/index.php/ieti/article/view/364\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 368,
+              "endIndex": 1559
+            }
+          ]
+        },
+        "avgLogprobs": -0.0006758699835480898
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2923,
+      "candidatesTokenCount": 473,
+      "totalTokenCount": 3396,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2923
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 473
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "OZhSaNWMBuiChMIP-ufFUQ"
+  }
+}

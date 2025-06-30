@@ -1,0 +1,79 @@
+{
+  "response_id": 85,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:35:09.622973",
+  "metadata": {
+    "url": "https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-024-10585-0",
+    "final_url": "https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-024-10585-0",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Outer packaging labelling of medicines in Southern African Development Community (SADC) countries: comparative analysis of requirements and transition terms for harmonisation\",\n    \"authors\": [],\n    \"doi\": \"10.1186/s12913-024-10585-0\",\n    \"journal\": \"BMC Health Services Research\",\n    \"year\": \"2024\",\n    \"abstract\": \"The COVID-19 pandemic highlighted an urgent need for harmonised requirements for the regulation of medicines. To fully implement harmonised medicines regulations across Africa, common technical standards of medicine regulations are needed. One such technical standard is the labelling of medicines on outer packaging. In this study, we compared outer packaging labelling requirements and transition terms for harmonization for countries in the Southern African Development Community (SADC) region. Data on legislation and/or regulatory guidelines for medicine outer packaging labelling from National Medicines Regulatory Authorities (NMRAs) were obtained for countries in the SADC region (n&#8201;=&#8201;16) by February 2023. A detailed comparative content analysis was conducted to determine alignment with the requirements of the Southern African Development Community (SADC) harmonised labelling guidelines to assess readiness levels of each country to transition to the SADC harmonised labelling guideline for outer packaging of medicines. Content analysis showed at least 11 out of 16 countries require national legal reform to transition to the SADC harmonised labelling guideline. In all cases where countries specified labelling requirements for outer packaging of medicines, these were stipulated in national medicines legislation. Even though there is a high level of alignment across the countries in terms of national labelling requirements, most countries in the SADC region would still require national legislative reform to transition to regional harmonised labelling requirements and then ultimately to continental requirements of the African Medicines Agency (AMA).\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://bmchealthservres.biomedcentral.com/counter/pdf/10.1186/s12913-024-10585-0\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-024-10585-0\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 96,
+              "endIndex": 270,
+              "uri": "https://ouci.dntb.gov.ua/en/works/4kG306m4/"
+            },
+            {
+              "startIndex": 417,
+              "endIndex": 910
+            },
+            {
+              "startIndex": 915,
+              "endIndex": 1106,
+              "uri": "https://www.researchgate.net/scientific-contributions/HGM-Leufkens-17740777"
+            },
+            {
+              "startIndex": 1122,
+              "endIndex": 1458,
+              "uri": "https://www.researchgate.net/scientific-contributions/HGM-Leufkens-17740777"
+            },
+            {
+              "startIndex": 1462,
+              "endIndex": 1756,
+              "uri": "https://www.researchgate.net/scientific-contributions/HGM-Leufkens-17740777"
+            },
+            {
+              "startIndex": 1759,
+              "endIndex": 2091,
+              "uri": "https://www.researchgate.net/scientific-contributions/HGM-Leufkens-17740777"
+            }
+          ]
+        },
+        "avgLogprobs": -0.0002670611341159565
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2500,
+      "candidatesTokenCount": 626,
+      "totalTokenCount": 3126,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2500
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 626
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "WZZSaMKFLbqFsbQPqNrRqAQ"
+  }
+}

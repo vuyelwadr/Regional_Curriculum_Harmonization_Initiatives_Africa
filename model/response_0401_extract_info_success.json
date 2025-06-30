@@ -1,0 +1,45 @@
+{
+  "response_id": 401,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:06:05.679918",
+  "metadata": {
+    "apa_number": 268,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7304806/",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://pmc.ncbi.nlm.nih.gov/articles/PMC7304806/\",\n  \"MATCHES_CRITERIA\": false,\n  \"CRITERIA_MATCH_EXPLANATION\": \"This paper focuses on the development of a single online course for medical education in Africa, specifically addressing the need for standardized training in response to the COVID-19 pandemic. While it aims to improve medical education in Africa, it does not address regional curriculum harmonization initiatives involving multiple countries or institutions. The focus is on a single course, not a broader harmonization effort across different curricula or educational systems.\",\n  \"Title\": \"Development of a free online COVID-19 training course for medical students in Africa\",\n  \"Authors\": [\n    \"Jennifer A Downs\",\n    \"David Lissauer\",\n    \"Robert Rohrbaugh\",\n    \"Jennifer McCaney\",\n    \"Elizabeth McCarthy\",\n    \"Michael H Hogarth\",\n    \"John A Sellick\",\n    \"Paul Drain\"\n  ],\n  \"Year\": \"2020\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 620,
+      "candidatesTokenCount": 237,
+      "totalTokenCount": 857,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 620
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 237
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "m51SaJ6sLIqThMIPyoil0Qo"
+  }
+}

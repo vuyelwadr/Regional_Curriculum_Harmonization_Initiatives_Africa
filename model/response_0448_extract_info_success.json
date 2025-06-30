@@ -1,0 +1,45 @@
+{
+  "response_id": 448,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:10:12.983088",
+  "metadata": {
+    "apa_number": 309,
+    "url": "https://tuningjournal.org/article/download/1415/1725/",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://tuningjournal.org/article/download/1415/1725/\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in Africa, specifically the Tuning Africa project, which involves multiple African countries and aims to harmonize curricula across institutions. It addresses cross-border education and regional qualifications frameworks.\",\n  \"Title\": \"Tuning Africa: A Pan-African Harmonisation and Recognition of Higher Education Initiative\",\n  \"Authors\": [\n    \"Peter Okebukola\",\n    \"Aloys Ihuah\",\n    \"Beatrice Njenga\",\n    \"Daniel Nyarirangwe\",\n    \"Theresa Chisanga\",\n    \"Violet Makuku\",\n    \"Everisto Mapedzahama\",\n    \"Charles Awono Onana\",\n    \"Jocelyne Labrousse\",\n    \"Antoine Nicot\",\n    \"Jean-Marie De Ketele\"\n  ],\n  \"Year\": \"2021\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Journal for Tuning Higher Education Structures\",\n    \"DOI_URL\": \"https://doi.org/10.18543/tjhe-9(1)-2021pp139-169\",\n    \"APA_Reference\": \"Okebukola, P., Ihuah, A., Njenga, B., Nyarirangwe, D., Chisanga, T., Makuku, V., Mapedzahama, E., Awono Onana, C., Labrousse, J., Nicot, A., & De Ketele, J. (2021). Tuning Africa: A Pan-African Harmonisation and Recognition of Higher Education Initiative. Journal for Tuning Higher Education Structures, 9, 139-169. https://doi.org/10.18543/tjhe-9(1)-2021pp139-169\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Case study; mixed methods\",\n    \"Geographic_Focus\": \"Africa (Pan-African)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not explicitly stated, but involves multiple universities and countries across Africa\",\n    \"Is_Longitudinal\": true\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Tuning methodology\",\n    \"Harmonization_Definition\": \"Harmonisation is defined as the process of developing comparable and compatible curricula across different higher education institutions and countries, facilitating student and staff mobility and promoting mutual recognition of qualifications.\",\n    \"Regional_Initiatives\": [\n      \"Tuning Africa project\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Curriculum development based on learning outcomes\",\n      \"Development of reference points\",\n      \"Quality assurance mechanisms\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Academics\",\n      \"Students\",\n      \"Employers\",\n      \"Quality assurance agencies\",\n      \"Policymakers\"\n    ],\n    \"Data_Sources\": [\n      \"Surveys\",\n      \"Workshops\",\n      \"Document analysis\",\n      \"Expert consultations\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"The Tuning Africa project has contributed to the development of harmonized curricula in various disciplines across African universities.\",\n      \"The project has enhanced the quality and relevance of higher education in Africa.\",\n      \"The project has promoted student and staff mobility within Africa.\",\n      \"The project has facilitated the mutual recognition of qualifications across African countries.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Resistance to change\",\n      \"Lack of resources\",\n      \"Language barriers\",\n      \"Political instability\",\n      \"Varying levels of institutional capacity\"\n    ],\n    \"Success_Factors\": [\n      \"Strong leadership\",\n      \"Stakeholder engagement\",\n      \"Capacity building\",\n      \"Effective communication\",\n      \"Political will\"\n    ],\n    \"Recommendations\": [\n      \"Strengthening regional collaboration\",\n      \"Investing in capacity building\",\n      \"Promoting stakeholder engagement\",\n      \"Developing sustainable funding mechanisms\",\n      \"Addressing language barriers\"\n    ],\n    \"Future_Research\": [\n      \"Impact assessment of the Tuning Africa project\",\n      \"Sustainability of the project outcomes\",\n      \"Scalability of the project to other disciplines and regions\",\n      \"Role of technology in curriculum harmonization\"\n    ],\n    \"Specific_Examples\": [\n      \"Development of harmonized curricula in agriculture, engineering, and teacher education.\",\n      \"Establishment of regional qualifications frameworks.\",\n      \"Implementation of credit transfer systems.\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Curriculum development workshops\",\n      \"Development of reference points\",\n      \"Quality assurance reviews\",\n      \"Stakeholder consultations\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Resistance to change\",\n      \"Lack of resources\",\n      \"Language barriers\",\n      \"Political instability\",\n      \"Varying levels of institutional capacity\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Strong leadership\",\n      \"Stakeholder engagement\",\n      \"Capacity building\",\n      \"Effective communication\",\n      \"Political will\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Harmonized curricula\",\n      \"Enhanced quality and relevance of higher education\",\n      \"Increased student and staff mobility\",\n      \"Facilitated mutual recognition of qualifications\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 618,
+      "candidatesTokenCount": 1258,
+      "totalTokenCount": 1876,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 618
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1258
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "jJ5SaIr3D-iChMIP-ufFUQ"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "response_id": 438,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:09:12.715356",
+  "metadata": {
+    "url": "https://researchinnovationjournal.com/index.php/AJSRI/article/view/34",
+    "final_url": "https://researchinnovationjournal.com/index.php/AJSRI/article/view/34",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"CROSS-BORDER DATA PRIVACY AND LEGAL SUPPORT: A SYSTEMATIC REVIEW OF INTERNATIONAL COMPLIANCE STANDARDS AND CYBER LAW PRACTICES \",\n    \"authors\": [\n      \"Md Nazrul Islam Khan\"\n    ],\n    \"doi\": \"10.63125/a4gbeb22\",\n    \"journal\": \"American Journal of Scholarly Research and Innovation\",\n    \"year\": \"2025\",\n    \"abstract\": \"This study presents a comprehensive systematic literature review aimed at critically examining cross-border data privacy governance, international legal compliance frameworks, and cyber law enforcement mechanisms. Employing the PRISMA 2020 methodology to ensure transparency, replicability, and methodological rigor, a total of 134 peer-reviewed academic papers published between 2015 and 2024 were systematically identified, screened, and analyzed. The selected literature spans multidisciplinary databases and includes contributions from legal, regulatory, and technical domains covering data protection developments in over 25 jurisdictions including the European Union, United States, Brazil, India, South Korea, South Africa, and China. The review categorizes findings into seven major thematic areas: (1) the global influence and diffusion of the General Data Protection Regulation (GDPR), (2) legal fragmentation and inconsistencies in breach notification laws, (3) the practical limitations of cross-border data transfer tools such as Standard Contractual Clauses (SCCs) and Binding Corporate Rules (BCRs), (4) procedural challenges in transnational data privacy litigation, (5) the implications of state-led surveillance and national security exceptions on international data trust, (6) corporate compliance burdens and institutional fatigue among multinational corporations, and (7) the structural absence of robust global redress mechanisms and judicial oversight frameworks. The findings highlight how global data governance is increasingly influenced not only by formal legislation but also by regulatory enforcement practices, institutional capacity, and geopolitical dynamics. Despite the global reach of frameworks like the GDPR and the growing adoption of regional privacy laws such as Brazil’s LGPD and India’s DPDP Act, disparities in enforcement, lack of legal interoperability, and divergent interpretations of privacy rights continue to hinder harmonized governance. The review also underscores a critical research gap: a lack of empirical and comparative evaluations of enforcement effectiveness, particularly in jurisdictions beyond the Global North. This review contributes to scholarly discourse by synthesizing diverse perspectives into a cohesive analytical framework and identifying future research priorities. It calls for enhanced cross-border cooperation, mutual recognition agreements, and the development of standardized enforcement metrics.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://researchinnovationjournal.com/index.php/AJSRI/article/download/34/23\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.0005388952735671423
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2292,
+      "candidatesTokenCount": 665,
+      "totalTokenCount": 2957,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2292
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 665
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "VZ5SaIDLAbqFsbQPqNrRqAQ"
+  }
+}

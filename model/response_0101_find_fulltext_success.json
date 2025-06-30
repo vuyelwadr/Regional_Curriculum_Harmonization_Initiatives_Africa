@@ -1,0 +1,46 @@
+{
+  "response_id": 101,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:37:02.458106",
+  "metadata": {
+    "url": "https://axiompublishers.scholasticahq.com/article/122555-chapter-7-reflecting-on-four-south-african-case-studies-of-experiential-learning-in-spatial-planning-to-inform-curriculum-transformation-in-highe",
+    "final_url": "https://axiompublishers.scholasticahq.com/article/122555-chapter-7-reflecting-on-four-south-african-case-studies-of-experiential-learning-in-spatial-planning-to-inform-curriculum-transformation-in-highe",
+    "attempt": 2,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Chapter 7: Reflecting on Four South African Case Studies of Experiential Learning in Spatial Planning to Inform Curriculum Transformation in Highe\",\n    \"authors\": [],\n    \"doi\": null,\n    \"journal\": null,\n    \"year\": null,\n    \"abstract\": null\n  },\n  \"fulltext_links\": [],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"low\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.008481997090416986
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 4099,
+      "candidatesTokenCount": 148,
+      "totalTokenCount": 4247,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 4099
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 148
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "zJZSaI6tNcWUsbQP-d_MIQ"
+  }
+}

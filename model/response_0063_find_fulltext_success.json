@@ -1,0 +1,46 @@
+{
+  "response_id": 63,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:33:06.939116",
+  "metadata": {
+    "url": "http://jovacet.ac.za/index.php?journal=JOVACET&page=article&op=view&path%5B%5D=16",
+    "final_url": "https://jovacet.ac.za/index.php/JOVACET",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": null,\n    \"authors\": [],\n    \"doi\": null,\n    \"journal\": \"Journal of Vocational, Adult and Continuing Education and Training\",\n    \"year\": null,\n    \"abstract\": null\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://jovacet.ac.za/index.php/JOVACET/issue/current\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"url\": \"https://jovacet.ac.za/index.php/JOVACET/issue/archive\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"medium\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.0017501627405484518
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3057,
+      "candidatesTokenCount": 240,
+      "totalTokenCount": 3297,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3057
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 240
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "4JVSaKC-O_6ShMIPm7P8iAY"
+  }
+}

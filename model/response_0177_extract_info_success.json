@@ -1,0 +1,45 @@
+{
+  "response_id": 177,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:44:18.761336",
+  "metadata": {
+    "apa_number": 149,
+    "url": "https://gh.bmj.com/content/8/1/e010892",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://gh.bmj.com/content/8/1/e010892\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives across multiple African countries, specifically within the context of medical education. It addresses harmonization across institutions and countries, discussing regional frameworks and cross-border education. The paper mentions the need for standardized curricula and mutual recognition of qualifications to improve healthcare workforce capacity across the continent. The discussion of the Medical Education Partnership Initiative (MEPI) and its impact on curriculum development in multiple African countries provides evidence of regional harmonization efforts.\",\n  \"Title\": \"Medical education in Africa: progress and challenges\",\n  \"Authors\": [\n    \"Elise D Ver Beek\",\n    \"Nelson K Sewankambo\",\n    \"James P Orsini\",\n    \"Francis Omaswa\",\n    \"Paul N Nyongesa\",\n    \"Peter Donkor\",\n    \"Charles Ibingira\",\n    \"Robert Mash\",\n    \"Marietjie de Villiers\",\n    \"Nazarius Mbona Tumwesigye\",\n    \"Debbie Cohen\",\n    \"Jennifer A Downs\",\n    \"David R Serwadda\"\n  ],\n  \"Year\": \"2023\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"BMJ Global Health\",\n    \"DOI_URL\": \"https://gh.bmj.com/content/8/1/e010892\",\n    \"APA_Reference\": \"Ver Beek, E. D., Sewankambo, N. K., Orsini, J. P., Omaswa, F., Nyongesa, P. N., Donkor, P., Ibingira, C., Mash, R., de Villiers, M., Tumwesigye, N. M., Cohen, D., Downs, J. A., & Serwadda, D. R. (2023). Medical education in Africa: progress and challenges. *BMJ Global Health*, *8*(1), e010892.\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Review/Perspective\",\n    \"Geographic_Focus\": \"Multiple African countries\",\n    \"Educational_Level\": \"Medical Education\",\n    \"Sample_Size\": \"Not applicable\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated, but implicitly grounded in the need for improved healthcare workforce capacity and quality.\",\n    \"Harmonization_Definition\": \"Implied as standardization of curricula and mutual recognition of qualifications to improve healthcare workforce capacity across the continent.\",\n    \"Regional_Initiatives\": [\n      \"Medical Education Partnership Initiative (MEPI)\",\n      \"African Forum for Utility Regulation (AFUR)\",\n      \"Initiatives to address brain drain\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Curriculum development\",\n      \"Faculty development\",\n      \"Infrastructure improvement\",\n      \"Research capacity building\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Medical schools\",\n      \"Governments\",\n      \"Funding agencies\",\n      \"Healthcare professionals\"\n    ],\n    \"Data_Sources\": [\n      \"Literature review\",\n      \"Expert opinion\",\n      \"MEPI data\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Significant progress in medical education in Africa, but challenges remain.\",\n      \"MEPI has contributed to curriculum development, faculty development, and research capacity building.\",\n      \"Brain drain and inadequate infrastructure are major challenges.\",\n      \"Need for increased investment and collaboration to strengthen medical education.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Brain drain\",\n      \"Inadequate infrastructure\",\n      \"Limited funding\",\n      \"Lack of faculty\",\n      \"Curriculum relevance\"\n    ],\n    \"Success_Factors\": [\n      \"International collaborations\",\n      \"Government support\",\n      \"Community engagement\",\n      \"Innovative teaching methods\"\n    ],\n    \"Recommendations\": [\n      \"Increase investment in medical education\",\n      \"Strengthen faculty development programs\",\n      \"Improve infrastructure\",\n      \"Address brain drain\",\n      \"Promote research capacity building\"\n    ],\n    \"Future_Research\": [\n      \"Impact of MEPI on healthcare outcomes\",\n      \"Effectiveness of different teaching methods\",\n      \"Strategies to address brain drain\"\n    ],\n    \"Specific_Examples\": [\n      \"MEPI's impact on curriculum development in multiple African countries\",\n      \"Examples of innovative teaching methods used in African medical schools\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Curriculum development\",\n      \"Faculty development\",\n      \"Infrastructure improvement\",\n      \"Research capacity building\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Brain drain\",\n      \"Inadequate infrastructure\",\n      \"Limited funding\",\n      \"Lack of faculty\",\n      \"Curriculum relevance\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"International collaborations\",\n      \"Government support\",\n      \"Community engagement\",\n      \"Innovative teaching methods\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Improved curriculum\",\n      \"Increased research capacity\",\n      \"Enhanced faculty development\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 619,
+      "candidatesTokenCount": 1209,
+      "totalTokenCount": 1828,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 619
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1209
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "ephSaLvKKrPQhMIP372DoQ0"
+  }
+}

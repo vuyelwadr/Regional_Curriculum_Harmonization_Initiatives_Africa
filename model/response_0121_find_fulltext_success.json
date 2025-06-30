@@ -1,0 +1,64 @@
+{
+  "response_id": 121,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:39:04.113138",
+  "metadata": {
+    "url": "https://ejournal.insuriponorogo.ac.id/index.php/qalamuna/article/view/2075",
+    "final_url": "https://ejournal.insuriponorogo.ac.id/index.php/qalamuna/article/view/2075",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Implementation of Multicultural Education Through School Social Capital Relationships in Creating Social Harmonization\",\n    \"authors\": [\n      \"Dwi Astutik\"\n    ],\n    \"doi\": \"10.37680/qalamuna.v15i1.2075\",\n    \"journal\": \"QALAMUNA: Jurnal Pendidikan, Sosial, dan Agama\",\n    \"year\": \"2023\",\n    \"abstract\": \"This article results from field research at several religion-based schools in Surakarta. The focus is to answer the first formulation of the problem, which identifies the process of harmonization in schools and implements multicultural education. &nbsp;It talks about how harmonization practices exist in the school environment through various policies. This harmonization process is essential in creating an atmosphere and learning environment that is tolerant, harmonious, and respectful among fellow school members. The second formulation that the author wants to review in this article is regarding the school's strategy in implementing multicultural education through social capital owned by the school. Using a qualitative method and a case study approach, the data obtained shows that schools have beliefs, values ​​and norms, obligations, and expectations in the form of a vision and mission that can become capital in strengthening unity towards a multicultural school. Based on the findings of the data obtained, the researcher concluded that schools are not just a place to transfer knowledge between teachers and students by the guidance of curriculum. Moreover, schools are community settings. There are structures, values ​​, and norms in the daily educational process. The social capital used is James Coleman's social capital, which every community has. We see here the school community must have the capital and components to maintain their society. In this case, unity in diversity.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://ejournal.insuriponorogo.ac.id/index.php/qalamuna/article/download/2075/1175\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"url\": \"https://ejournal.insuriponorogo.ac.id/index.php/qalamuna/article/view/2075\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 96,
+              "endIndex": 223,
+              "uri": "https://typeset.io/papers/implementation-of-multicultural-education-through-school-32cjkutr5h"
+            },
+            {
+              "startIndex": 406,
+              "endIndex": 649,
+              "uri": "https://moraref.kemenag.go.id/documents/article/100893552334083345"
+            },
+            {
+              "startIndex": 659,
+              "endIndex": 1905
+            }
+          ]
+        },
+        "avgLogprobs": -0.0006632837186376732
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2938,
+      "candidatesTokenCount": 581,
+      "totalTokenCount": 3519,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2938
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 581
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "RJdSaMrQHoqThMIPyoil0Qo"
+  }
+}

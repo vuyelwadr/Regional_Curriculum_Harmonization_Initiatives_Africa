@@ -1,0 +1,45 @@
+{
+  "response_id": 369,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:03:05.496470",
+  "metadata": {
+    "apa_number": 271,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9869809/",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://pmc.ncbi.nlm.nih.gov/articles/PMC9869809/\",\n  \"MATCHES_CRITERIA\": false,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on the development of a competency-based curriculum for medical education in Rwanda. While it discusses curriculum development and adaptation, it does not address regional curriculum harmonization initiatives involving multiple African countries or regions. The focus is on a single country's medical education system.\",\n  \"Title\": \"Competency-Based Curriculum Development and Implementation: Lessons Learned from a Medical School in Rwanda\",\n  \"Authors\": [\n    \"Jean Baptiste Kakoma\",\n    \"Emile Bienvenu\",\n    \"Eugene Tuyishime\",\n    \"Stephen Mutwiwa\",\n    \"Bethany Hedt-Gauthier\",\n    \"Felix Sayinzoga\",\n    \"Jean de Dieu Gatete\"\n  ],\n  \"Year\": \"2023\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 620,
+      "candidatesTokenCount": 216,
+      "totalTokenCount": 836,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 620
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 216
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "55xSaJb2HLPQhMIP372DoQ0"
+  }
+}

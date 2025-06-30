@@ -1,0 +1,46 @@
+{
+  "response_id": 290,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:55:23.624636",
+  "metadata": {
+    "url": "https://luedconf.pubpub.org/pub/26fulfjz",
+    "final_url": "https://luedconf.pubpub.org/pub/26fulfjz/release/1",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Harmonizing Curricula in a Transnational Setting: Pursuing Equivalence\",\n    \"authors\": [\n      \"Patrick Amfo Anim\"\n    ],\n    \"doi\": null,\n    \"journal\": \"LUEDConf 2024\",\n    \"year\": \"2024\",\n    \"abstract\": \"Conference abstract\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://luedconf.pubpub.org/pub/26fulfjz/download/pdf\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.00010094098952783418
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3659,
+      "candidatesTokenCount": 217,
+      "totalTokenCount": 3876,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3659
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 217
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "GZtSaO2DLZrnqsMPzonmkA0"
+  }
+}

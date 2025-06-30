@@ -1,0 +1,46 @@
+{
+  "response_id": 284,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:55:11.172402",
+  "metadata": {
+    "url": "https://journals.ufs.ac.za/index.php/at/article/view/8462",
+    "final_url": "https://journals.ufs.ac.za/index.php/at/article/view/8462",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"African theological education and its curriculum responsiveness towards  African Union’s Agenda 2063.\",\n    \"authors\": [\n      \"M. Naidoo\"\n    ],\n    \"doi\": \"10.38140/at.v44i2.8462\",\n    \"journal\": \"Acta Theologica\",\n    \"year\": \"2024\",\n    \"abstract\": \"This article considers the development of African theological education with the new imperative to support the African Union’s Agenda 2063 and the need to engage global processes of development. By employing the strategic focus of curriculum design and content that focuses on African realities, theological education can support this transformative agenda. Expanding access to quality theological education aligns with Agenda 2063’s emphasis on quality education. However, for African theological education to remain relevant and effective, beyond denominational myopia and internal ecclesial concerns, it must gain significant traction in the political, social, and economic spheres of modern-day Africa. Atheology of transformation to prepare the Church as an agent of change can be instructive. To consider this task, this article reflects on integrative curriculum design as a means that educates for the required competencies, including ethical leadership, with an outward focus.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://journals.ufs.ac.za/index.php/at/article/download/8462/5235\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -9.143061666603548e-05
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2952,
+      "candidatesTokenCount": 415,
+      "totalTokenCount": 3367,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2952
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 415
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "DJtSaKPYI4uZhMIPlvTuyQY"
+  }
+}

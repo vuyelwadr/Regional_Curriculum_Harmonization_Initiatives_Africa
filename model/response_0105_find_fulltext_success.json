@@ -1,0 +1,46 @@
+{
+  "response_id": 105,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:37:08.901661",
+  "metadata": {
+    "url": "http://thesai.org/Publications/ViewPaper?Volume=16&Issue=5&Code=ijacsa&SerialNo=30",
+    "final_url": "https://thesai.org/Publications/ViewPaper?Volume=16&Issue=5&Code=ijacsa&SerialNo=30",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Systematic Literature Review on Generative AI: Ethical Challenges and Opportunities\",\n    \"authors\": [\n      \"Feliks Prasepta Sejahtera Surbakti\"\n    ],\n    \"doi\": \"10.14569/IJACSA.2025.0160530\",\n    \"journal\": \"International Journal of Advanced Computer Science and Applications (ijacsa)\",\n    \"year\": \"2025\",\n    \"abstract\": \"Generative Artificial Intelligence (GAI) has rapidly emerged as a transformative technology capable of autonomously creating human-like content across domains such as text, images, code, and media. While GAI offers significant benefits in fields like education, healthcare, and creative industries, it also introduces complex ethical challenges. This study aims to systematically review and synthesize the ethical landscape of GAI by analyzing 112 peer-reviewed journal articles published between 2021 and 2025. Using a Systematic Literature Review (SLR) methodology, the study identifies five primary ethical challenges—bias and discrimination, misinformation and deepfakes, data privacy violations, intellectual property issues, and accountability and explainability. In addition, it highlights emerging opportunities for ethical innovation, such as responsible design, inclusive governance, and interdisciplinary collaboration. The findings reveal a fragmented research landscape with limited empirical validation and inconsistent ethical frameworks. This review contributes to the field by mapping cross-sectoral patterns, identifying critical research gaps, and offering practical directions for researchers, developers, and policymakers to promote the responsible development of generative AI.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"http://thesai.org/Downloads/Volume16No5/Paper_30-Systematic_Literature_Review_on_Generative_AI.pdf\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -1.6910275173879758e-05
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2480,
+      "candidatesTokenCount": 482,
+      "totalTokenCount": 2962,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2480
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 482
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "0ZZSaPbxN4iugLUP2Pbb4A0"
+  }
+}

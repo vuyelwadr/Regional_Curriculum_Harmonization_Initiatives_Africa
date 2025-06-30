@@ -1,0 +1,46 @@
+{
+  "response_id": 405,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:06:14.631919",
+  "metadata": {
+    "url": "https://rsisinternational.org/journals/ijriss/articles/from-fragmentation-to-integration-developing-a-coherent-insurance-regulatory-framework-for-afcfta/",
+    "final_url": "https://rsisinternational.org/journals/ijriss/articles/from-fragmentation-to-integration-developing-a-coherent-insurance-regulatory-framework-for-afcfta/",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"From Fragmentation to Integration: Developing a Coherent Insurance Regulatory Framework for AfCFTA\",\n    \"authors\": [\n      \"Evans Osabuohien\",\n      \"Olusegun Vincent\",\n      \"Olayinka Idowu\",\n      \"Olamide Jayeola\",\n      \"Abiodun Egbetokun\"\n    ],\n    \"doi\": null,\n    \"journal\": \"International Journal of Research and Innovation in Social Science (IJRISS)\",\n    \"year\": \"2024\",\n    \"abstract\": \"The African Continental Free Trade Area (AfCFTA) is expected to create a single market for goods and services in Africa, but the fragmentation of insurance regulatory frameworks across the continent could hinder its success. This study examines the current state of insurance regulation in Africa and identifies key challenges to integration. It proposes a coherent regulatory framework that promotes harmonization, cooperation, and innovation. The study uses a mixed-methods approach, including literature review, policy analysis, and case studies. It finds that the fragmentation of insurance regulation in Africa is due to differences in national laws, regulatory capacity, and market development. The study recommends the establishment of a pan-African insurance regulatory body, the harmonization of insurance laws and regulations, the promotion of cross-border cooperation, and the development of innovative insurance products and services. The study concludes that a coherent insurance regulatory framework is essential for the success of AfCFTA and the development of the African insurance industry.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://rsisinternational.org/journals/ijriss/wp-content/uploads/2024/01/IJRISS2401133.pdf\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.09752688520215053
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3677,
+      "candidatesTokenCount": 467,
+      "totalTokenCount": 4144,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3677
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 467
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "o51SaOy7BLqFsbQPqNrRqAQ"
+  }
+}

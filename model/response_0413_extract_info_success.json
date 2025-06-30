@@ -1,0 +1,45 @@
+{
+  "response_id": 413,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:07:06.615020",
+  "metadata": {
+    "apa_number": 293,
+    "url": "https://rsisinternational.org/journals/ijriss/articles/from-fragmentation-to-integration-developing-a-coherent-insurance-regulatory-framework-for-afcfta/",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://rsisinternational.org/journals/ijriss/articles/from-fragmentation-to-integration-developing-a-coherent-insurance-regulatory-framework-for-afcfta/\",\n  \"MATCHES_CRITERIA\": false,\n  \"CRITERIA_MATCH_EXPLANATION\": \"This paper focuses on the insurance regulatory framework within the African Continental Free Trade Area (AfCFTA). While it discusses regional integration, it does not specifically address curriculum harmonization in education. The focus is on financial regulation, not educational frameworks or cross-border education initiatives related to curriculum.\",\n  \"Title\": \"From Fragmentation to Integration: Developing a Coherent Insurance Regulatory Framework for AfCFTA\",\n  \"Authors\": [\n    \"Evans Osabuohien\",\n    \"Olufemi A. Aluko\",\n    \"Nicholas Olise\",\n    \"Olayinka Idowu\",\n    \"Abiodun S. Bankole\",\n    \"Oluwasola E. Omoju\"\n  ],\n  \"Year\": \"2023\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 640,
+      "candidatesTokenCount": 237,
+      "totalTokenCount": 877,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 640
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 237
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "2J1SaKfoLf6ShMIPm7P8iAY"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "response_id": 89,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:35:14.058284",
+  "metadata": {
+    "url": "https://au.int/en/pressreleases/20231201/africa-tvet-regulators-conference-strengthening-digital-transformation-and",
+    "final_url": "https://au.int/en/pressreleases/20231201/africa-tvet-regulators-conference-strengthening-digital-transformation-and",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Africa TVET Regulators Conference: Strengthening Digital Transformation and Governance of TVET Systems in Africa\",\n    \"authors\": [],\n    \"doi\": null,\n    \"journal\": null,\n    \"year\": \"2023\",\n    \"abstract\": null\n  },\n  \"fulltext_links\": [],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"low\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.00019221548381802086
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 4416,
+      "candidatesTokenCount": 143,
+      "totalTokenCount": 4559,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 4416
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 143
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "YJZSaPjJHouZhMIPlvTuyQY"
+  }
+}

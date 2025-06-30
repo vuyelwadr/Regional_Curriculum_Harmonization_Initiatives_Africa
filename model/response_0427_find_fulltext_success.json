@@ -1,0 +1,46 @@
+{
+  "response_id": 427,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:08:12.018019",
+  "metadata": {
+    "url": "https://pure.uj.ac.za/en/publications/decolonising-the-african-union-regional-higher-education-policy-a",
+    "final_url": "https://pure.uj.ac.za/en/publications/decolonising-the-african-union-regional-higher-education-policy-a",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Decolonising the African Union Regional Higher Education Policy A Tentative Approach against Neocolonial Entanglement\",\n    \"authors\": [\n      \"Emnet Tadesse Woldegiorgis\"\n    ],\n    \"doi\": \"10.1163/9789004548107_008\",\n    \"journal\": \"African Higher Education: Developments and Perspectives\",\n    \"year\": \"2023\",\n    \"abstract\": null\n  },\n  \"fulltext_links\": [],\n  \"repository_indicators\": [\n    \"institutional\"\n  ],\n  \"paywall_detected\": true,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.0021174153685569763
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2702,
+      "candidatesTokenCount": 200,
+      "totalTokenCount": 2902,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2702
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 200
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "Gp5SaPSaHIqThMIPyoil0Qo"
+  }
+}

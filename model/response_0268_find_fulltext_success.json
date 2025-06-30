@@ -1,0 +1,46 @@
+{
+  "response_id": 268,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:53:17.448450",
+  "metadata": {
+    "url": "https://journal.uinsgd.ac.id/index.php/idajhs/article/view/35120",
+    "final_url": "https://journal.uinsgd.ac.id/index.php/idajhs/article/view/35120",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Revitalizing the Role of UIN Bandung in Creating Religious Harmonization in West Java\",\n    \"authors\": [\n      \"Rohmanur Aziz\",\n      \"Uus Ruswandi\",\n      \"Andewi Suhartini\",\n      \"Mohamad Erihadiana\"\n    ],\n    \"doi\": \"10.15575/idajhs.v18i1.35120\",\n    \"journal\": \"Ilmu Dakwah: Academic Journal for Homiletic Studies\",\n    \"year\": \"2024\",\n    \"abstract\": \"This research analyses graduates' concepts and understanding of the UIN Sunan Gunung Djati Bandung Revitalization Model to Create Religious Harmonization in West Java. This research uses an ethnographic method to relate to social activities and religious behaviour in society. Apart from that, it tries to describe and analyze the life views of the subjects studied, namely understanding and attitudes towards religious harmonization. The concept and implementation of UIN Sunan Gunung Djati Bandung regarding religious harmonization in West Java, namely the establishment of a study program and curriculum whose approach uses religion to contribute to the study of religious moderation and establishing a house for religious moderation. UIN Sunan Gunung Djati graduates' understanding of religious harmonization in West Java shows moderate religious tolerance. The Revitalization Model of UIN Sunan Gunung Djati Bandung to Create Religious Harmonization in West Java, namely by designing the UIN Sunan Gunung Djati Bandung curriculum, has demonstrated an Islamic moderation effort that encourages religious moderation so that it has been able to provide a dominant colour in the harmonization of religious communities, especially in West Java.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://journal.uinsgd.ac.id/index.php/idajhs/article/download/35120/10946\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -5.5981972705452675e-05
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2985,
+      "candidatesTokenCount": 496,
+      "totalTokenCount": 3481,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2985
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 496
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "mppSaPHzGf6ShMIPm7P8iAY"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "response_id": 6,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:27:09.975390",
+  "metadata": {
+    "url": "http://ejournals.bc.edu/ojs/index.php/ijahe/article/view/5646",
+    "final_url": "https://ejournals.bc.edu/index.php/ijahe/article/view/5646",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Quality Assurance in Africa: Towards a Continental Higher Education and Research Space\",\n    \"authors\": [\n      \"Juma Shabani\",\n      \"Peter Okebukola\",\n      \"Olusola Oyewole\"\n    ],\n    \"doi\": \"10.6017/ijahe.v1i1.5646\",\n    \"journal\": \"International Journal of African Higher Education\",\n    \"year\": \"2014\",\n    \"abstract\": \"This article is a critical review of quality assurance in higher education in Africa with the purpose of identifying recent results, challenges still to be faced, and actions required to forcefully move towards the construction of an African higher education and research space (AHERS). The article identifies factors responsible for the decline in quality and proposes an integrated and holistic conceptual framework for analysing quality assurance. It reviews the various initiatives implemented in recent years and identifies, among the results, the establishment of new quality assurance agencies, the creation of a regional quality assurance system in East Africa, the strengthening of institutional development capacities, and capacity building in competencies-based curriculum reform. Challenges include the limited human capacity of quality assurance agencies, ineffectiveness in implementing harmonisation strategies, and the lack of tools required to compare qualifications. The article concludes with recommendations on promoting student and staff mobility to help realise the creation of AHERS.\\u00a0Cet article est une critique de l\\u2019assurance qualit\\u00e9 de l\\u2019enseignement sup\\u00e9rieur en Afrique. Il a pour objectif d\\u2019identifier les r\\u00e9centes \\u00e9tudes, les d\\u00e9fis \\u00e0 relever, et les actions n\\u00e9cessaires pour provoquer la cr\\u00e9ation d\\u2019un Espace Africain pour l\\u2019Enseignement Sup\\u00e9rieur et la Recherche (AHERS). Cet article identifie les facteurs \\u00e0 l\\u2019origine du d\\u00e9clin de la qualit\\u00e9 et propose un cadre th\\u00e9orique holistique complet pour analyser l\\u2019assurance qualit\\u00e9. Il critique les diff\\u00e9rentes initiatives mises en place ces derni\\u00e8res ann\\u00e9es et s\\u2019attarde plus sp\\u00e9cifiquement sur la fondation de nouvelles agences charg\\u00e9es de l\\u2019assurance qualit\\u00e9, la cr\\u00e9ation d\\u2019un syst\\u00e8me r\\u00e9gional d\\u2019assurance qualit\\u00e9 en Afrique de l\\u2019Est, le renforcement des capacit\\u00e9s de d\\u00e9veloppement des institutions, et le d\\u00e9veloppement des capacit\\u00e9s n\\u00e9cessaires pour \\u00e9tablir une r\\u00e9forme des programmes ax\\u00e9e sur les comp\\u00e9tences. La capacit\\u00e9 humaine limit\\u00e9e des agences d\\u2019assurance qualit\\u00e9, l\\u2019inefficacit\\u00e9 quant \\u00e0 l\\u2019impl\\u00e9mentation des strat\\u00e9gies d\\u2019harmonisation et le manque d\\u2019outils pour comparer les dipl\\u00f4mes font partie des difficult\\u00e9s majeures. Nous terminons cet article en encourageant la mobilit\\u00e9 des \\u00e9tudiants et des professeurs pour provoquer la cr\\u00e9ation d\\u2019un Espace Africain pour l\\u2019Enseignement Sup\\u00e9rieur et la Recherche.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://ejournals.bc.edu/index.php/ijahe/article/download/5646/4978\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 422,
+              "endIndex": 1527
+            }
+          ]
+        },
+        "avgLogprobs": -0.000497423903846042
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2738,
+      "candidatesTokenCount": 1092,
+      "totalTokenCount": 3830,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2738
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1092
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "d5RSaPP9IZbrqsMPiOTvsQI"
+  }
+}

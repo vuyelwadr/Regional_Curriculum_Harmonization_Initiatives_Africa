@@ -1,0 +1,90 @@
+{
+  "response_id": 397,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T13:05:21.277036",
+  "metadata": {
+    "url": "https://pmejournal.org/articles/10.1007/S40037-019-0523-4",
+    "final_url": "https://pmejournal.org/articles/10.1007/S40037-019-0523-4",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"A qualitative study on harmonization of postgraduate medical education in Europe: negotiating flexibility is key\",\n    \"authors\": [\n      \"Jessica E. van der Aa\",\n      \"Fedde Scheele\",\n      \"Angelique J. Goverde\",\n      \"Pim W. Teunissen\"\n    ],\n    \"doi\": \"10.1007/S40037-019-0523-4\",\n    \"journal\": \"Perspectives on Medical Education\",\n    \"year\": \"2019\",\n    \"abstract\": \"Introduction International harmonization of postgraduate medical education is gaining importance in the globalization of medical education. Harmonization is regarded as the establishment of common standards in education, while maintaining regional or local freedom to adapt training to contexts. During the development of a&nbsp;harmonized curriculum, tensions between standardization and contextualization may surface. To allow future harmonization projects to recognize these tensions and deal with them in a&nbsp;timely manner, this study aims to gain insight into tensions that may arise when developing a&nbsp;harmonized curriculum for postgraduate medical education in Obstetrics and Gynaecology in Europe. Methods Focus groups were held with international curriculum developers to discuss challenges that resulted from tensions between standardization and contextualization when developing a&nbsp;harmonized European curriculum for postgraduate medical education in Obstetrics and Gynaecology. Data were analyzed through conventional content analysis, using the principles of template analysis. Results and Discussion Tensions between standardization and contextualization in the development of a&nbsp;harmonized curriculum were apparent in two domains: 1)&nbsp;Varying ideas about what the harmonized curriculum means for the current curriculum and 2)&nbsp;Inconsistencies between educational principles and the reality of training. Additionally, we identified ways of dealing with these tensions, which were characterized as ‘negotiating flexibility’. Tensions between standardization and contextualization surfaced in the development phase of harmonizing a&nbsp;curriculum, partly because it was anticipated that there would be problems when implementing the curriculum.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://pmejournal.org/articles/10.1007/S40037-019-0523-4\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 461,
+              "endIndex": 584,
+              "uri": "https://typeset.io/topics/contextualization-m8qg9ppf?paper_page=177"
+            },
+            {
+              "startIndex": 486,
+              "endIndex": 792,
+              "uri": "https://pubmed.ncbi.nlm.nih.gov/31297707/"
+            },
+            {
+              "startIndex": 802,
+              "endIndex": 983,
+              "uri": "https://pubmed.ncbi.nlm.nih.gov/31297707/"
+            },
+            {
+              "startIndex": 1088,
+              "endIndex": 1306,
+              "uri": "https://scite.ai/reports/10.1097/acm.0000000000002268"
+            },
+            {
+              "startIndex": 1194,
+              "endIndex": 1367,
+              "uri": "https://pubmed.ncbi.nlm.nih.gov/31297707/"
+            },
+            {
+              "startIndex": 1377,
+              "endIndex": 1568,
+              "uri": "https://pubmed.ncbi.nlm.nih.gov/31297707/"
+            },
+            {
+              "startIndex": 1457,
+              "endIndex": 1677,
+              "uri": "https://scite.ai/reports/10.1097/acm.0000000000002268"
+            },
+            {
+              "startIndex": 1838,
+              "endIndex": 2130,
+              "uri": "https://pubmed.ncbi.nlm.nih.gov/31297707/"
+            }
+          ]
+        },
+        "avgLogprobs": -0.0014944024127105187
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3394,
+      "candidatesTokenCount": 580,
+      "totalTokenCount": 3974,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3394
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 580
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "bp1SaKv_BprnqsMPzonmkA0"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "response_id": 285,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:55:11.380049",
+  "metadata": {
+    "url": "https://journals.eanso.org/index.php/eajes/article/view/1574",
+    "final_url": "https://journals.eanso.org/index.php/eajes/article/view/1574",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Rethinking the Curriculum; Core for the Reform\",\n    \"authors\": [\n      \"James Gitonga\"\n    ],\n    \"doi\": \"10.37284/eajes.6.3.1574\",\n    \"journal\": \"East African Journal of Education Studies\",\n    \"year\": \"2023\",\n    \"abstract\": \"The skill-focused curriculum (CBC) currently being implemented nationwide in Kenya is akin a springboard loosely fixed. Like every other country, the syllabus was revamped to equip learners with the necessary skills to deal with emerging challenges in a fast-changing world. However, a keen scholar is apt to note that the CBC implementation in Kenya is riddled with several bottlenecks. Scholars have contended that impacting knowledge and evaluation approaches in CBC must emphasize further assisting students in creating a relationship between proof, hence the ability to produce novel information. This paper analyses how teachers are a veritable tool in implementing the CBC curriculum in Kenya. It also delves into the essence of education reform. Lastly, the paper is intended to address and call out on various players to adopt a genuine approach, eschew negative bureaucratic ideals, and implement a curriculum that resonates with its objectives\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://journals.eanso.org/index.php/eajes/article/download/1574/2269\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "citationMetadata": {
+          "citationSources": [
+            {
+              "startIndex": 325,
+              "endIndex": 1277
+            }
+          ]
+        },
+        "avgLogprobs": -3.048067446798086e-05
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3100,
+      "candidatesTokenCount": 400,
+      "totalTokenCount": 3500,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3100
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 400
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "DJtSaMHdK_6ShMIPm7P8iAY"
+  }
+}

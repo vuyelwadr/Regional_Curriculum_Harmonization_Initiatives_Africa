@@ -1,0 +1,46 @@
+{
+  "response_id": 151,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:42:04.171422",
+  "metadata": {
+    "url": "https://futurity-education.com/index.php/fed/article/view/393",
+    "final_url": "https://futurity-education.com/index.php/fed/article/view/393",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": false,\n  \"content_type\": \"landing_page\",\n  \"paper_metadata\": {\n    \"title\": \"Humanisation of the Teacher Education Curriculum and Pedagogy in South Africa: A Literature Review\",\n    \"authors\": [\n      \"Mensah Prince Osiesi\"\n    ],\n    \"doi\": \"10.57125/FED.2024.12.25.10\",\n    \"journal\": \"Futurity Education\",\n    \"year\": \"2024\",\n    \"abstract\": null\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://futurity-education.com/index.php/fed/article/download/393/191\",\n      \"type\": \"direct_pdf\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -2.172811312361377e-06
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3190,
+      "candidatesTokenCount": 241,
+      "totalTokenCount": 3431,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3190
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 241
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "-pdSaIvvB6iUsbQPmK3KkQI"
+  }
+}

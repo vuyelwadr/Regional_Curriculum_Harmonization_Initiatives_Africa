@@ -1,0 +1,45 @@
+{
+  "response_id": 113,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T12:38:07.664543",
+  "metadata": {
+    "apa_number": 107,
+    "url": "https://documents1.worldbank.org/curated/en/715441468008715604/pdf/655060WP0Proce0toward0harmonization.pdf",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://documents1.worldbank.org/curated/en/715441468008715604/pdf/655060WP0Proce0toward0harmonization.pdf\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in Africa, specifically addressing the harmonization of higher education programs across countries. It discusses regional frameworks, cross-border education, and mutual recognition of qualifications within the context of the African continent. The paper explicitly mentions the need for regional harmonization to facilitate mobility and recognition of qualifications.\",\n  \"Title\": \"The process toward harmonization of higher education in Africa\",\n  \"Authors\": [\n    \"Jamil Salmi\"\n  ],\n  \"Year\": \"2011\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"World Bank\",\n    \"DOI_URL\": \"https://documents1.worldbank.org/curated/en/715441468008715604/pdf/655060WP0Proce0toward0harmonization.pdf\",\n    \"APA_Reference\": \"Salmi, J. (2011). The process toward harmonization of higher education in Africa. World Bank.\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Literature Review/Policy Analysis\",\n    \"Geographic_Focus\": \"Africa (multiple countries and regions)\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"Not applicable\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"Not explicitly stated\",\n    \"Harmonization_Definition\": \"Harmonization is defined as the process of creating greater compatibility and coherence among higher education systems, programs, and qualifications across different countries or regions.\",\n    \"Regional_Initiatives\": [\n      \"Harmonization of degree structures\",\n      \"Quality assurance mechanisms\",\n      \"Credit transfer systems\",\n      \"Qualifications frameworks\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Policy dialogue\",\n      \"Regional cooperation\",\n      \"Capacity building\",\n      \"Development of common standards\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"Governments\",\n      \"Higher education institutions\",\n      \"Regional organizations\",\n      \"Quality assurance agencies\",\n      \"Students\"\n    ],\n    \"Data_Sources\": [\n      \"Policy documents\",\n      \"Reports\",\n      \"Literature review\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"Harmonization is essential for promoting mobility, recognition of qualifications, and quality enhancement in African higher education.\",\n      \"Regional cooperation and policy dialogue are crucial for successful harmonization.\",\n      \"Quality assurance mechanisms and credit transfer systems are key components of harmonization.\",\n      \"Challenges include diverse national contexts, limited resources, and lack of political will.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Diverse national contexts\",\n      \"Limited resources\",\n      \"Lack of political will\",\n      \"Resistance to change\"\n    ],\n    \"Success_Factors\": [\n      \"Strong political commitment\",\n      \"Effective regional cooperation\",\n      \"Adequate resources\",\n      \"Stakeholder engagement\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen regional cooperation and policy dialogue.\",\n      \"Develop common standards and quality assurance mechanisms.\",\n      \"Invest in capacity building and infrastructure.\",\n      \"Promote stakeholder engagement and ownership.\"\n    ],\n    \"Future_Research\": [\n      \"Impact of harmonization on student mobility and graduate employability.\",\n      \"Effectiveness of different harmonization approaches.\",\n      \"Role of technology in facilitating harmonization.\"\n    ],\n    \"Specific_Examples\": [\n      \"Harmonization efforts in the East African Community (EAC)\",\n      \"Harmonization efforts in the Southern African Development Community (SADC)\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Regional frameworks\",\n      \"Policy guidelines\",\n      \"Quality assurance agencies\",\n      \"Credit transfer systems\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Political differences\",\n      \"Resource constraints\",\n      \"Capacity limitations\",\n      \"Cultural differences\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political will\",\n      \"Regional cooperation\",\n      \"Stakeholder engagement\",\n      \"Resource mobilization\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Increased student mobility\",\n      \"Improved quality of education\",\n      \"Enhanced graduate employability\",\n      \"Strengthened regional integration\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 649,
+      "candidatesTokenCount": 1077,
+      "totalTokenCount": 1726,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 649
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1077
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "CJdSaKGOOf6ShMIPm7P8iAY"
+  }
+}

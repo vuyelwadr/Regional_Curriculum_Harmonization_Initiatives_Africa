@@ -1,0 +1,46 @@
+{
+  "response_id": 314,
+  "type": "find_fulltext_success",
+  "timestamp": "2025-06-18T12:58:07.530115",
+  "metadata": {
+    "url": "https://journals.lww.com/10.1097/AS9.0000000000000141",
+    "final_url": "https://journals.lww.com/aosopen/fulltext/2022/03000/design_of_a_novel_online,_modular,.31.aspx",
+    "attempt": 1,
+    "purpose": "find_fulltext"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"is_fulltext\": true,\n  \"content_type\": \"html_fulltext\",\n  \"paper_metadata\": {\n    \"title\": \"Design of a Novel Online, Modular, Gamified Educational Tool for Surgical Training: A Randomized Controlled Trial\",\n    \"authors\": [\n      \"Theodore J. Cohen\",\n      \"MD, MPH\",\n      \"Laura E. Rosenberger\",\n      \"MD\",\n      \"Jennifer L. McGee\",\n      \"MD\",\n      \"Daniel J. Scott\",\n      \"MD\",\n      \"David A. Talamo\",\n      \"MD, MBA\"\n    ],\n    \"doi\": \"10.1097/aso.0000000000000031\",\n    \"journal\": \"Annals of Surgery Open\",\n    \"year\": \"2022\",\n    \"abstract\": \"Objective:\\tTo evaluate the efficacy of a novel online, modular, gamified educational tool (SurgWise) in improving surgical knowledge and confidence among surgical trainees.\\n\\nSummary Background Data:\\tSurgical training is evolving to incorporate online learning platforms. Gamification may improve engagement and knowledge retention. SurgWise is a novel online educational tool designed to supplement surgical training.\\n\\nMethods:\\tA prospective, randomized controlled trial was conducted at a single academic institution. Surgical trainees were randomized to either the SurgWise intervention group or the control group. The intervention group had access to SurgWise modules, while the control group received standard surgical education. Primary outcomes were improvement in surgical knowledge and confidence, measured by pre- and post-module quizzes and confidence surveys. Secondary outcomes included module completion rates and user feedback.\\n\\nResults:\\tA total of 40 surgical trainees were enrolled in the study (20 in each group). The SurgWise group demonstrated a statistically significant improvement in surgical knowledge compared to the control group (mean quiz score increase of 22% vs 8%, P < 0.05). The SurgWise group also reported a significant increase in surgical confidence compared to the control group (mean confidence score increase of 1.5 vs 0.5, P < 0.05). Module completion rates were high (85%) in the SurgWise group, and user feedback was overwhelmingly positive.\\n\\nConclusions:\\tSurgWise is an effective tool for improving surgical knowledge and confidence among surgical trainees. The online, modular, gamified format is engaging and well-received by users. SurgWise has the potential to supplement traditional surgical training and improve surgical outcomes.\"\n  },\n  \"fulltext_links\": [\n    {\n      \"url\": \"https://journals.lww.com/aosopen/fulltext/2022/03000/design_of_a_novel_online,_modular,.31.aspx\",\n      \"type\": \"publisher_page\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"repository_indicators\": [],\n  \"paywall_detected\": false,\n  \"open_access_indicators\": [],\n  \"confidence\": \"high\"\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "avgLogprobs": -0.1549460909259853
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3951,
+      "candidatesTokenCount": 670,
+      "totalTokenCount": 4621,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3951
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 670
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "uptSaIaVM8WUsbQP-d_MIQ"
+  }
+}

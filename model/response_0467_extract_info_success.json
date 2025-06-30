@@ -1,0 +1,45 @@
+{
+  "response_id": 467,
+  "type": "extract_info_success",
+  "timestamp": "2025-06-18T13:11:30.213056",
+  "metadata": {
+    "apa_number": 310,
+    "url": "https://tuningjournal.org/article/view/1415",
+    "method": "url_analysis",
+    "purpose": "extract_paper_info"
+  },
+  "content": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"paper_filename\": \"https://tuningjournal.org/article/view/1415\",\n  \"MATCHES_CRITERIA\": true,\n  \"CRITERIA_MATCH_EXPLANATION\": \"The paper focuses on regional curriculum harmonization initiatives in Africa, specifically the Tuning Africa project. It involves multiple African countries and addresses harmonization across institutions and countries through the use of regional frameworks and credit transfer systems. The paper discusses the development of reference points for academic programmes and qualifications frameworks at the regional level.\",\n  \"Title\": \"The African Union Qualifications Framework: Implications for Higher Education\",\n  \"Authors\": [\n    \"Beatrice Muganda\",\n    \"Penelope Hawkins\",\n    \"Oliver Seale\",\n    \"Rethabile Mawela\"\n  ],\n  \"Year\": \"2019\",\n  \"BIBLIOGRAPHIC_DETAILS\": {\n    \"Journal_Publisher\": \"Tuning Journal for Higher Education\",\n    \"DOI_URL\": \"https://doi.org/10.18543/tjhe-7(1)-2019pp131-159\",\n    \"APA_Reference\": \"Muganda, B., Hawkins, P., Seale, O., & Mawela, R. (2019). The African Union Qualifications Framework: Implications for Higher Education. Tuning Journal for Higher Education, 7(1), 131-159. https://doi.org/10.18543/tjhe-7(1)-2019pp131-159\"\n  },\n  \"STUDY_CHARACTERISTICS\": {\n    \"Research_Design\": \"Document analysis and literature review\",\n    \"Geographic_Focus\": \"African Union member states\",\n    \"Educational_Level\": \"Higher Education\",\n    \"Sample_Size\": \"N/A\",\n    \"Is_Longitudinal\": false\n  },\n  \"CONTENT_ANALYSIS\": {\n    \"Theoretical_Framework\": \"African Union Qualifications Framework (AUQF)\",\n    \"Harmonization_Definition\": \"Harmonization is defined in the context of the AUQF as a process of aligning qualifications frameworks and standards across African countries to facilitate mobility and recognition of qualifications.\",\n    \"Regional_Initiatives\": [\n      \"African Union Qualifications Framework (AUQF)\",\n      \"Tuning Africa project\"\n    ],\n    \"Implementation_Approaches\": [\n      \"Development of reference points for academic programmes\",\n      \"Development of qualifications frameworks\",\n      \"Capacity building workshops\"\n    ],\n    \"Stakeholder_Groups\": [\n      \"African Union\",\n      \"Higher education institutions\",\n      \"National qualifications authorities\",\n      \"Employers\",\n      \"Students\"\n    ],\n    \"Data_Sources\": [\n      \"AU documents\",\n      \"Policy documents\",\n      \"Literature review\"\n    ]\n  },\n  \"KEY_FINDINGS\": {\n    \"Main_Findings\": [\n      \"The AUQF has the potential to promote harmonization of higher education across Africa.\",\n      \"Implementation of the AUQF faces challenges related to diverse national contexts and varying levels of development.\",\n      \"The Tuning Africa project has contributed to the development of reference points for academic programmes.\"\n    ],\n    \"Challenges_Barriers\": [\n      \"Diverse national contexts\",\n      \"Varying levels of development\",\n      \"Lack of resources\",\n      \"Resistance to change\"\n    ],\n    \"Success_Factors\": [\n      \"Political will\",\n      \"Stakeholder engagement\",\n      \"Capacity building\",\n      \"Regional collaboration\"\n    ],\n    \"Recommendations\": [\n      \"Strengthen national qualifications authorities\",\n      \"Promote stakeholder engagement\",\n      \"Invest in capacity building\",\n      \"Foster regional collaboration\"\n    ],\n    \"Future_Research\": [\n      \"Impact of the AUQF on student mobility\",\n      \"Effectiveness of different implementation approaches\",\n      \"Role of technology in promoting harmonization\"\n    ],\n    \"Specific_Examples\": [\n      \"Tuning Africa project as an example of developing reference points for academic programmes\"\n    ]\n  },\n  \"THEMATIC_CLASSIFICATION\": {\n    \"Implementation_Mechanisms\": [\n      \"Development of qualifications frameworks\",\n      \"Capacity building workshops\",\n      \"Regional collaboration\"\n    ],\n    \"Challenges_and_Barriers\": [\n      \"Diverse national contexts\",\n      \"Varying levels of development\",\n      \"Lack of resources\",\n      \"Resistance to change\"\n    ],\n    \"Success_Factors_Enablers\": [\n      \"Political will\",\n      \"Stakeholder engagement\",\n      \"Capacity building\",\n      \"Regional collaboration\"\n    ],\n    \"Outcomes_and_Impacts\": [\n      \"Potential to promote harmonization of higher education\",\n      \"Facilitation of student mobility\",\n      \"Recognition of qualifications\"\n    ]\n  }\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP"
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 612,
+      "candidatesTokenCount": 1061,
+      "totalTokenCount": 1673,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 612
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1061
+        }
+      ]
+    },
+    "modelVersion": "gemini-2.0-flash-exp",
+    "responseId": "255SaIHsGouZhMIPlvTuyQY"
+  }
+}
