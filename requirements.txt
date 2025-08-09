@@ -1,0 +1,10 @@
+flask==2.3.3
+streamlit==1.28.1
+python-dotenv==1.0.0
+requests==2.31.0
+beautifulsoup4==4.12.2
+PyPDF2==3.0.1
+playwright==1.40.0
+weasyprint==60.2
+arxiv==1.4.8
+scholarly==1.7.11
