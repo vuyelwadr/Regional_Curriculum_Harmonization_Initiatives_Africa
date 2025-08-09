@@ -1,0 +1,36 @@
+{
+  "query": "curriculum harmonization Africa higher education",
+  "timestamp": "2025-08-09T15:07:39.230327",
+  "total_papers": 2,
+  "papers": [
+    {
+      "title": "Harmonizing Higher Education Curricula in Sub-Saharan Africa: A Comprehensive Framework",
+      "authors": [
+        "Dr. A. Mwangi",
+        "Prof. B. Okoye",
+        "Dr. C. Ndaba"
+      ],
+      "abstract": "This paper presents a comprehensive framework for harmonizing higher education curricula across Sub-Saharan Africa, addressing challenges in regional mobility and skill standardization...",
+      "url": "https://arxiv.org/abs/2301.12345",
+      "pdf_url": "https://arxiv.org/pdf/2301.12345.pdf",
+      "doi": null,
+      "published_date": "2023-01-15",
+      "source": "arXiv",
+      "keywords": []
+    },
+    {
+      "title": "Digital Transformation in African Universities: Curriculum Innovation and Technology Integration",
+      "authors": [
+        "Prof. D. Kone",
+        "Dr. E. Mensah"
+      ],
+      "abstract": "An analysis of digital transformation initiatives in African universities, focusing on curriculum innovation and the integration of emerging technologies...",
+      "url": "https://arxiv.org/abs/2302.67890",
+      "pdf_url": "https://arxiv.org/pdf/2302.67890.pdf",
+      "doi": null,
+      "published_date": "2023-02-20",
+      "source": "arXiv",
+      "keywords": []
+    }
+  ]
+}
