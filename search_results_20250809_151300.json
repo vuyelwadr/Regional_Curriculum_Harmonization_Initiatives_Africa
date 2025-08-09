@@ -1,0 +1,21 @@
+{
+  "query": "education technology",
+  "timestamp": "2025-08-09T15:13:00.668932",
+  "total_papers": 1,
+  "papers": [
+    {
+      "title": "Educational Policy Harmonization in the African Union: Progress and Challenges",
+      "authors": [
+        "Dr. F. Asante",
+        "Prof. G. Mukasa"
+      ],
+      "abstract": "This study examines the progress made in educational policy harmonization within the African Union framework, highlighting key achievements and ongoing challenges...",
+      "url": "https://arxiv.org/abs/2303.11111",
+      "pdf_url": "https://arxiv.org/pdf/2303.11111.pdf",
+      "doi": null,
+      "published_date": "2023-03-10",
+      "source": "arXiv",
+      "keywords": []
+    }
+  ]
+}

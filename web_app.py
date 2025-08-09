@@ -391,72 +391,178 @@ def process_papers_page():
     
     st.success(f"Ready to process {len(urls_to_process)} papers")
     
+    # Show papers to be processed
+    with st.expander("📋 Papers to Process", expanded=False):
+        for i, url in enumerate(urls_to_process[:10], 1):
+            st.write(f"{i}. {url}")
+        if len(urls_to_process) > 10:
+            st.write(f"... and {len(urls_to_process) - 10} more papers")
+    
     # Processing configuration
     with st.expander("⚙️ Processing Configuration", expanded=True):
         col1, col2 = st.columns(2)
         
         with col1:
-            max_workers = st.slider("Concurrent Workers", 1, 20, 10)
-            batch_size = st.slider("Batch Size", 1, 10, 5)
+            max_workers = st.slider("Concurrent Workers", 1, 10, 5)
+            batch_size = st.slider("Batch Size", 1, 10, 3)
         
         with col2:
             research_criteria = st.text_area(
                 "Research Criteria",
                 value="Focus on curriculum harmonization, educational standards, regional cooperation in Africa",
-                help="Specify what makes a paper relevant to your research"
+                help="Specify what makes a paper relevant to your research",
+                height=100
             )
     
     # API Key check
-    api_key_status = "✅ Configured" if os.getenv('GEMINI_API_KEY') else "❌ Missing"
+    api_key = os.getenv('GEMINI_API_KEY')
+    api_key_status = "✅ Configured" if api_key else "❌ Missing"
     st.write(f"**Gemini API Key:** {api_key_status}")
     
-    if not os.getenv('GEMINI_API_KEY'):
-        st.error("Gemini API key is required for processing. Please set GEMINI_API_KEY in your .env file.")
-        st.code("GEMINI_API_KEY=your_api_key_here")
+    if not api_key:
+        st.error("⚠️ Gemini API key is required for AI-powered processing.")
+        
+        with st.expander("📝 How to set up Gemini API Key"):
+            st.write("""
+            1. Go to [Google AI Studio](https://makersuite.google.com/app/apikey)
+            2. Create a new API key
+            3. Copy the key and add it to your `.env` file:
+            """)
+            st.code("GEMINI_API_KEY=your_api_key_here")
+            st.write("4. Restart the application")
+        
+        # Demo mode option
+        st.markdown("---")
+        st.write("**🎭 Demo Mode Available**")
+        if st.button("🎮 Run Demo Processing (No API Key Required)", type="secondary"):
+            run_demo_processing(urls_to_process)
         return
     
     # Processing button
     if st.button("🚀 Start Processing", type="primary"):
-        st.session_state.processing_status = 'processing'
+        run_real_processing(urls_to_process, max_workers, batch_size, research_criteria)
+
+def run_demo_processing(urls_to_process):
+    """Run demo processing without API calls"""
+    st.session_state.processing_status = 'processing'
+    
+    progress_bar = st.progress(0)
+    status_text = st.empty()
+    
+    import time
+    
+    # Simulate processing
+    total_steps = len(urls_to_process)
+    demo_results = []
+    
+    for i, url in enumerate(urls_to_process):
+        progress = (i + 1) / total_steps
+        progress_bar.progress(progress)
+        status_text.text(f"Processing paper {i+1}/{total_steps}: {url[:50]}...")
         
-        # Create temporary URLs file
-        timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
-        temp_urls_file = f"temp_urls_{timestamp}.txt"
+        # Simulate some processing time
+        time.sleep(1)
         
-        with open(temp_urls_file, 'w', encoding='utf-8') as f:
-            for url in urls_to_process:
-                f.write(f"{url}\n")
+        # Create demo result
+        demo_results.append({
+            'url': url,
+            'title': f"Demo Paper {i+1}: Analysis of Research Topic",
+            'authors': ["Dr. Demo Author", "Prof. Example"],
+            'relevant': i % 3 == 0,  # Every 3rd paper is relevant
+            'summary': f"This is a demo summary for paper {i+1}. In real processing, this would contain AI-generated analysis.",
+            'key_findings': ["Demo finding 1", "Demo finding 2"],
+            'status': 'demo_processed'
+        })
+    
+    progress_bar.progress(1.0)
+    status_text.text("Demo processing completed!")
+    
+    # Store demo results
+    st.session_state.processor_results = {
+        'total_processed': len(demo_results),
+        'relevant_count': len([r for r in demo_results if r['relevant']]),
+        'timestamp': datetime.now().isoformat(),
+        'demo_mode': True,
+        'papers': demo_results
+    }
+    
+    st.session_state.processing_status = 'completed'
+    st.success("🎉 Demo processing completed!")
+    
+    # Show quick summary
+    relevant_count = len([r for r in demo_results if r['relevant']])
+    st.info(f"Found {relevant_count} relevant papers out of {len(demo_results)} processed")
+
+def run_real_processing(urls_to_process, max_workers, batch_size, research_criteria):
+    """Run real processing with API calls"""
+    st.session_state.processing_status = 'processing'
+    
+    # Create temporary URLs file
+    timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
+    temp_urls_file = f"temp_urls_{timestamp}.txt"
+    
+    with open(temp_urls_file, 'w', encoding='utf-8') as f:
+        for url in urls_to_process:
+            f.write(f"{url}\n")
+    
+    # Start processing
+    progress_container = st.container()
+    
+    with progress_container:
+        progress_bar = st.progress(0)
+        status_text = st.empty()
         
-        # Start processing in a separate thread (simulation)
-        with st.spinner("Processing papers..."):
-            try:
-                # Initialize processor
-                processor = UnifiedPaperProcessor(
-                    apa_file=temp_urls_file,
-                    max_workers=max_workers,
-                    batch_size=batch_size
-                )
-                
-                # Run processing
-                processor.process_papers()
-                
-                # Store results
-                st.session_state.processor_results = {
-                    'total_processed': len(processor.results),
-                    'relevant_count': len([r for r in processor.results if r.matches_criteria]),
-                    'timestamp': datetime.now().isoformat(),
-                    'stats': processor.stats
-                }
-                
-                st.session_state.processing_status = 'completed'
-                st.success("Processing completed!")
-                
-                # Clean up temp file
+        try:
+            # Initialize processor
+            status_text.text("Initializing processor...")
+            processor = UnifiedPaperProcessor(
+                apa_file=temp_urls_file,
+                max_workers=max_workers,
+                batch_size=batch_size
+            )
+            
+            # Custom progress callback (if we can modify the processor)
+            status_text.text("Starting paper processing...")
+            progress_bar.progress(0.1)
+            
+            # Run processing
+            processor.process_papers()
+            
+            progress_bar.progress(1.0)
+            status_text.text("Processing completed!")
+            
+            # Store results
+            st.session_state.processor_results = {
+                'total_processed': len(processor.results),
+                'relevant_count': len([r for r in processor.results if r.matches_criteria]),
+                'timestamp': datetime.now().isoformat(),
+                'stats': processor.stats,
+                'demo_mode': False
+            }
+            
+            st.session_state.processing_status = 'completed'
+            st.success("🎉 Processing completed successfully!")
+            
+            # Show quick summary
+            relevant_count = len([r for r in processor.results if r.matches_criteria])
+            st.info(f"Found {relevant_count} relevant papers out of {len(processor.results)} processed")
+            
+            # Clean up temp file
+            os.remove(temp_urls_file)
+            
+        except Exception as e:
+            st.error(f"❌ Processing failed: {str(e)}")
+            st.session_state.processing_status = 'error'
+            
+            # Show error details in expandable section
+            with st.expander("🔍 Error Details"):
+                st.code(str(e))
+                import traceback
+                st.code(traceback.format_exc())
+            
+            # Clean up temp file on error
+            if os.path.exists(temp_urls_file):
                 os.remove(temp_urls_file)
-                
-            except Exception as e:
-                st.error(f"Processing failed: {str(e)}")
-                st.session_state.processing_status = 'error'
 
 def view_results_page():
     """View processing results"""
@@ -545,6 +651,69 @@ def view_results_page():
             
         except Exception as e:
             st.error(f"Error loading paper information: {str(e)}")
+    
+    # Handle demo results display
+    elif st.session_state.processor_results.get('demo_mode', False):
+        st.subheader("📋 Demo Processing Results")
+        
+        results = st.session_state.processor_results
+        papers = results.get('papers', [])
+        
+        # Filter options
+        col1, col2 = st.columns(2)
+        with col1:
+            relevance_filter = st.selectbox("Filter by Relevance", ["All", "Relevant Only", "Not Relevant"])
+        with col2:
+            papers_to_show = st.selectbox("Papers to display", [5, 10, 20], index=1)
+        
+        # Filter papers
+        if relevance_filter == "Relevant Only":
+            papers = [p for p in papers if p['relevant']]
+        elif relevance_filter == "Not Relevant":
+            papers = [p for p in papers if not p['relevant']]
+        
+        # Display papers
+        for i, paper in enumerate(papers[:papers_to_show], 1):
+            relevance_color = "🟢" if paper['relevant'] else "🔴"
+            
+            with st.expander(f"{relevance_color} {i}. {paper['title']}"):
+                col1, col2 = st.columns([3, 1])
+                
+                with col1:
+                    st.write(f"**Authors:** {', '.join(paper['authors'])}")
+                    st.write(f"**Summary:** {paper['summary']}")
+                    
+                    if paper['key_findings']:
+                        st.write("**Key Findings:**")
+                        for finding in paper['key_findings']:
+                            st.write(f"• {finding}")
+                
+                with col2:
+                    status_color = "🟢" if paper['relevant'] else "🔴"
+                    st.write(f"**Status:** {status_color} {'Relevant' if paper['relevant'] else 'Not Relevant'}")
+                    st.write(f"**URL:** {paper['url'][:30]}...")
+        
+        # Export demo results
+        st.markdown("---")
+        if st.button("📄 Export Demo Results"):
+            demo_export = {
+                'processing_summary': {
+                    'total_papers': len(results['papers']),
+                    'relevant_papers': len([p for p in results['papers'] if p['relevant']]),
+                    'processing_date': results['timestamp'],
+                    'mode': 'demo'
+                },
+                'papers': results['papers']
+            }
+            
+            st.download_button(
+                label="Download Demo Results (JSON)",
+                data=json.dumps(demo_export, indent=2),
+                file_name=f"demo_results_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json",
+                mime="application/json"
+            )
+    else:
+        st.info("Complete paper processing to see detailed results here.")
 
 def progress_monitor_page():
     """Real-time progress monitoring"""
